@@ -1,0 +1,533 @@
+- generic [ref=f6e2]:
+  - generic [ref=f6e4]:
+    - link [ref=f6e7] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=f6e9]:
+      - navigation "Menú" [ref=f6e10]:
+        - list [ref=f6e11]:
+          - listitem [ref=f6e12]:
+            - link "METODOLOGÍA" [ref=f6e13] [cursor=pointer]:
+              - /url: "#metodologia"
+          - listitem [ref=f6e14]:
+            - link "DIPLOMA" [ref=f6e15] [cursor=pointer]:
+              - /url: "#diploma"
+          - listitem [ref=f6e16]:
+            - link "MÓDULOS" [ref=f6e17] [cursor=pointer]:
+              - /url: "#modulos"
+          - listitem [ref=f6e18]:
+            - link "DOCENTES" [ref=f6e19] [cursor=pointer]:
+              - /url: "#docentes"
+          - listitem [ref=f6e20]:
+            - link "CERTIFICACIÓN" [ref=f6e21] [cursor=pointer]:
+              - /url: "#certificacion"
+          - listitem [ref=f6e22]:
+            - link "INVERSIÓN" [ref=f6e23] [cursor=pointer]:
+              - /url: "#inversion"
+      - text:  
+    - link "Inscríbete ahora" [ref=f6e27] [cursor=pointer]:
+      - /url: "#inscripcion"
+  - generic [ref=f6e31]:
+    - heading "Diploma Internacional de Consultor Político Senior" [level=1] [ref=f6e34]
+    - generic [ref=f6e37]:
+      - link "Reserva tu vacante" [ref=f6e41] [cursor=pointer]:
+        - /url: "#doble"
+        - generic [ref=f6e42]:
+          - generic [aria-hidden] [ref=f6e44]: 
+          - generic [ref=f6e45]: Reserva tu vacante
+      - link "Hablar con un asesor" [ref=f6e49] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=%C2%A1Hola%21%20Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20Diploma%20Internacional%20de%20Consultor%20Pol%C3%ADtico%20Senior.
+        - generic [ref=f6e50]:
+          - generic [aria-hidden] [ref=f6e52]: 
+          - generic [ref=f6e53]: Hablar con un asesor
+    - link "Descargar brochure del programa" [ref=f6e57] [cursor=pointer]:
+      - /url: https://grupogoberna.com/wp-content/uploads/2026/07/Brochure_ConsultorPolitico-Senior-1.pdf
+      - generic [ref=f6e58]:
+        - generic [aria-hidden] [ref=f6e60]: 
+        - generic [ref=f6e61]: Descargar brochure del programa
+  - generic [ref=f6e64]:
+    - generic [ref=f6e65]:
+      - paragraph [ref=f6e97]: Modalidad
+      - paragraph [ref=f6e100]: Online
+    - generic [ref=f6e101]:
+      - paragraph [ref=f6e133]: Inicio
+      - paragraph [ref=f6e136]: 21 de octubre
+    - generic [ref=f6e137]:
+      - paragraph [ref=f6e156]: Hora
+      - paragraph [ref=f6e159]: 19:00 hrs. GMT-5
+    - generic [ref=f6e160]:
+      - paragraph [ref=f6e177]: Duración
+      - paragraph [ref=f6e180]: 11 módulos
+    - generic [ref=f6e181]:
+      - paragraph [ref=f6e184]: Inversión
+      - paragraph [ref=f6e187]: US$ 1000
+  - generic [ref=f6e189]:
+    - generic [ref=f6e190]:
+      - paragraph [ref=f6e193]: Metodología
+      - heading "Formamos estrategas que transforman la política." [level=2] [ref=f6e196]
+      - paragraph [ref=f6e199]: De consultor político a director de una firma con proyección internacional.
+      - generic [ref=f6e200]:
+        - generic [ref=f6e201]:
+          - paragraph [ref=f6e204]: + 10,000
+          - paragraph [ref=f6e207]: Profesionales formados
+        - generic [ref=f6e208]:
+          - paragraph [ref=f6e211]: + 15
+          - paragraph [ref=f6e214]: Países en Latinoamérica
+        - generic [ref=f6e215]:
+          - paragraph [ref=f6e218]: + 20
+          - paragraph [ref=f6e221]: Docentes Internacionales en ejercicio
+    - paragraph [ref=f6e227]: Inteligencia • Estrategia • Liderazgo • Crisis • Tecnología
+  - generic [ref=f6e228]:
+    - generic [ref=f6e229]:
+      - paragraph [ref=f6e232]: El programa
+      - heading [level=2] [ref=f6e235]:
+        - text: Formar consultores senior capaces de fundar,
+        - generic [ref=f6e236]: dirigir y proyectar su propia firma de consultoría
+    - generic "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas." [ref=f6e239]:
+      - tablist [ref=f6e240]:
+        - tab "¿Cuál es el objetivo?" [selected] [ref=f6e241] [cursor=pointer]
+        - tab "¿A quiénes está dirigido?" [ref=f6e243] [cursor=pointer]
+        - tab "Perfil del egresado" [ref=f6e245] [cursor=pointer]
+      - tabpanel "¿Cuál es el objetivo?" [ref=f6e248]:
+        - heading "Objetivo del diploma" [level=3] [ref=f6e252]
+        - generic [ref=f6e254]:
+          - paragraph [ref=f6e255]:
+            - text: Formar consultores políticos de nivel senior capaces de
+            - strong [ref=f6e256]: fundar, dirigir y proyectar internacionalmente su propia firma de consultoría como una empresa estructurada, rentable y tecnológicamente automatizada.
+          - paragraph [ref=f6e257]: Durante el programa transformarás tu experiencia en un modelo empresarial con posicionamiento, servicios, estructura operativa, sistema comercial y herramientas para escalar una consultora política.
+  - generic [ref=f6e259]:
+    - generic [ref=f6e260]:
+      - paragraph [ref=f6e263]: Experiencia estratégica
+      - heading [level=2] [ref=f6e266]:
+        - text: Aquí no solo aprendes consultoría.
+        - generic [ref=f6e267]: Construyes una firma
+      - paragraph [ref=f6e270]: La metodología está orientada a la creación real de una consultora política. Cada módulo genera un componente concreto de tu firma y las entregas se convierten en activos acumulables para la sustentación final.
+    - generic [ref=f6e271]:
+      - generic [ref=f6e272]:
+        - paragraph [ref=f6e275]: Etapa 1
+        - heading "Define tu modelo" [level=3] [ref=f6e278]
+        - paragraph [ref=f6e281]: Construye el posicionamiento, nicho y propuesta de valor de tu consultora.
+      - generic [ref=f6e282]:
+        - paragraph [ref=f6e285]: Etapa 2
+        - heading "Diseña tu estructura" [level=3] [ref=f6e288]
+        - paragraph [ref=f6e291]: Desarrolla servicios, procesos, equipos y herramientas para operar profesionalmente.
+      - generic [ref=f6e292]:
+        - paragraph [ref=f6e295]: Etapa 3
+        - heading "Construye tu mercado" [level=3] [ref=f6e298]
+        - paragraph [ref=f6e301]: Crea sistemas comerciales para captar clientes y generar nuevas oportunidades.
+      - generic [ref=f6e302]:
+        - paragraph [ref=f6e305]: Etapa 4
+        - heading "Proyecta tu firma" [level=3] [ref=f6e308]
+        - paragraph [ref=f6e311]: Presenta tu consultora ante un jurado internacional y desarrolla una visión de crecimiento.
+  - generic [ref=f6e314]:
+    - generic [ref=f6e315]: PROYECTO FINAL
+    - heading "Sustentación de tu firma de consultoría política" [level=3] [ref=f6e320]
+    - paragraph [ref=f6e323]: "Presenta la estructura completa de tu consultora: posicionamiento, servicios, modelo comercial, operación, estrategia de crecimiento y proyección internacional."
+  - generic [ref=f6e326]:
+    - generic [ref=f6e327]:
+      - paragraph [ref=f6e330]: Plan de estudios
+      - heading "Una ruta para construir y dirigir tu propia firma" [level=2] [ref=f6e333]
+      - generic [ref=f6e334]:
+        - generic [ref=f6e335]:
+          - paragraph [ref=f6e346]: "11"
+          - paragraph [ref=f6e349]: Módulos
+          - paragraph [ref=f6e352]: Especializados
+        - generic [ref=f6e353]:
+          - paragraph [ref=f6e369]: "200"
+          - paragraph [ref=f6e372]: Horas
+          - paragraph [ref=f6e375]: Académicas
+        - generic [ref=f6e376]:
+          - paragraph [ref=f6e391]: 100 %
+          - paragraph [ref=f6e394]: Metodología práctica
+          - paragraph [ref=f6e397]: Aprende haciendo
+      - link "Descargar brochure" [ref=f6e401] [cursor=pointer]:
+        - /url: https://grupogoberna.com/wp-content/uploads/2026/07/Brochure_ConsultorPolitico-Senior-1.pdf
+        - generic [ref=f6e402]:
+          - generic [aria-hidden] [ref=f6e404]: 
+          - generic [ref=f6e405]: Descargar brochure
+    - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f6e409]:
+      - group [ref=f6e410]:
+        - 'generic "Módulo Fundamentos de la firma: identidad, nicho y diferenciación Ocultar" [ref=f6e411] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=f6e412]: "Fundamentos de la firma: identidad, nicho y diferenciación"
+          - generic [ref=f6e414]: Ocultar 
+        - region [ref=f6e416]:
+          - paragraph [ref=f6e419]: Define qué consultora quieres construir, a quién atenderás y cómo te diferenciarás dentro del mercado.
+          - region [ref=f6e420]:
+            - 'region "Módulo Fundamentos de la firma: identidad, nicho y diferenciación Ocultar Define qué consultora quieres construir, a quién atenderás y cómo te diferenciarás dentro del mercado. Aprenderás Nicho, propuesta de valor, posicionamiento, identidad, diferenciación y criterios éticos de la firma. Aplicarás Definición del posicionamiento, propuesta de valor y código institucional de tu consultora." [ref=f6e421]':
+              - heading "Aprenderás" [level=4] [ref=f6e424]
+              - paragraph [ref=f6e427]: Nicho, propuesta de valor, posicionamiento, identidad, diferenciación y criterios éticos de la firma.
+            - 'region "Módulo Fundamentos de la firma: identidad, nicho y diferenciación Ocultar Define qué consultora quieres construir, a quién atenderás y cómo te diferenciarás dentro del mercado. Aprenderás Nicho, propuesta de valor, posicionamiento, identidad, diferenciación y criterios éticos de la firma. Aplicarás Definición del posicionamiento, propuesta de valor y código institucional de tu consultora." [ref=f6e428]':
+              - heading "Aplicarás" [level=4] [ref=f6e431]
+              - paragraph [ref=f6e434]: Definición del posicionamiento, propuesta de valor y código institucional de tu consultora.
+      - group [ref=f6e435]:
+        - generic "Módulo Constitución legal, marca y propiedad intelectual Ver contenido" [ref=f6e436] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f6e437]: Constitución legal, marca y propiedad intelectual
+          - generic [ref=f6e439]: Ver contenido 
+      - group [ref=f6e441]:
+        - 'generic "Módulo Productización de la oferta: catálogo y líneas de servicio Ver contenido" [ref=f6e442] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=f6e443]: "Productización de la oferta: catálogo y líneas de servicio"
+          - generic [ref=f6e445]: Ver contenido 
+      - group [ref=f6e447]:
+        - generic "Módulo Precios, cotización y economía de la firma Ver contenido" [ref=f6e448] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f6e449]: Precios, cotización y economía de la firma
+          - generic [ref=f6e451]: Ver contenido 
+      - group [ref=f6e453]:
+        - 'generic "Módulo Oficina y equipo: War Room operativo Ver contenido" [ref=f6e454] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=f6e455]: "Oficina y equipo: War Room operativo"
+          - generic [ref=f6e457]: Ver contenido 
+      - group [ref=f6e459]:
+        - generic "Módulo Infraestructura tecnológica e IA Ver contenido" [ref=f6e460] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f6e461]: Infraestructura tecnológica e IA
+          - generic [ref=f6e463]: Ver contenido 
+      - group [ref=f6e465]:
+        - generic "Módulo Motor comercial y cierre de contratos Ver contenido" [ref=f6e466] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f6e467]: Motor comercial y cierre de contratos
+          - generic [ref=f6e469]: Ver contenido 
+      - group [ref=f6e471]:
+        - generic "Módulo Gestión de la entrega y del cliente Ver contenido" [ref=f6e472] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f6e473]: Gestión de la entrega y del cliente
+          - generic [ref=f6e475]: Ver contenido 
+      - group [ref=f6e477]:
+        - generic "Módulo Reputación, ética y blindaje de la firma Ver contenido" [ref=f6e478] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f6e479]: Reputación, ética y blindaje de la firma
+          - generic [ref=f6e481]: Ver contenido 
+      - group [ref=f6e483]:
+        - generic "Módulo Desarrollo de negocio y relacionamiento institucional Ver contenido" [ref=f6e484] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f6e485]: Desarrollo de negocio y relacionamiento institucional
+          - generic [ref=f6e487]: Ver contenido 
+      - group [ref=f6e489]:
+        - generic "Módulo Alianzas y expansión internacional Ver contenido" [ref=f6e490] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f6e491]: Alianzas y expansión internacional
+          - generic [ref=f6e493]: Ver contenido 
+  - generic [ref=f6e497]:
+    - heading "¿Quieres vivir esta experiencia en la próxima edición?" [level=2] [ref=f6e500]
+    - paragraph [ref=f6e503]: "Inicio: 21 de octubre | Online en vivo | 11 Módulos"
+    - generic [ref=f6e504]:
+      - link "Reserva tu vacante" [ref=f6e508] [cursor=pointer]:
+        - /url: "#doble"
+        - generic [ref=f6e509]:
+          - generic [aria-hidden] [ref=f6e511]: 
+          - generic [ref=f6e512]: Reserva tu vacante
+      - link "Hablar con un asesor" [ref=f6e516] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=%C2%A1Hola%21%20Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20Diploma%20Internacional%20de%20Consultor%20Pol%C3%ADtico%20Senior.
+        - generic [ref=f6e517]:
+          - generic [aria-hidden] [ref=f6e519]: 
+          - generic [ref=f6e520]: Hablar con un asesor
+  - generic [ref=f6e522]:
+    - heading "Aprende de un especialista en consultoría y estrategia política" [level=2] [ref=f6e525]
+    - generic [ref=f6e527]:
+      - generic [ref=f6e529]:
+        - heading "Roberto Bazán" [level=3] [ref=f6e532]
+        - generic [ref=f6e533]: Estratega político senior y especialista en inteligencia aplicada a la consultoría política
+      - generic [ref=f6e540]:
+        - paragraph [ref=f6e543]: Magíster en Inteligencia Estratégica, abogado y politólogo. Estratega político con experiencia en América Latina, asesorando gobiernos y líderes. Especialista en inteligencia y PSYOPS en campañas electorales.
+        - link "Saber más" [ref=f6e547] [cursor=pointer]:
+          - /url: https://grupogoberna.com/roberto-bazan/
+          - generic [ref=f6e548]:
+            - generic [aria-hidden] [ref=f6e550]: 
+            - generic [ref=f6e551]: Saber más
+  - generic [ref=f6e556]:
+    - paragraph [ref=f6e559]: Presencia internacional
+    - heading [level=2] [ref=f6e562]:
+      - text: Una red que habla el idioma
+      - generic [ref=f6e563]: político de Latinoamérica.
+    - paragraph [ref=f6e566]: Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+    - generic [ref=f6e571]:
+      - generic [ref=f6e572]:
+        - paragraph [ref=f6e575]: "+15"
+        - paragraph [ref=f6e578]: Países
+      - generic [ref=f6e579]:
+        - paragraph [ref=f6e582]: +10K
+        - paragraph [ref=f6e585]: Egresados
+      - generic [ref=f6e586]:
+        - paragraph [ref=f6e589]: "+300"
+        - paragraph [ref=f6e592]: Campañas
+  - generic [ref=f6e599]:
+    - paragraph [ref=f6e602]: Certificación
+    - heading [level=2] [ref=f6e605]:
+      - text: Una certificación para quienes
+      - generic [ref=f6e606]: lideran la consultoría política
+    - paragraph [ref=f6e609]: Al culminar satisfactoriamente el programa recibirás la certificación como Director de Consultoría Política. Una acreditación que reconoce tu capacidad para dirigir una firma profesional de consultoría política, gestionar clientes, estructurar servicios y desarrollar operaciones estratégicas a nivel internacional.
+    - generic [ref=f6e618]:
+      - heading "Certificación internacional" [level=3] [ref=f6e621]
+      - paragraph [ref=f6e624]: Diploma emitido por Grupo Goberna, que acredita la culminación del programa y tus competencias.
+    - generic [ref=f6e633]:
+      - heading "Verificación digital" [level=3] [ref=f6e636]
+      - paragraph [ref=f6e639]: Credencial digital verificable que facilita la validación de tu certificación y su presentación en tu perfil profesional.
+      - link "Hablar con un asesor" [ref=f6e643] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=%C2%A1Hola%21%20Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20Diploma%20Internacional%20de%20Consultor%20Pol%C3%ADtico%20Senior.
+        - generic [ref=f6e644]:
+          - generic [aria-hidden] [ref=f6e646]: 
+          - generic [ref=f6e647]: Hablar con un asesor
+  - generic [ref=f6e649]:
+    - generic [ref=f6e650]:
+      - paragraph [ref=f6e653]: Inversión
+      - heading "Conviértete en el director de tu propia firma de consultoría política" [level=2] [ref=f6e656]
+      - paragraph [ref=f6e659]:
+        - generic [ref=f6e660]: $
+        - text: "1000"
+        - generic [ref=f6e661]: USD
+      - generic [ref=f6e666]:
+        - generic [ref=f6e667]:
+          - paragraph [ref=f6e670]: Inicio
+          - paragraph [ref=f6e673]: 21 de octubre
+        - generic [ref=f6e674]:
+          - paragraph [ref=f6e677]: DURACIÓN
+          - paragraph [ref=f6e680]: 11 MÓDULOS
+      - link "Pagar ahora" [ref=f6e684] [cursor=pointer]:
+        - /url: https://grupogoberna.com/checkout/?add-to-cart=91119&quantity=1
+      - paragraph [ref=f6e689]: Vacantes limitadas para garantizar una formación especializada.
+    - generic [ref=f6e690]:
+      - paragraph [ref=f6e693]: Admisión
+      - heading "¿Listo para dar el siguiente paso?" [level=2] [ref=f6e696]
+      - paragraph [ref=f6e699]: Déjanos tus datos y te ayudaremos con tu inscripción.
+      - form "Director de Seguridad — Habla con un asesor" [ref=f6e702]:
+        - generic [ref=f6e703]:
+          - generic [ref=f6e704]:
+            - generic [ref=f6e705] [cursor=pointer]: Nombre completo
+            - textbox "Nombre completo" [ref=f6e706]:
+              - /placeholder: Ej. María Pérez
+          - generic [ref=f6e707]:
+            - generic [ref=f6e708] [cursor=pointer]: País
+            - generic [ref=f6e709]:
+              - generic:
+                - generic [aria-hidden]: 
+              - combobox "País" [ref=f6e710] [cursor=pointer]:
+                - option "Selecciona tu país" [selected]
+                - option "Argentina"
+                - option "Bolivia"
+                - option "Brasil"
+                - option "Chile"
+                - option "Colombia"
+                - option "Costa Rica"
+                - option "Cuba"
+                - option "Ecuador"
+                - option "El Salvador"
+                - option "España"
+                - option "Guatemala"
+                - option "Honduras"
+                - option "México"
+                - option "Nicaragua"
+                - option "Panamá"
+                - option "Paraguay"
+                - option "Perú"
+                - option "Puerto Rico"
+                - option "República Dominicana"
+                - option "Uruguay"
+                - option "Venezuela"
+                - option "Otro"
+          - generic [ref=f6e711]:
+            - generic [ref=f6e712] [cursor=pointer]: Teléfono
+            - textbox "Teléfono" [ref=f6e713]:
+              - /placeholder: Ej. +51 999 999 999
+          - generic [ref=f6e714]:
+            - generic [ref=f6e715] [cursor=pointer]: Cargo
+            - textbox "Cargo" [ref=f6e716]:
+              - /placeholder: Ej. Consultor político
+          - generic [ref=f6e717]:
+            - generic [ref=f6e718] [cursor=pointer]: Correo electrónico
+            - textbox "Correo electrónico" [ref=f6e719]:
+              - /placeholder: nombre@correo.com
+          - button "Enviar" [ref=f6e721] [cursor=pointer]
+      - paragraph [ref=f6e726]: Tus datos se usan solo para contactarte sobre el diploma.
+  - generic [ref=f6e728]:
+    - generic [ref=f6e729]:
+      - paragraph [ref=f6e732]: Preguntas frecuentes
+      - heading [level=2] [ref=f6e735]:
+        - text: Resolvemos tus dudas
+        - generic [ref=f6e736]: antes de que decidas.
+      - paragraph [ref=f6e739]: Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+    - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f6e743]:
+      - group [ref=f6e744]:
+        - generic "¿Cómo se realizan las clases?" [ref=f6e745] [cursor=pointer]:
+          - generic [ref=f6e748]:
+            - generic [aria-hidden] [ref=f6e750]: 
+            - text: 
+        - region "¿Cómo se realizan las clases? Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases magistrales, análisis de casos reales, talleres de producción y desarrollo de componentes concretos para la firma." [ref=f6e751]:
+          - paragraph [ref=f6e754]: Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases magistrales, análisis de casos reales, talleres de producción y desarrollo de componentes concretos para la firma.
+      - group [ref=f6e755]:
+        - generic "¿Cuánto dura el programa?" [ref=f6e756] [cursor=pointer]:
+          - generic [ref=f6e759]:
+            - text: 
+            - generic [aria-hidden] [ref=f6e761]: 
+      - group [ref=f6e762]:
+        - generic "¿Qué incluye mi inscripción?" [ref=f6e763] [cursor=pointer]:
+          - generic [ref=f6e766]:
+            - text: 
+            - generic [aria-hidden] [ref=f6e768]: 
+      - group [ref=f6e769]:
+        - generic "¿Cuáles son los medios de pago disponibles?" [ref=f6e770] [cursor=pointer]:
+          - generic [ref=f6e773]:
+            - text: 
+            - generic [aria-hidden] [ref=f6e775]: 
+      - group [ref=f6e776]:
+        - generic "¿Cómo puedo inscribirme?" [ref=f6e777] [cursor=pointer]:
+          - generic [ref=f6e780]:
+            - text: 
+            - generic [aria-hidden] [ref=f6e782]: 
+  - generic [ref=f6e784]:
+    - generic [ref=f6e789]:
+      - generic [ref=f6e790]:
+        - heading "La Alianza Estratégica:" [level=2] [ref=f6e793]
+        - link [ref=f6e796] [cursor=pointer]:
+          - /url: https://fundacionsmarcos.com/
+      - generic [ref=f6e797]:
+        - heading "En convenio con:" [level=2] [ref=f6e800]
+        - link [ref=f6e806] [cursor=pointer]:
+          - /url: https://www.camaralima.org.pe/
+    - generic [ref=f6e807]:
+      - generic [ref=f6e808]:
+        - heading "Estados Unidos" [level=2] [ref=f6e818]
+        - list [ref=f6e821]:
+          - listitem [ref=f6e822]:
+            - generic [aria-hidden] [ref=f6e824]: 
+            - generic [ref=f6e825]: (+1) 786 4141971
+          - listitem [ref=f6e826]:
+            - link "informes@goberna.us" [ref=f6e827] [cursor=pointer]:
+              - /url: mailto:iformes@goberna.us?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f6e829]: 
+          - listitem [ref=f6e831]:
+            - link "goberna.us" [ref=f6e832] [cursor=pointer]:
+              - /url: http://goberna.us
+              - generic [aria-hidden] [ref=f6e834]: 
+          - listitem [ref=f6e836]:
+            - generic [aria-hidden] [ref=f6e838]: 
+            - generic [ref=f6e839]: "1900 N Bayshore Dr Suite 1A #136-2023 Miami, Florida, 33132 United States"
+      - generic [ref=f6e840]:
+        - heading "México" [level=2] [ref=f6e853]
+        - list [ref=f6e856]:
+          - listitem [ref=f6e857]:
+            - generic [aria-hidden] [ref=f6e859]: 
+            - generic [ref=f6e860]: (+52) 156 1058 4485
+          - listitem [ref=f6e861]:
+            - link "mexico@grupogoberna.com" [ref=f6e862] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f6e864]: 
+          - listitem [ref=f6e866]:
+            - link "grupogoberna.com" [ref=f6e867] [cursor=pointer]:
+              - /url: http://grupogoberna.com
+              - generic [aria-hidden] [ref=f6e869]: 
+          - listitem [ref=f6e871]:
+            - generic [aria-hidden] [ref=f6e873]: 
+            - generic [ref=f6e874]: Río Tiber 100 col. Cuauhtémoc Piso 6 - Ciudad de México
+      - generic [ref=f6e875]:
+        - heading "Perú" [level=2] [ref=f6e885]
+        - list [ref=f6e888]:
+          - listitem [ref=f6e889]:
+            - generic [aria-hidden] [ref=f6e891]: 
+            - generic [ref=f6e892]: (+51) 944 531 711
+          - listitem [ref=f6e893]:
+            - link "informes@goberna.pe" [ref=f6e894] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f6e896]: 
+          - listitem [ref=f6e898]:
+            - link "grupogoberna.com" [ref=f6e899] [cursor=pointer]:
+              - /url: http://goberna.pe
+              - generic [aria-hidden] [ref=f6e901]: 
+          - listitem [ref=f6e903]:
+            - generic [aria-hidden] [ref=f6e905]: 
+            - generic [ref=f6e906]: Avenida Manuel Olguín 335 - of 608, Surco, Lima
+      - generic [ref=f6e907]:
+        - heading "Ecuador" [level=2] [ref=f6e917]
+        - list [ref=f6e920]:
+          - listitem [ref=f6e921]:
+            - generic [aria-hidden] [ref=f6e923]: 
+            - generic [ref=f6e924]: (+593) 99 207 3457
+          - listitem [ref=f6e925]:
+            - link "infoecuador@goberna.pe" [ref=f6e926] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f6e928]: 
+          - listitem [ref=f6e930]:
+            - link "grupogoberna.com" [ref=f6e931] [cursor=pointer]:
+              - /url: http://goberna.pe
+              - generic [aria-hidden] [ref=f6e933]: 
+          - listitem [ref=f6e935]:
+            - generic [aria-hidden] [ref=f6e937]: 
+            - generic [ref=f6e938]: Edificio The Point, Of. 2307, Ciudad del Río, Puerto Santa Ana - Guayaquil
+      - generic [ref=f6e939]:
+        - heading "Bolivia" [level=2] [ref=f6e952]
+        - list [ref=f6e955]:
+          - listitem [ref=f6e956]:
+            - generic [aria-hidden] [ref=f6e958]: 
+            - generic [ref=f6e959]: (+591) 78814740
+          - listitem [ref=f6e960]:
+            - link "bolivia@grupogoberna.com" [ref=f6e961] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f6e963]: 
+          - listitem [ref=f6e965]:
+            - link "grupogoberna.com" [ref=f6e966] [cursor=pointer]:
+              - /url: http://grupogoberna.com
+              - generic [aria-hidden] [ref=f6e968]: 
+          - listitem [ref=f6e970]:
+            - generic [aria-hidden] [ref=f6e972]: 
+            - generic [ref=f6e973]: Av. Beni Edificio Top Center, Piso 7 Of. 7C - Santa Cruz
+      - generic [ref=f6e974]:
+        - heading "Brasil" [level=2] [ref=f6e980]
+        - list [ref=f6e983]:
+          - listitem [ref=f6e984]:
+            - generic [aria-hidden] [ref=f6e986]: 
+            - generic [ref=f6e987]: +55 21 98126-9882
+          - listitem [ref=f6e988]:
+            - link "brasil@grupogoberna.com" [ref=f6e989] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f6e991]: 
+          - listitem [ref=f6e993]:
+            - link "grupogoberna.com" [ref=f6e994] [cursor=pointer]:
+              - /url: http://grupogoberna.com
+              - generic [aria-hidden] [ref=f6e996]: 
+          - listitem [ref=f6e998]:
+            - generic [aria-hidden] [ref=f6e1000]: 
+            - generic [ref=f6e1001]: Praia de Botafogo, 360 - 520 c - Botafogo, Rio de Janeiro
+    - list [ref=f6e1005]:
+      - listitem [ref=f6e1006]:
+        - link "Libro de Reclamaciones" [ref=f6e1007] [cursor=pointer]:
+          - /url: https://grupogoberna.com/libro-de-reclamaciones/
+          - generic [aria-hidden] [ref=f6e1009]: 
+      - listitem [ref=f6e1011]:
+        - link "Política de Privacidad" [ref=f6e1012] [cursor=pointer]:
+          - /url: https://grupogoberna.com/politica-de-privacidad/
+      - listitem [ref=f6e1014]:
+        - link "Términos y condiciones" [ref=f6e1015] [cursor=pointer]:
+          - /url: https://grupogoberna.com/terminos-y-condiciones/
+  - contentinfo [ref=f6e1017]:
+    - generic [ref=f6e1018]:
+      - paragraph [ref=f6e1022]: Pagado por "Grupo Goberna" © Todos los derechos reservadosMéxico | Perú | Ecuador | Bolivia | Colombia | República Dominicana | Chile | Panamá | Costa Rica | Guatemala | Honduras | El Salvador | Uruguay
+      - list [ref=f6e1026]:
+        - listitem [ref=f6e1027]:
+          - link "Facebook-f" [ref=f6e1028] [cursor=pointer]:
+            - /url: https://www.facebook.com/gobernacorp/
+            - generic [aria-hidden] [ref=f6e1030]: 
+        - listitem [ref=f6e1031]:
+          - link "Twitter" [ref=f6e1032] [cursor=pointer]:
+            - /url: https://twitter.com/GobernaConsult
+            - generic [aria-hidden] [ref=f6e1034]: 
+        - listitem [ref=f6e1035]:
+          - link "Instagram" [ref=f6e1036] [cursor=pointer]:
+            - /url: https://www.instagram.com/gobernacorp
+            - generic [aria-hidden] [ref=f6e1038]: 
+        - listitem [ref=f6e1039]:
+          - link "Linkedin" [ref=f6e1040] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/goberna-analytics
+            - generic [aria-hidden] [ref=f6e1042]: 
+        - listitem [ref=f6e1043]:
+          - link "Youtube" [ref=f6e1044] [cursor=pointer]:
+            - /url: https://www.youtube.com/GobernaSAC
+            - generic [aria-hidden] [ref=f6e1046]: 
+        - listitem [ref=f6e1047]:
+          - link "Vimeo" [ref=f6e1048] [cursor=pointer]:
+            - /url: https://vimeo.com/goberna
+            - generic [aria-hidden] [ref=f6e1050]: 
+        - listitem [ref=f6e1051]:
+          - link "Telegram-plane" [ref=f6e1052] [cursor=pointer]:
+            - /url: http://t.me/GobernaCorp
+            - generic [aria-hidden] [ref=f6e1054]: 

@@ -1,0 +1,281 @@
+ 0 13bd66b9 [cont]       ak-hd                 
+ 0 4aa3f0b1 button       ak-hd-cta              text: Inscríbete ahora
+ 1 2742d6b5 [cont]       ak-hero               
+ 1 17c98689 heading      ak-sr                  title: Diploma de Élite Internacional Director de Seguridad
+ 1  6b6388d heading      ak-hero-sub            title: Prepárate para dirigir la seguridad con visión, criterio y capacidad de respuesta
+ 1 4be49e01 button       ak-hero-btn            text: Reserva tu vacante
+ 1  9c2fe2d button       ak-hero-btn            text: Hablar con un asesor
+ 1 263d369c button       ak-hero-dl             text: Descargar brochure del programa
+ 2 58716df6 [cont]       ak-bar                
+ 2 4e571a4a [cont]       ak-bar-item           
+ 2 7094f679 heading                             title: Modalidad
+ 2 5d6fff46 heading                             title: Online
+ 2 1e9c4dab [cont]       ak-bar-item           
+ 2 38e6f601 heading                             title: Inicio
+ 2 6919d0e7 heading                             title: 30 de noviembre
+ 2 21c26060 [cont]       ak-bar-item           
+ 2 78e96140 heading                             title: Hora
+ 2 2fda4138 heading                             title: 19:00 hrs. GMT-5
+ 2 452ae72f [cont]       ak-bar-item           
+ 2 6f2e556d heading                             title: Duración
+ 2 4209211c heading                             title: 10 módulos
+ 2  12c0a15 heading                             title: Inversión
+ 2 4c8ed0ee heading                             title: USD $199
+ 3  3f83c2c [cont]       ak-met                
+ 3 161b8b64 [cont]       ak-met-left           
+ 3 77542da8 heading      ak-oro-text            title: Metodología
+ 3  b86c8ae heading      ak-met-title           title: De gestionar la seguridad<br> a dirigirla estratégicamente
+ 3 390db8e4 text-editor                         edito: <p>Desarrolla una visión integral para proteger personas, información, instalaciones y operaciones desde la dirección.</p>
+ 3 4728f10c [cont]       ak-met-bar            
+ 3 235dd9ee [cont]       ak-met-row            
+ 3 221112d1 heading      ak-met-num ak-oro-text title: <span style="font-weight:400;font-size:1.39em">+</span> 10,000
+ 3 6bed2539 text-editor                         edito: <p>Profesionales formados</p>
+ 3  f592749 [cont]       ak-met-row            
+ 3 37c52840 heading      ak-met-num ak-oro-text title: <span style="font-weight:400;font-size:1.39em">+</span> 15
+ 3 1b3f3500 text-editor                         edito: <p>Países en Latinoamérica</p>
+ 3 4b3e2e16 [cont]       ak-met-row            
+ 3 1c863a03 heading      ak-met-num ak-oro-text title: <span style="font-weight:400;font-size:1.39em">+</span> 20
+ 3 5ef48ac1 text-editor                         edito: <p>Docentes Internacionales en ejercicio</p>
+ 3 74f3d431 [cont]       ak-met-right          
+ 3 4510a4fd text-editor  ak-tags                edito: <p>Inteligencia <span>•</span> Ciberseguridad <span>•</span> Liderazgo <span>•</span> Crisis <span>•</span> Tecnología</p>
+ 4 56bf8b99 [cont]       ak-prog               
+ 4 37b76e9a [cont]       ak-dip-intro          
+ 4  80fac6b heading                             title: El DIPLOMA
+ 4 37799678 heading      ak-gold-span           title: Formar directores capaces<br class="ak-dk"> de diseñar, conducir y<br class="ak-dk"> <span class="ak-g">evaluar sistemas integrales<br class="ak-dk"> de seguridad</span>
+ 4 4e1aa122 nested-tabs  ak-dip-tabs            tabs: ¿Cuál es el objetivo? | ¿A quiénes está dirigido? | Perfil del egresado
+ 4 1c48576d [cont]       ak-dip-ic ak-dip-ic-1 
+ 4 5a5d4853 heading      ak-oro-text            title: Objetivo del diploma
+ 4 1e2e258a text-editor  ak-dip-dots            edito: <p>Formar directores capaces de diseñar, conducir y evaluar sistemas integrales de seguridad, identificando amenazas, priorizando riesgos y tomando decisiones alineadas con los objetivos de una organización.</p><p>Durante el diplo
+ 4 1308b181 [cont]       ak-dip-ic ak-dip-ic-2 
+ 4 3dff5c49 heading      ak-oro-text            title: ¿Para quién es este diploma?
+ 4 2d2f5c00 text-editor  ak-dip-list            edito: <p>Dirigido a:</p><ul><li>Directores, gerentes, jefes, coordinadores y supervisores de seguridad.</li><li>Miembros de Fuerzas Armadas, Policía y responsables de protección institucional.</li><li>Consultores, auditores y analistas 
+ 4 683c8176 [cont]       ak-dip-ic ak-dip-ic-3 
+ 4 36ba7119 heading      ak-oro-text            title: Qué lograrás
+ 4 73081eaa text-editor                         edito: <p>Al finalizar el diploma estarás preparado para dirigir la función de seguridad de manera integral, priorizar riesgos, gestionar recursos y coordinar capacidades de protección frente a escenarios complejos.</p><p>Podrás desenvol
+ 5 3028d48c [cont]       ak-war                
+ 5 24484833 heading                             title: Experiencia estratégica
+ 5  a50a77b heading      ak-war-title           title: Aquí no solo<br> estudias seguridad.<br> <span class="ak-g">Aprendes a dirigirla.</span>
+ 5 3079ff74 text-editor                         edito: <p>La metodología está conectada con el ejercicio profesional de la dirección de seguridad. Desde el primer módulo trabajarás sobre una organización o caso, desarrollando productos que se integrarán progresivamente en tu Plan Dire
+ 5 6bb85ab9 [cont]       ak-war-steps          
+ 5 187af424 [cont]       ak-war-step           
+ 5 15766917 heading                             title: Etapa 1
+ 5 7a82957e heading                             title: Diagnostica
+ 5 71560803 text-editor                         edito: <p>Identifica amenazas, vulnerabilidades y riesgos que pueden comprometer a la organización.</p>
+ 5 1fe5f3ba [cont]       ak-war-step           
+ 5 2f41c276 heading                             title: Etapa 2
+ 5 245ad6bc heading                             title: Prioriza
+ 5 746d9382 text-editor                         edito: <p>Convierte el análisis en decisiones sobre recursos, controles y medidas de protección.</p>
+ 5 421e5c33 [cont]       ak-war-step           
+ 5 79cc909c heading                             title: Etapa 3
+ 5 544064c5 heading                             title: Dirige
+ 5 6d95755b text-editor                         edito: <p>Coordina personas, proveedores, tecnología y capacidades de seguridad bajo una misma estrategia.</p>
+ 5 76ebc950 [cont]       ak-war-step           
+ 5 6ac16e5a heading                             title: Etapa 4
+ 5 1f78edf1 heading                             title: Responde
+ 5 5f510898 text-editor                         edito: <p>Enfrenta crisis y escenarios complejos protegiendo la continuidad de las operaciones.</p>
+ 6 7c39e8aa [cont]       ak-plan               
+ 6 6517c0d8 [cont]       ak-plan-left          
+ 6 29a6849b heading      ak-oro-text            title: Plan de estudios
+ 6 48da84d4 heading                             title: Una formación para<br class="ak-dk"> dirigir la seguridad<br class="ak-dk"> de forma integral
+ 6  e42cc9c [cont]       ak-stats-row          
+ 6 32acee9f [cont]       ak-stat               
+ 6 5d85f006 heading                             title: 10
+ 6 6b4c14ba heading      ak-nowrap              title: Módulos
+ 6 1f049f70 heading                             title: Especializados
+ 6 643a8d43 [cont]       ak-stat               
+ 6 1db9c1b2 heading                             title: 200
+ 6 54ee35e9 heading      ak-nowrap              title: Horas
+ 6 50bb001c heading                             title: Académicas
+ 6 62f44617 [cont]       ak-stat               
+ 6 3121b088 heading                             title: 100 %
+ 6  4475c46 heading      ak-nowrap              title: Metodología práctica
+ 6 31fa5315 heading                             title: Aprende haciendo
+ 6 3954484a button       ak-plan-dl             text: Descargar brochure
+ 6 16e0013c [cont]       ak-plan-right         
+ 6 5b410621 nested-accor ak-plan-acc            items: El director de seguridad: visión estratégica, gobierno y conducción | Inteligencia de amenazas y gestión estratégica del riesgo | Gestión directiva de la seguridad | Seguridad física y protección de instalaciones | Ciberseguridad 
+ 6 3b47e2e5 [cont]       ak-mod-body           
+ 6 5d74db4b text-editor                         edito: <p>Comprende cómo se organiza y dirige la función de seguridad dentro de una organización y su relación con la alta dirección.</p>
+ 6 63e4e4c9 heading                             title: Aprenderás
+ 6  c1f5d31 text-editor                         edito: <p>Gobierno de seguridad, estructuras, atribuciones, políticas, responsabilidades y criterios de supervisión.</p>
+ 6 56156ae1 heading                             title: Aplicarás
+ 6 6f879d74 text-editor                         edito: <p>Definición de la estructura, responsabilidades y criterios de conducción de la función de seguridad.</p>
+ 6 63bf7155 [cont]       ak-mod-body           
+ 6 49c546a1 text-editor                         edito: <p>Identifica amenazas, vulnerabilidades y escenarios para priorizar riesgos y orientar decisiones de protección.</p>
+ 6 3ee2f200 heading                             title: Aprenderás
+ 6  81cba67 text-editor                         edito: <p>OSINT, verificación de información, indicadores, alertas tempranas y evaluación de probabilidad e impacto.</p>
+ 6 176ffbfa heading                             title: Aplicarás
+ 6 68009d75 text-editor                         edito: <p>Construcción de escenarios de riesgo y priorización de medidas de tratamiento.</p>
+ 6 73b33023 [cont]       ak-mod-body           
+ 6 469cdd65 text-editor                         edito: <p>Aprende a conducir equipos y administrar los recursos necesarios para ejecutar una estrategia de seguridad.</p>
+ 6 55421832 heading                             title: Aprenderás
+ 6  41d4be4 text-editor                         edito: <p>Liderazgo, organización operativa, presupuestos, costos, proveedores y evaluación de desempeño.</p>
+ 6 56f51414 heading                             title: Aplicarás
+ 6 7978bd1e text-editor                         edito: <p>Diseño de responsabilidades, recursos, indicadores y criterios de supervisión de proveedores.</p>
+ 6 786597d6 [cont]       ak-mod-body           
+ 6 7db09e77 text-editor                         edito: <p>Diseña sistemas de protección capaces de integrar infraestructura, procedimientos, personas y tecnología.</p>
+ 6 4073ab5f heading                             title: Aprenderás
+ 6 4a920535 text-editor                         edito: <p>Defensa en profundidad, accesos, videovigilancia, detección, vigilancia humana y centros de control.</p>
+ 6 5664f6ea heading                             title: Aplicarás
+ 6 4ffc4f95 text-editor                         edito: <p>Diseño de un esquema de protección física por capas según las vulnerabilidades de una instalación.</p>
+ 6 17c9860e [cont]       ak-mod-body           
+ 6 699c575d text-editor                         edito: <p>Comprende los riesgos digitales que pueden comprometer información, redes y continuidad de los servicios.</p>
+ 6 652cfdb9 heading                             title: Aprenderás
+ 6 17cb4758 text-editor                         edito: <p>ISO 27001, marco NIST, protección de datos, riesgos de terceros y respuesta ante incidentes.</p>
+ 6 7fe3fdb7 heading                             title: Aplicarás
+ 6 5e2bf5f6 text-editor                         edito: <p>Articulación de controles físicos y digitales y definición de responsabilidades frente a riesgos tecnológicos.</p>
+ 6 44d393af [cont]       ak-mod-body           
+ 6 223f8014 text-editor                         edito: <p>Identifica riesgos de espionaje, obtención de información y vigilancia que pueden comprometer espacios y comunicaciones críticas.</p>
+ 6 46752146 heading                             title: Aprenderás
+ 6  6188c58 text-editor                         edito: <p>Contrainteligencia, espionaje, vulnerabilidades de información y fundamentos de TSCM.</p>
+ 6 4e88b0cd heading                             title: Aplicarás
+ 6 793b23f7 text-editor                         edito: <p>Definición de medidas de protección y criterios para implementar contramedidas de vigilancia técnica.</p>
+ 6  8eef1fb [cont]       ak-mod-body           
+ 6 33223d82 text-editor                         edito: <p>Aprende a abordar irregularidades internas y evaluar riesgos de integridad asociados a terceros.</p>
+ 6 1a41e127 heading                             title: Aprenderás
+ 6 380b0797 text-editor                         edito: <p>Fraude, corrupción, hipótesis investigativas, entrevistas, evidencias, cadena de custodia y due diligence.</p>
+ 6 7df672e4 heading                             title: Aplicarás
+ 6 70c06fcf text-editor                         edito: <p>Estructuración de una investigación y evaluación de riesgos de integridad en terceros y proveedores.</p>
+ 6  34ab71a [cont]       ak-mod-body           
+ 6 13441162 text-editor                         edito: <p>Gestiona los riesgos que pueden afectar a directivos, autoridades, colaboradores y personas especialmente expuestas.</p>
+ 6 5ca9aba7 heading                             title: Aprenderás
+ 6 20691ff8 text-editor                         edito: <p>Protección ejecutiva, viajes, antecedentes, amenazas internas, violencia laboral, secuestro y extorsión.</p>
+ 6 5ada9e0d heading                             title: Aplicarás
+ 6 4a526006 text-editor                         edito: <p>Evaluación de riesgos y coordinación de medidas de protección adaptadas al perfil y al escenario.</p>
+ 6 6fc26204 [cont]       ak-mod-body           
+ 6 62ebcc5b text-editor                         edito: <p>Prepárate para conducir la respuesta cuando un incidente amenaza operaciones, servicios o activos críticos.</p>
+ 6 4b6cfde9 heading                             title: Aprenderás
+ 6  8573c6f text-editor                         edito: <p>Comités de crisis, activación, contingencias, evacuación, comunicación, BIA y continuidad operativa.</p>
+ 6  3fba8ec heading                             title: Aplicarás
+ 6 6cb5a4d7 text-editor                         edito: <p>Diseño de prioridades de respuesta, continuidad y recuperación frente a una crisis.</p>
+ 6 735e54f1 [cont]       ak-mod-body           
+ 6 1bb8a42e text-editor                         edito: <p>Integra todas las capacidades del programa en un sistema de seguridad alineado con las necesidades reales de una organización.</p>
+ 6 449be0a6 heading                             title: Aprenderás
+ 6 4adc1393 text-editor                         edito: <p>Integración estratégica, definición de prioridades, responsables, plazos e indicadores de seguimiento.</p>
+ 6 69948aa3 heading                             title: Aplicarás
+ 6 265ddc79 text-editor                         edito: <p>Construcción y sustentación de un Plan Director de Seguridad ante un comité simulado.</p>
+ 7 66c6bdeb [cont]       ak-cta                
+ 7 4d64e131 [cont]       ak-cta-card           
+ 7 3dbab7b0 heading      ak-title               title: ¿Quieres vivir esta experiencia<br> en la próxima edición?
+ 7 1251cd12 text-editor  ak-meta                edito: <p>Inicio: 30 de noviembre | Online en vivo | 10 Módulos</p>
+ 7 5c1d16fb [cont]       ak-btn-row            
+ 7 5a7371c6 button       ak-btn ak-oro          text: Reserva tu vacante
+ 7 16c985f5 button       ak-btn                 text: Hablar con un asesor
+ 8 613c44c5 [cont]       ak-doc                
+ 8  53717cd heading      ak-doc-title           title: Aprende de especialistas en seguridad,<br> inteligencia y gestión de riesgos.
+ 8  dba40cc [cont]       ak-doc-card           
+ 8 58cade9f heading                             title: España
+ 8 3b0c5273 [cont]       ak-doc-body           
+ 8 6680ceb3 heading                             title: Francisco López
+ 8 79769873 heading      ak-doc-es              title: Especialista en dirección de seguridad, criminología y prevención del crimen
+ 8 75a74c29 button       ak-doc-link            text: Ver trayectoria
+ 8 18cff345 [cont]       ak-doc-card           
+ 8 1b384167 heading                             title: Argentina
+ 8 167969a7 [cont]       ak-doc-body           
+ 8 128f09a4 heading                             title: Gonzalo Catanzariti
+ 8 57b5f444 heading      ak-doc-es              title: Especialista en ciberinteligencia e investigación digital
+ 8 53554299 button       ak-doc-link            text: Ver trayectoria
+ 8 29864fdc [cont]       ak-doc-card           
+ 8 66c8b733 heading                             title: Colombia
+ 8 7137d8e9 [cont]       ak-doc-body           
+ 8 322fbe2f heading                             title: Eduardo Velandia Becerra
+ 8 1f57d183 heading      ak-doc-es              title: Especialista en inteligencia, seguridad y conducción de equipos
+ 8 5b0fe0df button       ak-doc-link            text: Ver trayectoria
+ 8 25393af0 [cont]       ak-doc-card           
+ 8 2a7b35b3 heading                             title: Colombia
+ 8 5f045aa6 [cont]       ak-doc-body           
+ 8 4d05e8e4 heading                             title: Andrés Peñaranda
+ 8 74b539d4 heading      ak-doc-es              title: Especialista en operaciones de información y seguridad estratégica
+ 8  2ea3bff button       ak-doc-link            text: Ver trayectoria
+ 8 4258bba5 [cont]       ak-doc-card           
+ 8 2177322f heading                             title: Colombia
+ 8  32dce22 [cont]       ak-doc-body           
+ 8  77221cd heading                             title: Mg. Eduardo de la Torre
+ 8 763d9ecb heading      ak-doc-es              title: Especialista en ciberseguridad, ciberdefensa y análisis digital
+ 8 2589e64c button       ak-doc-link            text: Ver trayectoria
+ 8 64454e7c [cont]       ak-doc-card           
+ 8  cb1efed heading                             title: Argentina
+ 8 78000277 [cont]       ak-doc-body           
+ 8 18be2462 heading                             title: Daniela Galván
+ 8  ab4fe3f heading      ak-doc-es              title: Especialista en investigación criminal e inteligencia digital
+ 8 2d6c4dbc button       ak-doc-link            text: Ver trayectoria
+ 9 63b5ee4a [cont]       ak-pres               
+ 9 6d3759be [cont]       ak-pres-left          
+ 9 75122411 heading                             title: Presencia internacional
+ 9 23841199 heading      ak-pres-title          title: Una red que habla el<br> idioma <span class="ak-g">político de<br> Latinoamérica.</span>
+ 9 389c79fe text-editor                         edito: <p>Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.</p>
+ 9 78c22442 divider                             text: Separador
+ 9 1d2b7c01 [cont]       ak-pstat-row          
+ 9 67a7a2fb [cont]       ak-pstat              
+ 9 151ee21e heading      ak-oro-text            title: <span style="font-weight:400;font-size:1.18em">+</span>15
+ 9 17fe3c03 heading                             title: Países
+ 9 3b0cc897 [cont]       ak-pstat              
+ 9 61338992 heading      ak-oro-text            title: <span style="font-weight:400;font-size:1.18em">+</span>10<span style="font-weight:600">K</span>
+ 9 1bdbba21 heading                             title: Egresados
+ 9 5255b723 [cont]       ak-pstat              
+ 9 1d0e6775 heading      ak-oro-text            title: <span style="font-weight:400;font-size:1.18em">+</span>300
+ 9 73c91642 heading                             title: Campañas
+ 9  6165612 [cont]       ak-pres-right         
+10 54c4c5af [cont]       ak-cert               
+10 28c43ad5 [cont]       ak-cert-img           
+10 2cd97d01 [cont]       ak-cert-txt           
+10 2f408f57 [cont]       ak-cert-in            
+10 1b9af742 heading      ak-oro-text            title: Certificación
+10 2c9c857c heading      ak-cert-title          title: Una certificación para<br> <span class="ak-g">quienes dirigen<br> la seguridad</span>
+10 3f88c4d3 text-editor  ak-cert-p              edito: <p>Al culminar satisfactoriamente el programa recibirás la certificación como Director de Seguridad. Una acreditación que reconoce tu formación para conducir sistemas integrales de seguridad, gestionar riesgos y coordinar capacida
+10 7f54383e [cont]       ak-card               
+10 2575bf0a [cont]       ak-card-body          
+10 1b6533dd heading                             title: Certificación internacional
+10 334be732 text-editor                         edito: <p>Diploma emitido por Grupo Goberna, que acredita la culminación satisfactoria del programa.</p>
+10  4194afb [cont]       ak-card               
+10 5a80e479 [cont]       ak-card-body          
+10 4351992b heading                             title: Verificación digital
+10 3f0fb31c text-editor                         edito: <p>Credencial digital verificable que facilita la validación de tu certificación y su presentación profesional.</p>
+10 2b7efae9 button       ak-cert-btn            text: Hablar con un asesor
+11 7a49a06a [cont]       ak-inv                
+11 298fa0cb [cont]       ak-inv-left           
+11 125455a4 heading      ak-oro-text            title: Inversión
+11 2d4237ac heading                             title: Lidera la seguridad<br> con visión estratégica
+11 60f25b0f heading      ak-inv-price           title: <span class="ak-cur">$</span>199<span class="ak-usd">USD</span>
+11 2d183dc1 divider                             text: Separador
+11 2302294b [cont]       ak-inv-fact           
+11 6ff88f9a heading                             title: Inicio
+11  9030ca2 heading                             title: 30 de noviembre
+11 11271bde [cont]       ak-inv-fact           
+11 609843a9 heading                             title: DURACIÓN
+11 73517676 heading                             title: 10 MÓDULOS
+11 79c591de button       ak-inv-buy             text: Pagar ahora
+11 12c8534c text-editor  ak-inv-note            edito: <p>Vacantes limitadas para garantizar una formación especializada.</p>
+11 79a4768d [cont]       ak-inv-right          
+11 5c314a2a heading      ak-oro-text            title: Admisión
+11  dc295fa heading                             title: ¿Listo para liderar la seguridad de una organización?
+11 2a8cefb0 heading                             title: Déjanos tus datos y te ayudaremos con tu inscripción.
+11  7d4e2b0 form         ak-inv-form            form: Nombre completo/Ej. María Pérez | País/ | Teléfono/Ej. +51 999 999 999 | Cargo/Ej. Jefe de seguridad | Correo electrónico/nombre@correo.com || Enviar || Director de Seguridad — Habla con un asesor
+11  3e72a9d text-editor  ak-inv-priv            edito: <p>Tus datos se usan solo para contactarte sobre el diploma.</p>
+12 6a12cc55 [cont]       ak-vsec               
+12 5fe95b15 [cont]       ak-vp                 
+12 76cef54d html                                html: <style> /* Player de testimonios (imita el embed de cms.goberna.club) */ .ak-vsec .ak-vp{position:relative;overflow:hidden;aspect-ratio:1/1;touch-action:pan-y} .ak-vsec .ak-vp>.elementor-widget-html{position:absolute!important;ins
+12 1b13e5f3 [cont]       ak-vr                 
+12 11acca34 heading      ak-veye                title: Experiencia Goberna
+12 7d8995c7 heading      ak-vh2                 title: Más que un aula:<br><span class="ak-g">Una comunidad<br class="ak-dk"> que actúa</span>
+12 63b3d02a text-editor  ak-vtxt                edito: <p>Amplía tu red de contactos, intercambia experiencias con profesionales internacionales y genera oportunidades de colaboración y crecimiento profesional.</p>
+13 521f33e5 [cont]       ak-faq                
+13 1fd97c03 [cont]       ak-faq-left           
+13 2e54988f heading      ak-oro-text            title: Preguntas frecuentes
+13 36d376ec heading      ak-faq-title           title: Resolvemos tus<br class="ak-dk"> dudas<br class="ak-mb"> <span class="ak-g">antes de<br class="ak-dk"> que decidas.</span>
+13 4fe96a54 text-editor                         edito: <p>Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.</p>
+13  821fc48 [cont]       ak-faq-right          
+13 266b2296 nested-accor ak-faq-acc             items: ¿Cómo se realizan las clases? | ¿Cuánto dura el programa? | ¿Qué incluye mi inscripción? | ¿Cuáles son los medios de pago disponibles? | ¿Cómo puedo inscribirme?
+13  ea24eba text-editor                         edito: <p>Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases especializadas, análisis de casos, talleres, ejercicios de mesa y simulaciones aplicadas a la dirección de seguridad.</p>
+13 77b34c1f text-editor                         edito: <p>El diploma contempla 200 horas académicas, desarrolladas de acuerdo con el cronograma establecido para el programa.</p>
+13 3a6adec1 text-editor                         edito: <p>Tu inscripción incluye acceso al programa, materiales académicos, análisis de casos, ejercicios aplicados, acompañamiento durante el proceso formativo, desarrollo del Plan Director de Seguridad y la certificación correspondient
+13 584613f6 text-editor                         edito: <p>GOBERNA cuenta con diferentes alternativas de pago para sus participantes. Al iniciar tu proceso de inscripción, un asesor te indicará las opciones habilitadas según tu país.</p>
+13 38271e76 text-editor                         edito: <p>Completa tus datos en el formulario y un asesor de GOBERNA se pondrá en contacto contigo para orientarte durante el proceso.</p>
+14 746d6b6c heading                             title: La Alianza Estratégica:
+14 44412406 heading                             title: En convenio con:
+14 798ab93c heading                             title: Estados Unidos
+14  df5092f heading                             title: México
+14 3f0e3800 heading                             title: Perú
+14 561f8a39 heading                             title: Ecuador
+14 741a9ea2 heading                             title: Bolivia
+14 31ba6779 heading                             title: Brasil
+15 2fe76076 heading                             title: Pagado por "Grupo Goberna" © Todos los derechos reservados<br>México | Perú | Ecuador | Bolivia | Colombia | República Dominicana | Chile | Panamá | Costa Rica | Guatemala | Honduras | El Salvador | Uruguay

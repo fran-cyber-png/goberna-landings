@@ -1,0 +1,145 @@
+         363:525   13640    328   558x88     72/ normal Montserrat 700 Roberto Bazán
+         363:527   13728    328   558x54     22/ normal Montserrat 500 Estratega político senior y especialista en i
+         363:541   13792     38  1153x112    56/    0px Montserrat 700 Aprende de un especialista en consultoría y e
+         363:530   13798    328   571x128    20/   32px Inter      400 Magíster en Inteligencia Estratégica, abogado
+ I363:531;43:356   13980    361    89x20     18/ normal Inter      400 Saber más
+          357:59   23830    994   717x96     18/    0px Inter      400 Formar consultores políticos de nivel senior 
+          357:60   23952    994   717x96     18/   32px Inter      400 Durante el programa transformarás tu experien
+          357:76   24370   3156   108x20     16/ normal Inter      400 INVERSIÓN
+          357:77   24398   3137   145x60     25/ normal Inter      400 US$ 1000
+          357:85   24538   1831   170x50     20/   50px Inter      400 METODOLOGÍA
+          357:86   24632   1831   674x114    50/    0px Montserrat 700 Formamos estrategas que transforman la políti
+          357:87   24766   1831   687x32     18/   32px Inter      400 De consultor político a director de una firma
+          357:95   24840   1913   100x57     31/   57px Montserrat 800 10,000
+          357:94   24844   1880    25x49     43/   49px Montserrat 400 +
+          357:96   24849   2046   182x40     16/   40px Inter      400 Profesionales formados
+         357:101   24913   1909    26x52     28/   52px Montserrat 800 15
+         357:100   24915   1880    25x49     43/   49px Montserrat 400 +
+         357:102   24919   2049   188x40     16/   40px Inter      400 Países en Latinoamérica
+         357:107   24981   1909    34x52     28/   52px Montserrat 800 20
+         357:106   24983   1880    25x49     43/   49px Montserrat 400 +
+         357:108   24987   2046   290x40     16/   40px Inter      400 Docentes Internacionales en ejercicio
+         357:162   25132   2639    97x33     18/   33px Inter      400 Inteligencia
+         357:164   25132   2780    85x33     18/   33px Inter      400 Estrategia
+         357:166   25132   2909    84x33     18/   33px Inter      400 Liderazgo
+         357:168   25132   3038    48x33     18/   33px Inter      400 Crisis
+         357:170   25132   3129    93x33     18/   33px Inter      400 Tecnología
+         357:175   25354   1831   581x50     20/   50px Inter      400 El programa
+         357:176   25444   1831   581x180    40/    0px Montserrat 700 Formar consultores senior capaces de fundar, 
+          357:66   25468   2630   334x50     24/   50px Inter      400 OBJETIVO DEL DIPLOMA
+         357:186   25665   1926   202x57     20/   57px Barlow     500 ¿Cuál es el objetivo?
+         357:201   25756   1927   230x57     20/   57px Barlow     500 ¿A quiénes está dirigido?
+         357:214   25846   1927   193x57     20/   57px Barlow     500 Perfil del egresado
+         357:221   27910   3711   313x100    20/   50px Inter      400 EXPERIENCIA ESTRATÉGICA
+         357:222   28058   3711   713x212    54/    0px Montserrat 700 Aquí no solo aprendes consultoría. Construyes
+         357:223   28292   3711   713x87     18/   29px Inter      400 La metodología está orientada a la creación r
+         357:430   31694   3711   307x42     22/   42px Inter      400 PRESENCIA INTERNACIONAL
+         357:230   31698   3911    72x50     16/   50px Inter      400 ETAPA 1
+         357:234   31698   4301    75x50     16/   50px Inter      400 ETAPA 2
+         357:238   31698   4687    75x50     16/   50px Inter      400 ETAPA 3
+         357:239   31698   5087    76x50     16/   50px Inter      400 ETAPA 4
+         357:232   31750   3911   247x47     27/   47px Montserrat 700 Define tu modelo
+         357:236   31754   4301   290x37     27/   37px Montserrat 700 Diseña tu estructura
+         357:241   31754   4687   316x37     27/   37px Montserrat 700 Construye tu mercado
+         357:244   31754   5087   246x37     27/   37px Montserrat 700 Proyecta tu firma
+         357:428   31785   3711   647x189     0/    0px Montserrat 700 Una red que habla el idioma político de Latin
+         357:237   31796   4301   320x96     18/   32px Inter      400 Desarrolla servicios, procesos, equipos y her
+         357:242   31796   4687   312x96     18/   32px Inter      400 Crea sistemas comerciales para captar cliente
+         357:245   31796   5087   344x96     18/   32px Inter      400 Presenta tu consultora ante un jurado interna
+         357:233   31802   3911   286x96     18/   32px Inter      400 Construye el posicionamiento, nicho y propues
+         357:429   31986   3716   603x64     20/   32px Inter      400 Egresados en 18 países que hoy dirigen campañ
+         357:437   32156   3773    51x100    54/  100px Montserrat 800 15
+         357:440   32156   4242   101x100    54/  100px Montserrat 800 300
+         357:444   32156   3982    55x100    54/  100px Montserrat 800 10
+         357:445   32156   4042    38x100    54/  100px Montserrat 600 K
+         357:436   32157   3736    37x99     64/   99px Montserrat 400 +
+         357:439   32157   4205    37x99     64/   99px Montserrat 400 +
+         357:443   32157   3945    37x99     64/   99px Montserrat 400 +
+         357:432   32243   3744    90x42     22/   42px Inter      400 Países
+         357:433   32243   4213   144x42     22/   42px Inter      400 Campañas
+         357:434   32243   3953   155x42     22/   42px Inter      400 Egresados
+         357:490   40932   4534   684x70     18/   70px Inter      400 ¿Cuánto dura el programa?
+         357:483   40944   4534   622x21     18/ normal Inter      400 ¿Cómo se realizan las clases?
+         357:487   40944   5173    12x31     26/ normal Inter      400 -
+         357:484   40990   4534   622x63     17/   21px Inter      400 Las sesiones se desarrollan 100% online y en 
+         357:474   40990   3711   538x50     16/   50px Inter      400 PREGUNTAS FRECUENTES
+         357:495   41022   4534   684x70     18/   70px Inter      400 ¿Qué incluye mi inscripción?
+         357:492   41064   5171    47x70     26/   70px Inter      400 +
+         357:500   41112   4534   684x70     18/   70px Inter      400 ¿Cuáles son los medios de pago disponibles?
+         357:497   41154   5171    47x70     26/   70px Inter      400 +
+         357:505   41202   4534   684x70     18/   70px Inter      400 ¿Cómo puedo inscribirme?
+         357:502   41244   5171    47x70     26/   70px Inter      400 +
+         357:477   41292   3711   473x64     22/   32px Inter      400 Aquí encontrarás respuestas claras sobre el p
+         357:507   41334   5171    47x70     26/   70px Inter      400 +
+ I357:568;229:16   51036   5128    62x19     16/ normal Inter      400 ABOUT
+ I357:569;229:16   51056   5902    62x19     16/ normal Inter      400 ABOUT
+ I357:570;229:16   51076   6819    62x19     16/ normal Inter      400 ABOUT
+ I357:571;229:16   51096   7879    62x19     16/ normal Inter      400 ABOUT
+ I357:572;229:16   51116   9082    62x19     16/ normal Inter      400 ABOUT
+         357:510   51118   5354   150x61     46/   61px Montserrat 400 Footer
+ I357:573;229:16   51136  10428    62x19     16/ normal Inter      400 ABOUT
+         357:448   59450  10600   614x42     22/   42px Inter      400 INVERSIÓN
+         357:449   59538  10600   669x162    48/    0px Montserrat 700 C ONVIÉRTETE EN EL DIRECTOR DE TU PROPIA FIRM
+         357:455   59796  10652   292x146   120/ normal Montserrat 700 1000
+         357:456   59808  10600    42x79     65/ normal Montserrat 700 $
+         357:457   59842  10964    96x54     43/   54px Montserrat 500 USD
+         357:461   59998  10600    77x70     18/   70px Inter      400 Inicio
+         357:464   59998  10930   124x70     18/   70px Inter      400 DURACIÓN
+         357:462   60038  10600   206x70     20/   70px Inter      400 21 de octubre
+         357:465   60038  10930   163x70     20/   70px Inter      400 11 MÓDULOS
+         357:468   60144  10844   129x20     16/ normal Inter      400 PAGAR AHORA
+         357:579   60188  11700   620x42     22/   42px Inter      400 ADMISIÓN
+         357:583   60358  11700   620x50     15/   50px Inter      400 Déjanos tus datos y te ayudaremos con tu insc
+         357:587   60416  11700   620x50     15/   50px Inter      400 NOMBRE COMPLETO
+         357:591   60496  11700    38x50     15/   50px Inter      400 PAÍS
+         357:595   60576  11700   620x50     15/   50px Inter      400 TELÉFONO
+         357:598   60654  11700   620x50     15/   50px Inter      400 CARGO
+         357:616   60722  10855   285x20     16/ normal Inter      400 RESERVA TU VACANTE
+         357:601   60736  11700   620x50     15/   50px Inter      400 CORREO ELECTRÓNICO
+         357:622   60832  10826   324x37     14/   37px Inter      400 Descargar brochure del programa
+         357:607   60860  11702   616x70     16/   70px Inter      400 Tus datos se usan solo para contactarte sobre
+         357:606   60882  11976    69x20     16/ normal Inter      600 ENVIAR
+         357:469   60926  10800   614x140    16/   70px Inter      400 Vacantes limitadas para garantizar una formac
+         357:536   67988  12923   179x50     20/   50px Inter      400 CERTIFICACIÓN
+         357:538   68282  12923   619x192    20/   32px Inter      400 Al culminar satisfactoriamente el programa re
+         357:543   68534  12989   498x26     20/   26px Montserrat 600 CERTIFICACIÓN INTERNACIONAL
+         357:553   68534  12989   498x26     20/   26px Montserrat 600 VERIFICACIÓN DIGITAL
+         357:544   68566  12989   498x56     20/   28px Inter      400 Diploma emitido por Grupo Goberna, que acredi
+         357:554   68566  12989   498x84     20/   28px Inter      400 Credencial digital verificable que facilita l
+         357:563   68694  13032   230x20     16/ normal Inter      400 Hablar con un asesor
+         357:249   75118  13646    81x50     16/   50px Inter      400 Módulo
+         357:248   75144  13657    54x103    56/  103px Montserrat 500 01
+         357:250   75164  14434    85x50     16/   50px Inter      400 ocultar
+         357:251   75168  13756   611x56     24/   28px Montserrat 600 Fundamentos de la firma: identidad, nicho y d
+         357:246   75240  13756   754x64     20/   32px Inter      400 Define qué consultora quieres construir, a qu
+         357:256   75338  13780   119x47     20/   47px Montserrat 600 Aprenderás
+         357:255   75382  13780   338x63     16/   21px Inter      400 Nicho, propuesta de valor, posicionamiento, i
+         357:259   75382  13779   337x72     16/   24px Inter      400 Definición del posicionamiento, propuesta de 
+         357:282   75412  13956   527x50     20/   50px Inter      400 PLAN DE ESTUDIOS
+         357:260   75468  13779   363x47     20/   47px Montserrat 600 Aplicarás
+         357:284   75504  13956   518x147    50/   49px Montserrat 700 Una ruta para construir y dirigir tu propia f
+         357:292   75770  13956    33x47     42/   47px Montserrat 700 11
+         357:294   75818  13956    87x16     12/   16px Montserrat 700 MÓDULOS
+         357:295   75838  13956    87x16     12/   16px Montserrat 400 Especializados
+         357:266   76072  14579    66x103    56/  103px Montserrat 500 02
+         357:307   76101  13956    82x47     42/   47px Montserrat 700 200
+         357:309   76148  13956    63x16     12/   16px Montserrat 700 HORAS
+         357:310   76168  13956    73x16     12/   16px Montserrat 400 Académicas
+         357:267   76193  14574    81x50     16/   50px Inter      400 Módulo
+         357:268   76306  15295   152x50     16/   50px Inter      400 VER CONTENIDO
+         357:269   76424  14672   603x58     24/   29px Montserrat 600 Constitución legal, marca y propiedad intelec
+         357:322   76431  13956    74x47     42/   47px Montserrat 700 100
+         357:323   76431  14036    37x47     42/   47px Montserrat 700 %
+         357:325   76478  13956   164x16     12/   16px Montserrat 700 METODOLOGÍA PRÁCTICA
+         357:326   76498  13956   164x16     12/   16px Montserrat 400 Aprende haciendo
+         357:329   76547  13985   351x20     16/ normal Inter      400 Descargar BROCHURE
+         357:332   76698  14236   714x92     44/   46px Montserrat 700 ¿Quieres vivir esta experiencia en la próxima
+         357:333   76778  14236   568x78     24/   78px Inter      400 Inicio: 21 de octubre | Online en vivo | 11 M
+         357:274   76785  14579    65x103    56/  103px Montserrat 500 03
+         357:275   76906  14574    81x50     16/   50px Inter      400 Módulo
+         357:276   77019  15295   152x50     16/   50px Inter      400 VER CONTENIDO
+         357:277   77136  14672   603x58     24/   29px Montserrat 600 Productización de la oferta: catálogo y línea
+         375:607   80306  14998   248x37     27/   37px Montserrat 700 PROYECTO FINAL
+         375:605   80348  14998   679x37     27/    0px Montserrat 700 S USTENTACIÓN DE TU FIRMA DE CONSULTORÍA POLÍ
+         375:606   80390  14998   675x96     18/   32px Inter      400 Presenta la estructura completa de tu consult
+[{'id': '357:610', 'x': 10800, 'y': 60355.53125, 'w': 676, 'h': 283}, {'id': '357:155', 'x': 0, 'y': 0, 'w': 0, 'h': 0}, {'id': '373:593', 'x': 4492, 'y': 31691.53125, 'w': 690, 'h': 726}, {'id': '363:537', 'x': 1251, 'y': 13310.53125, 'w': 668, 'h': 712}, {'id': '357:625', 'x': 12923, 'y': 68509.53125, 'w': 1022, 'h': 1056}, {'id': '357:40', 'x': 14152, 'y': 76654.53125, 'w': 1524, 'h': 347}, {'id': '357:45', 'x': 0, 'y': 12832, 'w': 1920, 'h': 1027}, {'id': '357:30', 'x': 0, 'y': 2544, 'w': 1920, 'h': 1027}, {'id': '373:597', 'x': 13956, 'y': 80225.53125, 'w': 1920, 'h': 340}, {'id': '357:31', 'x': 0, 'y': 0, 'w': 0, 'h': 0}]

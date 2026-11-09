@@ -1,0 +1,88 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - heading "Proyecto Final Â· Consultor PolÃtico Senior" [level=1] [ref=f1e5]
+      - paragraph [ref=f1e6]: Franja nueva que va debajo de las 4 etapas de Experiencia estratÃ©gica. Desktop y laptop calcan el Figma (frame 373:597); mobile es la propuesta.
+    - generic [ref=f1e7]:
+      - group "Dispositivo" [ref=f1e8]:
+        - button "Desktop 1920" [pressed] [ref=f1e9] [cursor=pointer]
+        - button "Laptop 1366" [ref=f1e10] [cursor=pointer]
+        - button "Mobile 375" [ref=f1e11] [cursor=pointer]
+      - generic [ref=f1e12] [cursor=pointer]:
+        - checkbox "Ver widgets" [ref=f1e13]
+        - text: Ver widgets
+  - paragraph [ref=f1e14]: Vista 1920 px Â· alto de la secciÃ³n 340 px Â· escala 46 %
+  - generic [ref=f1e20]:
+    - paragraph [ref=f1e21]: PROYECTO FINAL
+    - heading "SustentaciÃ³n de tu firma de consultorÃa polÃtica" [level=3] [ref=f1e22]
+    - paragraph [ref=f1e23]: "Presenta la estructura completa de tu consultora: posicionamiento, servicios, modelo comercial, operaciÃ³n, estrategia de crecimiento y proyecciÃ³n internacional."
+  - heading "CÃ³mo queda en Elementor" [level=2] [ref=f1e24]
+  - paragraph [ref=f1e25]:
+    - text: SecciÃ³n propia (
+    - code [ref=f1e26]: ak-pf
+    - text: ), inmediatamente despuÃ©s de
+    - code [ref=f1e27]: ak-war
+    - text: y antes del Plan de estudios. Un contenedor, una columna y tres widgets nativos. No usa "Ocultar enâ€¦" ni widget HTML.
+  - table [ref=f1e29]:
+    - rowgroup [ref=f1e30]:
+      - row [ref=f1e31]:
+        - columnheader "Elemento" [ref=f1e32]
+        - columnheader "Desktop (>1366) = Figma 1:1" [ref=f1e33]
+        - columnheader "Laptop (â‰¤1366) = Figma Ã— 0,7115" [ref=f1e34]
+        - columnheader "Tablet (â‰¤1024)" [ref=f1e35]
+        - columnheader "Mobile (â‰¤767) Â· propuesta" [ref=f1e36]
+    - rowgroup [ref=f1e37]:
+      - row [ref=f1e38]:
+        - cell [ref=f1e39]:
+          - text: Contenedor
+          - code [ref=f1e40]: ak-pf
+        - cell [ref=f1e41]:
+          - text: En caja 1520 Â· alto mÃn. 340 Â· relleno 0 40 Â· contenido centrado en vertical y a la derecha Â· fondo
+          - code [ref=f1e42]: cover
+          - text: ", posiciÃ³n"
+          - code [ref=f1e43]: center 83%
+          - text: "Â· degradado 90Â° transparente â†’ #0C0000"
+        - cell "Alto mÃn. 242 Â· relleno 0 142" [ref=f1e44]
+        - cell "Hereda laptop Â· relleno 0 32" [ref=f1e45]
+        - 'cell "Sin alto mÃn. Â· relleno 196 16 48 Â· imagen arriba (alto 230, anclada a la izquierda: se ven las carpetas) Â· degradado 180Â° que funde la foto con el #0C0000" [ref=f1e46]'
+      - row [ref=f1e47]:
+        - cell [ref=f1e48]:
+          - text: Columna
+          - code [ref=f1e49]: ak-pf-txt
+        - cell "Ancho 675 Â· separaciÃ³n 5" [ref=f1e50]
+        - cell "Ancho 480 Â· separaciÃ³n 3,6" [ref=f1e51]
+        - cell "Hereda laptop" [ref=f1e52]
+        - cell "Ancho 100 % Â· separaciÃ³n 4" [ref=f1e53]
+      - row [ref=f1e54]:
+        - cell "\"PROYECTO FINAL\"" [ref=f1e55]
+        - 'cell "Montserrat 700 Â· 27/37 Â· #DD0005" [ref=f1e56]'
+        - cell "19,2 / 26,3" [ref=f1e57]
+        - cell "Hereda" [ref=f1e58]
+        - cell "18 / 24" [ref=f1e59]
+      - row [ref=f1e60]:
+        - cell "\"SustentaciÃ³n de tu firmaâ€¦\"" [ref=f1e61]
+        - 'cell "Montserrat 700 Â· 27/37 Â· #FFFFFF Â· una lÃnea" [ref=f1e62]'
+        - cell "19,2 / 26,3" [ref=f1e63]
+        - cell "Hereda" [ref=f1e64]
+        - cell "18 / 24 Â· dos lÃneas" [ref=f1e65]
+      - row [ref=f1e66]:
+        - cell "PÃ¡rrafo" [ref=f1e67]
+        - cell "Inter 400 Â· 18/32 Â· espaciado 0,18 Â· blanco 75 % Â· 3 lÃneas" [ref=f1e68]
+        - cell "12,8 / 22,8 Â· espaciado 0,128" [ref=f1e69]
+        - cell "Hereda" [ref=f1e70]
+        - cell "13 / 22 Â· margen sup. 8" [ref=f1e71]
+  - heading "A tener en cuenta" [level=2] [ref=f1e72]
+  - list [ref=f1e73]:
+    - listitem [ref=f1e74]:
+      - strong [ref=f1e75]: "Textos:"
+      - text: literales del PDF (secciÃ³n 5, "Proyecto final"). El subtÃtulo va en minÃºsculas con mayÃºscula inicial, como en el Figma.
+    - listitem [ref=f1e76]:
+      - strong [ref=f1e77]: "Imagen a subir:"
+      - code [ref=f1e78]: proyecto-final-fondo-consultor-senior.webp
+      - text: (4095 Ã— 1187, 356 KB, resoluciÃ³n original del Figma). En mobile se usa la misma imagen.
+    - listitem [ref=f1e79]:
+      - strong [ref=f1e80]: "Lo que no se copia:"
+      - text: el frame trae dos lÃneas verticales negras (375:615 y 375:616) que sobre el fondo oscuro no se ven. Parecen restos de la plantilla, asÃ que no las incluyo.
+    - listitem [ref=f1e81]:
+      - strong [ref=f1e82]: "Mobile:"
+      - text: el texto sobre la foto quedaba ilegible a 375, asÃ que propongo la foto arriba fundida en el fondo y el texto debajo. AsÃ se ven las carpetas y se respeta la jerarquÃa rojo/blanco/gris del desktop.

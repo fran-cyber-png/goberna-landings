@@ -1,0 +1,13 @@
+[     327ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2:0
+[     328ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.54.0:0
+[     333ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2:0
+[     333ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2:0
+[     432ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff:0
+[     433ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.54.0:0
+[     433ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff:0
+[     433ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff:0
+[     450ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf:0
+[     450ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf:0
+[     450ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf:0
+[     450ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.54.0:0
+[     529ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8766/favicon.ico:0

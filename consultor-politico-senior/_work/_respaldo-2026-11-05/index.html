@@ -1,0 +1,122 @@
+<title>Consultor Político Senior</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Barra de revisión arriba, la landing escalada debajo a su tamaño real de pantalla */
+:root{
+  --bg:#ECEDEF; --chrome:#0C0000; --chrome-fg:#F3F5F7; --muted:#9A8F90; --accent:#DD0005; --line:rgba(255,255,255,.16);
+  --panel:#FFFFFF; --panel-fg:#1A1112;
+  --ui:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#141011;--panel:#221a1b;--panel-fg:#F1ECEC;--muted:#A89C9D;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#141011;--panel:#221a1b;--panel-fg:#F1ECEC;--muted:#A89C9D;color-scheme:dark}
+html,body{height:100%}
+body{margin:0;background:var(--bg);font:14px/1.4 var(--ui);color:var(--panel-fg);display:flex;flex-direction:column}
+.bar{background:var(--chrome);color:var(--chrome-fg);display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;
+  padding-block:10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.name{font-weight:600;letter-spacing:.02em;white-space:nowrap}
+.name small{display:block;font-weight:400;color:#B9AEAF;font-size:12px;letter-spacing:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{all:unset;cursor:pointer;padding:7px 12px;font-size:13px;color:var(--chrome-fg);white-space:nowrap}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button small{color:#B9AEAF;margin-left:6px;font-variant-numeric:tabular-nums}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
+.seg button[aria-pressed="true"] small{color:#ffd9da}
+.seg button:focus-visible,.chk:focus-within,.pend:focus-visible{outline:2px solid #fff;outline-offset:2px}
+.chk{display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:13px;white-space:nowrap}
+.chk input{accent-color:var(--accent);width:16px;height:16px;margin:0}
+.pend{all:unset;cursor:pointer;margin-left:auto;font-size:13px;padding:7px 12px;border-radius:8px;border:1px solid #ff5a5d;color:#ff8a8c;white-space:nowrap}
+.stage{flex:1;min-height:0;position:relative;overflow:hidden}
+.frame{position:absolute;top:16px;left:50%;transform-origin:top center;box-shadow:0 10px 40px rgba(0,0,0,.25);background:#fff}
+.frame iframe{display:block;border:0;width:100%;height:100%}
+.list{position:absolute;right:max(16px,env(safe-area-inset-right,0px));top:12px;width:min(460px,calc(100% - 32px));max-height:calc(100% - 24px);overflow:auto;
+  background:var(--panel);color:var(--panel-fg);border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,.3);padding:18px 20px;z-index:5}
+.list h2{margin:0 0 4px;font-size:15px}
+.list h3{margin:16px 0 6px;font-size:13px;color:var(--accent)}
+.list p{margin:0 0 10px;color:var(--muted);font-size:12.5px}
+.list ol{margin:0;padding-left:18px;display:grid;gap:8px;font-size:13px}
+.list b{font-weight:600}
+@media (max-width:640px){.pend{margin-left:0}}
+</style>
+
+<div class="bar">
+  <div class="name">Consultor Político Senior<small>Vista previa de la plantilla de Elementor · Figma v2 (357:27)</small></div>
+  <div class="seg" role="group" aria-label="Dispositivo">
+    <button type="button" data-w="1920" data-h="1080" aria-pressed="true">Desktop<small>1920</small></button>
+    <button type="button" data-w="1366" data-h="768" aria-pressed="false">Laptop<small>1366</small></button>
+    <button type="button" data-w="1024" data-h="768" aria-pressed="false">Tablet<small>1024</small></button>
+    <button type="button" data-w="375" data-h="812" aria-pressed="false">Mobile<small>375</small></button>
+  </div>
+  <label class="chk"><input type="checkbox" id="widgets"> Ver widgets</label>
+  <button type="button" class="pend" id="pendBtn" aria-expanded="false">Para revisar (8)</button>
+</div>
+
+<div class="stage" id="stage">
+  <div class="frame" id="frame"><iframe id="ifr" src="landing.html" title="Landing Consultor Político Senior"></iframe></div>
+  <div class="list" id="list" hidden>
+    <h2>Para revisar antes del JSON</h2>
+    <p>Desktop está medido contra el Figma en Playwright: cada sección queda dentro de 7 px de alto (el plan mide más porque tiene los 11 módulos y el Figma dibuja 3).</p>
+    <h3>Decisiones que conviene confirmar</h3>
+    <ol>
+      <li><b>«¿A quiénes está dirigido?»:</b> usé los 5 puntos del PDF en su orden. El Figma tenía un sexto punto que no está en el PDF («Profesionales que buscan dirigir su propia consultora»).</li>
+      <li><b>«Perfil del egresado»:</b> usé el texto resumido del Figma. El PDF además trae la lista «Podrás:» (7 puntos) y «Asesor político de alto nivel».</li>
+      <li><b>Mapa:</b> uso la imagen del Figma (puntos fijos, sin nombres de países). La base tenía un SVG animado con los nombres; se puede volver a ese.</li>
+      <li><b>Experiencia Goberna (testimonios):</b> no está en el Figma v2, así que la quité.</li>
+      <li><b>Laptop:</b> sigue el esquema de laptop de la base (header de 80 px, márgenes de 80 px). Si quieres, lo dejo como escala exacta del Figma.</li>
+      <li><b>Mobile:</b> Proyecto final y el ponente son propuesta (no hay Figma mobile). El resto sigue el mobile de la base.</li>
+    </ol>
+    <h3>Enlaces tomados de la landing actual del sitio</h3>
+    <ol>
+      <li><b>Pagar ahora:</b> checkout con el producto 91119. <b>Brochure:</b> Brochure_ConsultorPolitico-Senior-1.pdf. <b>Saber más:</b> /roberto-bazan/. Confirmar que siguen vigentes.</li>
+      <li><b>Imágenes:</b> hay que subir 11 webp y 8 svg a la Biblioteca de medios antes de generar el JSON final (los nombres terminan en «-consultor-senior»).</li>
+    </ol>
+  </div>
+</div>
+
+<script>
+(function(){
+  var stage=document.getElementById('stage'), frame=document.getElementById('frame'), ifr=document.getElementById('ifr');
+  var btns=[].slice.call(document.querySelectorAll('.seg button')), dev={w:1920,h:1080};
+  function fit(){
+    var aw=stage.clientWidth-32, ah=stage.clientHeight-32;
+    var s=Math.min(1, aw/dev.w, ah/dev.h);
+    frame.style.width=dev.w+'px'; frame.style.height=dev.h+'px';
+    frame.style.transform='translateX(-50%) scale('+s+')';
+  }
+  btns.forEach(function(b){ b.addEventListener('click',function(){
+    btns.forEach(function(x){ x.setAttribute('aria-pressed', x===b?'true':'false'); });
+    dev={w:+b.dataset.w,h:+b.dataset.h}; fit();
+    try{ localStorage.setItem('cps-dev', b.dataset.w); }catch(e){}
+  }); });
+  window.addEventListener('resize',fit);
+  try{ var saved=localStorage.getItem('cps-dev'); var sb=btns.filter(function(b){return b.dataset.w===saved;})[0]; if(sb) sb.click(); }catch(e){}
+  fit();
+
+  // Ver widgets: contorno y etiqueta con el widget de Elementor y sus clases ak-
+  var CSS='.dsw-on .elementor-widget{outline:1px dashed rgba(221,0,5,.9);outline-offset:-1px;position:relative}'+
+    '.dsw-on .e-con.e-parent{outline:2px solid rgba(0,140,255,.55);outline-offset:-2px}'+
+    '.dsw-tag{display:none}.dsw-on .dsw-tag{display:block;position:absolute;left:0;top:0;z-index:9999;font:500 10px/1.3 Inter,Arial,sans-serif;'+
+    'background:#0C0000;color:#FF6B6E;padding:1px 5px;pointer-events:none;white-space:nowrap;letter-spacing:0;text-transform:none;-webkit-text-fill-color:#FF6B6E}'+
+    '.dsw-on .e-con.e-parent>.dsw-tag{background:#0A6BD6;color:#fff;-webkit-text-fill-color:#fff}';
+  function tag(doc){
+    if(doc.getElementById('dsw-style')) return;
+    var st=doc.createElement('style'); st.id='dsw-style'; st.textContent=CSS; doc.head.appendChild(st);
+    var NAMES={'heading':'Encabezado','text-editor':'Editor de texto','image':'Imagen','button':'Botón','icon':'Ícono','html':'HTML',
+      'nested-tabs':'Pestañas anidadas','nested-accordion':'Acordeón anidado','n-carousel':'Carrusel anidado','form':'Formulario',
+      'divider':'Divisor','nav-menu':'Menú','image-box':'Caja de imagen','icon-list':'Lista de íconos','social-icons':'Íconos sociales'};
+    [].forEach.call(doc.querySelectorAll('[data-widget_type], .e-con.e-parent'),function(el){
+      var t=(el.getAttribute('data-widget_type')||'').split('.')[0];
+      var cls=[].filter.call(el.classList,function(c){return /^ak-/.test(c);}).join(' ');
+      var lab=doc.createElement('span'); lab.className='dsw-tag';
+      lab.textContent=(t?(NAMES[t]||t):'Contenedor')+(cls?' · '+cls:'');
+      el.insertBefore(lab, el.firstChild);
+    });
+  }
+  var chk=document.getElementById('widgets');
+  function apply(){ try{ var d=ifr.contentDocument; if(!d||!d.body) return; tag(d); d.documentElement.classList.toggle('dsw-on',chk.checked); }catch(e){} }
+  chk.addEventListener('change',apply); ifr.addEventListener('load',apply);
+
+  var pb=document.getElementById('pendBtn'), list=document.getElementById('list');
+  pb.addEventListener('click',function(){ list.hidden=!list.hidden; pb.setAttribute('aria-expanded', String(!list.hidden)); });
+})();
+</script>

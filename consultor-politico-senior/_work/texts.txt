@@ -1,0 +1,156 @@
+  363:525 | Montserrat:Bold 72px lhnormal #f5f7fa | Roberto Bazán
+  363:527 | Montserrat:Medium 22px lhnormal #dd0005 | Estratega político senior y especialista en inteligencia aplicada a la consultoría política
+  363:530 | Inter:Regular 20px lh32px #f2f4f8 | Magíster en Inteligencia Estratégica, abogado y politólogo. Estratega político con experiencia en América Latina, asesorando gobiernos y líderes. Espe
+I363:531;43:356 | Inter:Regular 18px lhnormal #f5f7fa | Saber más
+  363:541 | Montserrat:Bold 56px lh0 white | {`Aprende de un especialista en `} consultoría y estrategia política
+   357:59 | Inter:Regular 18px lh0 rgba(6,6,6,0.75) | {`Formar consultores políticos de nivel senior capaces de `} fundar, dirigir y proyectar internacionalmente su propia firma de consultoría como una em
+   357:60 | Inter:Regular 18px lh32px rgba(6,6,6,0.75) | Durante el programa transformarás tu experiencia en un modelo empresarial con posicionamiento, servicios, estructura operativa, sistema comercial y he
+   357:66 | Inter:Regular 24px lh50px #dd0005 | OBJETIVO DEL DIPLOMA
+   357:67 | Inter:Regular 16px lhnormal #808591 | MODALIDAD
+   357:68 | Inter:Regular 16px lhnormal #808591 | INICIO
+   357:69 | Inter:Regular 16px lhnormal #808591 | HORA
+   357:70 | Inter:Regular 16px lhnormal #808591 | DURACIÓN
+   357:71 | Inter:Regular 16px lhnormal #0c0000 | ONLINE
+   357:72 | Inter:Regular 16px lhnormal #0c0000 | 21 DE OCTUBRE
+   357:73 | Inter:Regular 21px lhnormal #0c0000 | 19:00 HRS. GMT-5
+   357:74 | Inter:Regular 16px lhnormal #0c0000 | 11 MÓDULOS
+   357:76 |  16px lh  | INVERSIÓN
+   357:77 |  25px lh  | US$ 1000
+   357:85 | Inter:Regular 20px lh50px #dd0005 | METODOLOGÍA
+   357:86 | Montserrat:Bold 50px lh0 #0c0000 | {`Formamos estrategas que `} transforman la política.
+   357:87 | Inter:Regular 18px lh32px rgba(6,6,6,0.75) | De consultor político a director de una firma con proyección internacional.
+   357:94 | Montserrat:Regular 43px lh49px  | +
+   357:95 | Montserrat:ExtraBold 31px lh57px  | 10,000
+   357:96 | Inter:Regular 16px lh40px #0c0000 | Profesionales formados
+  357:100 | Montserrat:Regular 43px lh49px  | +
+  357:101 | Montserrat:ExtraBold 28px lh52px  | 15
+  357:102 | Inter:Regular 16px lh40px #0c0000 | Países en Latinoamérica
+  357:106 | Montserrat:Regular 43px lh49px  | +
+  357:107 | Montserrat:ExtraBold 28px lh52px  | 20
+  357:108 | Inter:Regular 16px lh40px #0c0000 | Docentes Internacionales en ejercicio
+  357:162 | Inter:Regular 18px lh33px #0c0000 | Inteligencia
+  357:164 | Inter:Regular 18px lh33px #0c0000 | Estrategia
+  357:166 | Inter:Regular 18px lh33px #0c0000 | Liderazgo
+  357:168 | Inter:Regular 18px lh33px #0c0000 | Crisis
+  357:170 | Inter:Regular 18px lh33px #0c0000 | Tecnología
+  357:175 | Inter:Regular 20px lh50px #dd0005 | El programa
+  357:176 | Montserrat:Bold 40px lh0 #ebeff2 | {`Formar consultores senior capaces de fundar, `} dirigir y proyectar su propia firma de consultoría
+  357:186 | Barlow:Medium 20px lh57px #dd0005 | ¿Cuál es el objetivo?
+  357:201 | Barlow:Medium 20px lh57px rgba(255,255,255,0.75) | ¿A quiénes está dirigido?
+  357:214 | Barlow:Medium 20px lh57px rgba(255,255,255,0.75) | Perfil del egresado
+  357:221 | Inter:Regular 20px lh50px #dd0005 | EXPERIENCIA ESTRATÉGICA
+  357:222 | Montserrat:Bold 54px lh0 #eaeff2 | {`Aquí no solo aprendes consultoría. `} Construyes una firma
+  357:223 | Inter:Regular 18px lh29px rgba(255,255,255,0.75) | La metodología está orientada a la creación real de una consultora política. Cada módulo genera un componente concreto de tu firma y las entregas se c
+  357:230 | Inter:Regular 16px lh50px #dd0005 | ETAPA 1
+  357:232 | Montserrat:Bold 27px lh47px white | Define tu modelo
+  357:233 | Inter:Regular 18px lh32px rgba(255,255,255,0.75) | Construye el posicionamiento, nicho y propuesta de valor de tu consultora.
+  357:234 | Inter:Regular 16px lh50px #dd0005 | ETAPA 2
+  357:236 | Montserrat:Bold 27px lh37px white | Diseña tu estructura
+  357:237 | Inter:Regular 18px lh32px rgba(255,255,255,0.75) | Desarrolla servicios, procesos, equipos y herramientas para operar profesionalmente.
+  357:238 | Inter:Regular 16px lh50px #dd0005 | ETAPA 3
+  357:239 | Inter:Regular 16px lh50px #dd0005 | ETAPA 4
+  357:241 | Montserrat:Bold 27px lh37px white | Construye tu mercado
+  357:242 | Inter:Regular 18px lh32px rgba(255,255,255,0.75) | Crea sistemas comerciales para captar clientes y generar nuevas oportunidades.
+  357:244 | Montserrat:Bold 27px lh37px white | Proyecta tu firma
+  357:245 | Inter:Regular 18px lh32px rgba(255,255,255,0.75) | Presenta tu consultora ante un jurado internacional y desarrolla una visión de crecimiento.
+  357:428 | Montserrat:Bold 0px lh0 #c49a45 | {`Una red que habla el idioma `} político de Latinoamérica.
+  357:429 | Inter:Regular 20px lh32px rgba(253,252,251,0.75) | Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+  357:430 | Inter:Regular 22px lh42px #dd0005 | PRESENCIA INTERNACIONAL
+  357:432 | Inter:Regular 22px lh42px #838994 | Países
+  357:433 | Inter:Regular 22px lh42px #838994 | Campañas
+  357:434 | Inter:Regular 22px lh42px #838994 | Egresados
+  357:436 | Montserrat:Regular 64px lh99px  | +
+  357:437 | Montserrat:ExtraBold 54px lh100px  | 15
+  357:439 | Montserrat:Regular 64px lh99px  | +
+  357:440 | Montserrat:ExtraBold 54px lh100px  | 300
+  357:443 | Montserrat:Regular 64px lh99px  | +
+  357:444 | Montserrat:ExtraBold 54px lh100px  | 10
+  357:445 | Montserrat:SemiBold 54px lh100px  | K
+  357:474 | Inter:Regular 16px lh50px #dd0005 | PREGUNTAS FRECUENTES
+  357:477 | Inter:Regular 22px lh32px rgba(6,6,6,0.75) | Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+  357:483 |  18px lhnormal #0c0000 | ¿Cómo se realizan las clases?
+  357:484 |  17px lh21px rgba(6,6,6,0.75) | Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases magistrales, análisis de casos reales, talleres de producción y desarrol
+  357:487 | Inter:Regular 26px lhnormal white | -
+  357:490 | Inter:Regular 18px lh70px #0c0000 | ¿Cuánto dura el programa?
+  357:492 | Inter:Regular 26px lh70px #0c0000 | +
+  357:495 | Inter:Regular 18px lh70px #0c0000 | ¿Qué incluye mi inscripción?
+  357:497 | Inter:Regular 26px lh70px #0c0000 | +
+  357:500 | Inter:Regular 18px lh70px #0c0000 | ¿Cuáles son los medios de pago disponibles?
+  357:502 | Inter:Regular 26px lh70px #0c0000 | +
+  357:505 | Inter:Regular 18px lh70px #0c0000 | ¿Cómo puedo inscribirme?
+  357:507 | Inter:Regular 26px lh70px #0c0000 | +
+  357:510 | Montserrat:Regular 46px lh61px white | Footer
+I357:568;229:16 | Inter:Regular 16px lhnormal #0c0000 | ABOUT
+I357:569;229:16 | Inter:Regular 16px lhnormal #0c0000 | ABOUT
+I357:570;229:16 | Inter:Regular 16px lhnormal #0c0000 | ABOUT
+I357:571;229:16 | Inter:Regular 16px lhnormal #0c0000 | ABOUT
+I357:572;229:16 | Inter:Regular 16px lhnormal #0c0000 | ABOUT
+I357:573;229:16 | Inter:Regular 16px lhnormal #0c0000 | ABOUT
+  357:577 | Inter:Regular 20px lhnormal white | Inscríbete ahora
+  357:448 | Inter:Regular 22px lh42px #dd0005 | INVERSIÓN
+  357:449 | Montserrat:Bold 48px lh0 #ebeff2 | C ONVIÉRTETE EN EL DIRECTOR DE TU PROPIA FIRMA DE CONSULTORÍA POLÍTICA
+  357:455 |  120px lh  | 1000
+  357:456 |  65px lh  | $
+  357:457 | Montserrat:Medium 43px lh54px #dd0005 | USD
+  357:461 |  18px lh #888d98 | Inicio
+  357:462 |  20px lh #ebeff2 | 21 de octubre
+  357:464 |  18px lh #888d98 | DURACIÓN
+  357:465 |  20px lh #ebeff2 | 11 MÓDULOS
+  357:468 | Inter:Regular 16px lhnormal white | PAGAR AHORA
+  357:469 | Inter:Regular 16px lh70px #dd0005 | Vacantes limitadas para garantizar una formación especializada.
+  357:579 | Inter:Regular 22px lh42px #dd0005 | ADMISIÓN
+  357:583 | Inter:Regular 15px lh50px rgba(235,239,242,0.75) | Déjanos tus datos y te ayudaremos con tu inscripción.
+  357:587 | Inter:Regular 15px lh50px #ebeff2 | NOMBRE COMPLETO
+  357:591 | Inter:Regular 15px lh50px #ebeff2 | PAÍS
+  357:595 | Inter:Regular 15px lh50px #ebeff2 | TELÉFONO
+  357:598 | Inter:Regular 15px lh50px #ebeff2 | CARGO
+  357:601 | Inter:Regular 15px lh50px #ebeff2 | CORREO ELECTRÓNICO
+  357:606 | Inter:Semi_Bold 16px lhnormal #dd0005 | ENVIAR
+  357:607 | Inter:Regular 16px lh70px #dd0005 | Tus datos se usan solo para contactarte sobre el diploma.
+  357:616 | Inter:Regular 16px lhnormal white | RESERVA TU VACANTE
+  357:619 | Inter:Regular 16px lhnormal #fdfcfb | Hablar con un asesor
+  357:622 | Inter:Regular 14px lh37px #b8c4de | Descargar brochure del programa
+  357:536 | Inter:Regular 20px lh50px #dd0005 | CERTIFICACIÓN
+  357:538 | Inter:Regular 20px lh32px rgba(6,6,6,0.75) | Al culminar satisfactoriamente el programa recibirás la certificación como Director de Consultoría Política. Una acreditación que reconoce tu capacida
+  357:543 | Montserrat:SemiBold  lh26px #0c0000 | CERTIFICACIÓN INTERNACIONAL
+  357:544 | Inter:Regular  lh28px rgba(6,6,6,0.75) | Diploma emitido por Grupo Goberna, que acredita la culminación del programa y tus competencias.
+  357:553 | Montserrat:SemiBold  lh26px #0c0000 | VERIFICACIÓN DIGITAL
+  357:554 | Inter:Regular  lh28px rgba(6,6,6,0.75) | Credencial digital verificable que facilita la validación de tu certificación y su presentación en tu perfil profesional.
+  357:563 | Inter:Regular 16px lhnormal #dd0005 | Hablar con un asesor
+  357:246 | Inter:Regular 20px lh32px rgba(6,6,6,0.75) | Define qué consultora quieres construir, a quién atenderás y cómo te diferenciarás dentro del mercado.
+  357:248 | Montserrat:Medium 56px lh103px #dd0005 | 01
+  357:249 | Inter:Regular 16px lh50px #dd0005 | Módulo
+  357:250 | Inter:Regular 16px lh50px #808591 | ocultar
+  357:251 | Montserrat:SemiBold 24px lh28px #0c0000 | Fundamentos de la firma: identidad, nicho y diferenciación
+  357:255 | Inter:Regular 16px lh21px rgba(6,6,6,0.75) | Nicho, propuesta de valor, posicionamiento, identidad, diferenciación y criterios éticos de la firma.
+  357:256 | Montserrat:SemiBold 20px lh47px #0c0000 | Aprenderás
+  357:259 | Inter:Regular 16px lh24px rgba(6,6,6,0.75) | Definición del posicionamiento, propuesta de valor y código institucional de tu consultora.
+  357:260 | Montserrat:SemiBold 20px lh47px #0c0000 | Aplicarás
+  357:266 | Montserrat:Medium 56px lh103px #dd0005 | 02
+  357:267 | Inter:Regular 16px lh50px #dd0005 | Módulo
+  357:268 | Inter:Regular 16px lh50px #808591 | VER CONTENIDO
+  357:269 | Montserrat:SemiBold 24px lh29px #0c0000 | Constitución legal, marca y propiedad intelectual
+  357:274 | Montserrat:Medium 56px lh103px #dd0005 | 03
+  357:275 | Inter:Regular 16px lh50px #dd0005 | Módulo
+  357:276 | Inter:Regular 16px lh50px #808591 | VER CONTENIDO
+  357:277 | Montserrat:SemiBold 24px lh29px #0c0000 | Productización de la oferta: catálogo y líneas de servicio
+  357:282 | Inter:Regular 20px lh50px #dd0005 | PLAN DE ESTUDIOS
+  357:284 | Montserrat:Bold 50px lh49px #0c0000 | Una ruta para construir y dirigir tu propia firma
+  357:292 | Montserrat:Bold 42px lh47px  | 11
+  357:294 | Montserrat:Bold  lh  | MÓDULOS
+  357:295 | Montserrat:Regular  lh  | Especializados
+  357:307 | Montserrat:Bold 42px lh47px  | 200
+  357:309 | Montserrat:Bold  lh  | HORAS
+  357:310 | Montserrat:Regular  lh  | Académicas
+  357:322 |   lh  | 100
+  357:323 |   lh  | %
+  357:325 | Montserrat:Bold  lh  | METODOLOGÍA PRÁCTICA
+  357:326 | Montserrat:Regular  lh  | Aprende haciendo
+  357:329 | Inter:Regular 16px lhnormal #0c0000 | Descargar BROCHURE
+  357:332 | Montserrat:Bold 44px lh46px white | ¿Quieres vivir esta experiencia en la próxima edición?
+  357:333 | Inter:Regular 24px lh78px #dd0005 | Inicio: 21 de octubre | Online en vivo | 11 Módulos
+  357:352 | Inter:Regular 16px lhnormal white | RESERVA TU VACANTE
+  357:355 | Inter:Regular 16px lhnormal white | Hablar con un asesor
+  375:607 | Montserrat:Bold 27px lh37px #dd0005 | PROYECTO FINAL
+  375:605 | Montserrat:Bold 27px lh0 white | S USTENTACIÓN DE TU FIRMA DE CONSULTORÍA POLÍTICA
+  375:606 | Inter:Regular 18px lh32px rgba(255,255,255,0.75) | Presenta la estructura completa de tu consultora: posicionamiento, servicios, modelo comercial, operación, estrategia de crecimiento y proyección inte

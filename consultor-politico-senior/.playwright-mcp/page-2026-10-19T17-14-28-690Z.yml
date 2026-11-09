@@ -1,0 +1,662 @@
+- generic [ref=f8e2]:
+  - generic [ref=f8e4]:
+    - link [ref=f8e7] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=f8e9]:
+      - navigation "Menú" [ref=f8e10]:
+        - list [ref=f8e11]:
+          - listitem [ref=f8e12]:
+            - link "METODOLOGÍA" [ref=f8e13] [cursor=pointer]:
+              - /url: "#metodologia"
+          - listitem [ref=f8e14]:
+            - link "DIPLOMA" [ref=f8e15] [cursor=pointer]:
+              - /url: "#diploma"
+          - listitem [ref=f8e16]:
+            - link "MÓDULOS" [ref=f8e17] [cursor=pointer]:
+              - /url: "#modulos"
+          - listitem [ref=f8e18]:
+            - link "DOCENTES" [ref=f8e19] [cursor=pointer]:
+              - /url: "#docentes"
+          - listitem [ref=f8e20]:
+            - link "CERTIFICACIÓN" [ref=f8e21] [cursor=pointer]:
+              - /url: "#certificacion"
+          - listitem [ref=f8e22]:
+            - link "INVERSIÓN" [ref=f8e23] [cursor=pointer]:
+              - /url: "#inversion"
+      - text:  
+    - link "Inscríbete ahora" [ref=f8e27] [cursor=pointer]:
+      - /url: "#inscripcion"
+  - generic [ref=f8e31]:
+    - heading "Diploma de Élite Internacional Director de Seguridad" [level=1] [ref=f8e34]
+    - heading "Prepárate para dirigir la seguridad con visión, criterio y capacidad de respuesta" [level=1] [ref=f8e39]
+    - generic [ref=f8e40]:
+      - link "Reserva tu vacante" [ref=f8e44] [cursor=pointer]:
+        - /url: "#doble"
+        - generic [ref=f8e45]:
+          - generic [aria-hidden] [ref=f8e47]: 
+          - generic [ref=f8e48]: Reserva tu vacante
+      - link "Hablar con un asesor" [ref=f8e52] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+de+%C3%89lite+Internacional+Director+de+Seguridad
+        - generic [ref=f8e53]:
+          - generic [aria-hidden] [ref=f8e55]: 
+          - generic [ref=f8e56]: Hablar con un asesor
+    - link "Descargar brochure del programa" [ref=f8e60] [cursor=pointer]:
+      - /url: https://cms.goberna.club/d/brochure_de_director_seguridad.pdf?descargar=1%22
+      - generic [ref=f8e61]:
+        - generic [aria-hidden] [ref=f8e63]: 
+        - generic [ref=f8e64]: Descargar brochure del programa
+  - generic [ref=f8e67]:
+    - generic [ref=f8e68]:
+      - paragraph [ref=f8e100]: Modalidad
+      - paragraph [ref=f8e103]: Online
+    - generic [ref=f8e104]:
+      - paragraph [ref=f8e136]: Inicio
+      - paragraph [ref=f8e139]: 30 de noviembre
+    - generic [ref=f8e140]:
+      - paragraph [ref=f8e159]: Hora
+      - paragraph [ref=f8e162]: 19:00 hrs. GMT-5
+    - generic [ref=f8e163]:
+      - paragraph [ref=f8e180]: Duración
+      - paragraph [ref=f8e183]: 10 módulos
+    - generic [ref=f8e184]:
+      - paragraph [ref=f8e187]: Inversión
+      - paragraph [ref=f8e190]: USD $199
+  - generic [ref=f8e192]:
+    - generic [ref=f8e193]:
+      - paragraph [ref=f8e196]: Metodología
+      - heading "De gestionar la seguridad a dirigirla estratégicamente" [level=2] [ref=f8e199]
+      - paragraph [ref=f8e202]: Desarrolla una visión integral para proteger personas, información, instalaciones y operaciones desde la dirección.
+      - generic [ref=f8e203]:
+        - generic [ref=f8e204]:
+          - paragraph [ref=f8e207]: + 10,000
+          - paragraph [ref=f8e210]: Profesionales formados
+        - generic [ref=f8e211]:
+          - paragraph [ref=f8e214]: + 15
+          - paragraph [ref=f8e217]: Países en Latinoamérica
+        - generic [ref=f8e218]:
+          - paragraph [ref=f8e221]: + 20
+          - paragraph [ref=f8e224]: Docentes Internacionales en ejercicio
+    - paragraph [ref=f8e230]: Inteligencia • Ciberseguridad • Liderazgo • Crisis • Tecnología
+  - generic [ref=f8e231]:
+    - generic [ref=f8e232]:
+      - paragraph [ref=f8e235]: El DIPLOMA
+      - heading [level=2] [ref=f8e238]:
+        - text: Formar directores capaces de diseñar, conducir y
+        - generic [ref=f8e239]: evaluar sistemas integrales de seguridad
+    - generic "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas." [ref=f8e242]:
+      - tablist [ref=f8e243]:
+        - tab "¿Cuál es el objetivo?" [selected] [ref=f8e244] [cursor=pointer]
+        - tab "¿A quiénes está dirigido?" [ref=f8e246] [cursor=pointer]
+        - tab "Perfil del egresado" [ref=f8e248] [cursor=pointer]
+      - tabpanel "¿Cuál es el objetivo?" [ref=f8e251]:
+        - heading "Objetivo del diploma" [level=3] [ref=f8e255]
+        - generic [ref=f8e257]:
+          - paragraph [ref=f8e258]: Formar directores capaces de diseñar, conducir y evaluar sistemas integrales de seguridad, identificando amenazas, priorizando riesgos y tomando decisiones alineadas con los objetivos de una organización.
+          - paragraph [ref=f8e259]: Durante el diploma desarrollarás capacidades para dirigir equipos y recursos, proteger personas, instalaciones e información, gestionar crisis y sustentar decisiones ante la alta dirección mediante un Plan Director de Seguridad.
+  - generic [ref=f8e261]:
+    - generic [ref=f8e262]:
+      - paragraph [ref=f8e265]: Experiencia estratégica
+      - heading "Aquí no solo estudias seguridad. Aprendes a dirigirla." [level=2] [ref=f8e268]
+      - paragraph [ref=f8e271]: La metodología está conectada con el ejercicio profesional de la dirección de seguridad. Desde el primer módulo trabajarás sobre una organización o caso, desarrollando productos que se integrarán progresivamente en tu Plan Director de Seguridad.
+    - generic [ref=f8e272]:
+      - generic [ref=f8e273]:
+        - paragraph [ref=f8e276]: Etapa 1
+        - heading "Diagnostica" [level=3] [ref=f8e279]
+        - paragraph [ref=f8e282]: Identifica amenazas, vulnerabilidades y riesgos que pueden comprometer a la organización.
+      - generic [ref=f8e283]:
+        - paragraph [ref=f8e286]: Etapa 2
+        - heading "Prioriza" [level=3] [ref=f8e289]
+        - paragraph [ref=f8e292]: Convierte el análisis en decisiones sobre recursos, controles y medidas de protección.
+      - generic [ref=f8e293]:
+        - paragraph [ref=f8e296]: Etapa 3
+        - heading "Dirige" [level=3] [ref=f8e299]
+        - paragraph [ref=f8e302]: Coordina personas, proveedores, tecnología y capacidades de seguridad bajo una misma estrategia.
+      - generic [ref=f8e303]:
+        - paragraph [ref=f8e306]: Etapa 4
+        - heading "Responde" [level=3] [ref=f8e309]
+        - paragraph [ref=f8e312]: Enfrenta crisis y escenarios complejos protegiendo la continuidad de las operaciones.
+  - generic [ref=f8e314]:
+    - generic [ref=f8e315]:
+      - paragraph [ref=f8e318]: Plan de estudios
+      - heading "Una formación para dirigir la seguridad de forma integral" [level=2] [ref=f8e321]
+      - generic [ref=f8e322]:
+        - generic [ref=f8e323]:
+          - paragraph [ref=f8e334]: "10"
+          - paragraph [ref=f8e337]: Módulos
+          - paragraph [ref=f8e340]: Especializados
+        - generic [ref=f8e341]:
+          - paragraph [ref=f8e357]: "200"
+          - paragraph [ref=f8e360]: Horas
+          - paragraph [ref=f8e363]: Académicas
+        - generic [ref=f8e364]:
+          - paragraph [ref=f8e379]: 100 %
+          - paragraph [ref=f8e382]: Metodología práctica
+          - paragraph [ref=f8e385]: Aprende haciendo
+      - link "Descargar brochure" [ref=f8e389] [cursor=pointer]:
+        - /url: https://cms.goberna.club/d/brochure_de_director_seguridad.pdf?descargar=1%22
+        - generic [ref=f8e390]:
+          - generic [aria-hidden] [ref=f8e392]: 
+          - generic [ref=f8e393]: Descargar brochure
+    - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f8e397]:
+      - group [ref=f8e398]:
+        - 'generic "Módulo El director de seguridad: visión estratégica, gobierno y conducción Ocultar" [ref=f8e399] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=f8e400]: "El director de seguridad: visión estratégica, gobierno y conducción"
+          - generic [ref=f8e402]: Ocultar 
+        - region [ref=f8e404]:
+          - paragraph [ref=f8e407]: Comprende cómo se organiza y dirige la función de seguridad dentro de una organización y su relación con la alta dirección.
+          - region [ref=f8e408]:
+            - 'region "Módulo El director de seguridad: visión estratégica, gobierno y conducción Ocultar Comprende cómo se organiza y dirige la función de seguridad dentro de una organización y su relación con la alta dirección. Aprenderás Gobierno de seguridad, estructuras, atribuciones, políticas, responsabilidades y criterios de supervisión. Aplicarás Definición de la estructura, responsabilidades y criterios de conducción de la función de seguridad." [ref=f8e409]':
+              - heading "Aprenderás" [level=4] [ref=f8e412]
+              - paragraph [ref=f8e415]: Gobierno de seguridad, estructuras, atribuciones, políticas, responsabilidades y criterios de supervisión.
+            - 'region "Módulo El director de seguridad: visión estratégica, gobierno y conducción Ocultar Comprende cómo se organiza y dirige la función de seguridad dentro de una organización y su relación con la alta dirección. Aprenderás Gobierno de seguridad, estructuras, atribuciones, políticas, responsabilidades y criterios de supervisión. Aplicarás Definición de la estructura, responsabilidades y criterios de conducción de la función de seguridad." [ref=f8e416]':
+              - heading "Aplicarás" [level=4] [ref=f8e419]
+              - paragraph [ref=f8e422]: Definición de la estructura, responsabilidades y criterios de conducción de la función de seguridad.
+      - group [ref=f8e423]:
+        - generic "Módulo Inteligencia de amenazas y gestión estratégica del riesgo Ver contenido" [ref=f8e424] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f8e425]: Inteligencia de amenazas y gestión estratégica del riesgo
+          - generic [ref=f8e427]: Ver contenido 
+      - group [ref=f8e429]:
+        - generic "Módulo Gestión directiva de la seguridad Ver contenido" [ref=f8e430] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f8e431]: Gestión directiva de la seguridad
+          - generic [ref=f8e433]: Ver contenido 
+      - group [ref=f8e435]:
+        - generic "Módulo Seguridad física y protección de instalaciones Ver contenido" [ref=f8e436] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f8e437]: Seguridad física y protección de instalaciones
+          - generic [ref=f8e439]: Ver contenido 
+      - group [ref=f8e441]:
+        - generic "Módulo Ciberseguridad y protección de la información crítica Ver contenido" [ref=f8e442] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f8e443]: Ciberseguridad y protección de la información crítica
+          - generic [ref=f8e445]: Ver contenido 
+      - group [ref=f8e447]:
+        - generic "Módulo Contrainteligencia y vigilancia técnica Ver contenido" [ref=f8e448] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f8e449]: Contrainteligencia y vigilancia técnica
+          - generic [ref=f8e451]: Ver contenido 
+      - group [ref=f8e453]:
+        - generic "Módulo Investigaciones de seguridad y debida diligencia Ver contenido" [ref=f8e454] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f8e455]: Investigaciones de seguridad y debida diligencia
+          - generic [ref=f8e457]: Ver contenido 
+      - group [ref=f8e459]:
+        - generic "Módulo Protección ejecutiva y seguridad de personas Ver contenido" [ref=f8e460] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f8e461]: Protección ejecutiva y seguridad de personas
+          - generic [ref=f8e463]: Ver contenido 
+      - group [ref=f8e465]:
+        - generic "Módulo Dirección de crisis, emergencias y continuidad operativa Ver contenido" [ref=f8e466] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=f8e467]: Dirección de crisis, emergencias y continuidad operativa
+          - generic [ref=f8e469]: Ver contenido 
+      - group [ref=f8e471]:
+        - 'generic "Módulo Proyecto Integrador: Plan Director de Seguridad Ver contenido" [ref=f8e472] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=f8e473]: "Proyecto Integrador: Plan Director de Seguridad"
+          - generic [ref=f8e475]: Ver contenido 
+  - generic [ref=f8e479]:
+    - heading "¿Quieres vivir esta experiencia en la próxima edición?" [level=2] [ref=f8e482]
+    - paragraph [ref=f8e485]: "Inicio: 30 de noviembre | Online en vivo | 10 Módulos"
+    - generic [ref=f8e486]:
+      - link "Reserva tu vacante" [ref=f8e490] [cursor=pointer]:
+        - /url: "#doble"
+        - generic [ref=f8e491]:
+          - generic [aria-hidden] [ref=f8e493]: 
+          - generic [ref=f8e494]: Reserva tu vacante
+      - link "Hablar con un asesor" [ref=f8e498] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+de+%C3%89lite+Internacional+Director+de+Seguridad
+        - generic [ref=f8e499]:
+          - generic [aria-hidden] [ref=f8e501]: 
+          - generic [ref=f8e502]: Hablar con un asesor
+  - generic [ref=f8e504]:
+    - heading "Aprende de especialistas en seguridad, inteligencia y gestión de riesgos." [level=2] [ref=f8e507]
+    - generic [ref=f8e509]:
+      - region "Docentes" [ref=f8e510]:
+        - generic [ref=f8e511]:
+          - group [aria-hidden] [ref=f8e512]:
+            - generic [ref=f8e514]:
+              - paragraph [ref=f8e520]: Colombia
+              - generic [ref=f8e521]:
+                - heading [level=3] [ref=f8e524]: Andrés Peñaranda
+                - paragraph [ref=f8e527]: Especialista en operaciones de información y seguridad estratégica
+                - link [ref=f8e531] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e532]:
+                    - generic [aria-hidden] [ref=f8e534]: 
+                    - generic [ref=f8e535]: Ver trayectoria
+          - group [aria-hidden] [ref=f8e536]:
+            - generic [ref=f8e538]:
+              - paragraph [ref=f8e544]: Colombia
+              - generic [ref=f8e545]:
+                - heading [level=3] [ref=f8e548]: Mg. Eduardo de la Torre
+                - paragraph [ref=f8e551]: Especialista en ciberseguridad, ciberdefensa y análisis digital
+                - link [ref=f8e555] [cursor=pointer]:
+                  - /url: https://grupogoberna.com/eduardo-de-la-torre/
+                  - generic [ref=f8e556]:
+                    - generic [aria-hidden] [ref=f8e558]: 
+                    - generic [ref=f8e559]: Ver trayectoria
+          - group [aria-hidden] [ref=f8e560]:
+            - generic [ref=f8e562]:
+              - paragraph [ref=f8e568]: Argentina
+              - generic [ref=f8e569]:
+                - heading [level=3] [ref=f8e572]: Daniela Galván
+                - paragraph [ref=f8e575]: Especialista en investigación criminal e inteligencia digital
+                - link [ref=f8e579] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e580]:
+                    - generic [aria-hidden] [ref=f8e582]: 
+                    - generic [ref=f8e583]: Ver trayectoria
+          - group [aria-hidden] [ref=f8e584]:
+            - generic [ref=f8e586]:
+              - paragraph [ref=f8e592]: España
+              - generic [ref=f8e593]:
+                - heading [level=3] [ref=f8e596]: Francisco López
+                - paragraph [ref=f8e599]: Especialista en dirección de seguridad, criminología y prevención del crimen
+                - link [ref=f8e603] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e604]:
+                    - generic [aria-hidden] [ref=f8e606]: 
+                    - generic [ref=f8e607]: Ver trayectoria
+          - group [aria-hidden] [ref=f8e608]:
+            - generic [ref=f8e610]:
+              - paragraph [ref=f8e616]: Argentina
+              - generic [ref=f8e617]:
+                - heading [level=3] [ref=f8e620]: Gonzalo Catanzariti
+                - paragraph [ref=f8e623]: Especialista en ciberinteligencia e investigación digital
+                - link [ref=f8e627] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e628]:
+                    - generic [aria-hidden] [ref=f8e630]: 
+                    - generic [ref=f8e631]: Ver trayectoria
+          - group "6 / 12" [ref=f8e632]:
+            - generic [ref=f8e634]:
+              - paragraph [ref=f8e640]: Colombia
+              - generic [ref=f8e641]:
+                - heading "Eduardo Velandia Becerra" [level=3] [ref=f8e644]
+                - paragraph [ref=f8e647]: Especialista en inteligencia, seguridad y conducción de equipos
+                - link "Ver trayectoria" [ref=f8e651] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e652]:
+                    - generic [aria-hidden] [ref=f8e654]: 
+                    - generic [ref=f8e655]: Ver trayectoria
+          - group "7 / 12" [ref=f8e656]:
+            - generic [ref=f8e658]:
+              - paragraph [ref=f8e664]: Colombia
+              - generic [ref=f8e665]:
+                - heading "Andrés Peñaranda" [level=3] [ref=f8e668]
+                - paragraph [ref=f8e671]: Especialista en operaciones de información y seguridad estratégica
+                - link "Ver trayectoria" [ref=f8e675] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e676]:
+                    - generic [aria-hidden] [ref=f8e678]: 
+                    - generic [ref=f8e679]: Ver trayectoria
+          - group "8 / 12" [ref=f8e680]:
+            - generic [ref=f8e682]:
+              - paragraph [ref=f8e688]: Colombia
+              - generic [ref=f8e689]:
+                - heading "Mg. Eduardo de la Torre" [level=3] [ref=f8e692]
+                - paragraph [ref=f8e695]: Especialista en ciberseguridad, ciberdefensa y análisis digital
+                - link "Ver trayectoria" [ref=f8e699] [cursor=pointer]:
+                  - /url: https://grupogoberna.com/eduardo-de-la-torre/
+                  - generic [ref=f8e700]:
+                    - generic [aria-hidden] [ref=f8e702]: 
+                    - generic [ref=f8e703]: Ver trayectoria
+          - group [aria-hidden] [ref=f8e704]:
+            - generic [ref=f8e706]:
+              - paragraph [ref=f8e712]: Argentina
+              - generic [ref=f8e713]:
+                - heading [level=3] [ref=f8e716]: Daniela Galván
+                - paragraph [ref=f8e719]: Especialista en investigación criminal e inteligencia digital
+                - link [ref=f8e723] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e724]:
+                    - generic [aria-hidden] [ref=f8e726]: 
+                    - generic [ref=f8e727]: Ver trayectoria
+          - group [aria-hidden] [ref=f8e728]:
+            - generic [ref=f8e730]:
+              - paragraph [ref=f8e736]: España
+              - generic [ref=f8e737]:
+                - heading [level=3] [ref=f8e740]: Francisco López
+                - paragraph [ref=f8e743]: Especialista en dirección de seguridad, criminología y prevención del crimen
+                - link [ref=f8e747] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e748]:
+                    - generic [aria-hidden] [ref=f8e750]: 
+                    - generic [ref=f8e751]: Ver trayectoria
+          - group [aria-hidden] [ref=f8e752]:
+            - generic [ref=f8e754]:
+              - paragraph [ref=f8e760]: Argentina
+              - generic [ref=f8e761]:
+                - heading [level=3] [ref=f8e764]: Gonzalo Catanzariti
+                - paragraph [ref=f8e767]: Especialista en ciberinteligencia e investigación digital
+                - link [ref=f8e771] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e772]:
+                    - generic [aria-hidden] [ref=f8e774]: 
+                    - generic [ref=f8e775]: Ver trayectoria
+          - group [aria-hidden] [ref=f8e776]:
+            - generic [ref=f8e778]:
+              - paragraph [ref=f8e784]: Colombia
+              - generic [ref=f8e785]:
+                - heading [level=3] [ref=f8e788]: Eduardo Velandia Becerra
+                - paragraph [ref=f8e791]: Especialista en inteligencia, seguridad y conducción de equipos
+                - link [ref=f8e795] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f8e796]:
+                    - generic [aria-hidden] [ref=f8e798]: 
+                    - generic [ref=f8e799]: Ver trayectoria
+      - button "Previous slide" [disabled] [ref=f8e800] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f8e801]: 
+      - button "Next slide" [ref=f8e802] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f8e803]: 
+      - generic [ref=f8e804]:
+        - button "Go to slide 1" [ref=f8e805] [cursor=pointer]
+        - button "Go to slide 2" [ref=f8e806] [cursor=pointer]
+        - button "Go to slide 3" [ref=f8e807] [cursor=pointer]
+        - button "Go to slide 4" [ref=f8e808] [cursor=pointer]
+  - generic [ref=f8e811]:
+    - paragraph [ref=f8e814]: Presencia internacional
+    - heading [level=2] [ref=f8e817]:
+      - text: Una red que habla el idioma
+      - generic [ref=f8e818]: político de Latinoamérica.
+    - paragraph [ref=f8e821]: Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+    - generic [ref=f8e826]:
+      - generic [ref=f8e827]:
+        - paragraph [ref=f8e830]: "+15"
+        - paragraph [ref=f8e833]: Países
+      - generic [ref=f8e834]:
+        - paragraph [ref=f8e837]: +10K
+        - paragraph [ref=f8e840]: Egresados
+      - generic [ref=f8e841]:
+        - paragraph [ref=f8e844]: "+300"
+        - paragraph [ref=f8e847]: Campañas
+  - generic [ref=f8e854]:
+    - paragraph [ref=f8e857]: Certificación
+    - heading [level=2] [ref=f8e860]:
+      - text: Una certificación para
+      - generic [ref=f8e861]: quienes dirigen la seguridad
+    - paragraph [ref=f8e864]: Al culminar satisfactoriamente el programa recibirás la certificación como Director de Seguridad. Una acreditación que reconoce tu formación para conducir sistemas integrales de seguridad, gestionar riesgos y coordinar capacidades de protección dentro de organizaciones públicas, privadas e institucionales.
+    - generic [ref=f8e873]:
+      - heading "Certificación internacional" [level=3] [ref=f8e876]
+      - paragraph [ref=f8e879]: Diploma emitido por Grupo Goberna, que acredita la culminación satisfactoria del programa.
+    - generic [ref=f8e888]:
+      - heading "Verificación digital" [level=3] [ref=f8e891]
+      - paragraph [ref=f8e894]: Credencial digital verificable que facilita la validación de tu certificación y su presentación profesional.
+      - link "Hablar con un asesor" [ref=f8e898] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+de+%C3%89lite+Internacional+Director+de+Seguridad
+        - generic [ref=f8e899]:
+          - generic [aria-hidden] [ref=f8e901]: 
+          - generic [ref=f8e902]: Hablar con un asesor
+  - generic [ref=f8e904]:
+    - generic [ref=f8e905]:
+      - paragraph [ref=f8e908]: Inversión
+      - heading "Lidera la seguridad con visión estratégica" [level=2] [ref=f8e911]
+      - paragraph [ref=f8e914]:
+        - generic [ref=f8e915]: $
+        - text: "199"
+        - generic [ref=f8e916]: USD
+      - generic [ref=f8e921]:
+        - generic [ref=f8e922]:
+          - paragraph [ref=f8e925]: Inicio
+          - paragraph [ref=f8e928]: 30 de noviembre
+        - generic [ref=f8e929]:
+          - paragraph [ref=f8e932]: DURACIÓN
+          - paragraph [ref=f8e935]: 10 MÓDULOS
+      - link "Pagar ahora" [ref=f8e939] [cursor=pointer]:
+        - /url: https://grupogoberna.com/checkout/?add-to-cart=93277&quantity=1
+      - paragraph [ref=f8e944]: Vacantes limitadas para garantizar una formación especializada.
+    - generic [ref=f8e945]:
+      - paragraph [ref=f8e948]: Admisión
+      - heading "¿Listo para liderar la seguridad de una organización?" [level=2] [ref=f8e951]
+      - paragraph [ref=f8e954]: Déjanos tus datos y te ayudaremos con tu inscripción.
+      - form "Director de Seguridad — Habla con un asesor" [ref=f8e957]:
+        - generic [ref=f8e958]:
+          - generic [ref=f8e959]:
+            - generic [ref=f8e960] [cursor=pointer]: Nombre completo
+            - textbox "Nombre completo" [ref=f8e961]:
+              - /placeholder: Ej. María Pérez
+          - generic [ref=f8e962]:
+            - generic [ref=f8e963] [cursor=pointer]: País
+            - generic [ref=f8e964]:
+              - generic:
+                - generic [aria-hidden]: 
+              - combobox "País" [ref=f8e965] [cursor=pointer]:
+                - option "Selecciona tu país" [selected]
+                - option "Argentina"
+                - option "Bolivia"
+                - option "Brasil"
+                - option "Chile"
+                - option "Colombia"
+                - option "Costa Rica"
+                - option "Cuba"
+                - option "Ecuador"
+                - option "El Salvador"
+                - option "España"
+                - option "Guatemala"
+                - option "Honduras"
+                - option "México"
+                - option "Nicaragua"
+                - option "Panamá"
+                - option "Paraguay"
+                - option "Perú"
+                - option "Puerto Rico"
+                - option "República Dominicana"
+                - option "Uruguay"
+                - option "Venezuela"
+                - option "Otro"
+          - generic [ref=f8e966]:
+            - generic [ref=f8e967] [cursor=pointer]: Teléfono
+            - textbox "Teléfono" [ref=f8e968]:
+              - /placeholder: Ej. +51 999 999 999
+          - generic [ref=f8e969]:
+            - generic [ref=f8e970] [cursor=pointer]: Cargo
+            - textbox "Cargo" [ref=f8e971]:
+              - /placeholder: Ej. Jefe de seguridad
+          - generic [ref=f8e972]:
+            - generic [ref=f8e973] [cursor=pointer]: Correo electrónico
+            - textbox "Correo electrónico" [ref=f8e974]:
+              - /placeholder: nombre@correo.com
+          - button "Enviar" [ref=f8e976] [cursor=pointer]
+      - paragraph [ref=f8e981]: Tus datos se usan solo para contactarte sobre el diploma.
+  - generic [ref=f8e983]:
+    - button "Reproducir video" [ref=f8e985] [cursor=pointer]
+    - generic [ref=f8e988]:
+      - paragraph [ref=f8e991]: Experiencia Goberna
+      - heading [level=2] [ref=f8e994]:
+        - text: "Más que un aula:"
+        - generic [ref=f8e995]: Una comunidad que actúa
+      - paragraph [ref=f8e998]: Amplía tu red de contactos, intercambia experiencias con profesionales internacionales y genera oportunidades de colaboración y crecimiento profesional.
+  - generic [ref=f8e1000]:
+    - generic [ref=f8e1001]:
+      - paragraph [ref=f8e1004]: Preguntas frecuentes
+      - heading [level=2] [ref=f8e1007]:
+        - text: Resolvemos tus dudas
+        - generic [ref=f8e1008]: antes de que decidas.
+      - paragraph [ref=f8e1011]: Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+    - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f8e1015]:
+      - group [ref=f8e1016]:
+        - generic "¿Cómo se realizan las clases?" [ref=f8e1017] [cursor=pointer]:
+          - generic [ref=f8e1020]:
+            - generic [aria-hidden] [ref=f8e1022]: 
+            - text: 
+        - region "¿Cómo se realizan las clases? Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases especializadas, análisis de casos, talleres, ejercicios de mesa y simulaciones aplicadas a la dirección de seguridad." [ref=f8e1023]:
+          - paragraph [ref=f8e1026]: Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases especializadas, análisis de casos, talleres, ejercicios de mesa y simulaciones aplicadas a la dirección de seguridad.
+      - group [ref=f8e1027]:
+        - generic "¿Cuánto dura el programa?" [ref=f8e1028] [cursor=pointer]:
+          - generic [ref=f8e1031]:
+            - text: 
+            - generic [aria-hidden] [ref=f8e1033]: 
+      - group [ref=f8e1034]:
+        - generic "¿Qué incluye mi inscripción?" [ref=f8e1035] [cursor=pointer]:
+          - generic [ref=f8e1038]:
+            - text: 
+            - generic [aria-hidden] [ref=f8e1040]: 
+      - group [ref=f8e1041]:
+        - generic "¿Cuáles son los medios de pago disponibles?" [ref=f8e1042] [cursor=pointer]:
+          - generic [ref=f8e1045]:
+            - text: 
+            - generic [aria-hidden] [ref=f8e1047]: 
+      - group [ref=f8e1048]:
+        - generic "¿Cómo puedo inscribirme?" [ref=f8e1049] [cursor=pointer]:
+          - generic [ref=f8e1052]:
+            - text: 
+            - generic [aria-hidden] [ref=f8e1054]: 
+  - generic [ref=f8e1056]:
+    - generic [ref=f8e1061]:
+      - generic [ref=f8e1062]:
+        - heading "La Alianza Estratégica:" [level=2] [ref=f8e1065]
+        - link [ref=f8e1068] [cursor=pointer]:
+          - /url: https://fundacionsmarcos.com/
+      - generic [ref=f8e1069]:
+        - heading "En convenio con:" [level=2] [ref=f8e1072]
+        - link [ref=f8e1078] [cursor=pointer]:
+          - /url: https://www.camaralima.org.pe/
+    - generic [ref=f8e1079]:
+      - generic [ref=f8e1080]:
+        - heading "Estados Unidos" [level=2] [ref=f8e1090]
+        - list [ref=f8e1093]:
+          - listitem [ref=f8e1094]:
+            - generic [aria-hidden] [ref=f8e1096]: 
+            - generic [ref=f8e1097]: (+1) 786 4141971
+          - listitem [ref=f8e1098]:
+            - link "informes@goberna.us" [ref=f8e1099] [cursor=pointer]:
+              - /url: mailto:iformes@goberna.us?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f8e1101]: 
+          - listitem [ref=f8e1103]:
+            - link "goberna.us" [ref=f8e1104] [cursor=pointer]:
+              - /url: http://goberna.us
+              - generic [aria-hidden] [ref=f8e1106]: 
+          - listitem [ref=f8e1108]:
+            - generic [aria-hidden] [ref=f8e1110]: 
+            - generic [ref=f8e1111]: "1900 N Bayshore Dr Suite 1A #136-2023 Miami, Florida, 33132 United States"
+      - generic [ref=f8e1112]:
+        - heading "México" [level=2] [ref=f8e1125]
+        - list [ref=f8e1128]:
+          - listitem [ref=f8e1129]:
+            - generic [aria-hidden] [ref=f8e1131]: 
+            - generic [ref=f8e1132]: (+52) 156 1058 4485
+          - listitem [ref=f8e1133]:
+            - link "mexico@grupogoberna.com" [ref=f8e1134] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f8e1136]: 
+          - listitem [ref=f8e1138]:
+            - link "grupogoberna.com" [ref=f8e1139] [cursor=pointer]:
+              - /url: http://grupogoberna.com
+              - generic [aria-hidden] [ref=f8e1141]: 
+          - listitem [ref=f8e1143]:
+            - generic [aria-hidden] [ref=f8e1145]: 
+            - generic [ref=f8e1146]: Río Tiber 100 col. Cuauhtémoc Piso 6 - Ciudad de México
+      - generic [ref=f8e1147]:
+        - heading "Perú" [level=2] [ref=f8e1157]
+        - list [ref=f8e1160]:
+          - listitem [ref=f8e1161]:
+            - generic [aria-hidden] [ref=f8e1163]: 
+            - generic [ref=f8e1164]: (+51) 944 531 711
+          - listitem [ref=f8e1165]:
+            - link "informes@goberna.pe" [ref=f8e1166] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f8e1168]: 
+          - listitem [ref=f8e1170]:
+            - link "grupogoberna.com" [ref=f8e1171] [cursor=pointer]:
+              - /url: http://goberna.pe
+              - generic [aria-hidden] [ref=f8e1173]: 
+          - listitem [ref=f8e1175]:
+            - generic [aria-hidden] [ref=f8e1177]: 
+            - generic [ref=f8e1178]: Avenida Manuel Olguín 335 - of 608, Surco, Lima
+      - generic [ref=f8e1179]:
+        - heading "Ecuador" [level=2] [ref=f8e1189]
+        - list [ref=f8e1192]:
+          - listitem [ref=f8e1193]:
+            - generic [aria-hidden] [ref=f8e1195]: 
+            - generic [ref=f8e1196]: (+593) 99 207 3457
+          - listitem [ref=f8e1197]:
+            - link "infoecuador@goberna.pe" [ref=f8e1198] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f8e1200]: 
+          - listitem [ref=f8e1202]:
+            - link "grupogoberna.com" [ref=f8e1203] [cursor=pointer]:
+              - /url: http://goberna.pe
+              - generic [aria-hidden] [ref=f8e1205]: 
+          - listitem [ref=f8e1207]:
+            - generic [aria-hidden] [ref=f8e1209]: 
+            - generic [ref=f8e1210]: Edificio The Point, Of. 2307, Ciudad del Río, Puerto Santa Ana - Guayaquil
+      - generic [ref=f8e1211]:
+        - heading "Bolivia" [level=2] [ref=f8e1224]
+        - list [ref=f8e1227]:
+          - listitem [ref=f8e1228]:
+            - generic [aria-hidden] [ref=f8e1230]: 
+            - generic [ref=f8e1231]: (+591) 78814740
+          - listitem [ref=f8e1232]:
+            - link "bolivia@grupogoberna.com" [ref=f8e1233] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f8e1235]: 
+          - listitem [ref=f8e1237]:
+            - link "grupogoberna.com" [ref=f8e1238] [cursor=pointer]:
+              - /url: http://grupogoberna.com
+              - generic [aria-hidden] [ref=f8e1240]: 
+          - listitem [ref=f8e1242]:
+            - generic [aria-hidden] [ref=f8e1244]: 
+            - generic [ref=f8e1245]: Av. Beni Edificio Top Center, Piso 7 Of. 7C - Santa Cruz
+      - generic [ref=f8e1246]:
+        - heading "Brasil" [level=2] [ref=f8e1252]
+        - list [ref=f8e1255]:
+          - listitem [ref=f8e1256]:
+            - generic [aria-hidden] [ref=f8e1258]: 
+            - generic [ref=f8e1259]: +55 21 98126-9882
+          - listitem [ref=f8e1260]:
+            - link "brasil@grupogoberna.com" [ref=f8e1261] [cursor=pointer]:
+              - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+              - generic [aria-hidden] [ref=f8e1263]: 
+          - listitem [ref=f8e1265]:
+            - link "grupogoberna.com" [ref=f8e1266] [cursor=pointer]:
+              - /url: http://grupogoberna.com
+              - generic [aria-hidden] [ref=f8e1268]: 
+          - listitem [ref=f8e1270]:
+            - generic [aria-hidden] [ref=f8e1272]: 
+            - generic [ref=f8e1273]: Praia de Botafogo, 360 - 520 c - Botafogo, Rio de Janeiro
+    - list [ref=f8e1277]:
+      - listitem [ref=f8e1278]:
+        - link "Libro de Reclamaciones" [ref=f8e1279] [cursor=pointer]:
+          - /url: https://grupogoberna.com/libro-de-reclamaciones/
+          - generic [aria-hidden] [ref=f8e1281]: 
+      - listitem [ref=f8e1283]:
+        - link "Política de Privacidad" [ref=f8e1284] [cursor=pointer]:
+          - /url: https://grupogoberna.com/politica-de-privacidad/
+      - listitem [ref=f8e1286]:
+        - link "Términos y condiciones" [ref=f8e1287] [cursor=pointer]:
+          - /url: https://grupogoberna.com/terminos-y-condiciones/
+  - contentinfo [ref=f8e1289]:
+    - generic [ref=f8e1290]:
+      - paragraph [ref=f8e1294]: Pagado por "Grupo Goberna" © Todos los derechos reservadosMéxico | Perú | Ecuador | Bolivia | Colombia | República Dominicana | Chile | Panamá | Costa Rica | Guatemala | Honduras | El Salvador | Uruguay
+      - list [ref=f8e1298]:
+        - listitem [ref=f8e1299]:
+          - link "Facebook-f" [ref=f8e1300] [cursor=pointer]:
+            - /url: https://www.facebook.com/gobernacorp/
+            - generic [aria-hidden] [ref=f8e1302]: 
+        - listitem [ref=f8e1303]:
+          - link "Twitter" [ref=f8e1304] [cursor=pointer]:
+            - /url: https://twitter.com/GobernaConsult
+            - generic [aria-hidden] [ref=f8e1306]: 
+        - listitem [ref=f8e1307]:
+          - link "Instagram" [ref=f8e1308] [cursor=pointer]:
+            - /url: https://www.instagram.com/gobernacorp
+            - generic [aria-hidden] [ref=f8e1310]: 
+        - listitem [ref=f8e1311]:
+          - link "Linkedin" [ref=f8e1312] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/goberna-analytics
+            - generic [aria-hidden] [ref=f8e1314]: 
+        - listitem [ref=f8e1315]:
+          - link "Youtube" [ref=f8e1316] [cursor=pointer]:
+            - /url: https://www.youtube.com/GobernaSAC
+            - generic [aria-hidden] [ref=f8e1318]: 
+        - listitem [ref=f8e1319]:
+          - link "Vimeo" [ref=f8e1320] [cursor=pointer]:
+            - /url: https://vimeo.com/goberna
+            - generic [aria-hidden] [ref=f8e1322]: 
+        - listitem [ref=f8e1323]:
+          - link "Telegram-plane" [ref=f8e1324] [cursor=pointer]:
+            - /url: http://t.me/GobernaCorp
+            - generic [aria-hidden] [ref=f8e1326]: 
