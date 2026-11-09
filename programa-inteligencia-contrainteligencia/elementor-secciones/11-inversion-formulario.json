@@ -1,0 +1,1021 @@
+{
+ "content": [
+  {
+   "id": "48938bb",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "row",
+    "flex_gap": {
+     "unit": "px",
+     "size": 80,
+     "column": "80",
+     "row": "0"
+    },
+    "background_background": "classic",
+    "background_color": "#0B1213",
+    "jet_parallax_layout_list": [],
+    "background_image": {
+     "url": "https://grupogoberna.com/wp-content/uploads/2026/09/07_pricing-bg.webp",
+     "id": 92022,
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "background_position": "top center",
+    "background_repeat": "no-repeat",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1300,
+     "sizes": []
+    },
+    "flex_justify_content": "center",
+    "flex_align_items": "center",
+    "padding": {
+     "unit": "px",
+     "top": "50",
+     "right": "0",
+     "bottom": "50",
+     "left": "0",
+     "isLinked": false
+    },
+    "_title": "inversion",
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "15",
+     "bottom": "50",
+     "left": "15",
+     "isLinked": false
+    },
+    "flex_direction_tablet": "column",
+    "flex_gap_laptop": {
+     "column": "80",
+     "row": "80",
+     "isLinked": true,
+     "unit": "px",
+     "size": 80
+    },
+    "flex_gap_mobile": {
+     "column": "20",
+     "row": "20",
+     "isLinked": true,
+     "unit": "px",
+     "size": 20
+    },
+    "padding_laptop": {
+     "unit": "px",
+     "top": "80",
+     "right": "15",
+     "bottom": "80",
+     "left": "15",
+     "isLinked": false
+    },
+    "padding_tablet": {
+     "unit": "px",
+     "top": "80",
+     "right": "30",
+     "bottom": "80",
+     "left": "30",
+     "isLinked": false
+    },
+    "background_size": "cover",
+    "_element_id": "inversion"
+   },
+   "elements": [
+    {
+     "id": "c71a44d",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "width": {
+       "unit": "px",
+       "size": 564
+      },
+      "jet_sticky_section_min_height": {
+       "unit": "px",
+       "size": "",
+       "sizes": []
+      },
+      "jet_sticky_section_min_height_tablet": {
+       "unit": "px",
+       "size": "",
+       "sizes": []
+      },
+      "jet_sticky_section_min_height_mobile": {
+       "unit": "px",
+       "size": "",
+       "sizes": []
+      },
+      "jet_parallax_layout_list": [],
+      "_flex_size": "none",
+      "_element_width": "initial",
+      "margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "50",
+       "left": "0",
+       "isLinked": false
+      },
+      "flex_gap": {
+       "column": "",
+       "row": "",
+       "isLinked": true,
+       "unit": "px",
+       "size": null
+      },
+      "width_laptop": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "width_tablet": {
+       "unit": "%",
+       "size": "",
+       "sizes": []
+      },
+      "width_mobile": {
+       "unit": "%",
+       "size": "",
+       "sizes": []
+      }
+     },
+     "elements": [
+      {
+       "id": "b15f7c6",
+       "elType": "widget",
+       "settings": {
+        "title": "iNVERSIÓN",
+        "header_size": "span",
+        "typography_typography": "custom",
+        "typography_font_family": "Open Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "typography_text_transform": "uppercase",
+        "typography_letter_spacing": {
+         "unit": "px",
+         "size": 1.4,
+         "sizes": []
+        },
+        "__globals__": {
+         "title_color": ""
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 14,
+         "sizes": []
+        },
+        "title_color": "#D6A752"
+       },
+       "elements": [],
+       "widgetType": "heading",
+       "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<span class=\"elementor-heading-title elementor-size-default\">iNVERSIÓN</span>\t\t\t\t</div>\n\t\t"
+      },
+      {
+       "id": "58dc999",
+       "elType": "widget",
+       "settings": {
+        "space": {
+         "unit": "px",
+         "size": 20,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "widgetType": "spacer",
+       "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-spacer\">\n\t\t\t<div class=\"elementor-spacer-inner\"></div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t"
+      },
+      {
+       "id": "f6a40af",
+       "elType": "widget",
+       "settings": {
+        "title": "CONVIÉRTETE EN UN ESPECIALISTA CAPAZ DE <span class=\"text-M\">TRANSFORMAR INFORMACIÓN EN DECISIONES.</span>",
+        "_element_width": "initial",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 100.192
+        },
+        "_flex_size": "none",
+        "_margin_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Barlow",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 40,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "__globals__": {
+         "title_color": "globals/colors?id=2f4386a"
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 24,
+         "sizes": []
+        },
+        "typography_font_size_laptop": {
+         "unit": "px",
+         "size": 34,
+         "sizes": []
+        },
+        "custom_css": "selector .text-M {\r\n  color: #D5A752;\r\n}",
+        "text_shadow_text_shadow_type": "yes"
+       },
+       "elements": [],
+       "widgetType": "heading",
+       "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">CONVIÉRTETE EN UN ESPECIALISTA CAPAZ DE <span class=\"text-M\">TRANSFORMAR INFORMACIÓN EN DECISIONES.</span></h2>\t\t\t\t</div>\n\t\t"
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "a3c6d89",
+     "elType": "container",
+     "settings": {
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "flex_direction": "column",
+      "flex_align_items": "stretch",
+      "flex_gap": {
+       "unit": "px",
+       "column": "0",
+       "row": "0",
+       "isLinked": true,
+       "size": 0
+      },
+      "padding": {
+       "unit": "px",
+       "top": "64",
+       "right": "80",
+       "bottom": "40",
+       "left": "80",
+       "isLinked": false
+      },
+      "padding_laptop": {
+       "unit": "px",
+       "top": "48",
+       "right": "48",
+       "bottom": "36",
+       "left": "48",
+       "isLinked": false
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "32",
+       "right": "24",
+       "bottom": "28",
+       "left": "24",
+       "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#F5F7FA",
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "1",
+       "right": "1",
+       "bottom": "1",
+       "left": "1",
+       "isLinked": true
+      },
+      "border_color": "#707070",
+      "border_radius": {
+       "unit": "px",
+       "top": "20",
+       "right": "20",
+       "bottom": "20",
+       "left": "20",
+       "isLinked": true
+      },
+      "css_classes": "ak-form-card",
+      "custom_css": "selector { max-width: 729px; }",
+      "jet_parallax_layout_list": [],
+      "_element_id": "inscribete"
+     },
+     "elements": [
+      {
+       "id": "3c8b7a0",
+       "elType": "widget",
+       "settings": {
+        "title": "¿Listo para dar el siguiente paso?",
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "custom_css": "\n",
+        "typography_typography": "custom",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 38,
+         "sizes": []
+        },
+        "typography_line_height": {
+         "unit": "px",
+         "size": 42,
+         "sizes": []
+        },
+        "title_color": "#000000",
+        "_element_width": "initial",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 89.091
+        },
+        "_flex_size": "none",
+        "_margin_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 24,
+         "sizes": []
+        },
+        "typography_font_family": "Montserrat",
+        "typography_font_size_laptop": {
+         "unit": "px",
+         "size": 34,
+         "sizes": []
+        },
+        "typography_font_weight": "700"
+       },
+       "elements": [],
+       "widgetType": "heading",
+       "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">¿Listo para dar el siguiente paso?</h2>\t\t\t\t</div>\n\t\t"
+      },
+      {
+       "id": "cb7e848",
+       "elType": "widget",
+       "settings": {
+        "width": {
+         "unit": "px",
+         "size": 60,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "px",
+         "size": "",
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": "",
+         "sizes": []
+        },
+        "text": "Separador",
+        "weight": {
+         "unit": "px",
+         "size": 6,
+         "sizes": []
+        },
+        "__globals__": {
+         "color": ""
+        },
+        "color": "#D6A752",
+        "_margin": {
+         "unit": "px",
+         "top": "-7",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        }
+       },
+       "elements": [],
+       "widgetType": "divider",
+       "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t"
+      },
+      {
+       "id": "8dd6772",
+       "elType": "container",
+       "settings": {
+        "width": {
+         "unit": "%",
+         "size": ""
+        },
+        "_flex_size": "none",
+        "jet_parallax_layout_list": [],
+        "_element_width": "initial"
+       },
+       "elements": [
+        {
+         "id": "15fcd86",
+         "elType": "widget",
+         "settings": {
+          "form_name": "DatosNuevo",
+          "form_fields": [
+           {
+            "custom_id": "nombres",
+            "field_label": "Nombres Completos",
+            "_id": "ba28efc",
+            "required": "true",
+            "rows": "4",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": "",
+            "width_tablet": "100"
+           },
+           {
+            "field_type": "select",
+            "field_label": "País",
+            "required": "true",
+            "field_options": " \nArgentina 54\nBolivia 591\nBrasil 55\nCanadá 1\nChile 56\nColombia 57\nCosta Rica 506\nCuba 53\nEcuador 593\nEl Salvador 503\nEspaña 34\nEstados Unidos 1\nGuatemala 502\nHaití 509\nHonduras 504\nMéxico 52\nNicaragua 505\nPanamá 507\nParaguay 595\nPerú 51\nPuerto Rico 1787\nPuerto Rico 1939\nRepública Dominicana 1\nUruguay 598\nVenezuela 58",
+            "rows": "4",
+            "custom_id": "lugar",
+            "_id": "04b2dda",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": "",
+            "width": "30"
+           },
+           {
+            "field_type": "tel",
+            "field_label": "Telefono",
+            "required": "true",
+            "rows": "4",
+            "custom_id": "telefono",
+            "_id": "1e9483f",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": "",
+            "width": "70"
+           },
+           {
+            "field_type": "select",
+            "field_label": "Cargo",
+            "required": "true",
+            "field_options": " \nCandidato\nJefe de Campaña\nAsesor político\nEstratega\nEstudiantes\nOtros\n ",
+            "rows": "4",
+            "custom_id": "cargo",
+            "_id": "64925b8",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": "",
+            "width_tablet": "100"
+           },
+           {
+            "custom_id": "correo",
+            "field_type": "email",
+            "required": "true",
+            "field_label": "Correo Electrónico",
+            "_id": "f661020",
+            "rows": "4",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": ""
+           },
+           {
+            "field_type": "hidden",
+            "field_label": "pagina",
+            "rows": "4",
+            "custom_id": "pagina",
+            "_id": "be2a747",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"4ed59f6\" name=\"post-title\" settings=\"%7B%7D\"]"
+            },
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": ""
+           },
+           {
+            "field_type": "hidden",
+            "field_label": "source",
+            "custom_id": "source",
+            "_id": "374dffd",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"4415a82\" name=\"request-arg\" settings=\"%7B%22param_name%22%3A%22utm_source%22%2C%22fallback%22%3A%22Sin%20dato%22%7D\"]"
+            },
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": ""
+           },
+           {
+            "field_type": "hidden",
+            "field_label": "medium",
+            "custom_id": "medium",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"4415a82\" name=\"request-arg\" settings=\"%7B%22param_name%22%3A%22utm_medium%22%2C%22fallback%22%3A%22Sin%20dato%22%7D\"]"
+            },
+            "_id": "431e574",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": ""
+           },
+           {
+            "field_type": "hidden",
+            "field_label": "campaign",
+            "custom_id": "campaign",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"4415a82\" name=\"request-arg\" settings=\"%7B%22param_name%22%3A%22utm_campaign%22%2C%22fallback%22%3A%22Sin%20dato%22%7D\"]"
+            },
+            "_id": "536af4c",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": ""
+           },
+           {
+            "field_type": "hidden",
+            "field_label": "content",
+            "custom_id": "content",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"4415a82\" name=\"request-arg\" settings=\"%7B%22param_name%22%3A%22utm_content%22%2C%22fallback%22%3A%22ORGANICO%22%7D\"]"
+            },
+            "_id": "da9bd35",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": ""
+           },
+           {
+            "field_type": "hidden",
+            "field_label": "fbclid",
+            "custom_id": "fbclid",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"4415a82\" name=\"request-arg\" settings=\"%7B%22param_name%22%3A%22fbclid%22%2C%22fallback%22%3A%22ORGANICO%22%7D\"]"
+            },
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": "",
+            "_id": "a919646"
+           },
+           {
+            "field_type": "recaptcha_v3",
+            "recaptcha_badge": "inline",
+            "custom_id": "field_9fd2a17",
+            "_id": "9fd2a17",
+            "previous_button": "",
+            "next_button": "",
+            "file_sizes": "",
+            "file_types": "",
+            "allow_multiple_upload": "",
+            "max_files": "",
+            "acceptance_text": "",
+            "checked_by_default": "",
+            "field_min": "",
+            "field_max": "",
+            "min_date": "",
+            "max_date": "",
+            "use_native_date": "",
+            "use_native_time": ""
+           },
+           {
+            "_id": "5f66e26",
+            "field_type": "hidden",
+            "field_label": "division",
+            "custom_id": "division",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"c541b39\" name=\"jet-post-custom-field\" settings=\"%7B%22meta_field%22%3A%22division_eje%22%7D\"]"
+            }
+           },
+           {
+            "field_type": "hidden",
+            "field_label": "negocio",
+            "custom_id": "negocio",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"c541b39\" name=\"jet-post-custom-field\" settings=\"%7B%22meta_field%22%3A%22unidad_de_negocio%22%7D\"]"
+            },
+            "_id": "68b9f62"
+           },
+           {
+            "field_type": "hidden",
+            "field_label": "categoria",
+            "custom_id": "categoria",
+            "__dynamic__": {
+             "field_value": "[elementor-tag id=\"fb2bba7\" name=\"woocommerce-product-terms-tag\" settings=\"%7B%22separator%22%3A%22%2C%20%22%2C%22before%22%3A%22%22%7D\"]"
+            },
+            "_id": "acbfea0"
+           },
+           {
+            "_id": "967fe9c",
+            "field_type": "hidden",
+            "field_label": "Fecha",
+            "custom_id": "fecha"
+           },
+           {
+            "_id": "254db54",
+            "field_type": "hidden",
+            "field_label": "sheet_id",
+            "field_value": "1vAB5YVm-YSK4mS-JvBw1A8KU7OXSjKA9Wp56nB0v4Ew",
+            "custom_id": "sheet_id"
+           },
+           {
+            "_id": "7e54806",
+            "field_type": "hidden",
+            "field_label": "sheet_name",
+            "field_value": "DatosNuevo",
+            "custom_id": "sheet_name"
+           }
+          ],
+          "button_text": "ENVIAR",
+          "email_to": "[field id=\"correo\"]",
+          "email_subject": "[field id=\"pagina\"]",
+          "email_content": "Hola [field id=\"nombres\"],\n\nDejaste tus datos por mostrar interés en nuestro [field id=\"pagina\"]\n\nEn breve uno de nuestros asesores se pondrá en contacto contigo.\n\nSaludos.\n\n\nGoberna",
+          "email_from": "webmaster@goberna.pe",
+          "email_from_name": "Goberna Analytics",
+          "email_to_2": "gobernabusiness@gmail.com",
+          "email_subject_2": "[field id=\"pagina\"]",
+          "email_content_2": "[field id=\"pagina\"]\n\nRegistro\n---------\n\n[all-fields]\n\nEste mensaje se ha enviado desde un formulario de contacto en Goberna (https://goberna.pe)",
+          "email_from_2": "webmaster@goberna.pe",
+          "email_from_name_2": "Goberna Analytics",
+          "email_reply_to_2": "",
+          "success_message": "Espere un momento, estamos procesando sus datos...",
+          "error_message": "Error al procesar el registro.",
+          "required_field_message": "Complete los campos requeridos.",
+          "invalid_message": "Campo de entrada invalido.",
+          "html_typography_typography": "custom",
+          "html_typography_font_size": {
+           "unit": "px",
+           "size": 1,
+           "sizes": []
+          },
+          "field_border_color": "#FFFFFF",
+          "submit_actions": [
+           "email2",
+           "redirect"
+          ],
+          "form_id": "form_reg_mktp",
+          "button_css_id": "btnEnviar-Presidencial",
+          "form_metadata": [],
+          "custom_messages": "yes",
+          "form_metadata_2": [
+           "date",
+           "time",
+           "page_url",
+           "user_agent",
+           "remote_ip",
+           "credit"
+          ],
+          "email_content_type_2": "plain",
+          "email_content_type": "plain",
+          "_margin_mobile": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "step_next_label": "Next",
+          "step_previous_label": "Previous",
+          "__dynamic__": [],
+          "activecampaign_list": "63",
+          "activecampaign_fields_map": [
+           {
+            "remote_id": "email",
+            "remote_label": "Email",
+            "remote_type": "email",
+            "remote_required": true,
+            "local_id": "correo",
+            "_id": "fbf05df"
+           },
+           {
+            "remote_id": "first_name",
+            "remote_label": "First Name",
+            "remote_type": "text",
+            "remote_required": false,
+            "_id": "9dcb4dc"
+           },
+           {
+            "remote_id": "last_name",
+            "remote_label": "Last Name",
+            "remote_type": "text",
+            "remote_required": false,
+            "_id": "c175df4"
+           },
+           {
+            "remote_id": "phone",
+            "remote_label": "Phone",
+            "remote_type": "text",
+            "remote_required": false,
+            "local_id": "telefono",
+            "_id": "f7d6d35"
+           },
+           {
+            "remote_id": "orgname",
+            "remote_label": "Organization name",
+            "remote_type": "text",
+            "remote_required": false,
+            "_id": "c32e03e"
+           },
+           {
+            "remote_id": "field[1,0]",
+            "remote_label": "País",
+            "remote_type": "text",
+            "remote_required": false,
+            "local_id": "lugar",
+            "_id": "cb784df"
+           },
+           {
+            "remote_id": "field[2,0]",
+            "remote_label": "Región",
+            "remote_type": "text",
+            "remote_required": false,
+            "_id": "a5f6135"
+           },
+           {
+            "remote_id": "field[3,0]",
+            "remote_label": "Cargo",
+            "remote_type": "text",
+            "remote_required": false,
+            "local_id": "cargo",
+            "_id": "d347477"
+           },
+           {
+            "remote_id": "field[4,0]",
+            "remote_label": "Nombre Completo",
+            "remote_type": "text",
+            "remote_required": false,
+            "local_id": "nombres",
+            "_id": "c25c236"
+           },
+           {
+            "remote_id": "field[5,0]",
+            "remote_label": "Correo",
+            "remote_type": "text",
+            "remote_required": false,
+            "_id": "d77b218"
+           },
+           {
+            "remote_id": "field[6,0]",
+            "remote_label": "Curso",
+            "remote_type": "text",
+            "remote_required": false,
+            "_id": "c735bda"
+           }
+          ],
+          "mailchimp_fields_map": [],
+          "drip_fields_map": [],
+          "getresponse_fields_map": [],
+          "convertkit_fields_map": [],
+          "mailerlite_fields_map": [],
+          "button_typography_typography": "custom",
+          "button_typography_font_family": "Montserrat",
+          "button_typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "__globals__": {
+           "button_text_color": "",
+           "button_hover_color": "",
+           "button_background_color": "",
+           "previous_button_background_color": ""
+          },
+          "redirect_to": "https://grupogoberna.com/pagina-de-agradecimiento/?fullname=[field id=\"nombres\"]&curso=[field id=\"pagina\"]",
+          "button_text_color": "#000000",
+          "server_message": "Your submission failed because of a server error.",
+          "content_width": "full",
+          "webhooks": "https://script.google.com/macros/s/AKfycbykUmN8W1giJJJI_XJSmI9Nfcwdq8sGTCN2zUn1IzDGUZCPgUAf7j8U6_eYg_LZXJh4Yw/exec",
+          "html_typography_letter_spacing": {
+           "unit": "px",
+           "size": 1.35,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": true
+          },
+          "jet_tricks_widget_satellite_icon_bg_hover_gradient_position_laptop": "center center",
+          "jet_tricks_widget_satellite_icon_bg_hover_gradient_position_tablet": "center center",
+          "jet_tricks_widget_satellite_icon_bg_hover_gradient_position_mobile": "center center",
+          "jet_tricks_widget_tooltip_background_gradient_position_laptop": "center center",
+          "jet_tricks_widget_tooltip_background_gradient_position_tablet": "center center",
+          "jet_tricks_widget_tooltip_background_gradient_position_mobile": "center center",
+          "jet_tricks_widget_scroll_reveal_mask_bg_gradient_position_laptop": "center center",
+          "jet_tricks_widget_scroll_reveal_mask_bg_gradient_position_tablet": "center center",
+          "jet_tricks_widget_scroll_reveal_mask_bg_gradient_position_mobile": "center center",
+          "_background_gradient_position_laptop": "center center",
+          "_background_gradient_position_tablet": "center center",
+          "_background_gradient_position_mobile": "center center",
+          "_background_hover_gradient_position_laptop": "center center",
+          "_background_hover_gradient_position_tablet": "center center",
+          "_background_hover_gradient_position_mobile": "center center",
+          "custom_css": "/* Etiquetas */\nselector .elementor-field-label {\n  font-family: 'Inter', sans-serif;\n  font-size: 15px;\n  font-weight: 400;\n  line-height: 1.3;\n  letter-spacing: 1.35px;\n  color: #253054;\n  text-transform: uppercase;\n  display: block;\n  margin-bottom: 4px;\n}\n\n/* Campos: solo línea inferior */\nselector input[type=\"text\"],\nselector input[type=\"email\"],\nselector input[type=\"tel\"],\nselector select,\nselector .elementor-field-textual {\n  border: none !important;\n  border-bottom: 1px solid #A1B5D3 !important;\n  border-radius: 0 !important;\n  background: transparent !important;\n  box-shadow: none !important;\n  width: 100%;\n  padding: 8px 0;\n  font-size: 15px;\n  color: #253054;\n}\n\nselector input:focus,\nselector select:focus,\nselector .elementor-field-textual:focus {\n  outline: none !important;\n  border-bottom-color: #FFC72C !important;\n}\n\n/* Separación entre bloques */\nselector .elementor-field-group {\n  margin-bottom: 40px !important;\n}\n\nselector .elementor-field-group:last-child {\n  margin-bottom: 0 !important;\n}\n\n/* Botón */\nselector .elementor-button {\n  background: #FFC901;\n  border: none;\n  border-radius: 32px;\n  width: 100%;\n  min-height: 64px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 24px;\n  color: #0A132F;\n  transition: background 0.3s;\n}\n\nselector .elementor-button:hover {\n  background: #E8B600;\n  color: #0A132F;\n}",
+          "button_size": "xs",
+          "column_gap": {
+           "unit": "px",
+           "size": 60,
+           "sizes": []
+          },
+          "label_typography_typography": "custom",
+          "label_typography_font_size_laptop": {
+           "unit": "px",
+           "size": 14,
+           "sizes": []
+          },
+          "label_typography_font_size_mobile": {
+           "unit": "px",
+           "size": 13,
+           "sizes": []
+          },
+          "field_typography_typography": "custom",
+          "button_typography_font_size_laptop": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "button_typography_font_size_mobile": {
+           "unit": "px",
+           "size": 14,
+           "sizes": []
+          },
+          "button_text_padding": {
+           "unit": "px",
+           "top": "8",
+           "right": "8",
+           "bottom": "8",
+           "left": "8",
+           "isLinked": true
+          },
+          "button_background_color": "#EBC574",
+          "button_hover_color": "#FFFFFF",
+          "button_border_radius": {
+           "unit": "px",
+           "top": "8",
+           "right": "8",
+           "bottom": "8",
+           "left": "8",
+           "isLinked": true
+          }
+         },
+         "elements": [],
+         "widgetType": "form",
+         "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<form class=\"elementor-form\" method=\"post\" id=\"form_reg_mktp\" name=\"DatosNuevo\" aria-label=\"DatosNuevo\">\n\t\t\t<input type=\"hidden\" name=\"post_id\" value=\"91989\"/>\n\t\t\t<input type=\"hidden\" name=\"form_id\" value=\"15fcd86\"/>\n\t\t\t<input type=\"hidden\" name=\"referer_title\" value=\"\" />\n\n\t\t\t\n\t\t\t<div class=\"elementor-form-fields-wrapper elementor-labels-above\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-text elementor-field-group elementor-column elementor-field-group-nombres elementor-col-100 elementor-md-100 elementor-field-required\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-nombres\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tNombres Completos\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"text\" name=\"form_fields[nombres]\" id=\"form-field-nombres\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" required=\"required\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-select elementor-field-group elementor-column elementor-field-group-lugar elementor-col-30 elementor-field-required\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-lugar\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tPaís\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field elementor-select-wrapper remove-before \">\n\t\t\t<div class=\"select-caret-down-wrapper\">\n\t\t\t\t<i aria-hidden=\"true\" class=\"eicon-caret-down\"></i>\t\t\t</div>\n\t\t\t<select name=\"form_fields[lugar]\" id=\"form-field-lugar\" class=\"elementor-field-textual elementor-size-sm\" required=\"required\">\n\t\t\t\t\t\t\t\t\t<option value=\" \"> </option>\n\t\t\t\t\t\t\t\t\t<option value=\"Argentina 54\">Argentina 54</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Bolivia 591\">Bolivia 591</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Brasil 55\">Brasil 55</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Canadá 1\">Canadá 1</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Chile 56\">Chile 56</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Colombia 57\">Colombia 57</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Costa Rica 506\">Costa Rica 506</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Cuba 53\">Cuba 53</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Ecuador 593\">Ecuador 593</option>\n\t\t\t\t\t\t\t\t\t<option value=\"El Salvador 503\">El Salvador 503</option>\n\t\t\t\t\t\t\t\t\t<option value=\"España 34\">España 34</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Estados Unidos 1\">Estados Unidos 1</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Guatemala 502\">Guatemala 502</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Haití 509\">Haití 509</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Honduras 504\">Honduras 504</option>\n\t\t\t\t\t\t\t\t\t<option value=\"México 52\">México 52</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Nicaragua 505\">Nicaragua 505</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Panamá 507\">Panamá 507</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Paraguay 595\">Paraguay 595</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Perú 51\">Perú 51</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Puerto Rico 1787\">Puerto Rico 1787</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Puerto Rico 1939\">Puerto Rico 1939</option>\n\t\t\t\t\t\t\t\t\t<option value=\"República Dominicana 1\">República Dominicana 1</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Uruguay 598\">Uruguay 598</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Venezuela 58\">Venezuela 58</option>\n\t\t\t\t\t\t\t</select>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-telefono elementor-col-70 elementor-field-required\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-telefono\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tTelefono\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<input size=\"1\" type=\"tel\" name=\"form_fields[telefono]\" id=\"form-field-telefono\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" required=\"required\" pattern=\"[0-9()#&amp;+*-=.]+\" title=\"Solo se aceptan números y caracteres de teléfono (#,-,*,etc).\">\n\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-select elementor-field-group elementor-column elementor-field-group-cargo elementor-col-100 elementor-md-100 elementor-field-required\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-cargo\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tCargo\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field elementor-select-wrapper remove-before \">\n\t\t\t<div class=\"select-caret-down-wrapper\">\n\t\t\t\t<i aria-hidden=\"true\" class=\"eicon-caret-down\"></i>\t\t\t</div>\n\t\t\t<select name=\"form_fields[cargo]\" id=\"form-field-cargo\" class=\"elementor-field-textual elementor-size-sm\" required=\"required\">\n\t\t\t\t\t\t\t\t\t<option value=\" \"> </option>\n\t\t\t\t\t\t\t\t\t<option value=\"Candidato\">Candidato</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Jefe de Campaña\">Jefe de Campaña</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Asesor político\">Asesor político</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Estratega\">Estratega</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Estudiantes\">Estudiantes</option>\n\t\t\t\t\t\t\t\t\t<option value=\"Otros\">Otros</option>\n\t\t\t\t\t\t\t\t\t<option value=\" \"> </option>\n\t\t\t\t\t\t\t</select>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-email elementor-field-group elementor-column elementor-field-group-correo elementor-col-100 elementor-field-required\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-correo\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tCorreo Electrónico\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"email\" name=\"form_fields[correo]\" id=\"form-field-correo\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" required=\"required\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-pagina elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[pagina]\" id=\"form-field-pagina\" class=\"elementor-field elementor-size-sm  elementor-field-textual\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-source elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[source]\" id=\"form-field-source\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" value=\"Sin dato\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-medium elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[medium]\" id=\"form-field-medium\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" value=\"Sin dato\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-campaign elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[campaign]\" id=\"form-field-campaign\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" value=\"Sin dato\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-content elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[content]\" id=\"form-field-content\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" value=\"ORGANICO\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-fbclid elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[fbclid]\" id=\"form-field-fbclid\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" value=\"ORGANICO\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-recaptcha_v3 elementor-field-group elementor-column elementor-field-group-field_9fd2a17 elementor-col-100 recaptcha_v3-inline\">\n\t\t\t\t\t<div class=\"elementor-field\" id=\"form-field-field_9fd2a17\"><div class=\"elementor-g-recaptcha\" data-sitekey=\"6LcGYDciAAAAAPpUG-Ji-TKUlYphfrwdkuR_Xaop\" data-type=\"v3\" data-action=\"Form\" data-badge=\"inline\" data-size=\"invisible\"></div></div>\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-division elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[division]\" id=\"form-field-division\" class=\"elementor-field elementor-size-sm  elementor-field-textual\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-negocio elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[negocio]\" id=\"form-field-negocio\" class=\"elementor-field elementor-size-sm  elementor-field-textual\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-categoria elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[categoria]\" id=\"form-field-categoria\" class=\"elementor-field elementor-size-sm  elementor-field-textual\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-fecha elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[fecha]\" id=\"form-field-fecha\" class=\"elementor-field elementor-size-sm  elementor-field-textual\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-sheet_id elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[sheet_id]\" id=\"form-field-sheet_id\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" value=\"1vAB5YVm-YSK4mS-JvBw1A8KU7OXSjKA9Wp56nB0v4Ew\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-sheet_name elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"hidden\" name=\"form_fields[sheet_name]\" id=\"form-field-sheet_name\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" value=\"DatosNuevo\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons\">\n\t\t\t\t\t<button class=\"elementor-button elementor-size-xs\" type=\"submit\" id=\"btnEnviar-Presidencial\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">ENVIAR</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t</button>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</form>\n\t\t\t\t\t\t</div>\n\t\t"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "11 Inversión + formulario de inscripción",
+ "type": "section"
+}

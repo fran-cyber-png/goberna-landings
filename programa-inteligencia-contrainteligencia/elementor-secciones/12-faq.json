@@ -1,0 +1,686 @@
+{
+ "content": [
+  {
+   "id": "59bdb6f",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "row",
+    "flex_gap": {
+     "unit": "px",
+     "size": 0,
+     "column": "0",
+     "row": "0"
+    },
+    "background_background": "classic",
+    "background_image": {
+     "url": "",
+     "id": "",
+     "size": "medium_large",
+     "alt": "",
+     "source": "library"
+    },
+    "background_position": "center left",
+    "background_repeat": "no-repeat",
+    "jet_parallax_layout_list": [],
+    "boxed_width": {
+     "unit": "px",
+     "size": 1470,
+     "sizes": []
+    },
+    "background_color": "#F2F4F8",
+    "flex_align_items": "stretch",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": true
+    },
+    "_title": "faq",
+    "flex_direction_tablet": "column",
+    "padding_laptop": {
+     "unit": "px",
+     "top": "80",
+     "right": "15",
+     "bottom": "80",
+     "left": "15",
+     "isLinked": false
+    },
+    "background_overlay_background": "classic",
+    "background_overlay_image": {
+     "url": "",
+     "id": "",
+     "size": "medium_large",
+     "alt": "",
+     "source": "library"
+    },
+    "background_overlay_position": "initial",
+    "background_overlay_xpos": {
+     "unit": "px",
+     "size": -175,
+     "sizes": []
+    },
+    "background_overlay_ypos": {
+     "unit": "px",
+     "size": -272,
+     "sizes": []
+    },
+    "background_overlay_repeat": "no-repeat",
+    "background_overlay_opacity": {
+     "unit": "px",
+     "size": 1,
+     "sizes": []
+    },
+    "background_overlay_ypos_mobile": {
+     "unit": "px",
+     "size": -658,
+     "sizes": []
+    },
+    "content_width": "full"
+   },
+   "elements": [
+    {
+     "id": "34c087f",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "column",
+      "width": {
+       "unit": "%",
+       "size": 44.816
+      },
+      "jet_parallax_layout_list": [],
+      "content_width": "full",
+      "_flex_size": "none",
+      "_element_width": "initial",
+      "flex_justify_content": "space-around",
+      "flex_align_items": "flex-end",
+      "background_background": "classic",
+      "background_image": {
+       "url": "https://grupogoberna.com/wp-content/uploads/2026/09/image-4.webp",
+       "id": 92081,
+       "size": "",
+       "alt": "",
+       "source": "library"
+      },
+      "background_repeat": "no-repeat",
+      "background_size": "cover"
+     },
+     "elements": [
+      {
+       "id": "585f164",
+       "elType": "container",
+       "settings": {
+        "content_width": "full",
+        "width": {
+         "unit": "px",
+         "size": 380,
+         "sizes": []
+        },
+        "jet_parallax_layout_list": []
+       },
+       "elements": [
+        {
+         "id": "238ea4a",
+         "elType": "widget",
+         "settings": {
+          "title": "Preguntas frecuentes",
+          "header_size": "span",
+          "typography_typography": "custom",
+          "typography_font_family": "Open Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14,
+           "sizes": []
+          },
+          "typography_text_transform": "uppercase",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 1.4,
+           "sizes": []
+          },
+          "title_color": "#D6A752",
+          "__globals__": {
+           "title_color": ""
+          }
+         },
+         "elements": [],
+         "widgetType": "heading",
+         "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<span class=\"elementor-heading-title elementor-size-default\">Preguntas frecuentes</span>\t\t\t\t</div>\n\t\t"
+        },
+        {
+         "id": "b5c3bc8",
+         "elType": "widget",
+         "settings": {
+          "title": "TODO LO QUE\n<br>\nNECESITAS SABER<br>\n<span class=\"text-M\">\nANTES DE<br> \nCOMENZAR</span>",
+          "_margin": {
+           "unit": "px",
+           "top": "100",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "custom_css": "selector .text-M {\n  color: #D5A752;\n}\nselector .text-M {\n  color: #D5A752;\n}",
+          "_margin_mobile": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Barlow",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 40,
+           "sizes": []
+          },
+          "typography_font_weight": "700",
+          "title_color": "#FFFFFF",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 81.055
+          },
+          "_flex_size": "none",
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "typography_font_size_laptop": {
+           "unit": "px",
+           "size": 34,
+           "sizes": []
+          },
+          "align": "start",
+          "_element_width": "initial"
+         },
+         "elements": [],
+         "widgetType": "heading",
+         "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">TODO LO QUE\n<br>\nNECESITAS SABER<br>\n<span class=\"text-M\">\nANTES DE<br> \nCOMENZAR</span></h2>\t\t\t\t</div>\n\t\t"
+        },
+        {
+         "id": "979408b",
+         "elType": "widget",
+         "settings": {
+          "width": {
+           "unit": "px",
+           "size": 60,
+           "sizes": []
+          },
+          "width_tablet": {
+           "unit": "px",
+           "size": "",
+           "sizes": []
+          },
+          "width_mobile": {
+           "unit": "px",
+           "size": "",
+           "sizes": []
+          },
+          "align": "left",
+          "text": "Separador",
+          "weight": {
+           "unit": "px",
+           "size": 6,
+           "sizes": []
+          },
+          "__globals__": {
+           "color": ""
+          },
+          "color": "#D6A752"
+         },
+         "elements": [],
+         "widgetType": "divider",
+         "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "917abdb",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "column",
+      "width": {
+       "unit": "%",
+       "size": "50"
+      },
+      "jet_parallax_layout_list": [],
+      "flex_justify_content": "flex-start",
+      "margin_mobile": {
+       "unit": "px",
+       "top": "50",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "flex_align_items": "flex-start",
+      "padding": {
+       "unit": "px",
+       "top": "80",
+       "right": "0",
+       "bottom": "80",
+       "left": "50",
+       "isLinked": false
+      }
+     },
+     "elements": [
+      {
+       "id": "81ccd9d",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "width": {
+         "unit": "%",
+         "size": 77.962
+        },
+        "jet_parallax_layout_list": [],
+        "margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "flex_justify_content": "flex-start",
+        "content_width": "full",
+        "width_mobile": {
+         "unit": "px",
+         "size": 311
+        },
+        "_flex_size": "none",
+        "_element_width_mobile": "initial",
+        "_element_width": "initial"
+       },
+       "elements": [
+        {
+         "id": "6e043bb",
+         "elType": "widget",
+         "widgetType": "nested-accordion",
+         "settings": {
+          "items": [
+           {
+            "item_title": "¿Cómo se realizan las clases?",
+            "_id": "36a8060"
+           },
+           {
+            "item_title": "¿Necesito experiencia previa en inteligencia o seguridad?",
+            "_id": "c494506"
+           },
+           {
+            "item_title": "¿Las clases quedan grabadas?",
+            "_id": "73a00a2"
+           },
+           {
+            "_id": "8913f94",
+            "item_title": "¿Cómo ingreso a mi campus virtual?"
+           },
+           {
+            "_id": "34e12e7",
+            "item_title": "¿Qué incluye mi inscripción?"
+           },
+           {
+            "_id": "455639e",
+            "item_title": "¿Cómo puedo inscribirme y cuáles son los medios de pago?"
+           }
+          ],
+          "accordion_item_title_icon_position": "end",
+          "custom_css": "/* --- contador --- */\r\nselector .elementor-accordion,\r\nselector .e-n-accordion {\r\n  counter-reset: faq;\r\n  display: flex;\r\n  flex-direction: column;\r\n  gap: 0;\r\n}\r\n\r\n/* --- item: sin tarjeta, separado por línea divisoria --- */\r\nselector .elementor-accordion-item,\r\nselector .e-n-accordion-item {\r\n  counter-increment: faq;\r\n  background: transparent;\r\n  border: none;\r\n  border-bottom: 1px solid #E4E7EE;\r\n  border-radius: 0;\r\n  box-shadow: none;\r\n  overflow: hidden;\r\n}\r\n\r\nselector .elementor-accordion-item:last-child,\r\nselector .e-n-accordion-item:last-child {\r\n  border-bottom: none;\r\n}\r\n\r\n/* --- la cabecera --- */\r\nselector .elementor-tab-title,\r\nselector .e-n-accordion-item-title {\r\n  display: flex;\r\n  align-items: center;\r\n  gap: 0;\r\n  min-height: 68px;\r\n  padding: 0 8px;\r\n  background: transparent;\r\n  border: none;\r\n  list-style: none;\r\n  cursor: pointer;\r\n}\r\n\r\nselector .e-n-accordion-item-title::marker,\r\nselector .e-n-accordion-item-title::-webkit-details-marker {\r\n  display: none;\r\n  content: \"\";\r\n}\r\n\r\n/* --- el número dorado + línea divisoria --- */\r\nselector .elementor-tab-title::before,\r\nselector .e-n-accordion-item-title::before {\r\n  content: counter(faq, decimal-leading-zero);\r\n  order: 1;\r\n  flex: 0 0 auto;\r\n  padding-right: 26px;\r\n  margin-right: 26px;\r\n  border-right: 1px solid #C7CCD8;\r\n  font: normal normal 800 26px/1 Inter, sans-serif;\r\n  color: #D5A752 !important;\r\n}\r\n\r\n/* --- el texto de la pregunta --- */\r\nselector .elementor-accordion-title,\r\nselector .e-n-accordion-item-title-header {\r\n  order: 2;\r\n  flex: 1 1 auto;\r\n}\r\n\r\nselector .elementor-accordion-title,\r\nselector .e-n-accordion-item-title-text {\r\n  font: normal normal 600 17px/24px Inter, sans-serif;\r\n  letter-spacing: 0;\r\n  color: #0B142D;\r\n  text-align: left;\r\n}\r\n\r\n/* --- el + / - en círculo dorado a la derecha --- */\r\nselector .elementor-accordion-icon,\r\nselector .e-n-accordion-item-title-icon {\r\n  order: 3;\r\n  margin-left: auto;\r\n  margin-right: 0;\r\n  float: none;\r\n  width: 30px;\r\n  height: 30px;\r\n  flex: 0 0 auto;\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: center;\r\n  border: 1.5px solid #D5A752;\r\n  border-radius: 50%;\r\n  font-size: 16px;\r\n  color: #D5A752 !important;\r\n}\r\n\r\nselector .elementor-accordion-icon i,\r\nselector .elementor-accordion-icon-opened i,\r\nselector .elementor-accordion-icon-closed i,\r\nselector .e-n-accordion-item-title-icon i,\r\nselector .e-n-accordion-item-title-icon .e-opened i,\r\nselector .e-n-accordion-item-title-icon .e-closed i {\r\n  color: #D5A752 !important;\r\n  font-size: 15px;\r\n}\r\n\r\nselector .elementor-accordion-icon svg,\r\nselector .elementor-accordion-icon svg path,\r\nselector .e-n-accordion-item-title-icon svg,\r\nselector .e-n-accordion-item-title-icon svg path,\r\nselector .e-n-accordion-item-title-icon .e-opened svg,\r\nselector .e-n-accordion-item-title-icon .e-opened svg path,\r\nselector .e-n-accordion-item-title-icon .e-closed svg,\r\nselector .e-n-accordion-item-title-icon .e-closed svg path {\r\n  width: 14px;\r\n  height: 14px;\r\n  fill: #D5A752 !important;\r\n  stroke: #D5A752 !important;\r\n}\r\n\r\n/* --- el contenido desplegado: barra dorada a la izquierda --- */\r\nselector .elementor-tab-content,\r\nselector .e-n-accordion-item > .e-con {\r\n  padding: 6px 32px 26px 60px;\r\n  margin-left: 60px;\r\n  border: none;\r\n  border-left: 2px solid #D5A752;\r\n  font: normal normal 400 15px/26px Inter, sans-serif;\r\n  color: #6B7280;\r\n}\r\n\r\nselector .elementor-tab-content strong,\r\nselector .e-n-accordion-item > .e-con strong {\r\n  font-weight: 700;\r\n  color: #0B142D;\r\n}\r\n\r\n@media (max-width: 767px) {\r\n  selector .elementor-tab-title,\r\n  selector .e-n-accordion-item-title {\r\n    padding: 0 4px;\r\n    min-height: 56px;\r\n  }\r\n  selector .elementor-tab-title::before,\r\n  selector .e-n-accordion-item-title::before {\r\n    padding-right: 16px;\r\n    margin-right: 16px;\r\n    font-size: 20px;\r\n  }\r\n  selector .elementor-accordion-title,\r\n  selector .e-n-accordion-item-title-text {\r\n    font-size: 15px;\r\n    line-height: 21px;\r\n  }\r\n  selector .elementor-tab-content,\r\n  selector .e-n-accordion-item > .e-con {\r\n    padding: 4px 18px 20px 18px;\r\n    margin-left: 44px;\r\n  }\r\n}\r\n",
+          "_margin_mobile": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          }
+         },
+         "elements": [
+          {
+           "id": "1ae17c7",
+           "elType": "container",
+           "settings": {
+            "_title": "elemento #1",
+            "content_width": "full",
+            "jet_parallax_layout_list": []
+           },
+           "elements": [
+            {
+             "id": "8a511a3",
+             "elType": "container",
+             "settings": {
+              "jet_parallax_layout_list": []
+             },
+             "elements": [
+              {
+               "id": "2ca80a8",
+               "elType": "widget",
+               "settings": {
+                "editor": "<p class=\"gob-txt\">Las sesiones se realizan <strong>100% online y en vivo</strong>, combinando<br />exposición especializada, análisis de casos y ejercicios aplicados.</p>"
+               },
+               "elements": [],
+               "widgetType": "text-editor",
+               "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p class=\"gob-txt\">Las sesiones se realizan <strong>100% online y en vivo</strong>, combinando<br />exposición especializada, análisis de casos y ejercicios aplicados.</p>\t\t\t\t\t\t\t\t</div>\n\t\t"
+              }
+             ],
+             "isInner": true
+            }
+           ],
+           "isInner": true,
+           "isLocked": true
+          },
+          {
+           "id": "a80050e",
+           "elType": "container",
+           "settings": {
+            "_title": "elemento #2",
+            "content_width": "full",
+            "jet_parallax_layout_list": [],
+            "width": {
+             "unit": "%",
+             "size": 88
+            },
+            "_flex_size": "none",
+            "_element_width": "initial"
+           },
+           "elements": [
+            {
+             "id": "350bdff",
+             "elType": "container",
+             "settings": {
+              "jet_sticky_section_min_height": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_tablet": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_mobile": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_parallax_layout_list": [],
+              "content_width": "full",
+              "width": {
+               "unit": "%",
+               "size": 104.371
+              },
+              "boxed_width": {
+               "unit": "px",
+               "size": 1366,
+               "sizes": []
+              },
+              "_flex_size": "none",
+              "_element_width": "initial"
+             },
+             "elements": [
+              {
+               "id": "04e9ca4",
+               "elType": "widget",
+               "settings": {
+                "editor": "<p class=\"gob-txt\">No es indispensable contar con experiencia especializada previa. Sin embargo, al tratarse de una formación ejecutiva de nivel superior, el proceso de admisión incluye una entrevista para conocer el perfil profesional, las expectativas y la afinidad del postulante con los objetivos del programa.</p>"
+               },
+               "elements": [],
+               "widgetType": "text-editor",
+               "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p class=\"gob-txt\">No es indispensable contar con experiencia especializada previa. Sin embargo, al tratarse de una formación ejecutiva de nivel superior, el proceso de admisión incluye una entrevista para conocer el perfil profesional, las expectativas y la afinidad del postulante con los objetivos del programa.</p>\t\t\t\t\t\t\t\t</div>\n\t\t"
+              }
+             ],
+             "isInner": true
+            }
+           ],
+           "isInner": true,
+           "isLocked": true
+          },
+          {
+           "id": "d2cffc8",
+           "elType": "container",
+           "settings": {
+            "_title": "elemento #3",
+            "content_width": "full",
+            "jet_parallax_layout_list": [],
+            "width": {
+             "unit": "%",
+             "size": 90,
+             "sizes": []
+            }
+           },
+           "elements": [
+            {
+             "id": "6e7ff9c",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "jet_sticky_section_min_height": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_tablet": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_mobile": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_parallax_layout_list": [],
+              "width": {
+               "unit": "%",
+               "size": 99.514
+              },
+              "_flex_size": "none",
+              "_element_width": "initial"
+             },
+             "elements": [
+              {
+               "id": "408ec5f",
+               "elType": "widget",
+               "settings": {
+                "editor": "<p class=\"gob-txt\">Las sesiones y recursos académicos estarán disponibles a través del campus virtual durante el periodo de un (1) año de acuerdo con las condiciones establecidas para el programa.</p>"
+               },
+               "elements": [],
+               "widgetType": "text-editor",
+               "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p class=\"gob-txt\">Las sesiones y recursos académicos estarán disponibles a través del campus virtual durante el periodo de un (1) año de acuerdo con las condiciones establecidas para el programa.</p>\t\t\t\t\t\t\t\t</div>\n\t\t"
+              }
+             ],
+             "isInner": true
+            }
+           ],
+           "isInner": true,
+           "isLocked": true
+          },
+          {
+           "id": "6ab39a8",
+           "elType": "container",
+           "settings": {
+            "_title": "Elemento 4",
+            "jet_parallax_layout_list": []
+           },
+           "elements": [
+            {
+             "id": "3397c80",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "jet_sticky_section_min_height": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_tablet": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_mobile": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_parallax_layout_list": [],
+              "width": {
+               "unit": "%",
+               "size": 90,
+               "sizes": []
+              }
+             },
+             "elements": [
+              {
+               "id": "06af36c",
+               "elType": "widget",
+               "settings": {
+                "editor": "<p class=\"gob-txt\">Una vez realizada tu inscripción, recibirás por correo electrónico el enlace de acceso al campus virtual junto con tus credenciales correspondientes.</p>"
+               },
+               "elements": [],
+               "widgetType": "text-editor",
+               "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p class=\"gob-txt\">Una vez realizada tu inscripción, recibirás por correo electrónico el enlace de acceso al campus virtual junto con tus credenciales correspondientes.</p>\t\t\t\t\t\t\t\t</div>\n\t\t"
+              }
+             ],
+             "isInner": true
+            }
+           ],
+           "isInner": true,
+           "isLocked": true
+          },
+          {
+           "id": "d1076db",
+           "elType": "container",
+           "settings": {
+            "_title": "Elemento 5",
+            "jet_parallax_layout_list": [],
+            "boxed_width": {
+             "unit": "px",
+             "size": 1600,
+             "sizes": []
+            }
+           },
+           "elements": [
+            {
+             "id": "3ee41fe",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "jet_sticky_section_min_height": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_tablet": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_mobile": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_parallax_layout_list": [],
+              "width": {
+               "unit": "%",
+               "size": 88,
+               "sizes": []
+              }
+             },
+             "elements": [
+              {
+               "id": "1120a37",
+               "elType": "widget",
+               "settings": {
+                "editor": "<p class=\"gob-txt\">Incluye acceso a las sesiones, campus virtual, materiales académicos, casos y ejercicios aplicados y certificación al culminar satisfactoriamente el programa.</p>"
+               },
+               "elements": [],
+               "widgetType": "text-editor",
+               "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p class=\"gob-txt\">Incluye acceso a las sesiones, campus virtual, materiales académicos, casos y ejercicios aplicados y certificación al culminar satisfactoriamente el programa.</p>\t\t\t\t\t\t\t\t</div>\n\t\t"
+              }
+             ],
+             "isInner": true
+            }
+           ],
+           "isInner": true,
+           "isLocked": true
+          },
+          {
+           "id": "bc86538",
+           "elType": "container",
+           "settings": {
+            "_title": "Elemento 6",
+            "jet_parallax_layout_list": []
+           },
+           "elements": [
+            {
+             "id": "6a944b4",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "jet_sticky_section_min_height": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_tablet": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_sticky_section_min_height_mobile": {
+               "unit": "px",
+               "size": "",
+               "sizes": []
+              },
+              "jet_parallax_layout_list": [],
+              "width": {
+               "unit": "%",
+               "size": 88,
+               "sizes": []
+              }
+             },
+             "elements": [
+              {
+               "id": "7176133",
+               "elType": "widget",
+               "settings": {
+                "editor": "<p class=\"gob-txt\">Completa el formulario de inscripción y un asesor de GOBERNA se comunicará contigo para orientarte sobre el proceso, alternativas de pago y condiciones disponibles según tu país.</p>"
+               },
+               "elements": [],
+               "widgetType": "text-editor",
+               "htmlCache": "\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p class=\"gob-txt\">Completa el formulario de inscripción y un asesor de GOBERNA se comunicará contigo para orientarte sobre el proceso, alternativas de pago y condiciones disponibles según tu país.</p>\t\t\t\t\t\t\t\t</div>\n\t\t"
+              }
+             ],
+             "isInner": true
+            }
+           ],
+           "isInner": true,
+           "isLocked": true
+          }
+         ]
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "12 Preguntas frecuentes (acordeón)",
+ "type": "section"
+}
