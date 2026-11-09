@@ -1,0 +1,372 @@
+6081986 container [ak-hd]  
+  7e8afa4a image [ak-hd-logo]  
+  52cd969e nav-menu [ak-hd-nav]  
+  4eed1ba button [ak-hd-cta] text='Inscríbete ahora' {'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+2742d6b5 container [ak-hero]  
+  17c98689 heading [ak-sr] title='Diploma Internacional en Estrategias contra el Crimen Organizado y Contraterrorismo' {'title_color': '#FFFFFF', 'typography_font_family': 'Inter'}
+  1916fb3 image []  
+  571a5de0 container []  
+    4be49e01 button [ak-hero-btn] text='Reserva tu vacante' {'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    9c2fe2d button [ak-hero-btn] text='Hablar con un asesor' {'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+  263d369c button [ak-hero-dl] text='Descargar brochure del programa' {'typography_font_family': 'Open Sans', 'typography_text_transform': 'uppercase'}
+1626f0ea container [ak-bar]  
+  5fabd440 container []  
+    25c2c2a2 container [ak-bar-item]  
+      462340c3 icon []  
+      3ee52be heading [] title='Modalidad' {'title_color': '#808591', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      2cc03c73 heading [] title='Online en vivo' {'title_color': '#070E20', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    293f64c1 container [ak-bar-item]  
+      3ca9ff3b icon []  
+      440c46a7 heading [] title='Inicio' {'title_color': '#808591', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      1c8584de heading [] title='16 de noviembre, 2026' {'title_color': '#070E20', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    3012508b container [ak-bar-item]  
+      54f34de7 icon []  
+      6ff8d16a heading [] title='Horario' {'title_color': '#808591', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      222abf5a heading [] title='19:00 UTC-5' {'title_color': '#070E20', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    386e34df container [ak-bar-item]  
+      4831e040 icon []  
+      6cfb208a heading [] title='Duración' {'title_color': '#808591', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      1354e08f heading [] title='8 módulos - 3 semanas' {'title_color': '#070E20', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    4fffefa9 container []  
+      4169ef5a heading [] title='Inversión' {'title_color': '#FDFCFA', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      462fc185 heading [] title='USD $199' {'title_color': '#FDFCFA', 'typography_font_family': 'Inter'}
+657ba7b8 container [ak-met]  
+  6483949 container [ak-met-left]  
+    6abc5933 heading [ak-oro-text] title='Metodología' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    60bb37d3 heading [ak-met-title] title='Del análisis de la amenaza al<br> diseño de <span class="ak-g">respuestas<br> estratégicas</span>' {'title_color': '#070908', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+    5c3d58bb text-editor [] editor='<p>Aprende a analizar redes criminales y terroristas, interpretar sus vínculos y desarrollar estrategias de prevención, disrupción y coopera' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+    587d0712 container [ak-met-bar]  
+      6ec801a8 container [ak-met-row]  
+        4382406 heading [ak-met-num ak-oro-text] title='<span style="font-weight:400;font-size:1.39em">+</span> 10,000' {'title_color': '#8C1A17', 'typography_font_family': 'Montserrat'}
+        60b36fff text-editor [] editor='<p>Profesionales formados</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      6280da1 container [ak-met-row]  
+        6accca7b heading [ak-met-num ak-oro-text] title='<span style="font-weight:400;font-size:1.39em">+</span> 15' {'title_color': '#8C1A17', 'typography_font_family': 'Montserrat'}
+        2b35130a text-editor [] editor='<p>Países de Latinoamérica</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      6619f3a1 container [ak-met-row]  
+        3314267 heading [ak-met-num ak-oro-text] title='<span style="font-weight:400;font-size:1.39em">+</span> 20' {'title_color': '#8C1A17', 'typography_font_family': 'Montserrat'}
+        17666b64 text-editor [] editor='<p>Docentes Internacionales en ejercicio</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+  7b80dd6 container [ak-met-right]  
+    68614c73 html []  
+    5532455 text-editor [ak-tags] editor='<p>Comandos <span>•</span> Mapas electorales <span>•</span> Liderazgo <span>•</span> Crisis <span>•</span> Tecnología</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+56bf8b99 container [ak-prog]  
+  37b76e9a container [ak-dip-intro]  
+    80fac6b heading [] title='El diploma' {'title_color': '#F4F5F780', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    37799678 heading [ak-gold-span] title='Comprende cómo operan las <br class="ak-dk"> amenazas transnacionales <span class="ak-g">y <br>aprende a diseñar respuestas <br>estratégicas' {'title_color': '#FDFCFB', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+  4e1aa122 nested-tabs [ak-dip-tabs] tabs=[{'tab_title': 'Objetivo del diploma'}, {'tab_title': '¿Para quién es este diploma?'}, {'tab_title': 'Qué lograrás'}] 
+    25702389 container []  
+      1c48576d container [ak-dip-ic ak-dip-ic-1]  
+      5a5d4853 heading [ak-oro-text] title='Objetivo del diploma' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      1e2e258a text-editor [] editor='<p>Formar especialistas capaces de diferenciar y analizar el crimen organizado transnacional y el terrorismo, comprender sus posibles víncul' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+    7d37a03e container []  
+      1308b181 container [ak-dip-ic ak-dip-ic-2]  
+      3dff5c49 heading [ak-oro-text] title='¿Para quién es este diploma?' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      2d2f5c00 text-editor [] editor='<p><span style="font-weight: 400;">Dirigido a:</span></p><ul><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pr' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+    30a07d6d container []  
+      683c8176 container [ak-dip-ic ak-dip-ic-3]  
+      36ba7119 heading [ak-oro-text] title='Qué lograrás' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      73081eaa text-editor [] editor='<p><span style="font-weight: 400;">Al finalizar el diploma estarás preparado para analizar estructuras criminales y terroristas, interpretar' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+592e977f container [ak-war]  
+  7225a212 container []  
+    2ac64e45 heading [] title='Experiencia estratégica' {'title_color': '#F4F5F780', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    100b98eb heading [ak-war-title] title='Analiza la amenaza.<br> <span class="ak-g">Diseña la respuesta.</span>' {'title_color': '#EAEFF2', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+    5837a4c2 text-editor [] editor='<p>La metodología combina casos internacionales y latinoamericanos, reportes de inteligencia, análisis de redes, matrices de riesgo y discus' {'text_color': '#F4F5F7', 'typography_font_family': 'Inter'}
+  310faaf8 container [ak-war-steps]  
+    502c7634 container [ak-war-step]  
+      76e9a5c5 heading [] title='Etapa 1' {'title_color': '#B20505', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      7a4fdaad heading [] title='Diferencia las amenazas' {'title_color': '#EAEFF2', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+      242db4c1 text-editor [] editor='<p>Comprende las particularidades del crimen organizado y el terrorismo sin confundir sus objetivos y dinámicas.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+    73409402 container [ak-war-step]  
+      5bd813d4 heading [] title='Etapa 2' {'title_color': '#B20505', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      3b8ef21 heading [] title='Analiza redes y riesgos' {'title_color': '#EAEFF2', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+      16d90998 text-editor [] editor='<p>Identifica actores, mercados, vínculos, flujos financieros e indicadores de amenaza.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+    5fedf3a1 container [ak-war-step]  
+      2b27db55 heading [] title='Etapa 3' {'title_color': '#B20505', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      7b493c97 heading [] title='Trabaja con casos reales' {'title_color': '#EAEFF2', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+      206d7f1c text-editor [] editor='<p>Aplica herramientas de inteligencia y análisis a escenarios criminales y terroristas documentados.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+    2a42a7cb container [ak-war-step]  
+      5617a152 heading [] title='Etapa 4' {'title_color': '#B20505', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      c9a5787 heading [] title='Diseña respuestas integrales' {'title_color': '#EAEFF2', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+      2364deb0 text-editor [] editor='<p>Integra prevención, inteligencia, cooperación y mecanismos institucionales para formular alternativas estratégicas.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+5a9f071d container [ak-plan]  
+  2bcb5ade container [ak-plan-left]  
+    7a10f30c heading [ak-oro-text] title='Plan de estudios' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    29610b73 heading [] title='Una visión integral<br class="ak-dk"> de <span class="ak-g">las amenazas<br class="ak-dk"> transnacionales</span>' {'title_color': '#031129', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+    7c2a6a1f text-editor [] editor='<p>Desarrolla capacidades para analizar el crimen organizado y el terrorismo, comprender sus conexiones y formular respuestas estratégicas d' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+    37e526e3 container [ak-stats-row]  
+      1a8c20bd container [ak-stat]  
+        7a3679d8 icon [ak-oro-box]  
+        6731b1fb heading [] title='8' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+        47c0bf1c heading [ak-nowrap] title='Módulos' {'title_color': '#070908', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+        79958606 heading [] title='Especializados' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+      10654b18 container [ak-stat]  
+        3c5b175c icon [ak-oro-box]  
+        d847877 heading [] title='3' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+        2e9f1272 heading [ak-nowrap] title='Semanas' {'title_color': '#070908', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+        1ae69e15 heading [] title='Intensivas' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+      15a0d8c9 container [ak-stat]  
+        428402c6 icon [ak-oro-box]  
+        135b5aeb heading [] title='100 %' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+        134cdce8 heading [ak-nowrap] title='Metodología práctica' {'title_color': '#070908', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+        1730263a heading [] title='Aprende haciendo' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+    17ca50d8 button [ak-plan-dl] text='Descargar brochure del programa' {'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+  5ec97a65 container [ak-plan-right]  
+    f8ee414 nested-accordion [ak-plan-acc] items=[{'item_title': 'Crimen Organizado, Terrorismo y Marco Internacional de Seguridad'}, {'item_title': 'Nexo Crimen–Terror: Redes, Convergencia y Economías Ilícitas'}, {'item_title': 'Inteligencia Criminal y Contraterrorista: Redes, Indicadores y Alerta Temprana'}, {'item_title': 'Finanzas Ilícitas, Lavado de Activos y Financiamiento del Terrorismo'}, {'item_title': 'Radicalización, Reclutamiento, Propaganda y Prevención del Extremismo Violento'}, {'item_title': 'Cibercrimen y uso del Ciberespacio con fines terroristas'}, {'item_title': 'Estrategias Integrales contra el Crimen Organizado y de Contraterrorismo'}, {'item_title': 'Gestión de control psicosocial frente al Crimen Organizado y Organizaciones Terroristas'}] 
+      79f03382 container [ak-mod-body]  
+        1106aafe text-editor [] editor='<p>Comprende las diferencias entre crimen organizado transnacional, terrorismo y extremismo violento, así como los marcos jurídicos que regu' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+        69581c95 container []  
+          12b8fbe7 container []  
+            5373d3b7 heading [] title='Aprenderás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            3c347ee9 text-editor [] editor='<p>Objetivos, estructuras, lógicas de actuación y principales instrumentos internacionales de seguridad.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          176af6fe container []  
+            731060c8 heading [] title='Aplicarás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            5c7ab7d9 text-editor [] editor='<p>Criterios para diferenciar amenazas y analizarlas dentro del Estado de derecho.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      705b6ca8 container [ak-mod-body]  
+        308f33a5 text-editor [] editor='<p>Analiza cómo las organizaciones criminales y terroristas cooperan, se superponen o compiten por mercados, territorios y recursos ilícitos' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+        481f5b4a container []  
+          7770737d container []  
+            32876aae heading [] title='Aprenderás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            609d361a text-editor [] editor='<p>Modelos de convergencia crimen-terror, redes, rutas y economías ilícitas que los financian.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          7e271052 container []  
+            2ba15bdb heading [] title='Aplicarás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            8f66714 text-editor [] editor='<p>Mapa de vínculos y mercados ilícitos aplicado a un caso de estudio.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      336876d1 container [ak-mod-body]  
+        4eaf380f text-editor [] editor='<p>Aplica el ciclo de inteligencia al análisis de amenazas criminales y terroristas para anticipar riesgos y apoyar la toma de decisiones.</' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+        13eaee97 container []  
+          65943dfe container []  
+            42da9614 heading [] title='Aprenderás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            1da88956 text-editor [] editor='<p>Ciclo de inteligencia, análisis de redes, indicadores de amenaza y sistemas de alerta temprana.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          3ca76eec container []  
+            200fc1cd heading [] title='Aplicarás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            8062379 text-editor [] editor='<p>Matriz de indicadores y alertas para un escenario de amenaza.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      9d4cc12 container [ak-mod-body]  
+        120b44bb text-editor [] editor='<p>Identifica cómo se mueve el dinero ilícito y cómo se detectan y desarticulan los circuitos de lavado y financiamiento del terrorismo.</p>' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+        43b0226c container []  
+          15cd575 container []  
+            37a2438c heading [] title='Aprenderás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            1e57e40b text-editor [] editor='<p>Tipologías de lavado, señales de alerta, flujos financieros y estándares internacionales de prevención.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          16eb17fd container []  
+            49380672 heading [] title='Aplicarás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            23067a0b text-editor [] editor='<p>Análisis de un flujo financiero sospechoso y propuesta de medidas de disrupción.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      4c50c24b container [ak-mod-body]  
+        3d5723d3 text-editor [] editor='<p>Comprende los procesos de radicalización y reclutamiento, el uso de la propaganda y las estrategias para prevenir el extremismo violento.' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+        3339c716 container []  
+          37d535d1 container []  
+            707ca68f heading [] title='Aprenderás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            1848b624 text-editor [] editor='<p>Factores de radicalización, narrativas extremistas, captación y modelos de prevención.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          2f2b3372 container []  
+            72c56085 heading [] title='Aplicarás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            5fb74d47 text-editor [] editor='<p>Plan de prevención y contranarrativa frente a un caso de radicalización.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      3b13e14e container [ak-mod-body]  
+        51145bcd text-editor [] editor='<p>Analiza cómo el crimen organizado y los grupos terroristas usan el ciberespacio para financiarse, comunicarse, reclutar y atacar.</p>' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+        44588487 container []  
+          66b00631 container []  
+            75791f57 heading [] title='Aprenderás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            380af0e9 text-editor [] editor='<p>Modalidades de cibercrimen, uso terrorista de internet, criptoactivos y ciberinteligencia.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          2f3ad858 container []  
+            27b2b591 heading [] title='Aplicarás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            4fafb197 text-editor [] editor='<p>Evaluación de riesgos digitales y medidas de protección para una institución.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      3c94e588 container [ak-mod-body]  
+        d73eeb1 text-editor [] editor='<p>Integra prevención, inteligencia, persecución y cooperación internacional para diseñar respuestas estratégicas coordinadas.</p>' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+        3bc20847 container []  
+          779f29ec container []  
+            3c845753 heading [] title='Aprenderás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            2751249e text-editor [] editor='<p>Enfoques integrales de seguridad, coordinación interinstitucional y cooperación internacional.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          4d2ac2c3 container []  
+            6c4a14b1 heading [] title='Aplicarás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            7a461f28 text-editor [] editor='<p>Diseño de una estrategia integral con objetivos, actores, recursos e indicadores.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      6fbf8798 container [ak-mod-body]  
+        68776e7e text-editor [] editor='<p>Comprende el impacto psicosocial de la violencia criminal y terrorista y cómo gestionar el miedo, la confianza y la resiliencia social.</' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+        2b5f7eb7 container []  
+          4f7225e1 container []  
+            6242b8d7 heading [] title='Aprenderás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            654be766 text-editor [] editor='<p>Efectos psicosociales, comunicación en crisis, gestión del miedo y resiliencia comunitaria.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          5f801d11 container []  
+            673929c heading [] title='Aplicarás' {'title_color': '#070908', 'typography_font_family': 'Oswald'}
+            2645da1a text-editor [] editor='<p>Protocolo de comunicación y control psicosocial ante un hecho de violencia.</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+6c6bfe96 container [ak-cta]  
+  2e83b302 container [ak-cta-card]  
+    70bf28fa heading [ak-title] title='¿Quieres vivir esta experiencia en la próxima edición?' {'title_color': '#FFFFFF', 'typography_font_family': 'Montserrat', 'typography_text_transform': 'uppercase'}
+    6a3db432 text-editor [ak-meta] editor='<p>Inicio: 09 de noviembre | Online en vivo | 8 módulos</p>' {'text_color': '#8C1A17', 'typography_font_family': 'Inter'}
+    4924e7dc container [ak-btn-row]  
+      1bd3966 button [ak-btn ak-oro] text='Reserva tu vacante' {'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      58d1b84f button [ak-btn] text='Hablar con un asesor' {'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+5b40c644 container [ak-doc]  
+  1c0602e2 heading [ak-doc-title] title='Aprende de especialistas en crimen organizado,<br> <span class="ak-g">inteligencia y seguridad estratégica</span>' {'title_color': '#FDFCFB', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+  3bf0546 nested-carousel [ak-doc-carousel]  
+    53eaa55 container []  
+      6eb1afa2 container [ak-doc-card]  
+        6e5541e1 container []  
+          7d3d3df6 image [ak-doc-flag]  
+          e549d8e heading [] title='España' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+        4ac8b56d container [ak-doc-body]  
+          360eb295 heading [] title='Diego Miranda' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+          768d382a heading [ak-doc-es] title='Especialista en seguridad, inteligencia y análisis de conducta' {'title_color': '#C20000', 'typography_font_family': 'Barlow'}
+          e403aaf text-editor [] editor='<p>Presidente fundador de Grupo GEES Spain.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+          1f339abe button [ak-doc-link] text='Ver trayectoria' {'typography_font_family': 'Inder', 'typography_text_transform': 'uppercase'}
+    5084466e container []  
+      5dfeafa8 container [ak-doc-card]  
+        48371d86 container []  
+          71774f3c image [ak-doc-flag]  
+        504d1558 container [ak-doc-body]  
+          16e83bb7 heading [] title='Roberto Bazán' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+          16b2d3c heading [] title='Especialista en inteligencia estratégica y asesoría política' {'title_color': '#C20000', 'typography_font_family': 'Barlow'}
+          5dcd11a2 text-editor [] editor='<p>Magíster en Inteligencia Estratégica por el CAEN, abogado por la Universidad de Lima y politólogo por la UNMSM.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+          72e7fc5b button [ak-doc-link] text='Ver trayectoria' {'typography_font_family': 'Inder', 'typography_text_transform': 'uppercase'}
+    3b877a08 container []  
+      3de8ee3c container [ak-doc-card]  
+        108c2f65 container []  
+          58945ff5 image [ak-doc-flag]  
+          1b836a62 heading [] title='Estados Unidos' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+        5b03850b container [ak-doc-body]  
+          334f7b48 heading [] title='María Herrera' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+          3b5df927 heading [ak-doc-es] title='Especialista en seguridad, contraterrorismo y derecho internacional' {'title_color': '#C20000', 'typography_font_family': 'Barlow'}
+          e436a00 text-editor [] editor='<p>Doctora en Derecho Internacional, con Máster en Asesoría Jurídica de Empresas y Máster en Asuntos Internacionales.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+          54a4ca61 button [ak-doc-link] text='Ver trayectoria' {'typography_font_family': 'Inder', 'typography_text_transform': 'uppercase'}
+    33f4391d container []  
+      100ffa4f container [ak-doc-card]  
+        157ba73f container []  
+          7fcc3cd4 image [ak-doc-flag]  
+          42d5f6b0 heading [] title='Colombia' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+        65c53b84 container [ak-doc-body]  
+          79bff565 heading [] title='Andrés Peñaranda' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+          9989306 heading [ak-doc-es] title='Especialista en operaciones de información y seguridad estratégica' {'title_color': '#C20000', 'typography_font_family': 'Barlow'}
+          32a5bc43 text-editor [] editor='<p>Asesor político y especialista en comunicaciones estratégicas, con experiencia en operaciones de información y psicológicas en distintos ' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+          5b08ec3 button [ak-doc-link] text='Ver trayectoria' {'typography_font_family': 'Inder', 'typography_text_transform': 'uppercase'}
+    a7c5f12 container []  
+      327bc581 container [ak-doc-card]  
+        5747a722 container []  
+          1978120 image [ak-doc-flag]  
+          65087f62 heading [] title='Colombia' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+        7f42dbd6 container [ak-doc-body]  
+          48b165af heading [] title='Camilo Bello' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+          4e7c08a heading [ak-doc-es] title='Especialista en operaciones especiales y liderazgo táctico' {'title_color': '#C20000', 'typography_font_family': 'Barlow'}
+          7d8b09be text-editor [] editor='<p>Consultor estratégico en seguridad y oficial retirado del Ejército Nacional de Colombia, con más de 21 años de trayectoria.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+          675ad614 button [ak-doc-link] text='Ver trayectoria' {'typography_font_family': 'Inder', 'typography_text_transform': 'uppercase'}
+    3427a401 container []  
+      1dac87c7 container [ak-doc-card]  
+        4489d877 container []  
+          206f449e image [ak-doc-flag]  
+          515cd985 heading [] title='Argentina' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+        6b62a9c2 container [ak-doc-body]  
+          188f417c heading [] title='Daniela Galván' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+          2f5b9d47 heading [ak-doc-es] title='Especialista en investigación criminal e inteligencia digital' {'title_color': '#C20000', 'typography_font_family': 'Barlow'}
+          1cdc50b8 text-editor [] editor='<p>Profesional con más de 14 años de experiencia en investigación criminal, OSINT, SOCMINT, Virtual HUMINT y ciberpatrullaje.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+          50672421 button [ak-doc-link] text='Ver trayectoria' {'typography_font_family': 'Inder', 'typography_text_transform': 'uppercase'}
+    43bc2a51 container []  
+      534294bb container [ak-doc-card]  
+        40666061 container []  
+          e30e1a7 image [ak-doc-flag]  
+          65e868ca heading [] title='Colombia' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+        64ae2a2b container [ak-doc-body]  
+          3d47d3f6 heading [] title='Eduardo de la Torre' {'title_color': '#F1F7F7', 'typography_font_family': 'Barlow', 'typography_text_transform': 'uppercase'}
+          5e994ef2 heading [ak-doc-e] title='Especialista en ciberseguridad, ciberdefensa y análisis digital' {'title_color': '#C20000', 'typography_font_family': 'Barlow'}
+          6ab63438 text-editor [] editor='<p>Consultor y docente en ciberseguridad con experiencia en implementación de soluciones de seguridad y proyectos tecnológicos.</p>' {'text_color': '#838994', 'typography_font_family': 'Inter'}
+          2a5d98ac button [ak-doc-link] text='Ver trayectoria' {'typography_font_family': 'Inder', 'typography_text_transform': 'uppercase'}
+63b5ee4a container [ak-pres]  
+  6d3759be container [ak-pres-left]  
+    75122411 heading [] title='Presencia internacional' {'title_color': '#F4F5F7', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    23841199 heading [ak-pres-title] title='Una red que habla el<br> idioma <span class="ak-g">político de<br> Latinoamérica</span>' {'title_color': '#FDFCFB', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+    389c79fe text-editor [] editor='<p>Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.</p>' {'text_color': '#F4F5F7', 'typography_font_family': 'Inter'}
+    78c22442 divider [] text='Separador' {'color': 'rgba(255,255,255,0.25)'}
+    1d2b7c01 container [ak-pstat-row]  
+      67a7a2fb container [ak-pstat]  
+        151ee21e heading [ak-oro-text] title='<span style="font-weight:400;font-size:1.18em">+</span>15' {'title_color': '#8C1A17', 'typography_font_family': 'Oswald'}
+        17fe3c03 heading [] title='Países' {'title_color': '#F4F5F7', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      3b0cc897 container [ak-pstat]  
+        61338992 heading [ak-oro-text] title='<span style="font-weight:400;font-size:1.18em">+</span>10<span style="font-weight:600">K</span>' {'title_color': '#8C1A17', 'typography_font_family': 'Oswald'}
+        1bdbba21 heading [] title='Egresados' {'title_color': '#F4F5F7', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      5255b723 container [ak-pstat]  
+        1d0e6775 heading [ak-oro-text] title='<span style="font-weight:400;font-size:1.18em">+</span>300' {'title_color': '#8C1A17', 'typography_font_family': 'Oswald'}
+        73c91642 heading [] title='Campañas' {'title_color': '#F4F5F7', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+  3f28525f container [ak-pres-right]  
+    52c31379 image [ak-pres-map]  
+    6e7fedc6 image [ak-pres-map ak-pres-anim]  
+54c4c5af container [ak-cert]  
+  28c43ad5 container [ak-cert-img]  
+  2cd97d01 container [ak-cert-txt]  
+    2f408f57 container [ak-cert-in]  
+      1b9af742 heading [ak-oro-text] title='Certificación' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      2c9c857c heading [ak-cert-title] title='Una formación<br class="ak-mb"> <span class="ak-g">Dos<br class="ak-dk"> formas de acreditarla</span>' {'title_color': '#070908', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+      3f88c4d3 text-editor [ak-cert-p] editor='<p>Al culminar satisfactoriamente el programa recibirás la certificación Internacional de estrategias contra el crimen organizado y contrate' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      7f54383e container [ak-card]  
+        940608c icon []  
+        2575bf0a container [ak-card-body]  
+          1b6533dd heading [] title='Certificación internacional de' {'title_color': '#070908', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+          334be732 text-editor [] editor='<p>Estrategias contra el crimen organizado y contraterrorismo</p>' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+      4194afb container [ak-card]  
+        1adb523 icon []  
+        5a80e479 container [ak-card-body]  
+          4351992b heading [] title='Eleva tu formación con una doble certificación' {'title_color': '#070908', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+          3f0fb31c text-editor [] editor='<p>Complementa tu formación con una certificación adicional respaldada por Fundación San Marcos.<br /><strong style="color: #8c1a17;">Doble ' {'text_color': '#070908', 'typography_font_family': 'Inter'}
+          2b7efae9 button [ak-cert-btn] text='Quiero la doble certificación' {'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+7a49a06a container [ak-inv]  
+  298fa0cb container [ak-inv-left]  
+    125455a4 heading [ak-oro-text] title='Inversión' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    2d4237ac heading [] title='<span class="ak-g">Prepárate para analizar amenazas</span> y diseñar respuestas estratégicas' {'title_color': '#EBEFF2', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+    60f25b0f heading [ak-inv-price] title='<span class="ak-cur">$</span>199<span class="ak-usd">USD</span>' {'title_color': '#EBEFF2', 'typography_font_family': 'Oswald'}
+    2d183dc1 divider [] text='Separador' {'color': 'rgba(136,141,152,0.55)'}
+    47c0a6f1 container []  
+      2302294b container [ak-inv-fact]  
+        6ff88f9a heading [] title='Inicio' {'title_color': '#888D98', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+        9030ca2 heading [] title='09 de noviembre' {'title_color': '#EBEFF2', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      11271bde container [ak-inv-fact]  
+        609843a9 heading [] title='DURACIÓN' {'title_color': '#888D98', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+        73517676 heading [] title='8 MÓDULOS - 3 SEMANAS' {'title_color': '#EBEFF2', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    79c591de button [ak-inv-buy] text='Quiero inscribirme' {'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    12c8534c text-editor [ak-inv-note] editor='<p>\xa0Vacantes limitadas para garantizar una formación especializada</p>' {'text_color': '#EBEFF2', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+  79a4768d container [ak-inv-right]  
+    5c314a2a heading [ak-oro-text] title='Admisión' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    dc295fa heading [] title='Habla con un asesor' {'title_color': '#EAEFF2', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+    2a8cefb0 heading [] title='Déjanos tus datos y te ayudaremos con tu inscripción.' {'title_color': '#EBEFF2', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    7d4e2b0 form [ak-inv-form] form_fields=[{'field_label': 'Nombre completo', 'placeholder': 'Ej. María Pérez'}, {'field_type': 'select', 'field_label': 'País', 'field_options': 'Selecciona tu país|\nArgentina\nBolivia\nBrasil\nChile\nColombia\nCosta Rica\nCuba\nEcuador\nEl Salvador\nEspaña\nGuatemala\nHonduras\nMéxico\nNicaragua\nPanamá\nParaguay\nPerú\nPuerto Rico\nRepública Dominicana\nUruguay\nVenezuela\nOtro'}, {'field_type': 'tel', 'field_label': 'Teléfono', 'placeholder': 'Ej. +51 999 999 999'}, {'field_label': 'Cargo', 'placeholder': 'Ej. Jefe de campaña'}, {'field_type': 'email', 'field_label': 'Correo electrónico', 'placeholder': 'nombre@correo.com'}] 
+    3e72a9d text-editor [ak-inv-priv] editor='<p>Tus datos se usan solo para contactarte sobre el diploma.</p>' {'text_color': '#EBEFF2', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+6a12cc55 container [ak-vsec]  
+  5fe95b15 container [ak-vp]  
+    76cef54d html []  
+  1b13e5f3 container [ak-vr]  
+    11acca34 heading [ak-veye] title='Experiencia Goberna' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    7d8995c7 heading [ak-vh2] title='Más que un aula:<br><span class="ak-g">una comunidad<br class="ak-dk"> que actúa</span>' {'title_color': '#031129', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+    63b3d02a text-editor [ak-vtxt] editor='<p>Amplía tu red de contactos, intercambia experiencias con profesionales internacionales y genera oportunidades de colaboración y crecimien' {'text_color': '#0C1522', 'typography_font_family': 'Inter'}
+    525b688 heading [ak-vtab] title='<span>Voces</span>' {'title_color': '#031129', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    6512d70d container [ak-vthumbs]  
+      6ecaea76 container [ak-vt]  
+        755ebdd8 image [ak-vt-im]  
+        614413fa container [ak-vt-nm]  
+          44944672 container []  
+            57210006 image []  
+          35974d54 container []  
+            61b28769 heading [] title='Dienys Pilares Laridú' {'title_color': '#031129', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+            74c41ee3 heading [] title='Puerto Rico' {'title_color': '#656A81', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      52bcbaf4 container [ak-vt]  
+        746bcfbc image [ak-vt-im]  
+        31106495 container [ak-vt-nm]  
+          68449fe3 container []  
+            4490d8ac image []  
+          7b4c7a72 container []  
+            751b50ae heading [] title='Francisco D. Cepeda' {'title_color': '#031129', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+            1c41a4eb heading [] title='Bolivia' {'title_color': '#656A81', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+      5363d98a container [ak-vt]  
+        411babc3 image [ak-vt-im]  
+        7043b0ef container [ak-vt-nm]  
+          2d27313 container []  
+            5875c141 image []  
+          174834a2 container []  
+            ac2b395 heading [] title='Pablo Benalcázar' {'title_color': '#031129', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+            12b6131 heading [] title='Teniente Coronel · Ecuador' {'title_color': '#656A81', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+521f33e5 container [ak-faq]  
+  1fd97c03 container [ak-faq-left]  
+    2e54988f heading [ak-oro-text] title='Preguntas frecuentes' {'title_color': '#8C1A17', 'typography_font_family': 'Inter', 'typography_text_transform': 'uppercase'}
+    36d376ec heading [ak-faq-title] title='Resolvemos tus<br class="ak-dk"> dudas<br class="ak-mb"> <span class="ak-g">antes de<br class="ak-dk"> que decidas</span>' {'title_color': '#8C1A17', 'typography_font_family': 'Oswald', 'typography_text_transform': 'uppercase'}
+    4fe96a54 text-editor [] editor='<p>Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.</p>' {'text_color': '#0A0F15', 'typography_font_family': 'Inter'}
+  821fc48 container [ak-faq-right]  
+    266b2296 nested-accordion [ak-faq-acc] items=[{'item_title': '¿Cómo se realizan las clases?'}, {'item_title': '¿Cuánto dura el programa?'}, {'item_title': '¿Qué incluye mi inscripción?'}, {'item_title': '¿Cuáles son los medios de pago disponibles?'}, {'item_title': '¿Cómo puedo inscribirme?'}] 
+      3e80e6e1 container []  
+        ea24eba text-editor [] editor='<p>Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases especializadas, análisis de casos, revisión de reportes, ej' {'text_color': '#656A81', 'typography_font_family': 'Inter'}
+      3c318452 container []  
+        77b34c1f text-editor [] editor='<p><span style="font-weight: 400;">El diploma tiene una duración de 3 semanas y 120 horas académicas, desarrolladas de acuerdo con el cronog' {'text_color': '#656A81', 'typography_font_family': 'Inter'}
+      6feda045 container []  
+        3a6adec1 text-editor [] editor='<p><span style="font-weight: 400;">Tu inscripción incluye acceso al programa, materiales académicos, casos y ejercicios aplicados, desarroll' {'text_color': '#656A81', 'typography_font_family': 'Inter'}
+      26b2ffbc container []  
+        584613f6 text-editor [] editor='<p><span style="font-weight: 400;">GOBERNA cuenta con diferentes alternativas de pago para sus participantes. Al iniciar tu proceso de inscr' {'text_color': '#656A81', 'typography_font_family': 'Inter'}
+      2a25fc11 container []  
+        38271e76 text-editor [] editor='<p><span style="font-weight: 400;">Completa tus datos en el formulario y un asesor de GOBERNA se pondrá en contacto contigo para orientarte ' {'text_color': '#656A81', 'typography_font_family': 'Inter'}

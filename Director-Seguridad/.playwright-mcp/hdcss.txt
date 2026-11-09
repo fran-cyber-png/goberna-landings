@@ -1,0 +1,10 @@
+
+/* header reducido: el botón baja a la tipografía del menú (15 px) y se achica junto con el header */
+selector .ak-hd-cta .elementor-button { transition: width .3s ease, height .3s ease, font-size .3s ease, background-color .3s, color .3s; }
+selector.elementor-sticky--effects .ak-hd-cta .elementor-button { width: 210px; height: 46px; font-size: 15px !important; }
+@media (max-width: 1366px) {
+  selector.elementor-sticky--effects .ak-hd-cta .elementor-button { width: 150px; height: 38px; font-size: 11px !important; }
+}
+@media (min-width: 1025px) and (max-width: 1280px) {
+  selector.elementor-sticky--effects .ak-hd-cta .elementor-button { width: 140px; height: 36px; }
+}

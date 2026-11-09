@@ -1,0 +1,753 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - banner [ref=e3]:
+      - button "Toggle Panel" [ref=e8] [cursor=pointer]:
+        - generic [ref=e9]:
+          - generic [aria-hidden] [ref=e11]: 
+          - text: 
+  - main [ref=e13]:
+    - generic [ref=e15]:
+      - generic [ref=e17]:
+        - link [ref=e20] [cursor=pointer]:
+          - /url: "#"
+        - generic [ref=e22]:
+          - navigation "Menú" [ref=e23]:
+            - list [ref=e24]:
+              - listitem [ref=e25]:
+                - link "METODOLOGÍA" [ref=e26] [cursor=pointer]:
+                  - /url: "#metodologia"
+              - listitem [ref=e27]:
+                - link "DIPLOMA" [ref=e28] [cursor=pointer]:
+                  - /url: "#diploma"
+              - listitem [ref=e29]:
+                - link "MÓDULOS" [ref=e30] [cursor=pointer]:
+                  - /url: "#modulos"
+              - listitem [ref=e31]:
+                - link "DOCENTES" [ref=e32] [cursor=pointer]:
+                  - /url: "#docentes"
+              - listitem [ref=e33]:
+                - link "CERTIFICACIÓN" [ref=e34] [cursor=pointer]:
+                  - /url: "#certificacion"
+              - listitem [ref=e35]:
+                - link "INVERSIÓN" [ref=e36] [cursor=pointer]:
+                  - /url: "#inversion"
+          - text:  
+        - link "Inscríbete ahora" [ref=e40] [cursor=pointer]:
+          - /url: "#inscripcion"
+      - generic [ref=e44]:
+        - heading "Diploma Internacional en Estrategias contra el Crimen Organizado y Contraterrorismo" [level=1] [ref=e47]
+        - generic [ref=e50]:
+          - link "Reserva tu vacante" [ref=e54] [cursor=pointer]:
+            - /url: "#doble"
+            - generic [ref=e55]:
+              - generic [aria-hidden] [ref=e57]: 
+              - generic [ref=e58]: Reserva tu vacante
+          - link "Hablar con un asesor" [ref=e62] [cursor=pointer]:
+            - /url: https://wa.link/y4ww8t
+            - generic [ref=e63]:
+              - generic [aria-hidden] [ref=e65]: 
+              - generic [ref=e66]: Hablar con un asesor
+        - link "Descargar brochure del programa" [ref=e70] [cursor=pointer]:
+          - /url: https://grupogoberna.com/wp-content/uploads/2026/10/1.PLUS-brochure_CrimenOrganizadoYDEContraterrorismo.pdf
+          - generic [ref=e71]:
+            - generic [aria-hidden] [ref=e73]: 
+            - generic [ref=e74]: Descargar brochure del programa
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - paragraph [ref=e110]: Modalidad
+          - paragraph [ref=e113]: Online en vivo
+        - generic [ref=e114]:
+          - paragraph [ref=e146]: Inicio
+          - paragraph [ref=e149]: 16 de noviembre, 2026
+        - generic [ref=e150]:
+          - paragraph [ref=e169]: Horario
+          - paragraph [ref=e172]: 19:00 UTC-5
+        - generic [ref=e173]:
+          - paragraph [ref=e190]: Duración
+          - paragraph [ref=e193]: 8 módulos - 3 semanas
+        - generic [ref=e194]:
+          - paragraph [ref=e197]: Inversión
+          - paragraph [ref=e200]: USD $199
+      - generic [ref=e202]:
+        - generic [ref=e203]:
+          - paragraph [ref=e206]: Metodología
+          - heading [level=2] [ref=e209]:
+            - text: Del análisis de la amenaza al diseño de
+            - generic [ref=e210]: respuestas estratégicas
+          - paragraph [ref=e213]: Aprende a analizar redes criminales y terroristas, interpretar sus vínculos y desarrollar estrategias de prevención, disrupción y cooperación frente a escenarios complejos.
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - paragraph [ref=e218]: + 10,000
+              - paragraph [ref=e221]: Profesionales formados
+            - generic [ref=e222]:
+              - paragraph [ref=e225]: + 15
+              - paragraph [ref=e228]: Países de Latinoamérica
+            - generic [ref=e229]:
+              - paragraph [ref=e232]: + 20
+              - paragraph [ref=e235]: Docentes Internacionales en ejercicio
+        - generic [ref=e236]:
+          - iframe [ref=e240]:
+            - generic [ref=f1e5]:
+              - generic [ref=f1e6] [cursor=pointer]
+              - generic [ref=f1e8] [cursor=pointer]:
+                - img "Logo" [ref=f1e10]
+                - generic [ref=f1e11]: GOBERNA
+                - generic [ref=f1e12]: ESCUELA
+              - generic [ref=f1e13]:
+                - generic:
+                  - generic [ref=f1e14] [cursor=pointer]: "10"
+                  - generic [ref=f1e18] [cursor=pointer]: "10"
+                - generic [ref=f1e22]:
+                  - slider "Barra de progreso del video" [ref=f1e23] [cursor=pointer]
+                  - generic [ref=f1e25]:
+                    - generic [ref=f1e26]:
+                      - button "Reproducir" [ref=f1e27] [cursor=pointer]
+                      - button "Retroceder 10 segundos" [ref=f1e30] [cursor=pointer]:
+                        - generic [ref=f1e33]: "10"
+                      - button "Adelantar 10 segundos" [ref=f1e34] [cursor=pointer]:
+                        - generic [ref=f1e37]: "10"
+                      - generic [ref=f1e38]:
+                        - button "Activar sonido" [ref=f1e39] [cursor=pointer]
+                        - generic [ref=f1e42] [cursor=pointer]
+                      - generic [ref=f1e43]:
+                        - text: 0:00
+                        - generic [ref=f1e44]: / 0:00
+                    - generic [ref=f1e45]:
+                      - 'button "Velocidad de reproducción: 1x" [ref=f1e47] [cursor=pointer]':
+                        - generic [ref=f1e48]: 1x
+                      - button "Ver en ventana flotante (Picture-in-Picture)" [ref=f1e49] [cursor=pointer]
+                      - button "Pantalla completa" [ref=f1e52] [cursor=pointer]
+          - paragraph [ref=e243]: Comandos • Mapas electorales • Liderazgo • Crisis • Tecnología
+      - generic [ref=e244]:
+        - generic [ref=e245]:
+          - paragraph [ref=e248]: El diploma
+          - heading [level=2] [ref=e251]:
+            - text: Comprende cómo operan las amenazas transnacionales
+            - generic [ref=e252]: y aprende a diseñar respuestas estratégicas
+        - generic "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas." [ref=e255]:
+          - tablist [ref=e256]:
+            - tab "Objetivo del diploma" [selected] [ref=e257] [cursor=pointer]
+            - tab "¿Para quién es este diploma?" [ref=e259] [cursor=pointer]
+            - tab "Qué lograrás" [ref=e261] [cursor=pointer]
+          - tabpanel "Objetivo del diploma" [ref=e264]:
+            - heading "Objetivo del diploma" [level=3] [ref=e268]
+            - generic [ref=e270]:
+              - paragraph [ref=e271]: Formar especialistas capaces de diferenciar y analizar el crimen organizado transnacional y el terrorismo, comprender sus posibles vínculos y evaluar las redes, recursos y dinámicas que los sostienen.
+              - paragraph [ref=e272]: Durante el diploma aprenderás a integrar inteligencia criminal y contraterrorista para formular respuestas de prevención, disrupción y cooperación frente a amenazas complejas.
+      - generic [ref=e274]:
+        - generic [ref=e275]:
+          - paragraph [ref=e278]: Experiencia estratégica
+          - heading "Analiza la amenaza. Diseña la respuesta." [level=2] [ref=e281]
+          - paragraph [ref=e284]: La metodología combina casos internacionales y latinoamericanos, reportes de inteligencia, análisis de redes, matrices de riesgo y discusión de escenarios para desarrollar criterio frente a situaciones reales de seguridad.
+        - generic [ref=e285]:
+          - generic [ref=e286]:
+            - paragraph [ref=e289]: Etapa 1
+            - heading "Diferencia las amenazas" [level=3] [ref=e292]
+            - paragraph [ref=e295]: Comprende las particularidades del crimen organizado y el terrorismo sin confundir sus objetivos y dinámicas.
+          - generic [ref=e296]:
+            - paragraph [ref=e299]: Etapa 2
+            - heading "Analiza redes y riesgos" [level=3] [ref=e302]
+            - paragraph [ref=e305]: Identifica actores, mercados, vínculos, flujos financieros e indicadores de amenaza.
+          - generic [ref=e306]:
+            - paragraph [ref=e309]: Etapa 3
+            - heading "Trabaja con casos reales" [level=3] [ref=e312]
+            - paragraph [ref=e315]: Aplica herramientas de inteligencia y análisis a escenarios criminales y terroristas documentados.
+          - generic [ref=e316]:
+            - paragraph [ref=e319]: Etapa 4
+            - heading "Diseña respuestas integrales" [level=3] [ref=e322]
+            - paragraph [ref=e325]: Integra prevención, inteligencia, cooperación y mecanismos institucionales para formular alternativas estratégicas.
+      - generic [ref=e327]:
+        - generic [ref=e328]:
+          - paragraph [ref=e331]: Plan de estudios
+          - heading [level=2] [ref=e334]:
+            - text: Una visión integral de
+            - generic [ref=e335]: las amenazas transnacionales
+          - paragraph [ref=e338]: Desarrolla capacidades para analizar el crimen organizado y el terrorismo, comprender sus conexiones y formular respuestas estratégicas desde la inteligencia y la cooperación.
+          - generic [ref=e339]:
+            - generic [ref=e340]:
+              - paragraph [ref=e351]: "8"
+              - paragraph [ref=e354]: Módulos
+              - paragraph [ref=e357]: Especializados
+            - generic [ref=e358]:
+              - paragraph [ref=e374]: "3"
+              - paragraph [ref=e377]: Semanas
+              - paragraph [ref=e380]: Intensivas
+            - generic [ref=e381]:
+              - paragraph [ref=e396]: 100 %
+              - paragraph [ref=e399]: Metodología práctica
+              - paragraph [ref=e402]: Aprende haciendo
+          - link "Descargar brochure del programa" [ref=e406] [cursor=pointer]:
+            - /url: https://grupogoberna.com/wp-content/uploads/2026/10/1.PLUS-brochure_CrimenOrganizadoYDEContraterrorismo.pdf
+            - generic [ref=e407]:
+              - generic [aria-hidden] [ref=e409]: 
+              - generic [ref=e410]: Descargar brochure del programa
+        - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e414]:
+          - group [ref=e415]:
+            - generic "Módulo Crimen Organizado, Terrorismo y Marco Internacional de Seguridad Ocultar" [ref=e416] [cursor=pointer]:
+              - text: Módulo
+              - generic [ref=e417]: Crimen Organizado, Terrorismo y Marco Internacional de Seguridad
+              - generic [ref=e419]:
+                - generic [ref=e420]: Ocultar 
+                - text: Ver contenido 
+            - region [ref=e421]:
+              - paragraph [ref=e424]: Comprende las diferencias entre crimen organizado transnacional, terrorismo y extremismo violento, así como los marcos jurídicos que regulan su abordaje.
+              - region [ref=e425]:
+                - region "Módulo Crimen Organizado, Terrorismo y Marco Internacional de Seguridad Ocultar Comprende las diferencias entre crimen organizado transnacional, terrorismo y extremismo violento, así como los marcos jurídicos que regulan su abordaje. Aprenderás Objetivos, estructuras, lógicas de actuación y principales instrumentos internacionales de seguridad. Aplicarás Criterios para diferenciar amenazas y analizarlas dentro del Estado de derecho." [ref=e426]:
+                  - heading "Aprenderás" [level=4] [ref=e429]
+                  - paragraph [ref=e432]: Objetivos, estructuras, lógicas de actuación y principales instrumentos internacionales de seguridad.
+                - region "Módulo Crimen Organizado, Terrorismo y Marco Internacional de Seguridad Ocultar Comprende las diferencias entre crimen organizado transnacional, terrorismo y extremismo violento, así como los marcos jurídicos que regulan su abordaje. Aprenderás Objetivos, estructuras, lógicas de actuación y principales instrumentos internacionales de seguridad. Aplicarás Criterios para diferenciar amenazas y analizarlas dentro del Estado de derecho." [ref=e433]:
+                  - heading "Aplicarás" [level=4] [ref=e436]
+                  - paragraph [ref=e439]: Criterios para diferenciar amenazas y analizarlas dentro del Estado de derecho.
+          - group [ref=e440]:
+            - 'generic "Módulo Nexo Crimen–Terror: Redes, Convergencia y Economías Ilícitas Ver contenido" [ref=e441] [cursor=pointer]':
+              - text: Módulo
+              - generic [ref=e442]: "Nexo Crimen–Terror: Redes, Convergencia y Economías Ilícitas"
+              - generic [ref=e444]:
+                - text: Ocultar 
+                - generic [ref=e445]: Ver contenido 
+          - group [ref=e446]:
+            - 'generic "Módulo Inteligencia Criminal y Contraterrorista: Redes, Indicadores y Alerta Temprana Ver contenido" [ref=e447] [cursor=pointer]':
+              - text: Módulo
+              - generic [ref=e448]: "Inteligencia Criminal y Contraterrorista: Redes, Indicadores y Alerta Temprana"
+              - generic [ref=e450]:
+                - text: Ocultar 
+                - generic [ref=e451]: Ver contenido 
+          - group [ref=e452]:
+            - generic "Módulo Finanzas Ilícitas, Lavado de Activos y Financiamiento del Terrorismo Ver contenido" [ref=e453] [cursor=pointer]:
+              - text: Módulo
+              - generic [ref=e454]: Finanzas Ilícitas, Lavado de Activos y Financiamiento del Terrorismo
+              - generic [ref=e456]:
+                - text: Ocultar 
+                - generic [ref=e457]: Ver contenido 
+          - group [ref=e458]:
+            - generic "Módulo Radicalización, Reclutamiento, Propaganda y Prevención del Extremismo Violento Ver contenido" [ref=e459] [cursor=pointer]:
+              - text: Módulo
+              - generic [ref=e460]: Radicalización, Reclutamiento, Propaganda y Prevención del Extremismo Violento
+              - generic [ref=e462]:
+                - text: Ocultar 
+                - generic [ref=e463]: Ver contenido 
+          - group [ref=e464]:
+            - generic "Módulo Cibercrimen y uso del Ciberespacio con fines terroristas Ver contenido" [ref=e465] [cursor=pointer]:
+              - text: Módulo
+              - generic [ref=e466]: Cibercrimen y uso del Ciberespacio con fines terroristas
+              - generic [ref=e468]:
+                - text: Ocultar 
+                - generic [ref=e469]: Ver contenido 
+          - group [ref=e470]:
+            - generic "Módulo Estrategias Integrales contra el Crimen Organizado y de Contraterrorismo Ver contenido" [ref=e471] [cursor=pointer]:
+              - text: Módulo
+              - generic [ref=e472]: Estrategias Integrales contra el Crimen Organizado y de Contraterrorismo
+              - generic [ref=e474]:
+                - text: Ocultar 
+                - generic [ref=e475]: Ver contenido 
+          - group [ref=e476]:
+            - generic "Módulo Gestión de control psicosocial frente al Crimen Organizado y Organizaciones Terroristas Ver contenido" [ref=e477] [cursor=pointer]:
+              - text: Módulo
+              - generic [ref=e478]: Gestión de control psicosocial frente al Crimen Organizado y Organizaciones Terroristas
+              - generic [ref=e480]:
+                - text: Ocultar 
+                - generic [ref=e481]: Ver contenido 
+      - generic [ref=e484]:
+        - heading "¿Quieres vivir esta experiencia en la próxima edición?" [level=2] [ref=e487]
+        - paragraph [ref=e490]: "Inicio: 09 de noviembre | Online en vivo | 8 módulos"
+        - generic [ref=e491]:
+          - link "Reserva tu vacante" [ref=e495] [cursor=pointer]:
+            - /url: "#doble"
+            - generic [ref=e496]:
+              - generic [aria-hidden] [ref=e498]: 
+              - generic [ref=e499]: Reserva tu vacante
+          - link "Hablar con un asesor" [ref=e503] [cursor=pointer]:
+            - /url: https://wa.link/y4ww8t
+            - generic [ref=e504]:
+              - generic [aria-hidden] [ref=e506]: 
+              - generic [ref=e507]: Hablar con un asesor
+      - generic [ref=e509]:
+        - heading "Aprende de especialistas en crimen organizado, inteligencia y seguridad estratégica" [level=2] [ref=e512]
+        - generic [ref=e514]:
+          - region "Docentes" [ref=e515]:
+            - generic [ref=e516]:
+              - group [aria-hidden] [ref=e517]:
+                - generic [ref=e519]:
+                  - paragraph [ref=e525]: Colombia
+                  - generic [ref=e526]:
+                    - heading [level=3] [ref=e529]: Camilo Bello
+                    - paragraph [ref=e532]: Especialista en operaciones especiales y liderazgo táctico
+                    - paragraph [ref=e535]: Consultor estratégico en seguridad y oficial retirado del Ejército Nacional de Colombia, con más de 21 años de trayectoria.
+                    - link [ref=e539] [cursor=pointer]:
+                      - /url: https://grupogoberna.com/camilo-bello/
+                      - generic [ref=e540]:
+                        - generic [aria-hidden] [ref=e542]: 
+                        - generic [ref=e543]: Ver trayectoria
+              - group [aria-hidden] [ref=e544]:
+                - generic [ref=e546]:
+                  - paragraph [ref=e552]: Argentina
+                  - generic [ref=e553]:
+                    - heading [level=3] [ref=e556]: Daniela Galván
+                    - paragraph [ref=e559]: Especialista en investigación criminal e inteligencia digital
+                    - paragraph [ref=e562]: Profesional con más de 14 años de experiencia en investigación criminal, OSINT, SOCMINT, Virtual HUMINT y ciberpatrullaje.
+                    - link [ref=e566] [cursor=pointer]:
+                      - /url: "#"
+                      - generic [ref=e567]:
+                        - generic [aria-hidden] [ref=e569]: 
+                        - generic [ref=e570]: Ver trayectoria
+              - group [aria-hidden] [ref=e571]:
+                - generic [ref=e573]:
+                  - paragraph [ref=e579]: Colombia
+                  - generic [ref=e580]:
+                    - heading [level=3] [ref=e583]: Eduardo de la Torre
+                    - paragraph [ref=e586]: Especialista en ciberseguridad, ciberdefensa y análisis digital
+                    - paragraph [ref=e589]: Consultor y docente en ciberseguridad con experiencia en implementación de soluciones de seguridad y proyectos tecnológicos.
+                    - link [ref=e593] [cursor=pointer]:
+                      - /url: https://grupogoberna.com/eduardo-de-la-torre/
+                      - generic [ref=e594]:
+                        - generic [aria-hidden] [ref=e596]: 
+                        - generic [ref=e597]: Ver trayectoria
+              - group "1 / 7" [ref=e598]:
+                - generic [ref=e600]:
+                  - paragraph [ref=e606]: España
+                  - generic [ref=e607]:
+                    - heading "Diego Miranda" [level=3] [ref=e610]
+                    - paragraph [ref=e613]: Especialista en seguridad, inteligencia y análisis de conducta
+                    - paragraph [ref=e616]: Presidente fundador de Grupo GEES Spain.
+                    - link "Ver trayectoria" [ref=e620] [cursor=pointer]:
+                      - /url: https://grupogoberna.com/diego-miranda-2/
+                      - generic [ref=e621]:
+                        - generic [aria-hidden] [ref=e623]: 
+                        - generic [ref=e624]: Ver trayectoria
+              - group "2 / 7" [ref=e625]:
+                - generic [ref=e631]:
+                  - heading "Roberto Bazán" [level=3] [ref=e634]
+                  - paragraph [ref=e637]: Especialista en inteligencia estratégica y asesoría política
+                  - paragraph [ref=e640]: Magíster en Inteligencia Estratégica por el CAEN, abogado por la Universidad de Lima y politólogo por la UNMSM.
+                  - link "Ver trayectoria" [ref=e644] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/roberto-bazan/
+                    - generic [ref=e645]:
+                      - generic [aria-hidden] [ref=e647]: 
+                      - generic [ref=e648]: Ver trayectoria
+              - group "3 / 7" [ref=e649]:
+                - generic [ref=e651]:
+                  - paragraph [ref=e657]: Estados Unidos
+                  - generic [ref=e658]:
+                    - heading "María Herrera" [level=3] [ref=e661]
+                    - paragraph [ref=e664]: Especialista en seguridad, contraterrorismo y derecho internacional
+                    - paragraph [ref=e667]: Doctora en Derecho Internacional, con Máster en Asesoría Jurídica de Empresas y Máster en Asuntos Internacionales.
+                    - link "Ver trayectoria" [ref=e671] [cursor=pointer]:
+                      - /url: https://grupogoberna.com/maria-herrera/
+                      - generic [ref=e672]:
+                        - generic [aria-hidden] [ref=e674]: 
+                        - generic [ref=e675]: Ver trayectoria
+              - group [aria-hidden] [ref=e676]:
+                - generic [ref=e678]:
+                  - paragraph [ref=e684]: Colombia
+                  - generic [ref=e685]:
+                    - heading [level=3] [ref=e688]: Andrés Peñaranda
+                    - paragraph [ref=e691]: Especialista en operaciones de información y seguridad estratégica
+                    - paragraph [ref=e694]: Asesor político y especialista en comunicaciones estratégicas, con experiencia en operaciones de información y psicológicas en distintos países.
+                    - link [ref=e698] [cursor=pointer]:
+                      - /url: "#"
+                      - generic [ref=e699]:
+                        - generic [aria-hidden] [ref=e701]: 
+                        - generic [ref=e702]: Ver trayectoria
+              - group [aria-hidden] [ref=e703]:
+                - generic [ref=e705]:
+                  - paragraph [ref=e711]: Colombia
+                  - generic [ref=e712]:
+                    - heading [level=3] [ref=e715]: Camilo Bello
+                    - paragraph [ref=e718]: Especialista en operaciones especiales y liderazgo táctico
+                    - paragraph [ref=e721]: Consultor estratégico en seguridad y oficial retirado del Ejército Nacional de Colombia, con más de 21 años de trayectoria.
+                    - link [ref=e725] [cursor=pointer]:
+                      - /url: https://grupogoberna.com/camilo-bello/
+                      - generic [ref=e726]:
+                        - generic [aria-hidden] [ref=e728]: 
+                        - generic [ref=e729]: Ver trayectoria
+              - group [aria-hidden] [ref=e730]:
+                - generic [ref=e732]:
+                  - paragraph [ref=e738]: Argentina
+                  - generic [ref=e739]:
+                    - heading [level=3] [ref=e742]: Daniela Galván
+                    - paragraph [ref=e745]: Especialista en investigación criminal e inteligencia digital
+                    - paragraph [ref=e748]: Profesional con más de 14 años de experiencia en investigación criminal, OSINT, SOCMINT, Virtual HUMINT y ciberpatrullaje.
+                    - link [ref=e752] [cursor=pointer]:
+                      - /url: "#"
+                      - generic [ref=e753]:
+                        - generic [aria-hidden] [ref=e755]: 
+                        - generic [ref=e756]: Ver trayectoria
+              - group [aria-hidden] [ref=e757]:
+                - generic [ref=e759]:
+                  - paragraph [ref=e765]: Colombia
+                  - generic [ref=e766]:
+                    - heading [level=3] [ref=e769]: Eduardo de la Torre
+                    - paragraph [ref=e772]: Especialista en ciberseguridad, ciberdefensa y análisis digital
+                    - paragraph [ref=e775]: Consultor y docente en ciberseguridad con experiencia en implementación de soluciones de seguridad y proyectos tecnológicos.
+                    - link [ref=e779] [cursor=pointer]:
+                      - /url: https://grupogoberna.com/eduardo-de-la-torre/
+                      - generic [ref=e780]:
+                        - generic [aria-hidden] [ref=e782]: 
+                        - generic [ref=e783]: Ver trayectoria
+              - group [aria-hidden] [ref=e784]:
+                - generic [ref=e786]:
+                  - paragraph [ref=e792]: España
+                  - generic [ref=e793]:
+                    - heading [level=3] [ref=e796]: Diego Miranda
+                    - paragraph [ref=e799]: Especialista en seguridad, inteligencia y análisis de conducta
+                    - paragraph [ref=e802]: Presidente fundador de Grupo GEES Spain.
+                    - link [ref=e806] [cursor=pointer]:
+                      - /url: https://grupogoberna.com/diego-miranda-2/
+                      - generic [ref=e807]:
+                        - generic [aria-hidden] [ref=e809]: 
+                        - generic [ref=e810]: Ver trayectoria
+              - group [aria-hidden] [ref=e811]:
+                - generic [ref=e817]:
+                  - heading [level=3] [ref=e820]: Roberto Bazán
+                  - paragraph [ref=e823]: Especialista en inteligencia estratégica y asesoría política
+                  - paragraph [ref=e826]: Magíster en Inteligencia Estratégica por el CAEN, abogado por la Universidad de Lima y politólogo por la UNMSM.
+                  - link [ref=e830] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/roberto-bazan/
+                    - generic [ref=e831]:
+                      - generic [aria-hidden] [ref=e833]: 
+                      - generic [ref=e834]: Ver trayectoria
+              - group [aria-hidden] [ref=e835]:
+                - generic [ref=e837]:
+                  - paragraph [ref=e843]: Estados Unidos
+                  - generic [ref=e844]:
+                    - heading [level=3] [ref=e847]: María Herrera
+                    - paragraph [ref=e850]: Especialista en seguridad, contraterrorismo y derecho internacional
+                    - paragraph [ref=e853]: Doctora en Derecho Internacional, con Máster en Asesoría Jurídica de Empresas y Máster en Asuntos Internacionales.
+                    - link [ref=e857] [cursor=pointer]:
+                      - /url: https://grupogoberna.com/maria-herrera/
+                      - generic [ref=e858]:
+                        - generic [aria-hidden] [ref=e860]: 
+                        - generic [ref=e861]: Ver trayectoria
+          - button "Diapositiva anterior" [ref=e862] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e863]: 
+          - button "Diapositiva siguiente" [ref=e864] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e865]: 
+          - generic [ref=e866]:
+            - button "Ir a la diapositiva 1" [ref=e867] [cursor=pointer]
+            - button "Ir a la diapositiva 2" [ref=e868] [cursor=pointer]
+            - button "Ir a la diapositiva 3" [ref=e869] [cursor=pointer]
+            - button "Ir a la diapositiva 4" [ref=e870] [cursor=pointer]
+            - button "Ir a la diapositiva 5" [ref=e871] [cursor=pointer]
+            - button "Ir a la diapositiva 6" [ref=e872] [cursor=pointer]
+            - button "Ir a la diapositiva 7" [ref=e873] [cursor=pointer]
+      - generic [ref=e876]:
+        - paragraph [ref=e879]: Presencia internacional
+        - heading [level=2] [ref=e882]:
+          - text: Una red que habla el idioma
+          - generic [ref=e883]: político de Latinoamérica
+        - paragraph [ref=e886]: Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+        - generic [ref=e891]:
+          - generic [ref=e892]:
+            - paragraph [ref=e895]: "+15"
+            - paragraph [ref=e898]: Países
+          - generic [ref=e899]:
+            - paragraph [ref=e902]: +10K
+            - paragraph [ref=e905]: Egresados
+          - generic [ref=e906]:
+            - paragraph [ref=e909]: "+300"
+            - paragraph [ref=e912]: Campañas
+      - generic [ref=e919]:
+        - paragraph [ref=e922]: Certificación
+        - heading [level=2] [ref=e925]:
+          - text: Una formación
+          - generic [ref=e926]: Dos formas de acreditarla
+        - paragraph [ref=e929]: Al culminar satisfactoriamente el programa recibirás la certificación Internacional de estrategias contra el crimen organizado y contraterrorismo. Además, podrás solicitar una certificación adicional gracias a nuestra alianza académica.
+        - generic [ref=e938]:
+          - heading "Certificación internacional de" [level=3] [ref=e941]
+          - paragraph [ref=e944]: Estrategias contra el crimen organizado y contraterrorismo
+        - generic [ref=e953]:
+          - heading "Eleva tu formación con una doble certificación" [level=3] [ref=e956]
+          - paragraph [ref=e959]:
+            - text: Complementa tu formación con una certificación adicional respaldada por Fundación San Marcos.
+            - strong [ref=e960]: "Doble certificación · Adicional: US$35"
+          - link "Quiero la doble certificación" [ref=e964] [cursor=pointer]:
+            - /url: "#doble"
+            - generic [ref=e965]:
+              - generic [aria-hidden] [ref=e967]: 
+              - generic [ref=e968]: Quiero la doble certificación
+      - generic [ref=e970]:
+        - generic [ref=e971]:
+          - paragraph [ref=e974]: Inversión
+          - heading "Prepárate para analizar amenazas y diseñar respuestas estratégicas" [level=2] [ref=e977]
+          - paragraph [ref=e980]:
+            - generic [ref=e981]: $
+            - text: "199"
+            - generic [ref=e982]: USD
+          - generic [ref=e987]:
+            - generic [ref=e988]:
+              - paragraph [ref=e991]: Inicio
+              - paragraph [ref=e994]: 09 de noviembre
+            - generic [ref=e995]:
+              - paragraph [ref=e998]: DURACIÓN
+              - paragraph [ref=e1001]: 8 MÓDULOS - 3 SEMANAS
+          - link "Quiero inscribirme" [ref=e1005] [cursor=pointer]:
+            - /url: https://grupogoberna.com/checkout/?add-to-cart=93277&quantity=1
+          - paragraph [ref=e1010]: Vacantes limitadas para garantizar una formación especializada
+        - generic [ref=e1011]:
+          - paragraph [ref=e1014]: Admisión
+          - heading "Habla con un asesor" [level=2] [ref=e1017]
+          - paragraph [ref=e1020]: Déjanos tus datos y te ayudaremos con tu inscripción.
+          - form "Asesor Presidencial · Habla con un asesor" [ref=e1023]:
+            - generic [ref=e1024]:
+              - generic [ref=e1025]:
+                - generic [ref=e1026] [cursor=pointer]: Nombre completo
+                - textbox "Nombre completo" [ref=e1027]:
+                  - /placeholder: Ej. María Pérez
+              - generic [ref=e1028]:
+                - generic [ref=e1029] [cursor=pointer]: País
+                - generic [ref=e1030]:
+                  - generic:
+                    - generic [aria-hidden]: 
+                  - combobox "País" [ref=e1031] [cursor=pointer]:
+                    - option "Selecciona tu país" [selected]
+                    - option "Argentina"
+                    - option "Bolivia"
+                    - option "Brasil"
+                    - option "Chile"
+                    - option "Colombia"
+                    - option "Costa Rica"
+                    - option "Cuba"
+                    - option "Ecuador"
+                    - option "El Salvador"
+                    - option "España"
+                    - option "Guatemala"
+                    - option "Honduras"
+                    - option "México"
+                    - option "Nicaragua"
+                    - option "Panamá"
+                    - option "Paraguay"
+                    - option "Perú"
+                    - option "Puerto Rico"
+                    - option "República Dominicana"
+                    - option "Uruguay"
+                    - option "Venezuela"
+                    - option "Otro"
+              - generic [ref=e1032]:
+                - generic [ref=e1033] [cursor=pointer]: Teléfono
+                - textbox "Teléfono" [ref=e1034]:
+                  - /placeholder: Ej. +51 999 999 999
+              - generic [ref=e1035]:
+                - generic [ref=e1036] [cursor=pointer]: Cargo
+                - textbox "Cargo" [ref=e1037]:
+                  - /placeholder: Ej. Jefe de campaña
+              - generic [ref=e1038]:
+                - generic [ref=e1039] [cursor=pointer]: Correo electrónico
+                - textbox "Correo electrónico" [ref=e1040]:
+                  - /placeholder: nombre@correo.com
+              - button "Quiero que me contacten" [ref=e1042] [cursor=pointer]
+          - paragraph [ref=e1047]: Tus datos se usan solo para contactarte sobre el diploma.
+      - generic [ref=e1051]:
+        - paragraph [ref=e1054]: Experiencia Goberna
+        - heading [level=2] [ref=e1057]:
+          - text: "Más que un aula:"
+          - generic [ref=e1058]: una comunidad que actúa
+        - paragraph [ref=e1061]: Amplía tu red de contactos, intercambia experiencias con profesionales internacionales y genera oportunidades de colaboración y crecimiento profesional.
+        - paragraph [ref=e1064]:
+          - generic [ref=e1065]: Voces
+        - generic [ref=e1066]:
+          - button "Dienys Pilares Laridú Puerto Rico" [ref=e1067] [cursor=pointer]:
+            - generic [ref=e1074]:
+              - paragraph [ref=e1077]: Dienys Pilares Laridú
+              - paragraph [ref=e1080]: Puerto Rico
+          - button "Francisco D. Cepeda Bolivia" [ref=e1081] [cursor=pointer]:
+            - generic [ref=e1088]:
+              - paragraph [ref=e1091]: Francisco D. Cepeda
+              - paragraph [ref=e1094]: Bolivia
+          - button "Pablo Benalcázar Teniente Coronel · Ecuador" [ref=e1095] [cursor=pointer]:
+            - generic [ref=e1102]:
+              - paragraph [ref=e1105]: Pablo Benalcázar
+              - paragraph [ref=e1108]: Teniente Coronel · Ecuador
+      - generic [ref=e1110]:
+        - generic [ref=e1111]:
+          - paragraph [ref=e1114]: Preguntas frecuentes
+          - heading [level=2] [ref=e1117]:
+            - text: Resolvemos tus dudas
+            - generic [ref=e1118]: antes de que decidas
+          - paragraph [ref=e1121]: Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+        - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e1125]:
+          - group [ref=e1126]:
+            - generic "¿Cómo se realizan las clases?" [ref=e1127] [cursor=pointer]:
+              - generic [ref=e1130]:
+                - generic [aria-hidden] [ref=e1132]: 
+                - text: 
+            - region "¿Cómo se realizan las clases? Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases especializadas, análisis de casos, revisión de reportes, ejercicios de redes y discusión de escenarios." [ref=e1133]:
+              - paragraph [ref=e1136]: Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases especializadas, análisis de casos, revisión de reportes, ejercicios de redes y discusión de escenarios.
+          - group [ref=e1137]:
+            - generic "¿Cuánto dura el programa?" [ref=e1138] [cursor=pointer]:
+              - generic [ref=e1141]:
+                - text: 
+                - generic [aria-hidden] [ref=e1143]: 
+          - group [ref=e1144]:
+            - generic "¿Qué incluye mi inscripción?" [ref=e1145] [cursor=pointer]:
+              - generic [ref=e1148]:
+                - text: 
+                - generic [aria-hidden] [ref=e1150]: 
+          - group [ref=e1151]:
+            - generic "¿Cuáles son los medios de pago disponibles?" [ref=e1152] [cursor=pointer]:
+              - generic [ref=e1155]:
+                - text: 
+                - generic [aria-hidden] [ref=e1157]: 
+          - group [ref=e1158]:
+            - generic "¿Cómo puedo inscribirme?" [ref=e1159] [cursor=pointer]:
+              - generic [ref=e1162]:
+                - text: 
+                - generic [aria-hidden] [ref=e1164]: 
+      - generic [ref=e1166]:
+        - generic [ref=e1171]:
+          - generic [ref=e1172]:
+            - heading "La Alianza Estratégica:" [level=2] [ref=e1175]
+            - link [ref=e1178] [cursor=pointer]:
+              - /url: https://fundacionsmarcos.com/
+          - generic [ref=e1179]:
+            - heading "En convenio con:" [level=2] [ref=e1182]
+            - link [ref=e1188] [cursor=pointer]:
+              - /url: https://www.camaralima.org.pe/
+        - generic [ref=e1189]:
+          - generic [ref=e1190]:
+            - heading "Estados Unidos" [level=2] [ref=e1200]
+            - list [ref=e1203]:
+              - listitem [ref=e1204]:
+                - generic [aria-hidden] [ref=e1206]: 
+                - generic [ref=e1207]: (+1) 786 4141971
+              - listitem [ref=e1208]:
+                - link "informes@goberna.us" [ref=e1209] [cursor=pointer]:
+                  - /url: mailto:iformes@goberna.us?subject=%5BWEB%20GOBERNA%5D%20
+                  - generic [aria-hidden] [ref=e1211]: 
+              - listitem [ref=e1213]:
+                - link "goberna.us" [ref=e1214] [cursor=pointer]:
+                  - /url: http://goberna.us
+                  - generic [aria-hidden] [ref=e1216]: 
+              - listitem [ref=e1218]:
+                - generic [aria-hidden] [ref=e1220]: 
+                - generic [ref=e1221]: "1900 N Bayshore Dr Suite 1A #136-2023 Miami, Florida, 33132 United States"
+          - generic [ref=e1222]:
+            - heading "México" [level=2] [ref=e1235]
+            - list [ref=e1238]:
+              - listitem [ref=e1239]:
+                - generic [aria-hidden] [ref=e1241]: 
+                - generic [ref=e1242]: (+52) 156 1058 4485
+              - listitem [ref=e1243]:
+                - link "mexico@grupogoberna.com" [ref=e1244] [cursor=pointer]:
+                  - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                  - generic [aria-hidden] [ref=e1246]: 
+              - listitem [ref=e1248]:
+                - link "grupogoberna.com" [ref=e1249] [cursor=pointer]:
+                  - /url: http://grupogoberna.com
+                  - generic [aria-hidden] [ref=e1251]: 
+              - listitem [ref=e1253]:
+                - generic [aria-hidden] [ref=e1255]: 
+                - generic [ref=e1256]: Río Tiber 100 col. Cuauhtémoc Piso 6 - Ciudad de México
+          - generic [ref=e1257]:
+            - heading "Perú" [level=2] [ref=e1267]
+            - list [ref=e1270]:
+              - listitem [ref=e1271]:
+                - generic [aria-hidden] [ref=e1273]: 
+                - generic [ref=e1274]: (+51) 944 531 711
+              - listitem [ref=e1275]:
+                - link "informes@goberna.pe" [ref=e1276] [cursor=pointer]:
+                  - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                  - generic [aria-hidden] [ref=e1278]: 
+              - listitem [ref=e1280]:
+                - link "grupogoberna.com" [ref=e1281] [cursor=pointer]:
+                  - /url: http://goberna.pe
+                  - generic [aria-hidden] [ref=e1283]: 
+              - listitem [ref=e1285]:
+                - generic [aria-hidden] [ref=e1287]: 
+                - generic [ref=e1288]: Avenida Manuel Olguín 335 - of 608, Surco, Lima
+          - generic [ref=e1289]:
+            - heading "Ecuador" [level=2] [ref=e1299]
+            - list [ref=e1302]:
+              - listitem [ref=e1303]:
+                - generic [aria-hidden] [ref=e1305]: 
+                - generic [ref=e1306]: (+593) 99 207 3457
+              - listitem [ref=e1307]:
+                - link "infoecuador@goberna.pe" [ref=e1308] [cursor=pointer]:
+                  - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                  - generic [aria-hidden] [ref=e1310]: 
+              - listitem [ref=e1312]:
+                - link "grupogoberna.com" [ref=e1313] [cursor=pointer]:
+                  - /url: http://goberna.pe
+                  - generic [aria-hidden] [ref=e1315]: 
+              - listitem [ref=e1317]:
+                - generic [aria-hidden] [ref=e1319]: 
+                - generic [ref=e1320]: Edificio The Point, Of. 2307, Ciudad del Río, Puerto Santa Ana - Guayaquil
+          - generic [ref=e1321]:
+            - heading "Bolivia" [level=2] [ref=e1334]
+            - list [ref=e1337]:
+              - listitem [ref=e1338]:
+                - generic [aria-hidden] [ref=e1340]: 
+                - generic [ref=e1341]: (+591) 78814740
+              - listitem [ref=e1342]:
+                - link "bolivia@grupogoberna.com" [ref=e1343] [cursor=pointer]:
+                  - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                  - generic [aria-hidden] [ref=e1345]: 
+              - listitem [ref=e1347]:
+                - link "grupogoberna.com" [ref=e1348] [cursor=pointer]:
+                  - /url: http://grupogoberna.com
+                  - generic [aria-hidden] [ref=e1350]: 
+              - listitem [ref=e1352]:
+                - generic [aria-hidden] [ref=e1354]: 
+                - generic [ref=e1355]: Av. Beni Edificio Top Center, Piso 7 Of. 7C - Santa Cruz
+          - generic [ref=e1356]:
+            - heading "Brasil" [level=2] [ref=e1362]
+            - list [ref=e1365]:
+              - listitem [ref=e1366]:
+                - generic [aria-hidden] [ref=e1368]: 
+                - generic [ref=e1369]: +55 21 98126-9882
+              - listitem [ref=e1370]:
+                - link "brasil@grupogoberna.com" [ref=e1371] [cursor=pointer]:
+                  - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                  - generic [aria-hidden] [ref=e1373]: 
+              - listitem [ref=e1375]:
+                - link "grupogoberna.com" [ref=e1376] [cursor=pointer]:
+                  - /url: http://grupogoberna.com
+                  - generic [aria-hidden] [ref=e1378]: 
+              - listitem [ref=e1380]:
+                - generic [aria-hidden] [ref=e1382]: 
+                - generic [ref=e1383]: Praia de Botafogo, 360 - 520 c - Botafogo, Rio de Janeiro
+        - list [ref=e1387]:
+          - listitem [ref=e1388]:
+            - link "Libro de Reclamaciones" [ref=e1389] [cursor=pointer]:
+              - /url: https://grupogoberna.com/libro-de-reclamaciones/
+              - generic [aria-hidden] [ref=e1391]: 
+          - listitem [ref=e1393]:
+            - link "Política de Privacidad" [ref=e1394] [cursor=pointer]:
+              - /url: https://grupogoberna.com/politica-de-privacidad/
+          - listitem [ref=e1396]:
+            - link "Términos y condiciones" [ref=e1397] [cursor=pointer]:
+              - /url: https://grupogoberna.com/terminos-y-condiciones/
+      - generic [ref=e1400]:
+        - paragraph [ref=e1404]: Pagado por "Grupo Goberna" © Todos los derechos reservadosMéxico | Perú | Ecuador | Bolivia | Colombia | República Dominicana | Chile | Panamá | Costa Rica | Guatemala | Honduras | El Salvador | Uruguay
+        - list [ref=e1408]:
+          - listitem [ref=e1409]:
+            - link "Facebook-f" [ref=e1410] [cursor=pointer]:
+              - /url: https://www.facebook.com/gobernacorp/
+              - generic [aria-hidden] [ref=e1412]: 
+          - listitem [ref=e1413]:
+            - link "Twitter" [ref=e1414] [cursor=pointer]:
+              - /url: https://twitter.com/GobernaConsult
+              - generic [aria-hidden] [ref=e1416]: 
+          - listitem [ref=e1417]:
+            - link "Instagram" [ref=e1418] [cursor=pointer]:
+              - /url: https://www.instagram.com/gobernacorp
+              - generic [aria-hidden] [ref=e1420]: 
+          - listitem [ref=e1421]:
+            - link "Linkedin" [ref=e1422] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/goberna-analytics
+              - generic [aria-hidden] [ref=e1424]: 
+          - listitem [ref=e1425]:
+            - link "Youtube" [ref=e1426] [cursor=pointer]:
+              - /url: https://www.youtube.com/GobernaSAC
+              - generic [aria-hidden] [ref=e1428]: 
+          - listitem [ref=e1429]:
+            - link "Vimeo" [ref=e1430] [cursor=pointer]:
+              - /url: https://vimeo.com/goberna
+              - generic [aria-hidden] [ref=e1432]: 
+          - listitem [ref=e1433]:
+            - link "Telegram-plane" [ref=e1434] [cursor=pointer]:
+              - /url: http://t.me/GobernaCorp
+              - generic [aria-hidden] [ref=e1436]: 
+  - generic [ref=e1437]: desktop
+  - status [ref=e1438]
+  - iframe [ref=e1439]: <img src="https://api.openpay.pe/logo.gif?m=203000&amp;s=VugOdEeItmvoJ2kZPQZEpJoszNNAfSsI" width="1" height="1">
+  - iframe [ref=e1440]: <img src="https://api.openpay.pe/oa/logo.gif?m=mgd5sttixaxqvwbi0vvl&amp;s=VugOdEeItmvoJ2kZPQZEpJoszNNAfSsI" width="1" height="1">

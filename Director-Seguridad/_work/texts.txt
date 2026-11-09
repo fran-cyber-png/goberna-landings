@@ -1,0 +1,116 @@
+-2 0 69.11 21  6028:1237 Voces
+0 0 149 70  4010:523 Facilidades
+0 0 165 16  4010:383 METODOLOGÍA PRÁCTICA
+0 0 167 50  4010:118 METODOLOGÍA
+0 0 176 50  4010:506 CERTIFICACIÓN
+0 0 286 47  4010:260 Diagnóstico
+0 0 309 19  4010:626 Hablar con un asesor
+0 0 312 37  4010:268 Responde bajo presiómo
+0 0 313 50  4010:120 SIMULADOR EXCLUSIVO
+0 0 344 37  4010:269 DEFIENDE TU CAMPAÑA 
+0 0 352 22  4010:439 Juan de Dios Páramo
+0 0 352 22  4028:109 Juan de Dios Páramo
+0 0 352 22  4028:90 Juan de Dios Páramo
+0 0 356 37  4010:263 Construye tu estrategia
+0 0 37 50  4010:534 PAÍS
+0 0 45 47  4010:378 10
+0 0 453 50  4010:508 Institución académica aliada
+0 0 498 26  4010:507 GOBERNA Political Management
+0 0 518 147  4010:147 Seis módulos.  Una sola lógica de campaña. 
+0 0 527 50  4010:121 PLAN D ESTUDIOS
+0 0 538 183  4010:542 Resolvemos tus dudas antes de que decidas.
+0 0 538 50  4010:540 PREGUNTAS FRECUENTES
+0 0 581 50  4010:119 El programa
+0 0 620 80  4065:849 Habla con un asesor
+0 0 620.0 42  4010:518 ADMISI´ÓN
+0 0 620.0 50  4010:532 NOMBRE COMPLETO
+0 0 620.0 50  4010:535 TELÉFONO
+0 0 620.0 50  4010:536 CARGO
+0 0 620.0 50  4010:537 CORREO ELECTRÓNICO
+0 0 622 22  4010:545 ¿Necesito experiencia previa en política?
+0 0 63 16  4010:381 SEMANAS
+0 0 669 42  4010:517 INVERSIÓN
+0 0 70 50  4010:154 100%
+0 0 73 70  4010:520 Inicio
+0 0 74 47  4010:386 100
+0 0 82 47  4010:385 4
+0 0 88 16  4010:379 MÓDULOS
+0 0 98 33  4010:217 Comandos
+0 10 12 31  4010:548 -
+0 20 105 19  4010:135 INVERSIÓN
+0 29 28 52  4010:152 15
+0 29 36 52  4010:153 20
+0 33 101 57  4010:151 10,000
+0 37 110 100  4010:503 300
+0 37 74 100  4010:502 15
+0 37 74 100  4010:504 10
+0 47 66 63  4028:112 MEXICO
+0 47 75 63  4028:93 MEXICO
+0 52 200 146  4010:515 200
+0 69 204 57  4010:155 Objetivo del programa
+0 69 231 57  4010:156 ¿PARA QUIÉN ES ESTE DIPLOMA?
+0 69 194 57  4010:157 Qué lograrás
+0 80 37 47  4010:387 %
+0 116 40 100  4010:505 K
+0 142 131 33  4010:219 Mapas electorales
+0 317 85 33  4010:216 Liderazgo
+0 446 48 33  4010:218 Crisis
+0 538 93 33  4010:220 Tecnología
+0 0 37 99  4010:499 +
+0 0 37 99  4010:500 +
+0 0 37 99  4010:501 +
+1 0 25 49  4010:149 +
+1 0 25 49  4010:150 +
+4 0 25 49  4010:148 +
+5 168 192 40  4010:112 Metodología Political Management
+6 168 289 40  4010:111 Docentes Internacionales en ejercicio
+6 168 188 40  4010:110 Países de Latinoamérica
+8 168 182 40  4010:109 Profesionales formados
+12 0 42 79  4010:516 $
+13 24 120 47  4010:297 Aprenderás
+13 429 95 47  4010:301 Aplicarás en tu campaña
+17 10 79 50  4010:307 Módulo
+20 0 165 16  4010:384 Aprende haciendo
+20 0 74 16  4010:382 Intensivas
+20 0 88 16  4010:380 Especializados
+23 214 191 19  6028:55 Quiero que me contacten
+23 276 67 19  4010:531 Quiero que me contacten
+25 55 201 19  4010:126 RESERVA TU VACANTE
+25 395 228 19  4010:129 Hablar con un asesor
+27 0 145 30  4010:140 USD $200
+32 0 352 32  4010:440 Territorio y geografía electoral
+32 0 352 32  4028:110 Territorio y geografía electoral
+32 0 352 32  4028:91 Territorio y geografía electoral
+33 0 498 56  4010:104 Diploma Internacional  del Consultor Político
+33 1495 191 24  4081:55 Inscribete ahora
+42 0 453 26  4010:105 Certificado de especialización universitaria
+45 15 68 103  4010:306 02
+45 272 97 54  4010:514 USD
+46 0 622 63  4010:546 No, El diploma está diseñado tanto para profesionales vinculados al sector como para quienes buscan iniciar o fortalecer en consultoría
+50 0 235 70  4010:522 31 de octubre
+50 0 268 70  4010:524 Hasta en 4 cuotas
+56 0 620 70  4010:539 Tus datos se usan solo para contactarte sobre el diploma.
+58 24 338 63  4010:296 Rol del consultor, estructura de un comando y fases de una campaña.
+58 429 337 72  4010:300 Conformación de tu comando y asignación de roles de campaña.
+62 0 312 128  4010:266 Enfrenta cambios de escenario,  crisis, ataques, riesgos y decisiones  estratégicas.
+62 0 320 96  4010:262 Analiza territorio, públicos, mensaje,  escenarios y plan de acción. 
+62 0 344 96  4010:267 Presenta la estrategia integral de tu comando ante un jurado especializado. Visualmente debería parecer un recorrido.
+63 731 150 50  4010:308 VER CONTENIDO
+67 108 603 58  4010:309 Inteligencia Artificial aplicada a campañas
+72 0 286 128  4010:259 Integra un equipo con funciones  reales de una campaña electoral.
+74 0 352 45  4010:441 Doctor en Geografía Económica por la UNAM y consultor especializado en análisis territorial y estrategia electoral.
+74 0 352 45  4028:111 Doctor en Geografía Económica por la UNAM y consultor especializado en análisis territorial y estrategia electoral.
+74 0 352 45  4028:92 Doctor en Geografía Económica por la UNAM y consultor especializado en análisis territorial y estrategia electoral.
+80 0 620 50  4010:533 Déjanos tus datos y un asesor de GOBERNA te contactará.
+81 0 619 114  4010:509 Una formación Dos  formas de acreditarla.
+87 0 669 108  4010:513 Tú próxima campaña empiézanos aquí
+89 0 581 180  4010:224 Formar consultores capaces de dirigir la Estrategia completa de una campaña.
+94 0 674 114  4010:145 De la teoría a la dirección de una campaña
+97 0 563 159  4010:251 Aquí no solo estudias unacampaña. La vives.
+97 26 321 37  4010:278 Descargar brochure del programa
+100 986 268.1 24  6028:1232 Experiencia Goberna
+120 885 151 61  4010:596 Footer
+137 42 111.6 18.7  6028:1256 Lorena Coria
+137 42 127.5 18.7  6028:1246 Alina Martínez
+137 42 137.5 18.7  6028:1266 Miguel Figueroa
+167 986 423.6 173.  6028:1233 

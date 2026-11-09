@@ -1,0 +1,5 @@
+@media (min-width: 768px) and (max-width: 1366px) {
+  /* laptop y tablet: el texto se apoya en el borde inferior, como en desktop con el margen del nombre */
+  selector .ak-doc-card > .e-con.ak-doc-body { top: auto !important; }
+  selector .ak-doc-body .ak-doc-link { margin-top: 18px !important; }
+}

@@ -1,0 +1,254 @@
+[     991ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://grupogoberna.com/diploma-internacional-estrategias-contra-el-crimen-organizado-y-contraterrorismo/:604
+[    1390ms] [WARNING] Unable to create a text session because the service is not running. @ https://grupogoberna.com/diploma-internacional-estrategias-contra-el-crimen-organizado-y-contraterrorismo/:2283
+[    1404ms] [WARNING] Unable to create a text session because the service is not running. @ https://grupogoberna.com/diploma-internacional-estrategias-contra-el-crimen-organizado-y-contraterrorismo/:2646
+[    2437ms] [LOG] PixelYourSite Free version 11.4.2.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:0
+[    2444ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:2
+[    2462ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:141
+[    2623ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    2623ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    3052ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[    3569ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[    3569ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[    3569ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[    3569ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[    3569ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[    3569ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[    3723ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5136ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5144ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5144ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5144ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5144ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5144ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5145ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5145ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5145ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5145ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5145ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5150ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5150ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5151ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5151ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5151ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5151ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5151ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5151ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5151ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5151ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/plugins/clsop/assets/js/wpr-beacon.min.js:0
+[    5622ms] [WARNING] [15:53:55.027] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5623ms] [WARNING] [15:53:55.029] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5623ms] [WARNING] [15:53:55.029] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5623ms] [WARNING] [15:53:55.029] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5623ms] [WARNING] [15:53:55.030] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5623ms] [WARNING] [15:53:55.030] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5630ms] [WARNING] [15:53:55.037] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5631ms] [WARNING] [15:53:55.037] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[    5632ms] [WARNING] [15:53:55.038] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[  313524ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/base-preview.html:1661
+[  314815ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8765/favicon.ico:0
+[  315374ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/base-preview.html:1661
+[  371088ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/base-preview.html:1661
+[ 1099447ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html:1724
+[ 1275522ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792098904701:1751
+[ 1444159ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099073333:1751
+[ 1498451ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099127618:1782
+[ 1538435ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099167612:1782
+[ 1596096ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099225275:1788
+[ 1645317ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099274494:1788
+[ 1652102ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099281426:1788
+[ 1741559ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099370759:1808
+[ 1747966ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099377263:1808
+[ 1754653ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099383982:1808
+[ 1778966ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/base-preview.html:1661
+[ 1788625ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/base-preview.html:1661
+[ 1801932ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://grupogoberna.com/diploma-internacional-estrategias-contra-el-crimen-organizado-y-contraterrorismo/:604
+[ 1802614ms] [LOG] PixelYourSite Free version 11.4.2.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:0
+[ 1802622ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:2
+[ 1802638ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:141
+[ 1802766ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1802766ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803215ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[ 1803373ms] [WARNING] [16:23:52.768] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803373ms] [WARNING] [16:23:52.780] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803374ms] [WARNING] [16:23:52.780] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803374ms] [WARNING] [16:23:52.780] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803374ms] [WARNING] [16:23:52.780] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803374ms] [WARNING] [16:23:52.781] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803438ms] [WARNING] [16:23:52.844] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803440ms] [WARNING] [16:23:52.846] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803516ms] [WARNING] [16:23:52.923] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1803668ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[ 1803668ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[ 1803668ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[ 1803668ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[ 1803668ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[ 1803668ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[ 1803812ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 1844870ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099474090:1809
+[ 1851246ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099480542:1809
+[ 1857966ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099487295:1809
+[ 1878915ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099508231:1809
+[ 1941490ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099570664:1812
+[ 1974873ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099604042:1813
+[ 1980953ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099610247:1813
+[ 1987535ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792099616862:1813
+[ 2054523ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html:1813
+[ 2431677ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html:1813
+[ 2817061ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100446412:1813
+[ 2859797ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100488960:1814
+[ 2861791ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100491077:1814
+[ 2863736ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100493040:1814
+[ 2865731ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100495044:1814
+[ 2882006ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100511175:1815
+[ 2883648ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100512937:1815
+[ 2885265ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100514590:1815
+[ 2886837ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100516162:1815
+[ 2888457ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100517779:1815
+[ 2890068ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100519395:1815
+[ 3128864ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100758021:1815
+[ 3143444ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100772634:1817
+[ 3269248ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100898430:1820
+[ 3270932ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100900220:1820
+[ 3272647ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100901967:1820
+[ 3274304ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100903630:1820
+[ 3283953ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792100913119:1820
+[ 3567564ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792101196727:1823
+[ 3988822ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792101618008:1855
+[ 4026159ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792101655352:1887
+[ 4595417ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102224741:1888
+[ 4597363ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102226686:1888
+[ 4598983ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102228311:1888
+[ 4600600ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102229928:1888
+[ 4620946ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102250274:1888
+[ 4640774ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102269939:1889
+[ 4646463ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102275763:1889
+[ 4648067ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102277391:1889
+[ 4649690ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102279010:1889
+[ 4651308ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102280630:1889
+[ 4747385ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://grupogoberna.com/diploma-internacional-estrategias-contra-el-crimen-organizado-y-contraterrorismo/:604
+[ 4747898ms] [LOG] PixelYourSite Free version 11.4.2.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:0
+[ 4747900ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:2
+[ 4747909ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:141
+[ 4748000ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748000ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748533ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[ 4748556ms] [WARNING] [17:12:57.951] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748556ms] [WARNING] [17:12:57.963] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748557ms] [WARNING] [17:12:57.963] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748557ms] [WARNING] [17:12:57.963] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748557ms] [WARNING] [17:12:57.963] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748557ms] [WARNING] [17:12:57.964] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748618ms] [WARNING] [17:12:58.025] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748666ms] [WARNING] [17:12:58.072] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748667ms] [WARNING] [17:12:58.074] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4748879ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[ 4748879ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[ 4748879ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[ 4748879ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[ 4748879ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[ 4748879ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[ 4748957ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 4752971ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:139
+[ 4810483ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102439696:1895
+[ 4868921ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792102498273:1895
+[ 5927043ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792103556393:1895
+[ 5929754ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792103559096:1895
+[ 5942733ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792103572084:1895
+[ 5968344ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792103597513:1899
+[ 5978045ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792103607392:1899
+[ 5984393ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792103613743:1899
+[ 5990769ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792103620120:1899
+[ 6428981ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104058149:2098
+[ 6507328ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104136478:2100
+[ 6509768ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104139051:2100
+[ 6512063ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104141380:2100
+[ 6514341ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104143630:2100
+[ 6516560ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104145884:2100
+[ 6542624ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104171772:2104
+[ 6544881ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104174175:2104
+[ 6547725ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104177039:2104
+[ 6549971ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104179267:2104
+[ 6552151ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104181475:2104
+[ 6554361ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104183678:2104
+[ 6557026ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104186338:2104
+[ 6583218ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104212365:2104
+[ 6586047ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104215334:2104
+[ 6588817ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104218131:2104
+[ 6605050ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104234344:2104
+[ 6633279ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104262434:2109
+[ 6637006ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104266317:2109
+[ 6638906ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104268225:2109
+[ 6640796ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104270121:2109
+[ 6648549ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104277871:2109
+[ 6657737ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/base-preview.html?1792104287043:1661
+[ 6659624ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/base-preview.html?1792104288953:1661
+[ 6661647ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/base-preview.html?1792104290927:1661
+[ 6663933ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://grupogoberna.com/diploma-internacional-estrategias-contra-el-crimen-organizado-y-contraterrorismo/:604
+[ 6664433ms] [LOG] PixelYourSite Free version 11.4.2.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:0
+[ 6664436ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:2
+[ 6664446ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:141
+[ 6664563ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6664563ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665094ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[ 6665116ms] [WARNING] [17:44:54.511] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665117ms] [WARNING] [17:44:54.523] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665117ms] [WARNING] [17:44:54.523] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665117ms] [WARNING] [17:44:54.524] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665117ms] [WARNING] [17:44:54.524] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665118ms] [WARNING] [17:44:54.524] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665178ms] [WARNING] [17:44:54.584] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665179ms] [WARNING] [17:44:54.585] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665235ms] [WARNING] [17:44:54.641] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6665474ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[ 6665474ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[ 6665474ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[ 6665474ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[ 6665474ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[ 6665474ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[ 6665500ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:736
+[ 6669526ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/cache/min/1/947a86ac3a6d4570e37c411fa58f49b9.js:139
+[ 6679892ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104309215:2109
+[ 7296736ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792104925890:2115
+[ 7438666ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105067989:2115
+[ 7440389ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105069673:2115
+[ 7442111ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105071420:2115
+[ 7467593ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105096890:2115
+[ 7469225ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105098555:2115
+[ 7470901ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105100199:2115
+[ 7472542ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105101857:2115
+[ 7474124ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105103450:2115
+[ 7486463ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105115755:2115
+[ 7487915ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105117218:2115
+[ 7521430ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105150571:2121
+[ 7523104ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105152423:2121
+[ 7524585ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105153872:2121
+[ 7526000ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105155321:2121
+[ 7527373ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105156694:2121
+[ 7528785ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105158096:2121
+[ 7530285ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105159595:2121
+[ 7548468ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105177616:2122
+[ 7549884ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105179210:2122
+[ 7551331ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105180621:2122
+[ 7552839ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105182154:2122
+[ 7554219ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105183553:2122
+[ 7555583ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105184913:2122
+[ 7873998ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105503133:2124
+[ 7875754ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105505042:2124
+[ 7877202ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105506530:2124
+[ 7897674ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105526825:2124
+[ 7899350ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105528641:2124
+[ 7900833ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105530154:2124
+[ 8005099ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105634251:2124
+[ 8007203ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105636522:2124
+[ 8119714ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105748856:2124
+[ 8121566ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105750876:2124
+[ 8123035ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105752353:2124
+[ 8347946ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105977095:2127
+[ 8352324ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105981613:2127
+[ 8355843ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792105985156:2127
+[ 8386684ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792106015826:2130
+[ 8389075ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792106018367:2130
+[ 8391574ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792106020891:2130
+[ 9015374ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792106644504:2118
+[11187195ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792108816349:2119
+[11189162ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8765/landing.html?1792108818481:2119

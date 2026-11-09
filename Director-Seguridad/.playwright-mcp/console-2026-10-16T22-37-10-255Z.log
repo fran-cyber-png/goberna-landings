@@ -1,0 +1,23 @@
+[    1287ms] [LOG] PixelYourSite Free version 11.4.2.1 @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:0
+[    1289ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:2
+[    1297ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:141
+[    1395ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1395ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1830ms] [WARNING] [17:37:12.073] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1830ms] [WARNING] [17:37:12.085] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1831ms] [WARNING] [17:37:12.085] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1831ms] [WARNING] [17:37:12.085] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1831ms] [WARNING] [17:37:12.085] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1831ms] [WARNING] [17:37:12.086] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1836ms] [WARNING] [17:37:12.090] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1837ms] [WARNING] [17:37:12.092] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1839ms] [WARNING] [17:37:12.093] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    1881ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[    2206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[    2206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[    2206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[    2206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[    2206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[    2206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[    2317ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:736
+[    6345ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://grupogoberna.com/wp-content/cache/min/1/e4215517eccce6d79153be34ef50e9b8.js:139

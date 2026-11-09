@@ -1,0 +1,8 @@
+/* fondo igual al de la sección: cubre la franja bajo la sección mientras está fijada */
+selector { background-color: #F3F5F7; }
+/* sección de módulos fijada bajo el header (70 px al hacer scroll) mientras la lista avanza; solo desktop y laptop */
+selector.is-on > .ak-plan { position: sticky !important; }
+@media (min-width: 1025px) { selector.is-on > .ak-plan { top: 70px; } }
+selector.is-on .e-n-accordion { overflow: hidden !important; }
+selector .ak-plan-prog { display: none; position: absolute; left: 0; bottom: 0; height: 3px; width: 100%; background: #FFBB03; transform-origin: 0 50%; transform: scaleX(0); pointer-events: none; }
+selector.is-on .ak-plan-prog { display: block; }

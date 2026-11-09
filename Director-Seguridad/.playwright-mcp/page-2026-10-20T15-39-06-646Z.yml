@@ -1,0 +1,640 @@
+- generic [active] [ref=f11e1]:
+  - generic [ref=f11e3]:
+    - generic [ref=f11e5]:
+      - link [ref=f11e8] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f11e10]:
+        - navigation "Menú" [ref=f11e11]:
+          - list [ref=f11e12]:
+            - listitem [ref=f11e13]:
+              - link "METODOLOGÍA" [ref=f11e14] [cursor=pointer]:
+                - /url: "#metodologia"
+            - listitem [ref=f11e15]:
+              - link "DIPLOMA" [ref=f11e16] [cursor=pointer]:
+                - /url: "#diploma"
+            - listitem [ref=f11e17]:
+              - link "MÓDULOS" [ref=f11e18] [cursor=pointer]:
+                - /url: "#modulos"
+            - listitem [ref=f11e19]:
+              - link "DOCENTES" [ref=f11e20] [cursor=pointer]:
+                - /url: "#docentes"
+            - listitem [ref=f11e21]:
+              - link "CERTIFICACIÓN" [ref=f11e22] [cursor=pointer]:
+                - /url: "#certificacion"
+            - listitem [ref=f11e23]:
+              - link "INVERSIÓN" [ref=f11e24] [cursor=pointer]:
+                - /url: "#inversion"
+        - text:  
+      - link "Inscríbete ahora" [ref=f11e28] [cursor=pointer]:
+        - /url: "#inscripcion"
+    - generic [ref=f11e32]:
+      - heading "Prepárate para asesorar donde cada decisión puede definir el rumbo de un gobierno" [level=1] [ref=f11e37]
+      - generic [ref=f11e38]:
+        - link "Reserva tu vacante" [ref=f11e42] [cursor=pointer]:
+          - /url: "#inscripcion"
+          - generic [ref=f11e43]:
+            - generic [aria-hidden] [ref=f11e45]: 
+            - generic [ref=f11e46]: Reserva tu vacante
+        - link "Hablar con un asesor" [ref=f11e50] [cursor=pointer]:
+          - /url: https://wa.link/y4ww8t
+          - generic [ref=f11e51]:
+            - generic [aria-hidden] [ref=f11e53]: 
+            - generic [ref=f11e54]: Hablar con un asesor
+      - link "Descargar brochure del programa" [ref=f11e58] [cursor=pointer]:
+        - /url: https://cms.goberna.club/d/brochure_de_asesor_presidencial_peso_compressed_1.pdf?descargar=1%22
+        - generic [ref=f11e59]:
+          - generic [aria-hidden] [ref=f11e61]: 
+          - generic [ref=f11e62]: Descargar brochure del programa
+    - generic [ref=f11e65]:
+      - generic [ref=f11e66]:
+        - paragraph [ref=f11e81]: Modalidad
+        - paragraph [ref=f11e84]: Online en vivo
+      - generic [ref=f11e85]:
+        - paragraph [ref=f11e103]: Inicio
+        - paragraph [ref=f11e106]: 23 de noviembre, 2026
+      - generic [ref=f11e107]:
+        - paragraph [ref=f11e118]: Horario
+        - paragraph [ref=f11e121]: 19:00 GMT-5
+      - generic [ref=f11e122]:
+        - paragraph [ref=f11e131]: Duración
+        - paragraph [ref=f11e134]: 10 módulos
+      - generic [ref=f11e135]:
+        - paragraph [ref=f11e138]: Inversión
+        - paragraph [ref=f11e141]: USD $199
+    - generic [ref=f11e143]:
+      - generic [ref=f11e144]:
+        - paragraph [ref=f11e147]: Metodología
+        - heading "Del análisis de la amenaza al diseño de respuestas estratégicas" [level=2] [ref=f11e150]
+        - paragraph [ref=f11e153]: Aprende a analizar redes criminales y terroristas, interpretar sus vínculos y desarrollar estrategias de prevención, disrupción y cooperación frente a escenarios complejos.
+        - generic [ref=f11e154]:
+          - generic [ref=f11e155]:
+            - paragraph [ref=f11e158]: + 10,000
+            - paragraph [ref=f11e161]: Profesionales formados
+          - generic [ref=f11e162]:
+            - paragraph [ref=f11e165]: + 15
+            - paragraph [ref=f11e168]: Países de Latinoamérica
+          - generic [ref=f11e169]:
+            - paragraph [ref=f11e172]: + 20
+            - paragraph [ref=f11e175]: Docentes Internacionales en ejercicio
+          - generic [ref=f11e176]:
+            - paragraph [ref=f11e179]: 100%
+            - paragraph [ref=f11e182]: Metodología Political Management
+      - generic [ref=f11e183]:
+        - iframe [ref=f11e187]:
+          - generic [ref=f12e5]:
+            - generic [ref=f12e6] [cursor=pointer]
+            - generic [ref=f12e8] [cursor=pointer]:
+              - img "Logo" [ref=f12e10]
+              - generic [ref=f12e11]: GOBERNA
+              - generic [ref=f12e12]: ESCUELA
+            - generic [ref=f12e13]:
+              - button "Reproducir video" [ref=f12e15] [cursor=pointer]
+              - generic:
+                - generic [ref=f12e18] [cursor=pointer]: "10"
+                - generic [ref=f12e22] [cursor=pointer]: "10"
+              - generic [ref=f12e26]:
+                - slider "Barra de progreso del video" [ref=f12e27] [cursor=pointer]
+                - generic [ref=f12e29]:
+                  - generic [ref=f12e30]:
+                    - button "Reproducir" [ref=f12e31] [cursor=pointer]
+                    - button "Retroceder 10 segundos" [ref=f12e34] [cursor=pointer]:
+                      - generic [ref=f12e37]: "10"
+                    - button "Adelantar 10 segundos" [ref=f12e38] [cursor=pointer]:
+                      - generic [ref=f12e41]: "10"
+                    - generic [ref=f12e42]:
+                      - button "Activar sonido" [ref=f12e43] [cursor=pointer]
+                      - generic [ref=f12e46] [cursor=pointer]
+                    - generic [ref=f12e47]:
+                      - text: 0:00
+                      - generic [ref=f12e48]: / 1:32
+                  - generic [ref=f12e49]:
+                    - 'button "Velocidad de reproducción: 1x" [ref=f12e51] [cursor=pointer]':
+                      - generic [ref=f12e52]: 1x
+                    - 'button "Calidad de video: Auto" [ref=f12e54] [cursor=pointer]':
+                      - generic [ref=f12e57]: Auto
+                    - button "Ver en ventana flotante (Picture-in-Picture)" [ref=f12e58] [cursor=pointer]
+                    - button "Pantalla completa" [ref=f12e61] [cursor=pointer]
+        - paragraph [ref=f11e190]: Zoom • Comandos • Mapas electorales • Liderazgo • Crisis • Tecnología
+    - generic [ref=f11e191]:
+      - generic [ref=f11e192]:
+        - paragraph [ref=f11e195]: Diploma
+        - heading [level=2] [ref=f11e198]:
+          - text: Formar consultores capaces de dirigir la
+          - generic [ref=f11e199]: Estrategia completa de una campaña.
+      - generic "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas." [ref=f11e202]:
+        - tablist [ref=f11e203]:
+          - tab "Objetivo del programa" [selected] [ref=f11e204] [cursor=pointer]
+          - tab "¿Para quién es este diploma?" [ref=f11e206] [cursor=pointer]
+          - tab "Qué lograrás" [ref=f11e208] [cursor=pointer]
+        - tabpanel "Objetivo del programa" [ref=f11e211]:
+          - heading "Objetivo del programa" [level=3] [ref=f11e215]
+          - generic [ref=f11e217]:
+            - paragraph [ref=f11e218]: Formar asesores capaces de interpretar el entorno presidencial, evaluar escenarios y convertir información compleja en recomendaciones claras, viables y estratégicas.
+            - paragraph [ref=f11e219]: Durante el diploma desarrollarás capacidades para asesorar decisiones, gestionar agenda e interlocución política, comprender el entorno internacional y responder ante crisis, riesgos reputacionales y desafíos de seguridad institucional.
+            - paragraph [ref=f11e220]: – Diagnóstico político y electoral riguroso– Diseño de mensaje, posicionamiento y narrativa– Gestión de equipos, recursos y crisis– Toma de decisiones con datos en tiempo real
+    - generic [ref=f11e222]:
+      - generic [ref=f11e223]:
+        - paragraph [ref=f11e226]: Experiencia estratégica
+        - heading "Asesoría presidencial en acción" [level=2] [ref=f11e229]
+        - paragraph [ref=f11e232]: La metodología está conectada con el ejercicio profesional de la asesoría presidencial. Desde el primer módulo trabajarás sobre un caso transversal, desarrollando productos ejecutivos que se integrarán progresivamente en un dossier presidencial.
+      - generic [ref=f11e233]:
+        - generic [ref=f11e234]:
+          - paragraph [ref=f11e237]: Etapa 1
+          - heading "Analiza el entorno" [level=3] [ref=f11e240]
+          - paragraph [ref=f11e243]: Identifica actores, intereses, riesgos y oportunidades alrededor de la Presidencia.
+        - generic [ref=f11e244]:
+          - paragraph [ref=f11e247]: Etapa 2
+          - heading "Construye recomendaciones" [level=3] [ref=f11e250]
+          - paragraph [ref=f11e253]: Convierte información y evidencia en opciones claras para la toma de decisiones.
+        - generic [ref=f11e254]:
+          - paragraph [ref=f11e257]: Etapa 3
+          - heading "Enfrenta escenarios" [level=3] [ref=f11e260]
+          - paragraph [ref=f11e263]: Participa en simulaciones de gabinete, crisis, interlocución política y situaciones de alta presión.
+        - generic [ref=f11e264]:
+          - paragraph [ref=f11e267]: Etapa 4
+          - heading "Defiende tu asesoría" [level=3] [ref=f11e270]
+          - paragraph [ref=f11e273]: Sustenta tus recomendaciones y demuestra criterio frente a cambios en el escenario y preguntas de un jurado especializado.
+    - generic [ref=f11e275]:
+      - generic [ref=f11e276]:
+        - paragraph [ref=f11e279]: Plan de estudios
+        - heading "Una formación para comprender y asesorar el entorno presidencial" [level=2] [ref=f11e282]
+        - paragraph [ref=f11e285]: Cada módulo alimenta el siguiente hasta culminar en el War Room.
+        - generic [ref=f11e286]:
+          - generic [ref=f11e287]:
+            - paragraph [ref=f11e297]: "10"
+            - paragraph [ref=f11e300]: Módulos
+            - paragraph [ref=f11e303]: Especializados
+          - generic [ref=f11e304]:
+            - paragraph [ref=f11e314]: "4"
+            - paragraph [ref=f11e317]: Semanas
+            - paragraph [ref=f11e320]: Intensivas
+          - generic [ref=f11e321]:
+            - paragraph [ref=f11e333]: 100 %
+            - paragraph [ref=f11e336]: Metodología práctica
+            - paragraph [ref=f11e339]: Aprende haciendo
+        - link "Descargar plan de estudios" [ref=f11e343] [cursor=pointer]:
+          - /url: https://cms.goberna.club/d/brochure_de_asesor_presidencial_peso_compressed_1.pdf?descargar=1%22
+          - generic [ref=f11e344]:
+            - generic [aria-hidden] [ref=f11e346]: 
+            - generic [ref=f11e347]: Descargar plan de estudios
+      - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f11e351]:
+        - group [ref=f11e352]:
+          - 'generic "Módulo El asesor presidencial: poder, criterio y entorno de decisión Ocultar" [ref=f11e353] [cursor=pointer]':
+            - text: Módulo
+            - generic [ref=f11e354]: "El asesor presidencial: poder, criterio y entorno de decisión"
+            - generic [ref=f11e356]:
+              - generic [ref=f11e357]:
+                - text: Ocultar
+                - generic [aria-hidden] [ref=f11e358]: 
+              - text: Ver contenido 
+          - region [ref=f11e359]:
+            - paragraph [ref=f11e362]: Analizarás cómo se organiza el entorno presidencial y de qué manera el gabinete, los asesores, el Congreso y otros actores influyen en la agenda y las decisiones del mandatario.
+            - region [ref=f11e363]:
+              - 'region "Módulo El asesor presidencial: poder, criterio y entorno de decisión Ocultar Analizarás cómo se organiza el entorno presidencial y de qué manera el gabinete, los asesores, el Congreso y otros actores influyen en la agenda y las decisiones del mandatario. Aprenderás Comprende cómo se estructura el entorno presidencial, identifica actores e intereses y desarrolla criterio para asesorar con discreción, responsabilidad y lealtad institucional. Aplicarás en tu campaña Elaborarás un mapa de actores y circuitos de decisión aplicado a un caso presidencial." [ref=f11e364]':
+                - heading "Aprenderás" [level=4] [ref=f11e367]
+                - paragraph [ref=f11e370]: Comprende cómo se estructura el entorno presidencial, identifica actores e intereses y desarrolla criterio para asesorar con discreción, responsabilidad y lealtad institucional.
+              - 'region "Módulo El asesor presidencial: poder, criterio y entorno de decisión Ocultar Analizarás cómo se organiza el entorno presidencial y de qué manera el gabinete, los asesores, el Congreso y otros actores influyen en la agenda y las decisiones del mandatario. Aprenderás Comprende cómo se estructura el entorno presidencial, identifica actores e intereses y desarrolla criterio para asesorar con discreción, responsabilidad y lealtad institucional. Aplicarás en tu campaña Elaborarás un mapa de actores y circuitos de decisión aplicado a un caso presidencial." [ref=f11e371]':
+                - heading "Aplicarás en tu campaña" [level=4] [ref=f11e374]
+                - paragraph [ref=f11e377]: Elaborarás un mapa de actores y circuitos de decisión aplicado a un caso presidencial.
+        - group [ref=f11e378]:
+          - generic "Módulo Inteligencia política y análisis estratégico para la Presidencia Ver contenido" [ref=f11e379] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e380]: Inteligencia política y análisis estratégico para la Presidencia
+            - generic [ref=f11e382]:
+              - text: Ocultar 
+              - generic [ref=f11e383]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e384]: 
+        - group [ref=f11e385]:
+          - generic "Módulo Toma de decisiones estratégicas para la Presidencia Ver contenido" [ref=f11e386] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e387]: Toma de decisiones estratégicas para la Presidencia
+            - generic [ref=f11e389]:
+              - text: Ocultar 
+              - generic [ref=f11e390]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e391]: 
+        - group [ref=f11e392]:
+          - generic "Módulo Dirección estratégica de la agenda presidencial Ver contenido" [ref=f11e393] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e394]: Dirección estratégica de la agenda presidencial
+            - generic [ref=f11e396]:
+              - text: Ocultar 
+              - generic [ref=f11e397]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e398]: 
+        - group [ref=f11e399]:
+          - generic "Módulo Interlocución política con el Legislativo Ver contenido" [ref=f11e400] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e401]: Interlocución política con el Legislativo
+            - generic [ref=f11e403]:
+              - text: Ocultar 
+              - generic [ref=f11e404]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e405]: 
+        - group [ref=f11e406]:
+          - generic "Módulo Diplomacia presidencial, geopolítica y asuntos internacionales Ver contenido" [ref=f11e407] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e408]: Diplomacia presidencial, geopolítica y asuntos internacionales
+            - generic [ref=f11e410]:
+              - text: Ocultar 
+              - generic [ref=f11e411]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e412]: 
+        - group [ref=f11e413]:
+          - generic "Módulo Discurso, imagen y comunicación estratégica presidencial Ver contenido" [ref=f11e414] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e415]: Discurso, imagen y comunicación estratégica presidencial
+            - generic [ref=f11e417]:
+              - text: Ocultar 
+              - generic [ref=f11e418]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e419]: 
+        - group [ref=f11e420]:
+          - generic "Módulo Gabinete de crisis y protección de la reputación institucional Ver contenido" [ref=f11e421] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e422]: Gabinete de crisis y protección de la reputación institucional
+            - generic [ref=f11e424]:
+              - text: Ocultar 
+              - generic [ref=f11e425]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e426]: 
+        - group [ref=f11e427]:
+          - generic "Módulo Seguridad institucional y contrainteligencia aplicada a la gestión presidencial Ver contenido" [ref=f11e428] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e429]: Seguridad institucional y contrainteligencia aplicada a la gestión presidencial
+            - generic [ref=f11e431]:
+              - text: Ocultar 
+              - generic [ref=f11e432]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e433]: 
+        - group [ref=f11e434]:
+          - generic "Módulo Simulación de asesoría presidencial y sustentación del proyecto final Ver contenido" [ref=f11e435] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f11e436]: Simulación de asesoría presidencial y sustentación del proyecto final
+            - generic [ref=f11e438]:
+              - text: Ocultar 
+              - generic [ref=f11e439]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f11e440]: 
+    - generic [ref=f11e443]:
+      - heading "¿Quieres vivir esta experiencia en la próxima edición?" [level=2] [ref=f11e446]
+      - paragraph [ref=f11e449]: "Inicio: 23 de noviembre | Online en vivo | 10 módulos"
+      - generic [ref=f11e450]:
+        - link "Reserva tu vacante" [ref=f11e454] [cursor=pointer]:
+          - /url: "#inscripcion"
+          - generic [ref=f11e455]:
+            - generic [aria-hidden] [ref=f11e457]: 
+            - generic [ref=f11e458]: Reserva tu vacante
+        - link "Hablar con un asesor" [ref=f11e462] [cursor=pointer]:
+          - /url: https://wa.link/y4ww8t
+          - generic [ref=f11e463]:
+            - generic [aria-hidden] [ref=f11e465]: 
+            - generic [ref=f11e466]: Hablar con un asesor
+    - generic [ref=f11e468]:
+      - heading "Aprende de especialistas en gobierno, estrategia y alta política." [level=2] [ref=f11e471]
+      - generic [ref=f11e473]:
+        - region "Docentes" [ref=f11e474]:
+          - generic [ref=f11e475]:
+            - group [aria-hidden] [ref=f11e476]:
+              - generic [ref=f11e478]:
+                - paragraph [ref=f11e484]: España
+                - generic [ref=f11e485]:
+                  - heading [level=3] [ref=f11e488]: Nuño Rodríguez
+                  - paragraph [ref=f11e491]: Especialista en análisis político, comunicación estratégica y asuntos europeos
+                  - generic [ref=f11e493]:
+                    - paragraph [ref=f11e494]: Analista de políticas públicas con experiencia en procesos institucionales de la Unión Europea
+                    - paragraph [ref=f11e495]
+                  - link [ref=f11e499] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/nuno-rodriguez/
+                    - generic [ref=f11e500]:
+                      - generic [aria-hidden] [ref=f11e502]: 
+                      - generic [ref=f11e503]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e504]:
+              - generic [ref=f11e506]:
+                - paragraph [ref=f11e512]: Perú
+                - generic [ref=f11e513]:
+                  - heading [level=3] [ref=f11e516]: Omar Chehade
+                  - paragraph [ref=f11e519]: Especialista en derecho, gobernabilidad y relaciones parlamentarias
+                  - generic [ref=f11e521]:
+                    - paragraph [ref=f11e522]: Abogado con experiencia política y parlamentaria. Fue Segundo Vicepresidente de la República y congresista.
+                    - paragraph [ref=f11e523]
+                  - link [ref=f11e527] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f11e528]:
+                      - generic [aria-hidden] [ref=f11e530]: 
+                      - generic [ref=f11e531]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e532]:
+              - generic [ref=f11e534]:
+                - paragraph [ref=f11e540]: México
+                - generic [ref=f11e541]:
+                  - heading [level=3] [ref=f11e544]: Mauricio García
+                  - paragraph [ref=f11e547]: Especialista en gestión pública y prospectiva estratégica
+                  - paragraph [ref=f11e550]: Maestro en Gestión Pública Aplicada, con experiencia en planeación, evaluación de políticas públicas e innovación gubernamental.
+                  - link [ref=f11e554] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/mauricio-garcia/
+                    - generic [ref=f11e555]:
+                      - generic [aria-hidden] [ref=f11e557]: 
+                      - generic [ref=f11e558]: Ver trayectoria
+            - group "1 / 8" [ref=f11e559]:
+              - generic [ref=f11e561]:
+                - paragraph [ref=f11e567]: España
+                - generic [ref=f11e568]:
+                  - heading "Diego Miranda" [level=3] [ref=f11e571]
+                  - paragraph [ref=f11e574]: Especialista en ciberinteligencia e investigación digital
+                  - paragraph [ref=f11e577]: Especialista en análisis de amenazas, delitos informáticos y gestión de evidencia digital, vinculado a investigación del cibercrimen.
+                  - link "Ver trayectoria" [ref=f11e581] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/diego-miranda-2/
+                    - generic [ref=f11e582]:
+                      - generic [aria-hidden] [ref=f11e584]: 
+                      - generic [ref=f11e585]: Ver trayectoria
+            - group "2 / 8" [ref=f11e586]:
+              - generic [ref=f11e588]:
+                - paragraph [ref=f11e594]: Perú
+                - generic [ref=f11e595]:
+                  - heading "Roberto J. Bazán" [level=3] [ref=f11e598]
+                  - paragraph [ref=f11e601]: Consultor stratpol en PSYOPS, gobierno y campañas electorales
+                  - paragraph [ref=f11e604]: Magíster en Inteligencia Estratégica por el CAEN, abogado por la Universidad de Lima y politólogo por la UNMSM.
+                  - link "Ver trayectoria" [ref=f11e608] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/roberto-bazan/
+                    - generic [ref=f11e609]:
+                      - generic [aria-hidden] [ref=f11e611]: 
+                      - generic [ref=f11e612]: Ver trayectoria
+            - group "3 / 8" [ref=f11e613]:
+              - generic [ref=f11e615]:
+                - paragraph [ref=f11e621]: Colombia
+                - generic [ref=f11e622]:
+                  - heading "Diana Pereira" [level=3] [ref=f11e625]
+                  - paragraph [ref=f11e628]: Especialista en gobierno, asuntos internacionales y liderazgo estratégico
+                  - paragraph [ref=f11e631]: Profesional en Gobierno y Relaciones Internacionales con quince años de experiencia en el sector público colombiano.
+                  - link "Ver trayectoria" [ref=f11e635] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/diana-pereira/
+                    - generic [ref=f11e636]:
+                      - generic [aria-hidden] [ref=f11e638]: 
+                      - generic [ref=f11e639]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e640]:
+              - generic [ref=f11e642]:
+                - paragraph [ref=f11e648]: Brasil
+                - generic [ref=f11e649]:
+                  - heading [level=3] [ref=f11e652]: Cristiano Lamas
+                  - paragraph [ref=f11e655]: Especialista en discurso político y estrategia parlamentaria
+                  - generic [ref=f11e657]:
+                    - paragraph [ref=f11e658]: Abogado con más de 20 años de experiencia en política, asesoría parlamentaria y campañas electorales.
+                    - paragraph [ref=f11e659]
+                  - link [ref=f11e663] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/cristiano-lamas/
+                    - generic [ref=f11e664]:
+                      - generic [aria-hidden] [ref=f11e666]: 
+                      - generic [ref=f11e667]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e668]:
+              - generic [ref=f11e670]:
+                - paragraph [ref=f11e676]: Colombia
+                - generic [ref=f11e677]:
+                  - heading [level=3] [ref=f11e680]: Eduardo Velandia
+                  - paragraph [ref=f11e683]: Consultor en liderazgo, inteligencia y estrategia comunicacional
+                  - paragraph [ref=f11e686]: Teniente Coronel (r) de Inteligencia del Ejército de Colombia, con más de 24 años de experiencia en escenarios de alta complejidad.
+                  - link [ref=f11e690] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/eduardo-velandia/
+                    - generic [ref=f11e691]:
+                      - generic [aria-hidden] [ref=f11e693]: 
+                      - generic [ref=f11e694]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e695]:
+              - generic [ref=f11e697]:
+                - paragraph [ref=f11e703]: España
+                - generic [ref=f11e704]:
+                  - heading [level=3] [ref=f11e707]: Nuño Rodríguez
+                  - paragraph [ref=f11e710]: Especialista en análisis político, comunicación estratégica y asuntos europeos
+                  - generic [ref=f11e712]:
+                    - paragraph [ref=f11e713]: Analista de políticas públicas con experiencia en procesos institucionales de la Unión Europea
+                    - paragraph [ref=f11e714]
+                  - link [ref=f11e718] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/nuno-rodriguez/
+                    - generic [ref=f11e719]:
+                      - generic [aria-hidden] [ref=f11e721]: 
+                      - generic [ref=f11e722]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e723]:
+              - generic [ref=f11e725]:
+                - paragraph [ref=f11e731]: Perú
+                - generic [ref=f11e732]:
+                  - heading [level=3] [ref=f11e735]: Omar Chehade
+                  - paragraph [ref=f11e738]: Especialista en derecho, gobernabilidad y relaciones parlamentarias
+                  - generic [ref=f11e740]:
+                    - paragraph [ref=f11e741]: Abogado con experiencia política y parlamentaria. Fue Segundo Vicepresidente de la República y congresista.
+                    - paragraph [ref=f11e742]
+                  - link [ref=f11e746] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f11e747]:
+                      - generic [aria-hidden] [ref=f11e749]: 
+                      - generic [ref=f11e750]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e751]:
+              - generic [ref=f11e753]:
+                - paragraph [ref=f11e759]: México
+                - generic [ref=f11e760]:
+                  - heading [level=3] [ref=f11e763]: Mauricio García
+                  - paragraph [ref=f11e766]: Especialista en gestión pública y prospectiva estratégica
+                  - paragraph [ref=f11e769]: Maestro en Gestión Pública Aplicada, con experiencia en planeación, evaluación de políticas públicas e innovación gubernamental.
+                  - link [ref=f11e773] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/mauricio-garcia/
+                    - generic [ref=f11e774]:
+                      - generic [aria-hidden] [ref=f11e776]: 
+                      - generic [ref=f11e777]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e778]:
+              - generic [ref=f11e780]:
+                - paragraph [ref=f11e786]: España
+                - generic [ref=f11e787]:
+                  - heading [level=3] [ref=f11e790]: Diego Miranda
+                  - paragraph [ref=f11e793]: Especialista en ciberinteligencia e investigación digital
+                  - paragraph [ref=f11e796]: Especialista en análisis de amenazas, delitos informáticos y gestión de evidencia digital, vinculado a investigación del cibercrimen.
+                  - link [ref=f11e800] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/diego-miranda-2/
+                    - generic [ref=f11e801]:
+                      - generic [aria-hidden] [ref=f11e803]: 
+                      - generic [ref=f11e804]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e805]:
+              - generic [ref=f11e807]:
+                - paragraph [ref=f11e813]: Perú
+                - generic [ref=f11e814]:
+                  - heading [level=3] [ref=f11e817]: Roberto J. Bazán
+                  - paragraph [ref=f11e820]: Consultor stratpol en PSYOPS, gobierno y campañas electorales
+                  - paragraph [ref=f11e823]: Magíster en Inteligencia Estratégica por el CAEN, abogado por la Universidad de Lima y politólogo por la UNMSM.
+                  - link [ref=f11e827] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/roberto-bazan/
+                    - generic [ref=f11e828]:
+                      - generic [aria-hidden] [ref=f11e830]: 
+                      - generic [ref=f11e831]: Ver trayectoria
+            - group [aria-hidden] [ref=f11e832]:
+              - generic [ref=f11e834]:
+                - paragraph [ref=f11e840]: Colombia
+                - generic [ref=f11e841]:
+                  - heading [level=3] [ref=f11e844]: Diana Pereira
+                  - paragraph [ref=f11e847]: Especialista en gobierno, asuntos internacionales y liderazgo estratégico
+                  - paragraph [ref=f11e850]: Profesional en Gobierno y Relaciones Internacionales con quince años de experiencia en el sector público colombiano.
+                  - link [ref=f11e854] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/diana-pereira/
+                    - generic [ref=f11e855]:
+                      - generic [aria-hidden] [ref=f11e857]: 
+                      - generic [ref=f11e858]: Ver trayectoria
+        - button "Diapositiva anterior" [ref=f11e859] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f11e860]: 
+        - button "Diapositiva siguiente" [ref=f11e861] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f11e862]: 
+        - generic [ref=f11e863]:
+          - button "Ir a la diapositiva 1" [ref=f11e864] [cursor=pointer]
+          - button "Ir a la diapositiva 2" [ref=f11e865] [cursor=pointer]
+          - button "Ir a la diapositiva 3" [ref=f11e866] [cursor=pointer]
+          - button "Ir a la diapositiva 4" [ref=f11e867] [cursor=pointer]
+          - button "Ir a la diapositiva 5" [ref=f11e868] [cursor=pointer]
+          - button "Ir a la diapositiva 6" [ref=f11e869] [cursor=pointer]
+          - button "Ir a la diapositiva 7" [ref=f11e870] [cursor=pointer]
+          - button "Ir a la diapositiva 8" [ref=f11e871] [cursor=pointer]
+    - generic [ref=f11e874]:
+      - paragraph [ref=f11e877]: Presencia internacional
+      - heading [level=2] [ref=f11e880]:
+        - text: Una red que habla el idioma
+        - generic [ref=f11e881]: político de Latinoamérica.
+      - paragraph [ref=f11e884]: Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+      - generic [ref=f11e889]:
+        - generic [ref=f11e890]:
+          - paragraph [ref=f11e893]: "+15"
+          - paragraph [ref=f11e896]: Países
+        - generic [ref=f11e897]:
+          - paragraph [ref=f11e900]: +10K
+          - paragraph [ref=f11e903]: Egresados
+        - generic [ref=f11e904]:
+          - paragraph [ref=f11e907]: "+300"
+          - paragraph [ref=f11e910]: Campañas
+    - generic [ref=f11e917]:
+      - paragraph [ref=f11e920]: Certificación
+      - heading [level=2] [ref=f11e923]:
+        - text: Una formación
+        - generic [ref=f11e924]: Dos formas de acreditarla.
+      - paragraph [ref=f11e927]: Al culminar satisfactoriamente el programa recibirás la certificación como ASESOR EXPERTO EN GESTIÓN Y ENTORNOS PRESIDENCIALES, una acreditación que reconoce tu formación en análisis presidencial, toma de decisiones, agenda política, diplomacia, comunicación, gestión de crisis y seguridad institucional.
+      - generic [ref=f11e936]:
+        - heading "Asesor experto en gestión y entornos presidenciales" [level=3] [ref=f11e939]
+        - paragraph [ref=f11e942]: Diploma emitido por Grupo Goberna, que acredita la culminación satisfactoria del programa.
+      - generic [ref=f11e951]:
+        - heading "Verificación digital" [level=3] [ref=f11e954]
+        - paragraph [ref=f11e957]: Credencial digital verificable que facilita la validación de tu certificación y su presentación profesional.
+        - link "Hablar con un asesor" [ref=f11e961] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f11e962]:
+            - generic [aria-hidden] [ref=f11e964]: 
+            - generic [ref=f11e965]: Hablar con un asesor
+    - generic [ref=f11e967]:
+      - generic [ref=f11e968]:
+        - paragraph [ref=f11e971]: Inversión
+        - heading "Conviértete en un asesor preparado para decisiones de alto nivel" [level=2] [ref=f11e974]
+        - paragraph [ref=f11e977]:
+          - generic [ref=f11e978]: $
+          - text: "199"
+          - generic [ref=f11e979]: USD
+        - generic [ref=f11e984]:
+          - generic [ref=f11e985]:
+            - paragraph [ref=f11e988]: Inicio
+            - paragraph [ref=f11e991]: 23 de noviembre
+          - generic [ref=f11e992]:
+            - paragraph [ref=f11e995]: DURACIÓN
+            - paragraph [ref=f11e998]: 10 modulos
+        - link "Quiero inscribirme" [ref=f11e1002] [cursor=pointer]:
+          - /url: https://grupogoberna.com/checkout/?add-to-cart=93080&quantity=1
+        - paragraph [ref=f11e1007]: Vacantes limitadas para garantizar una formación especializada
+      - generic [ref=f11e1008]:
+        - paragraph [ref=f11e1011]: Admisión
+        - heading "Habla con un asesor" [level=2] [ref=f11e1014]
+        - paragraph [ref=f11e1017]: Déjanos tus datos y te ayudaremos con tu inscripción.
+        - form "Asesor Presidencial · Habla con un asesor" [ref=f11e1020]:
+          - generic [ref=f11e1021]:
+            - generic [ref=f11e1022]:
+              - generic [ref=f11e1023] [cursor=pointer]: Nombre completo
+              - textbox "Nombre completo" [ref=f11e1024]:
+                - /placeholder: Ej. María Pérez
+            - generic [ref=f11e1025]:
+              - generic [ref=f11e1026] [cursor=pointer]: País
+              - generic [ref=f11e1027]:
+                - generic:
+                  - generic [aria-hidden]: 
+                - combobox "País" [ref=f11e1028] [cursor=pointer]:
+                  - option "Selecciona tu país" [selected]
+                  - option "Argentina"
+                  - option "Bolivia"
+                  - option "Brasil"
+                  - option "Chile"
+                  - option "Colombia"
+                  - option "Costa Rica"
+                  - option "Cuba"
+                  - option "Ecuador"
+                  - option "El Salvador"
+                  - option "España"
+                  - option "Guatemala"
+                  - option "Honduras"
+                  - option "México"
+                  - option "Nicaragua"
+                  - option "Panamá"
+                  - option "Paraguay"
+                  - option "Perú"
+                  - option "Puerto Rico"
+                  - option "República Dominicana"
+                  - option "Uruguay"
+                  - option "Venezuela"
+                  - option "Otro"
+            - generic [ref=f11e1029]:
+              - generic [ref=f11e1030] [cursor=pointer]: Teléfono
+              - textbox "Teléfono" [ref=f11e1031]:
+                - /placeholder: Ej. +51 999 999 999
+            - generic [ref=f11e1032]:
+              - generic [ref=f11e1033] [cursor=pointer]: Cargo
+              - textbox "Cargo" [ref=f11e1034]:
+                - /placeholder: Ej. Jefe de campaña
+            - generic [ref=f11e1035]:
+              - generic [ref=f11e1036] [cursor=pointer]: Correo electrónico
+              - textbox "Correo electrónico" [ref=f11e1037]:
+                - /placeholder: nombre@correo.com
+            - button "Quiero que me contacten" [ref=f11e1039] [cursor=pointer]
+        - paragraph [ref=f11e1044]: Tus datos se usan solo para contactarte sobre el diploma.
+    - generic [ref=f11e1046]:
+      - button "Reproducir video" [ref=f11e1048] [cursor=pointer]
+      - generic [ref=f11e1051]:
+        - paragraph [ref=f11e1054]: Experiencia Goberna
+        - heading [level=2] [ref=f11e1057]:
+          - text: "Más que un aula:"
+          - generic [ref=f11e1058]: Una comunidad que actúa
+        - paragraph [ref=f11e1061]: Amplía tu red de contactos, intercambia experiencias con profesionales internacionales y genera oportunidades de colaboración y crecimiento profesional.
+    - generic [ref=f11e1063]:
+      - generic [ref=f11e1064]:
+        - paragraph [ref=f11e1067]: Preguntas frecuentes
+        - heading [level=2] [ref=f11e1070]:
+          - text: Resolvemos tus dudas
+          - generic [ref=f11e1071]: antes de que decidas.
+        - paragraph [ref=f11e1074]: Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+      - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f11e1078]:
+        - group [ref=f11e1079]:
+          - generic "¿Cómo se realizan las clases?" [ref=f11e1080] [cursor=pointer]:
+            - generic [ref=f11e1083]:
+              - generic [aria-hidden] [ref=f11e1085]: 
+              - text: 
+          - region "¿Cómo se realizan las clases? Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases magistrales, análisis de casos, ejercicios de síntesis ejecutiva, simulaciones de gabinete y retroalimentación sobre los productos desarrollados." [ref=f11e1086]:
+            - paragraph [ref=f11e1089]: Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases magistrales, análisis de casos, ejercicios de síntesis ejecutiva, simulaciones de gabinete y retroalimentación sobre los productos desarrollados.
+        - group [ref=f11e1090]:
+          - generic "¿Cuánto dura el programa?" [ref=f11e1091] [cursor=pointer]:
+            - generic [ref=f11e1094]:
+              - text: 
+              - generic [aria-hidden] [ref=f11e1096]: 
+        - group [ref=f11e1097]:
+          - generic "¿Qué incluye mi inscripción?" [ref=f11e1098] [cursor=pointer]:
+            - generic [ref=f11e1101]:
+              - text: 
+              - generic [aria-hidden] [ref=f11e1103]: 
+        - group [ref=f11e1104]:
+          - generic "¿Cuáles son los medios de pago disponibles?" [ref=f11e1105] [cursor=pointer]:
+            - generic [ref=f11e1108]:
+              - text: 
+              - generic [aria-hidden] [ref=f11e1110]: 
+        - group [ref=f11e1111]:
+          - generic "¿Cómo puedo inscribirme?" [ref=f11e1112] [cursor=pointer]:
+            - generic [ref=f11e1115]:
+              - text: 
+              - generic [aria-hidden] [ref=f11e1117]: 
+  - generic [ref=f11e1118]: desktop
+  - status [ref=f11e1119]
+  - iframe [ref=f11e1120]: <img src="https://api.openpay.pe/logo.gif?m=203000&amp;s=HQ9NQ1mFWqycyuuwpMvtVyfqquG6PHYC" width="1" height="1">
+  - iframe [ref=f11e1121]: <img src="https://api.openpay.pe/oa/logo.gif?m=mgd5sttixaxqvwbi0vvl&amp;s=HQ9NQ1mFWqycyuuwpMvtVyfqquG6PHYC" width="1" height="1">

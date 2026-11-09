@@ -1,0 +1,8 @@
+- generic [ref=f8e4]:
+  - button "Reproducir video" [ref=f8e6] [cursor=pointer]
+  - generic [ref=f8e9]:
+    - paragraph [ref=f8e12]: Experiencia Goberna
+    - heading [level=2] [ref=f8e15]:
+      - text: "Más que un aula:"
+      - generic [ref=f8e16]: Una comunidad que actúa
+    - paragraph [ref=f8e19]: Amplía tu red de contactos, intercambia experiencias con profesionales internacionales y genera oportunidades de colaboración y crecimiento profesional.

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788 830" width="788" height="830">
+<defs><radialGradient id="halo"><stop offset="0" stop-color="#FFBB03" stop-opacity=".95"/><stop offset=".45" stop-color="#FF9D00" stop-opacity=".55"/><stop offset="1" stop-color="#FF9D00" stop-opacity="0"/></radialGradient></defs>
+<g transform="translate(325 183)">
+<circle r="26" fill="url(#halo)"><animate attributeName="r" values="18;30;18" dur="2.6s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="2.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle r="11" fill="none" stroke="#FFBB03" stroke-width="3"/><circle r="5" fill="#FFF6D6"/></g><g transform="translate(405 252)">
+<circle r="26" fill="url(#halo)"><animate attributeName="r" values="18;30;18" dur="2.6s" begin="0.37s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="2.6s" begin="0.37s" repeatCount="indefinite"/></circle>
+<circle r="11" fill="none" stroke="#FFBB03" stroke-width="3"/><circle r="5" fill="#FFF6D6"/></g><g transform="translate(490 231)">
+<circle r="26" fill="url(#halo)"><animate attributeName="r" values="18;30;18" dur="2.6s" begin="0.74s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="2.6s" begin="0.74s" repeatCount="indefinite"/></circle>
+<circle r="11" fill="none" stroke="#FFBB03" stroke-width="3"/><circle r="5" fill="#FFF6D6"/></g><g transform="translate(414 372)">
+<circle r="26" fill="url(#halo)"><animate attributeName="r" values="18;30;18" dur="2.6s" begin="1.11s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="2.6s" begin="1.11s" repeatCount="indefinite"/></circle>
+<circle r="11" fill="none" stroke="#FFBB03" stroke-width="3"/><circle r="5" fill="#FFF6D6"/></g><g transform="translate(565 353)">
+<circle r="26" fill="url(#halo)"><animate attributeName="r" values="18;30;18" dur="2.6s" begin="1.48s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="2.6s" begin="1.48s" repeatCount="indefinite"/></circle>
+<circle r="11" fill="none" stroke="#FFBB03" stroke-width="3"/><circle r="5" fill="#FFF6D6"/></g><g transform="translate(691 398)">
+<circle r="26" fill="url(#halo)"><animate attributeName="r" values="18;30;18" dur="2.6s" begin="1.85s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="2.6s" begin="1.85s" repeatCount="indefinite"/></circle>
+<circle r="11" fill="none" stroke="#FFBB03" stroke-width="3"/><circle r="5" fill="#FFF6D6"/></g><g transform="translate(504 545)">
+<circle r="26" fill="url(#halo)"><animate attributeName="r" values="18;30;18" dur="2.6s" begin="0.22s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="2.6s" begin="0.22s" repeatCount="indefinite"/></circle>
+<circle r="11" fill="none" stroke="#FFBB03" stroke-width="3"/><circle r="5" fill="#FFF6D6"/></g>
+</svg>

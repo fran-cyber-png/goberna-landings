@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+  /* una tarjeta a todo el ancho del contenedor, sin asomar las vecinas; se cambia deslizando o con los puntos */
+  selector .ak-doc-carousel .swiper { width: 100% !important; overflow: hidden !important; margin-left: 0 !important; margin-right: 0 !important; }
+  selector .ak-doc-carousel .elementor-swiper-button { display: none !important; }
+  /* la tarjeta toma la proporción de la foto (768 × 1076) para que no se amplíe ni se corte la cara */
+  selector .ak-doc-card { height: auto !important; min-height: 0 !important; --min-height: 0px; aspect-ratio: 768 / 1076; }
+  /* el texto se apoya en el borde inferior: queda igual en cualquier ancho de mobile */
+  selector .ak-doc-card > .e-con.ak-doc-body { top: auto !important; }
+  selector .ak-doc-body .ak-doc-link { margin-top: 18px !important; }
+}

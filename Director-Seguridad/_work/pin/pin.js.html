@@ -1,0 +1,99 @@
+<script>
+(function () {
+  'use strict';
+  var SHOW_PROGRESS = false;              // true = barra roja de progreso (opcional)
+
+  var wrap = document.querySelector('.ak-plan-pin');
+  if (!wrap) return;
+  var sec = wrap.querySelector('.ak-plan');
+  var list = sec && sec.querySelector('.e-n-accordion');
+  if (!sec || !list) return;
+  var items = [].slice.call(list.querySelectorAll('details'));
+  var mqDesk = window.matchMedia('(min-width: 1025px)');
+  var mqReduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+  var on = false, fitting = false, ticking = false, bar = null;
+
+  if (SHOW_PROGRESS) {
+    bar = document.createElement('i');
+    bar.className = 'ak-plan-prog';
+    sec.appendChild(bar);
+  }
+
+  // Alto del header que deja libre la sección: lo lee del CSS (top de la sección fijada)
+  function stickTop() { return parseFloat(getComputedStyle(sec).top) || 0; }
+  function pageTop(el) { return el.getBoundingClientRect().top + window.pageYOffset; }
+
+  // Recorrido de la lista (cuánto puede avanzar dentro de la sección)
+  function travel() { return Math.max(0, list.scrollHeight - list.clientHeight); }
+
+  // Alto de la lista (el de diseño, o el que quepa bajo el header) y alto de la wrap.
+  // Si ni con la lista en su mínimo cabe la sección bajo el header (p. ej. la columna izquierda
+  // es más alta que la pantalla), no se fija: la página se ve como ahora.
+  function recalc() {
+    if (!on || fitting) return;
+    fitting = true;
+    list.style.maxHeight = '';                                  // alto de diseño (CSS)
+    var nat = parseFloat(getComputedStyle(list).maxHeight) || list.offsetHeight;
+    var avail = window.innerHeight - stickTop() - (sec.offsetHeight - list.offsetHeight);
+    list.style.maxHeight = Math.max(240, Math.min(nat, avail)) + 'px';
+    if (sec.offsetHeight > window.innerHeight - stickTop()) {   // no cabe: sin fijar
+      wrap.classList.remove('is-on');
+      wrap.style.height = '';
+      list.style.maxHeight = '';
+      on = false;
+      fitting = false;
+      return;
+    }
+    wrap.style.height = (sec.offsetHeight + travel()) + 'px';   // sección + recorrido
+    fitting = false;
+    update();
+  }
+
+  // Progreso del scroll de la página -> scrollTop de la lista
+  function update() {
+    if (!on) return;
+    var t = travel();
+    var start = pageTop(wrap) - stickTop();                     // scroll en el que la sección se fija
+    var p = t > 0 ? (window.pageYOffset - start) / t : 0;
+    p = Math.min(1, Math.max(0, p));
+    list.scrollTop = p * t;
+    if (bar) bar.style.transform = 'scaleX(' + p + ')';
+  }
+
+  function onScroll() {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(function () { ticking = false; update(); });
+  }
+
+  function setOn(v) {
+    if (v === on) return;
+    on = v;
+    if (on) {
+      wrap.classList.add('is-on');
+    } else {
+      wrap.classList.remove('is-on');
+      wrap.style.height = '';
+      list.style.maxHeight = '';
+      if (bar) bar.style.transform = 'scaleX(0)';
+    }
+  }
+
+  function sync() {
+    setOn(mqDesk.matches && !mqReduce.matches);
+    recalc();
+  }
+
+  // Cambios de tamaño de la sección, de la lista y de cada módulo (abrir/cerrar)
+  if ('ResizeObserver' in window) {
+    var ro = new ResizeObserver(function () { recalc(); });
+    ro.observe(sec); ro.observe(list);
+    items.forEach(function (d) { ro.observe(d); });
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', sync, { passive: true });
+  window.addEventListener('load', sync);
+  if (mqDesk.addEventListener) { mqDesk.addEventListener('change', sync); mqReduce.addEventListener('change', sync); }
+  sync();
+})();
+</script>

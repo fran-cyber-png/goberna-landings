@@ -1,0 +1,178 @@
+4010:106	Formar directores capaces de diseñar, conducir y evaluar sistemas integrales de seguridad, identificando amenazas, priorizando riesgos y tomando decisiones alineadas con los objetivos de una organización.
+4010:107	Durante el diploma desarrollarás capacidades para dirigir equipos y recursos, proteger personas, instalaciones e información, gestionar crisis y sustentar decisiones ante la alta dirección mediante un Plan Director de Seguridad.
+4010:122	OBJETIVO DEL DIPLOMA
+4010:131	MODALIDAD
+4010:132	INICIO
+4010:133	HORA
+4010:134	DURACIÓN
+4010:136	ONLINE
+4010:137	30 DE NOVIEMBRE
+4010:138	19:00 HRS. GMT-5
+4010:139	10 MÓDULOS
+4010:135	INVERSIÓN
+4010:140	USD $199
+4010:118	METODOLOGÍA
+4010:145	De gestionar la seguridad a dirigirla estratégicamente
+4010:100	Desarrolla una visión integral para proteger personas, información, instalaciones y operaciones desde la dirección.
+4010:148	+
+4010:151	10,000
+4010:109	Profesionales formados
+4010:149	+
+4010:152	15
+4010:110	Países en Latinoamérica
+4010:150	+
+4010:153	20
+4010:111	Docentes Internacionales en ejercicio
+4010:217	Inteligencia
+4010:219	Ciberseguridad
+4010:216	Liderazgo
+4010:218	Crisis
+4010:220	Tecnología
+4010:119	El programa
+4010:224	Formar directores capaces de diseñar, conducir y evaluar sistemas integrales de seguridad
+4010:155	¿Cuál es el objetivo?
+4010:156	¿A quiénes está dirigido?
+4010:157	Perfil del egresado
+4010:120	EXPERIENCIA ESTRATÉGICA
+4010:251	Aquí no solo estudias seguridad. / Aprendes a dirigirla.
+4010:101	La metodología está conectada con el ejercicio profesional de la dirección de seguridad. Desde el primer módulo trabajarás sobre una organización o caso, desarrollando productos que se integrarán progresivamente en tu Plan Director de Seguridad.
+4010:258	ETAPA 1
+4010:260	Diagnostica
+4010:259	Identifica amenazas, vulnerabilidades y riesgos que pueden comprometer a la organización.
+4010:261	ETAPA 2
+4010:263	Prioriza
+4010:262	Convierte el análisis en decisiones sobre recursos, controles y medidas de protección.
+4010:264	ETAPA 3
+4010:265	ETAPA 4
+4010:268	Dirige
+4010:266	Coordina personas, proveedores, tecnología y capacidades de seguridad bajo una misma estrategia.
+4010:269	Responde
+4010:267	Enfrenta crisis y escenarios complejos protegiendo la continuidad de las operaciones.
+4010:288	Comprende cómo se organiza y dirige la función de seguridad dentro de una organización y su relación con la alta dirección.
+4010:290	01
+4010:291	Módulo
+4010:292	ocultar
+4010:293	El director de seguridad: visión estratégica, gobierno y conducción
+4010:296	Gobierno de seguridad, estructuras, atribuciones, políticas, responsabilidades y criterios de supervisión.
+4010:297	Aprenderás
+4010:300	Definición de la estructura, responsabilidades y criterios de conducción de la función de seguridad.
+4010:301	Aplicarás
+4010:306	02
+4010:307	Módulo
+4010:308	VER CONTENIDO
+4010:309	Inteligencia de amenazas y gestión / estratégica del riesgo
+4010:314	03
+4010:315	Módulo
+4010:316	VER CONTENIDO
+4010:317	Gestión directiva de la seguridad
+4010:121	PLAN DE ESTUDIOS
+4010:147	Una formación para dirigir la seguridad de forma integral
+4010:378	10
+4010:379	MÓDULOS
+4010:380	Especializados
+4010:385	200
+4010:381	HORAS
+4010:382	Académicas
+4010:386	100
+4010:387	%
+4010:383	METODOLOGÍA PRÁCTICA
+4010:384	Aprende haciendo
+4010:283	Descargar BROCHURE
+4010:409	¿Quieres vivir esta experiencia en la próxima edición?
+4010:410	Inicio: 30 de noviembre | Online en vivo | 10 Módulos
+4010:426	Aprende de especialistas en seguridad, inteligencia y gestión de riesgos.
+4010:430	RESERVA TU VACANTE
+4010:433	Hablar con un asesor
+4010:439	Francisco López
+4010:440	Especialista en dirección de seguridad, criminología y prevención del crimen
+4010:441	Doctor en Criminología, con formación especializada en dirección y gestión de seguridad, ciberinteligencia, análisis y prevención del crimen. Su trayectoria combina investigación, seguridad empresarial y aplicación de tecnologías para la prevención del delito.
+4010:444	VER TRAYECTORIA
+6070:29	ESPAÑA
+4028:90	Gonzalo Catanzariti
+4028:91	Especialista en ciberinteligencia e investigación digital
+4028:92	Especialista en análisis de amenazas, delitos informáticos y gestión de evidencia digital, con experiencia vinculada a investigación del cibercrimen y protección de activos de información.
+4028:93	ARGENTINA
+4028:95	VER TRAYECTORIA
+4028:109	Eduardo Velandia Becerra
+4028:110	Especialista en inteligencia, seguridad y conducción de equipos
+4028:111	Teniente Coronel (r) de Inteligencia del Ejército de Colombia, con más de 24 años de experiencia liderando equipos en escenarios de alta complejidad estratégica. Participó en la Operación Jaque y prestó servicio en la Presidencia de la República.
+4028:112	COLOMBIA
+4028:114	VER TRAYECTORIA
+4010:492	Una red que habla el idioma político de Latinoamérica.
+4010:493	Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+4010:494	PRESENCIA INTERNACIONAL
+4010:496	Países
+4010:497	Campañas
+4010:498	Egresados
+4010:499	+
+4010:502	15
+4010:500	+
+4010:503	300
+4010:501	+
+4010:504	10
+4010:505	K
+4010:517	INVERSIÓN
+4010:513	Lidera la seguridad / con visión estratégica
+4010:515	199
+4010:516	$
+4010:514	USD
+4010:520	Inicio
+4010:522	30 de noviembre
+4010:523	Facilidades
+4010:524	Hasta en 4 cuotas
+6028:55	PAGAR AHORA
+4010:521	Vacantes limitadas para garantizar la dinámica del War Room.
+4010:540	PREGUNTAS FRECUENTES
+4010:542	Resolvemos tus / dudas antes de / que decidas.
+4010:543	Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+4010:545	¿Cómo se realizan las clases?
+4010:546	Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases especializadas, análisis de casos, talleres, ejercicios de mesa y simulaciones aplicadas a la dirección de seguridad.
+4010:548	-
+4010:551	¿Cuánto dura el programa?
+4010:553	+
+4010:556	¿Qué incluye mi inscripción?
+4010:558	+
+4010:561	¿Cuáles son los medios de pago disponibles?
+4010:563	+
+4010:566	¿Cómo puedo inscribirme?
+4010:568	+
+4010:596	Footer
+4010:506	CERTIFICACIÓN
+4010:509	Una certificación para / quienes dirigen / la seguridad
+4010:103	Al culminar satisfactoriamente el programa recibirás la certificación como Director de Seguridad. Una acreditación que reconoce tu formación para conducir sistemas integrales de seguridad, gestionar riesgos y coordinar capacidades de protección dentro de organizaciones públicas, privadas e institucionales.
+4010:507	CERTIFICACIÓN INTERNACIONAL
+4010:104	Diploma emitido por Grupo Goberna, que acredita la culminación satisfactoria del programa.
+6072:20	VERIFICACIÓN DIGITAL
+6072:21	Credencial digital verificable que facilita la validación de tu certificación y su presentación profesional.
+4010:626	Hablar con un asesor
+I4081:46;229:16	ABOUT
+I4081:47;229:16	ABOUT
+I4081:48;229:16	ABOUT
+I4081:49;229:16	ABOUT
+I4081:50;229:16	ABOUT
+I4081:51;229:16	ABOUT
+4081:55	Inscribete ahora
+4010:518	ADMISIÓN
+4065:849	¿Listo para liderar la seguridad de una organización?
+4010:533	Déjanos tus datos y te ayudaremos con tu inscripción.
+4010:532	NOMBRE COMPLETO
+4010:534	PAÍS
+4010:535	TELÉFONO
+4010:536	CARGO
+4010:537	CORREO ELECTRÓNICO
+4010:531	ENVIAR
+4010:539	Tus datos se usan solo para contactarte sobre el diploma.
+4010:117	Prepárate para dirigir la seguridad con visión, criterio y capacidad de respuesta
+4010:126	RESERVA TU VACANTE
+4010:129	Hablar con un asesor
+4010:278	Descargar brochure del programa
+6028:1232	Experiencia Goberna
+6028:1233	Más que un aula: / Una comunidad / que actúa
+6028:1234	Amplía tu red de contactos, intercambia experiencias con / profesionales internacionales y genera oportunidades de / colaboración y crecimiento profesional.
+6028:1237	Voces
+6028:1246	Alina Martínez
+6028:1247	Colombia
+6028:1256	Lorena Coria
+6028:1257	Bolivia
+6028:1266	Miguel Figueroa
+6028:1267	México

@@ -1,0 +1,198 @@
+[    1882ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[    1889ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[    1905ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[    2027ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[    2027ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[    2581ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[    2953ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[    2967ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[    2967ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[    2967ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[    2967ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[    2967ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[    2967ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[    4181ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3566
+[   55272ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[   55274ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[   55280ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[   55373ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[   55373ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[   55548ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[   55868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[   55868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[   55868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[   55868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[   55868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[   55868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[   55900ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[   74255ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[   74257ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[   74264ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[   74336ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[   74336ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[   74527ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[   74745ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[   74746ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[   74746ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[   74746ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[   74746ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[   74746ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[   74849ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[   93486ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[   93488ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[   93494ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[   93571ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[   93571ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[   93778ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[   94037ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[   94037ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[   94037ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[   94037ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[   94037ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[   94037ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[   94105ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  112733ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  112735ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  112741ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  112819ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  112819ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  113009ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  113280ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  113280ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  113280ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  113280ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  113280ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  113280ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  113309ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  115886ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  115888ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  115894ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  115969ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  115969ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  116133ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  116370ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  116370ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  116370ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  116370ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  116370ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  116370ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  116469ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  119045ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  119047ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  119052ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  119129ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  119129ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  119292ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  119562ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  119562ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  119562ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  119562ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  119562ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  119562ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  119601ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  140962ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  140964ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  140970ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  141042ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  141042ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  141245ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  141487ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  141487ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  141487ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  141487ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  141487ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  141487ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  141707ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  174274ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  174276ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  174282ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  174354ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  174354ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  174550ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  174782ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  174782ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  174782ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  174782ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  174782ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  174782ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  174917ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  181228ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  181230ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  181235ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  181305ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  181305ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  181508ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  181733ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  181733ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  181733ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  181733ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  181733ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  181733ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  181814ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  195699ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  195701ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  195706ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  195776ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  195776ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  195979ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  196170ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  196170ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  196170ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  196170ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  196170ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  196170ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  196279ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  210142ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  210144ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  210151ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  210220ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  210220ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  210396ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  210666ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  210666ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  210666ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  210666ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  210666ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  210666ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  210762ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  239791ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[  239793ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[  239799ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[  239875ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  239875ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  240081ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[  240291ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[  240291ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[  240291ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[  240291ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[  240291ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[  240291ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[  240427ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[  372028ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8772/favicon.ico:0
+[ 2290631ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:0
+[ 2290633ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:2
+[ 2290640ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:141
+[ 2290721ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[ 2290721ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[ 2291274ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[ 2291626ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/628237938d99f94cbc66db77301729a0.js:746
+[ 2292140ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[ 2292140ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[ 2292140ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[ 2292140ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[ 2292140ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[ 2292140ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[ 2378661ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8773/favicon.ico:0
+[ 2688550ms] [LOG] PixelYourSite Free version 11.4.3 @ https://grupogoberna.com/wp-content/cache/min/1/f77ed64f4c35922bc637e58d11f2c194.js:0
+[ 2688557ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/f77ed64f4c35922bc637e58d11f2c194.js:2
+[ 2688573ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/f77ed64f4c35922bc637e58d11f2c194.js:153
+[ 2688787ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/f77ed64f4c35922bc637e58d11f2c194.js:758
+[ 2688787ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/f77ed64f4c35922bc637e58d11f2c194.js:758
+[ 2689260ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[ 2689594ms] [WARNING] LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ https://grupogoberna.com/wp-content/cache/min/1/f77ed64f4c35922bc637e58d11f2c194.js:758
+[ 2689738ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[ 2689738ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[ 2689738ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[ 2689738ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[ 2689738ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[ 2689738ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
