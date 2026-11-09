@@ -1,0 +1,293 @@
+VOLCADO DE TEXTOS – CARRERA DIPLOMÁTICA v1
+Archivo Figma: nvxc199gG3N4UK6hH7DH4h · página "Desktop" (0:1)
+Sesión Diseño-Eje · 2026-10-19
+Copias creadas desde: 357:27 (CONSULTOR POLÍTICO SENIOR – v2), 357:665 y 357:731
+
+Formato por línea:
+id | ruta relativa (padres desde el hijo directo de la copia hasta el padre del texto; "(directo)" = hijo directo de la copia) | x,y absolutos (coordenadas de página) | ancho×alto | visible propio / efectivo (efectivo = ningún ancestro oculto; si el propio nodo está oculto, el nombre entre paréntesis es el del propio nodo) | textAutoResize | fontName fontSize | nº de líneas aproximado (alto / lineHeight; "lh AUTO aprox x1.2" = lineHeight automático estimado) | characters literal (saltos de línea escritos como \n) | estilos mixtos si los hay (rango start-end, color hex, fuente, tamaño)
+
+Nota: "(cadena vacía)" = characters === "".
+
+Resumen de capas de texto:
+- CARRERA DIPLOMÁTICA – v1 (2002:21): 163 capas · 2 ocultas propias (2002:53, 2002:54) · 4 no visibles efectivamente (las 2 anteriores + 2002:103 y 2002:104, ocultas por "Frame 152")
+- CD v1 – Programa: Dirigido a (2002:551): 15 capas · 2 ocultas propias (2002:555, 2002:556) · 2 no visibles efectivamente
+- CD v1 – Programa: Perfil (2002:617): 9 capas · 0 ocultas
+
+================================================================================
+FRAME COPIA 1: CARRERA DIPLOMÁTICA – v1 (2002:21) · 163 capas de texto
+================================================================================
+2002:331 | Componente 13 – 1 > Grupo 29180 > Grupo 21708 | 1582,12033 | 191×24 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 20 | ~1 líneas (lh 24, lh AUTO aprox x1.2) | Inscríbete ahora
+I2002:322;229:16 | Componente 13 – 1 > Hor Nav | 744.8,12037 | 62×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | ABOUT
+I2002:323;229:16 | Componente 13 – 1 > Hor Nav | 887.8,12037 | 62×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | ABOUT
+I2002:324;229:16 | Componente 13 – 1 > Hor Nav | 1030.8,12037 | 62×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | ABOUT
+I2002:325;229:16 | Componente 13 – 1 > Hor Nav | 1173.8,12037 | 62×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | ABOUT
+I2002:326;229:16 | Componente 13 – 1 > Hor Nav | 1316.8,12037 | 62×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | ABOUT
+I2002:327;229:16 | Componente 13 – 1 > Hor Nav | 1459.8,12037 | 62×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | ABOUT
+2002:393 | Frame 160 > Frame 159 > Grupo 29197 > Grupo 29189 | 341,12601 | 201×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | RESERVA TU VACANTE
+2002:396 | Frame 160 > Frame 159 > Grupo 29197 | 681.5,12601 | 228×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | Hablar con un asesor
+2002:399 | Frame 160 > Frame 159 > Grupo 29182 | 312.5,12673 | 321×37 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 14 | ~1 líneas (lh 37) | Descargar brochure del programa
+2002:68 | Frame 244 | 1612,12919 | 105×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | INVERSIÓN
+2002:54 | (directo) | 1485,12921 | 89×25 | visible propio=false, efectivo=false (oculto por Duración) | WIDTH_AND_HEIGHT | Inter Regular 21 | ~1 líneas (lh 25.2, lh AUTO aprox x1.2) | Duración
+2002:59 | (directo) | 326,12926 | 114×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | MODALIDAD
+2002:60 | (directo) | 637,12926 | 61×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | INICIO
+2002:61 | (directo) | 947,12926 | 53×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | HORA
+2002:62 | (directo) | 1257,12926 | 101×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | DURACIÓN
+2002:69 | Frame 244 | 1592,12946 | 145×30 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 25 | ~1 líneas (lh 30, lh AUTO aprox x1.2) | US$ 1000
+2002:65 | (directo) | 947,12950 | 231×25 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 21 | ~1 líneas (lh 25.2, lh AUTO aprox x1.2) | 19:00 HRS. GMT-5
+2002:63 | (directo) | 326,12955 | 72×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | ONLINE
+2002:64 | (directo) | 637,12955 | 177×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | 21 DE OCTUBRE
+2002:66 | (directo) | 1257,12955 | 125×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | 11 MÓDULOS
+2002:77 | Frame 157 > Frame 147 > Frame 146 | 286,13086 | 167×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 20 | ~1 líneas (lh 50) | METODOLOGÍA
+2002:78 | Frame 157 > Frame 147 > Frame 146 | 286,13180 | 674×114 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 50 | ~2 líneas (lh 57) | Formamos estrategas que transforman la política. || ESTILOS MIXTOS: 0-24 #0C0000 Montserrat Bold 50 ; 24-48 #DD0005 Montserrat Bold 50
+2002:79 | Frame 157 > Frame 147 | 286,13315 | 687×32 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~1 líneas (lh 32) | De consultor político a director de una firma con proyección internacional.
+2002:87 | Frame 157 > Frame 156 > Frame 155 > Frame 154 > Frame 153 | 368,13388.6 | 101×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat ExtraBold 31 | ~1 líneas (lh 57) | 10,000
+2002:86 | Frame 157 > Frame 156 > Frame 155 > Frame 154 > Frame 153 | 335,13392.6 | 25×49 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Regular 43 | ~1 líneas (lh 49) | +
+2002:88 | Frame 157 > Frame 156 > Frame 155 > Frame 154 | 503,13397.1 | 182×40 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 40) | Profesionales formados
+2002:93 | Frame 157 > Frame 156 > Frame 155 > Frame 151 > Frame 150 | 364,13461.6 | 28×52 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat ExtraBold 28 | ~1 líneas (lh 52) | 15
+2002:92 | Frame 157 > Frame 156 > Frame 155 > Frame 151 > Frame 150 | 335,13463.1 | 25×49 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Regular 43 | ~1 líneas (lh 49) | +
+2002:94 | Frame 157 > Frame 156 > Frame 155 > Frame 151 | 504.5,13467.6 | 187×40 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 40) | Países en Latinoamérica
+2002:99 | Frame 157 > Frame 156 > Frame 155 > Frame 149 > Frame 148 | 364,13529.6 | 36×52 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat ExtraBold 28 | ~1 líneas (lh 52) | 20
+2002:98 | Frame 157 > Frame 156 > Frame 155 > Frame 149 > Frame 148 | 335,13531.1 | 25×49 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Regular 43 | ~1 líneas (lh 49) | +
+2002:100 | Frame 157 > Frame 156 > Frame 155 > Frame 149 | 503,13535.6 | 289×40 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 40) | Docentes Internacionales en ejercicio
+2002:103 | Frame 157 > Frame 156 > Frame 155 > Frame 152 | 335,13597.6 | 70×50 | visible propio=true, efectivo=false (oculto por Frame 152) | WIDTH_AND_HEIGHT | Montserrat ExtraBold 27 | ~1 líneas (lh 50) | 100%
+2002:104 | Frame 157 > Frame 156 > Frame 155 > Frame 152 | 503,13602.6 | 192×40 | visible propio=true, efectivo=false (oculto por Frame 152) | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 40) | Modalidad online en vivo
+2002:154 | Frame 199 | 1094,13680 | 98×33 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 33) | Inteligencia
+2002:156 | Frame 199 | 1236,13680 | 86×33 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 33) | Estrategia
+2002:158 | Frame 199 | 1366,13680 | 85×33 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 33) | Liderazgo
+2002:160 | Frame 199 | 1495,13680 | 48×33 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 33) | Crisis
+2002:162 | Frame 199 | 1587,13680 | 93×33 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 33) | Tecnología
+2002:167 | Frame 229 > Frame 217 | 286,13903 | 581×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~1 líneas (lh 50) | El programa
+2002:168 | Frame 229 > Frame 217 | 286,13992 | 581×180 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 40 | ~4 líneas (lh 45) | Formar consultores senior capaces de fundar, dirigir y proyectar su propia firma de consultoría || ESTILOS MIXTOS: 0-45 #EBEFF2 Montserrat Bold 40 ; 45-95 #DD0005 Montserrat Bold 40
+2002:58 | (directo) | 1085,14017 | 329×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 24 | ~1 líneas (lh 50) | OBJETIVO DEL DIPLOMA
+2002:51 | (directo) | 1088.5,14090 | 717×96 | visible propio=true, efectivo=true | HEIGHT | MIXTO(Inter Regular / Inter Bold) 18 | ~3 líneas (lh 32) | Formar consultores políticos de nivel senior capaces de fundar, dirigir y proyectar internacionalmente su propia firma de consultoría como una empresa estructurada, rentable y tecnológicamente automatizada. || ESTILOS MIXTOS: 0-56 #060606 Inter Regular 18 ; 56-206 #060606 Inter Bold 18
+2002:52 | (directo) | 1088.5,14212 | 717×96 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~3 líneas (lh 32) | Durante el programa transformarás tu experiencia en un modelo empresarial con posicionamiento, servicios, estructura operativa, sistema comercial y herramientas para escalar una consultora política.
+2002:178 | Frame 229 > Frame 228 > Frame 223 > Frame 220 > Frame 219 > Frame 218 | 381,14213.8 | 204×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | ¿Cuál es el objetivo?
+2002:193 | Frame 229 > Frame 228 > Frame 224 > Frame 222 > Frame 221 | 382,14304 | 231×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | ¿A quiénes está dirigido?
+2002:53 | (directo) | 1088.5,14342 | 717×128 | visible propio=false, efectivo=false (oculto por el propio nodo) | HEIGHT | Inter Regular 18 | ~4 líneas (lh 32) | -Dirección de seguridad\n-Gestión de riesgos y seguridad corporativa\n-Protección de instalaciones y contrainteligencia\n-Investigaciones y debida diligencia
+2002:206 | Frame 229 > Frame 228 > Frame 227 > Frame 226 > Frame 225 | 382,14394 | 194×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | Perfil del egresado
+2002:213 | Frame 202 > Frame 201 > Frame 200 | 286,14631 | 313×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~1 líneas (lh 50) | EXPERIENCIA ESTRATÉGICA
+2002:214 | Frame 202 > Frame 201 | 286,14728 | 713×159 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 54 | ~3 líneas (lh 53) | Aquí no solo aprendes  consultoría. Construyes una firma || ESTILOS MIXTOS: 0-36 #EAEFF2 Montserrat Bold 54 ; 36-56 #DD0005 Montserrat Bold 54
+2002:215 | Frame 202 | 286,14910 | 713×87 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~3 líneas (lh 29) | La metodología está orientada a la creación real de una consultora política. Cada módulo genera un componente concreto de tu firma y las entregas se convierten en activos acumulables para la sustentación final.
+2002:222 | Grupo 29196 | 286,15224 | 71×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | ETAPA 1
+2002:226 | Grupo 29196 | 676,15224 | 73×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | ETAPA 2
+2002:230 | Grupo 29196 | 1062,15224 | 74×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | ETAPA 3
+2002:231 | Grupo 29196 | 1462,15224 | 74×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | ETAPA 4
+2002:224 | Grupo 29196 > Frame 247 | 286,15276 | 250×47 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 27 | ~1 líneas (lh 47) | Define tu modelo
+2002:228 | Grupo 29196 > Frame 248 | 676,15281 | 291×37 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 27 | ~1 líneas (lh 37) | Diseña tu estructura
+2002:233 | Grupo 29196 > Frame 249 | 1062,15281 | 317×37 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 27 | ~1 líneas (lh 37) | Construye tu mercado
+2002:236 | Grupo 29196 > Frame 250 | 1462,15281 | 249×37 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 27 | ~1 líneas (lh 37) | Proyecta tu firma
+2002:229 | Grupo 29196 > Frame 248 | 676,15323 | 320×96 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~3 líneas (lh 32) | Desarrolla servicios, procesos, equipos y herramientas para operar profesionalmente.
+2002:234 | Grupo 29196 > Frame 249 | 1062,15323 | 312×96 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~3 líneas (lh 32) | Crea sistemas comerciales para captar clientes y generar nuevas oportunidades.
+2002:237 | Grupo 29196 > Frame 250 | 1462,15323 | 344×96 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~3 líneas (lh 32) | Presenta tu consultora ante un jurado internacional y desarrolla una visión de crecimiento.
+2002:225 | Grupo 29196 > Frame 247 | 286,15328 | 286×96 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~3 líneas (lh 32) | Construye el posicionamiento, nicho y propuesta de valor de tu consultora.
+2002:546 | Frame 172 > Frame 248 | 1130,15651 | 249×37 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 27 | ~1 líneas (lh 37) | PROYECTO FINAL
+2002:547 | Frame 172 > Frame 248 | 1130,15693 | 676×37 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 27 | ~1 líneas (lh 37) | SUSTENTACIÓN DE TU FIRMA DE CONSULTORÍA POLÍTICA
+2002:548 | Frame 172 > Frame 248 | 1130,15735 | 675×96 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~3 líneas (lh 32) | Presenta la estructura completa de tu consultora: posicionamiento, servicios, modelo comercial, operación, estrategia de crecimiento y proyección internacional.
+2002:476 | Frame 255 > Frame 181 > Frame 180 > Frame 179 | 286,15998 | 527×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~1 líneas (lh 50) | PLAN DE ESTUDIOS
+2002:443 | Frame 255 | 904,16044 | 79×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | Módulo
+2002:442 | Frame 255 | 915,16071 | 57×103 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Medium 56 | ~1 líneas (lh 103) | 01
+2002:444 | Frame 255 | 1692,16090 | 83×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | ocultar
+2002:478 | Frame 255 > Frame 181 > Frame 180 > Frame 179 > Frame 178 | 286,16091 | 518×147 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 50 | ~3 líneas (lh 49) | Una ruta para construir y dirigir tu propia firma
+2002:445 | Frame 255 | 1014,16095 | 611×56 | visible propio=true, efectivo=true | HEIGHT | Montserrat SemiBold 24 | ~2 líneas (lh 28) | Fundamentos de la firma: identidad, nicho y diferenciación
+2002:440 | Frame 255 | 1014,16167 | 754×64 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~2 líneas (lh 32) | Define qué consultora quieres construir, a quién atenderás y cómo te diferenciarás dentro del mercado.
+2002:450 | Frame 255 > Frame 132 > Frame 131 | 1038,16264 | 120×47 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat SemiBold 20 | ~1 líneas (lh 47) | Aprenderás
+2002:454 | Frame 255 > Frame 132 > Grupo 29200 | 1443,16264 | 95×47 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat SemiBold 20 | ~1 líneas (lh 47) | Aplicarás
+2002:449 | Frame 255 > Frame 132 > Frame 131 | 1038,16309 | 338×63 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~3 líneas (lh 21) | Nicho, propuesta de valor, posicionamiento, identidad, diferenciación y criterios éticos de la firma.
+2002:453 | Frame 255 > Frame 132 > Grupo 29200 | 1443,16309 | 337×72 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~3 líneas (lh 24) | Definición del posicionamiento, propuesta de valor y código institucional de tu consultora.
+2002:486 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 166 > Frame 162 | 286,16364 | 33×47 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 42 | ~1 líneas (lh 47) | 11
+2002:501 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 165 > Frame 164 | 456,16364 | 82×47 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 42 | ~1 líneas (lh 47) | 200
+2002:516 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 170 > Frame 169 > Frame 167 | 610,16364 | 74×47 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 42 | ~1 líneas (lh 47) | 100
+2002:517 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 170 > Frame 169 > Frame 167 | 690,16364 | 37×47 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 42 | ~1 líneas (lh 47) | %
+2002:488 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 166 > Frame 162 > Frame 161 | 286,16411 | 88×16 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 12 | ~1 líneas (lh 16) | MÓDULOS
+2002:503 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 165 > Frame 164 > Frame 163 | 456,16411 | 63×16 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 12 | ~1 líneas (lh 16) | HORAS
+2002:519 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 170 > Frame 169 > Frame 168 | 610,16411 | 165×16 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 12 | ~1 líneas (lh 16) | METODOLOGÍA PRÁCTICA
+2002:489 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 166 > Frame 162 > Frame 161 | 286,16431 | 88×16 | visible propio=true, efectivo=true | HEIGHT | Montserrat Regular 12 | ~1 líneas (lh 16) | Especializados
+2002:504 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 165 > Frame 164 > Frame 163 | 456,16431 | 74×16 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Regular 12 | ~1 líneas (lh 16) | Académicas
+2002:520 | Frame 255 > Frame 181 > Frame 180 > Frame 171 > Frame 170 > Frame 169 > Frame 168 | 610,16431 | 165×16 | visible propio=true, efectivo=true | HEIGHT | Montserrat Regular 12 | ~1 líneas (lh 16) | Aprende haciendo
+2002:461 | Frame 255 > Frame 130 > Grupo 29203 | 904,16462.5 | 79×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | Módulo
+2002:460 | Frame 255 > Frame 130 > Grupo 29203 | 909,16490 | 68×103 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Medium 56 | ~1 líneas (lh 103) | 02
+2002:523 | Frame 255 > Frame 181 > Grupo 29199 | 314,16507 | 214×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | Descargar BROCHURE
+2002:462 | Frame 255 > Frame 130 > Grupo 29203 | 1625,16508.5 | 150×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | VER CONTENIDO
+2002:463 | Frame 255 > Frame 130 > Grupo 29203 | 1002,16512 | 603×58 | visible propio=true, efectivo=true | HEIGHT | Montserrat SemiBold 24 | ~2 líneas (lh 29) | Constitución legal, marca y propiedad intelectual
+2002:469 | Frame 255 > Frame 130 > Grupo 29203 | 904,16631.5 | 79×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | Módulo
+2002:468 | Frame 255 > Frame 130 > Grupo 29203 | 909,16659 | 68×103 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Medium 56 | ~1 líneas (lh 103) | 03
+2002:470 | Frame 255 > Frame 130 > Grupo 29203 | 1625,16677.5 | 150×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | VER CONTENIDO
+2002:471 | Frame 255 > Frame 130 > Grupo 29203 | 1002,16681 | 603×58 | visible propio=true, efectivo=true | HEIGHT | Montserrat SemiBold 24 | ~2 líneas (lh 29) | Productización de la oferta: catálogo y líneas de servicio
+2002:534 | Frame 255 > Frame 253 | 366,16911 | 714×92 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 44 | ~2 líneas (lh 46) | ¿Quieres vivir esta experiencia en la próxima edición?
+2002:535 | Frame 255 > Frame 253 | 366,16991 | 570×78 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 24 | ~1 líneas (lh 78) | Inicio: 21 de octubre | Online en vivo | 11 Módulos
+2002:539 | Frame 255 > Frame 253 > Grupo 29212 > Grupo 29189 | 423,17129 | 201×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | RESERVA TU VACANTE
+2002:542 | Frame 255 > Frame 253 > Grupo 29212 | 763.5,17129 | 228×19 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | Hablar con un asesor
+2002:44 | Frame 172 | 470,17465 | 1153×112 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 56 | ~2 líneas (lh 56) | Aprende de un especialista en consultoría y estrategia política || ESTILOS MIXTOS: 0-30 #FFFFFF Montserrat Bold 56 ; 30-63 #DD0005 Montserrat Bold 56
+2002:37 | Frame 172 > Frame 37 > Frame 36 | 414,17766 | 558×88 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 72 | ~1 líneas (lh 86.4, lh AUTO aprox x1.2) | Roberto Bazán
+2002:39 | Frame 172 > Frame 37 > Frame 36 > Frame 35 | 414,17854 | 558×54 | visible propio=true, efectivo=true | HEIGHT | Montserrat Medium 22 | ~2 líneas (lh 26.4, lh AUTO aprox x1.2) | Estratega político senior y especialista en inteligencia aplicada a la consultoría política
+2002:41 | Frame 172 > Frame 37 > Frame 34 | 414,17923 | 571×128 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~4 líneas (lh 32) | Magíster en Inteligencia Estratégica, abogado y politólogo. Estratega político con experiencia en América Latina, asesorando gobiernos y líderes. Especialista en inteligencia y PSYOPS en campañas electorales.
+I2002:42;43:356 | Frame 172 > Frame 37 > Frame 34 > Componente 26 – 9 > Grupo 21291 | 446,18105 | 91×22 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 21.6, lh AUTO aprox x1.2) | Saber más
+2002:260 | Frame 256 | 286,18414.5 | 305×42 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 22 | ~1 líneas (lh 42) | PRESENCIA INTERNACIONAL
+2002:258 | Frame 256 | 286,18505.1 | 647×189 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 56 | ~3 líneas (lh 63) | Una red que habla el idioma político de Latinoamérica. || ESTILOS MIXTOS: 0-28 #FDFCFB Montserrat Bold 56 ; 28-54 #DD0005 Montserrat Bold 56
+2002:259 | Frame 256 | 291,18706.5 | 603×64 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~2 líneas (lh 32) | Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+2002:267 | Frame 256 > Frame 182 | 347.8,18876.9 | 74×100 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat ExtraBold 54 | ~1 líneas (lh 100) | 15
+2002:274 | Frame 256 > Frame 184 > Frame 183 | 556.8,18876.9 | 74×100 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat ExtraBold 54 | ~1 líneas (lh 100) | 10
+2002:275 | Frame 256 > Frame 184 | 635.8,18876.9 | 40×100 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat SemiBold 54 | ~1 líneas (lh 100) | K
+2002:270 | Frame 256 > Frame 185 | 816.8,18876.9 | 110×100 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat ExtraBold 54 | ~1 líneas (lh 100) | 300
+2002:266 | Frame 256 > Frame 182 | 310.8,18877.4 | 37×99 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Regular 64 | ~1 líneas (lh 99) | +
+2002:273 | Frame 256 > Frame 184 > Frame 183 | 519.8,18877.4 | 37×99 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Regular 64 | ~1 líneas (lh 99) | +
+2002:269 | Frame 256 > Frame 185 | 779.8,18877.4 | 37×99 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Regular 64 | ~1 líneas (lh 99) | +
+2002:262 | Frame 256 | 319,18963.9 | 87×42 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 22 | ~1 líneas (lh 42) | Países
+2002:264 | Frame 256 | 528,18963.9 | 152×42 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 22 | ~1 líneas (lh 42) | Egresados
+2002:263 | Frame 256 | 788,18963.9 | 141×42 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 22 | ~1 líneas (lh 42) | Campañas
+2002:407 | Frame 257 > Frame 186 > Frame 139 > Frame 138 | 1187,19292 | 176×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 20 | ~1 líneas (lh 50) | CERTIFICACIÓN
+2002:408 | Frame 257 > Frame 186 > Frame 139 > Frame 138 | 1187,19373 | 619×171 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 50 | ~3 líneas (lh 57) | Una certificación para\nquienes lideran la\nconsultoría política || ESTILOS MIXTOS: 0-30 #14262F Montserrat Bold 50 ; 30-62 #DD0005 Montserrat Bold 50
+2002:409 | Frame 257 > Frame 186 > Frame 139 | 1187,19585 | 619×192 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~6 líneas (lh 32) | Al culminar satisfactoriamente el programa recibirás la certificación como Director de Consultoría Política. Una acreditación que reconoce tu capacidad para dirigir una firma profesional de consultoría política, gestionar clientes, estructurar servicios y desarrollar operaciones estratégicas a nivel internacional.
+2002:414 | Frame 257 > Frame 186 > Frame 144 > Frame 143 > Frame 230 > Frame 140 | 1253,19837 | 498×26 | visible propio=true, efectivo=true | HEIGHT | Montserrat SemiBold 20 | ~1 líneas (lh 26) | CERTIFICACIÓN INTERNACIONAL
+2002:415 | Frame 257 > Frame 186 > Frame 144 > Frame 143 > Frame 230 > Frame 140 | 1253,19870 | 498×56 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~2 líneas (lh 28) | Diploma emitido por Grupo Goberna, que acredita la culminación del programa y tus competencias.
+2002:424 | Frame 257 > Frame 186 > Frame 144 > Tarjeta Verificación digital > Frame 230 > Frame 140 | 1253,19994 | 498×26 | visible propio=true, efectivo=true | HEIGHT | Montserrat SemiBold 20 | ~1 líneas (lh 26) | VERIFICACIÓN DIGITAL
+2002:425 | Frame 257 > Frame 186 > Frame 144 > Tarjeta Verificación digital > Frame 230 > Frame 140 | 1253,20027 | 498×84 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 20 | ~3 líneas (lh 28) | Credencial digital verificable que facilita la validación de tu certificación y su presentación en tu perfil profesional.
+2002:434 | Frame 257 > Frame 186 > Frame 144 > Tarjeta Verificación digital > Frame 137 > Frame 136 | 1294.5,20152 | 228×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | Hablar con un asesor
+2002:336 | Frame 258 > Frame 254 > Frame 232 | 286,20332 | 614×42 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 22 | ~1 líneas (lh 42) | INVERSIÓN
+2002:357 | Frame 258 > Frame 215 | 1186,20332 | 620.0000610351562×42 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 22 | ~1 líneas (lh 42) | ADMISIÓN
+2002:337 | Frame 258 > Frame 254 > Frame 232 | 286,20419 | 669×162 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 48 | ~3 líneas (lh 54) | CONVIÉRTETE EN EL DIRECTOR DE TU PROPIA FIRMA DE CONSULTORÍA POLÍTICA
+2002:360 | Frame 258 > Frame 215 > Frame 214 > Frame 203 | 1186,20421 | 620×80 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 41 | ~2 líneas (lh 40) | ¿Listo para dar\nel siguiente paso?
+2002:361 | Frame 258 > Frame 215 > Frame 214 > Frame 203 | 1186,20501 | 620×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 15 | ~1 líneas (lh 50) | Déjanos tus datos y te ayudaremos con tu inscripción.
+2002:365 | Frame 258 > Frame 215 > Frame 214 > Frame 213 > Frame 212 > Frame 204 | 1186,20560 | 620.0000610351562×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 15 | ~1 líneas (lh 50) | NOMBRE COMPLETO
+2002:369 | Frame 258 > Frame 215 > Frame 214 > Frame 213 > Frame 212 > Frame 206 > Frame 205 | 1186,20639 | 37×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 15 | ~1 líneas (lh 50) | PAÍS
+2002:341 | Frame 258 > Frame 254 > Frame 235 > Frame 234 > Frame 233 | 338,20678 | 292×146 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 120 | ~1 líneas (lh 144, lh AUTO aprox x1.2) | 1000
+2002:342 | Frame 258 > Frame 254 > Frame 235 > Frame 234 > Frame 233 | 286,20690 | 42×79 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Bold 65 | ~1 líneas (lh 78, lh AUTO aprox x1.2) | $
+2002:373 | Frame 258 > Frame 215 > Frame 214 > Frame 213 > Frame 212 > Frame 207 | 1186,20719 | 620.0000610351562×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 15 | ~1 líneas (lh 50) | TELÉFONO
+2002:343 | Frame 258 > Frame 254 > Frame 235 > Frame 234 | 650,20723 | 97×54 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Medium 43 | ~1 líneas (lh 54) | USD
+2002:376 | Frame 258 > Frame 215 > Frame 214 > Frame 213 > Frame 212 > Frame 208 | 1186,20798 | 620.0000610351562×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 15 | ~1 líneas (lh 50) | CARGO
+2002:347 | Frame 258 > Frame 238 > Frame 236 | 286,20879 | 73×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 70) | Inicio
+2002:350 | Frame 258 > Frame 238 > Frame 237 | 616,20879 | 120×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 70) | DURACIÓN
+2002:379 | Frame 258 > Frame 215 > Frame 214 > Frame 213 > Frame 212 > Frame 209 | 1186,20879 | 620.0000610351562×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 15 | ~1 líneas (lh 50) | CORREO ELECTRÓNICO
+2002:348 | Frame 258 > Frame 238 > Frame 236 | 286,20919 | 203×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 20 | ~1 líneas (lh 70) | 21 de octubre
+2002:351 | Frame 258 > Frame 238 > Frame 237 | 616,20919 | 162×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 20 | ~1 líneas (lh 70) | 11 MÓDULOS
+2002:354 | Frame 258 > Frame 210 | 530,21025 | 127×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | PAGAR AHORA
+2002:384 | Frame 258 > Frame 215 > Frame 214 > Frame 213 > Frame 211 > Frame 210 | 1462,21025 | 67×19 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Semi Bold 16 | ~1 líneas (lh 19.2, lh AUTO aprox x1.2) | ENVIAR
+2002:385 | Frame 258 > Frame 215 > Frame 214 > Frame 213 > Frame 211 | 1186,21058 | 620×70 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 70) | Tus datos se usan solo para contactarte sobre el diploma.
+2002:355 | Frame 258 | 286,21069 | 614×70 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 70) | Vacantes limitadas para garantizar una formación especializada.
+2002:291 | Frame 242 > Frame 173 > Frame 177 > Frame 176 > Frame 174 | 1108,21323 | 622×22 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~1 líneas (lh 21.6, lh AUTO aprox x1.2) | ¿Cómo se realizan las clases?
+2002:295 | Frame 242 > Frame 173 > Frame 177 > Frame 176 > Frame 175 | 1747,21323 | 12×31 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 26 | ~1 líneas (lh 31.2, lh AUTO aprox x1.2) | -
+2002:292 | Frame 242 > Frame 173 > Frame 177 > Frame 176 > Frame 174 | 1108,21369 | 622×63 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 17 | ~3 líneas (lh 21) | Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando clases magistrales, análisis de casos reales, talleres de producción y desarrollo de componentes concretos para la firma.
+2002:282 | Frame 242 > Frame 246 | 286,21370 | 538×50 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 16 | ~1 líneas (lh 50) | PREGUNTAS FRECUENTES
+2002:284 | Frame 242 > Frame 246 > Frame 245 | 286,21461 | 538×183 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 56 | ~3 líneas (lh 61) | Resolvemos tus\ndudas antes de\nque decidas. || ESTILOS MIXTOS: 0-20 #0C0000 Montserrat Bold 56 ; 20-42 #0C0000 Montserrat Bold 56
+2002:300 | Frame 242 > Frame 173 > Grupo 29223 | 1745,21490 | 18×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 26 | ~1 líneas (lh 70) | +
+2002:298 | Frame 242 > Frame 173 > Grupo 29223 | 1108,21494 | 230×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 70) | ¿Cuánto dura el programa?
+2002:305 | Frame 242 > Frame 173 > Grupo 29224 | 1745,21594 | 18×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 26 | ~1 líneas (lh 70) | +
+2002:303 | Frame 242 > Frame 173 > Grupo 29224 | 1108,21598 | 240×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 70) | ¿Qué incluye mi inscripción?
+2002:285 | Frame 242 > Frame 246 > Frame 245 | 286,21672 | 473×64 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 22 | ~2 líneas (lh 32) | Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+2002:310 | Frame 242 > Frame 173 > Grupo 29225 | 1745,21698 | 18×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 26 | ~1 líneas (lh 70) | +
+2002:308 | Frame 242 > Frame 173 > Grupo 29225 | 1108,21702 | 385×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 70) | ¿Cuáles son los medios de pago disponibles?
+2002:315 | Frame 242 > Frame 173 > Grupo 29226 | 1745,21802 | 18×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 26 | ~1 líneas (lh 70) | +
+2002:313 | Frame 242 > Frame 173 > Grupo 29226 | 1108,21806 | 226×70 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 18 | ~1 líneas (lh 70) | ¿Cómo puedo inscribirme?
+2002:318 | Frame 243 | 971,22105 | 151×61 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Montserrat Regular 46 | ~1 líneas (lh 61) | Footer
+
+================================================================================
+FRAME COPIA 2: CD v1 – Programa: Dirigido a (2002:551) · 15 capas de texto
+================================================================================
+2002:558 | (directo) | 2272,13599 | 163×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 20 | ~1 líneas (lh 50) | El programa
+2002:566 | (directo) | 2272,13676 | 581×180 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 40 | ~4 líneas (lh 45) | Formar consultores senior capaces de fundar, dirigir y proyectar su propia firma de consultoría || ESTILOS MIXTOS: 0-45 #EBEFF2 Montserrat Bold 40 ; 45-95 #DD0005 Montserrat Bold 40
+2002:559 | (directo) | 3097.5,13702 | 448×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 24 | ~1 líneas (lh 50) | ¿Para quién es este diploma?
+2002:555 | (directo) | 3097.5,13775 | 717×32 | visible propio=false, efectivo=false (oculto por el propio nodo) | HEIGHT | MIXTO() MIXTO() | ~1 líneas (lh 32) | (cadena vacía)
+2002:599 | (directo) | 3097.5,13775 | 717×32 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~1 líneas (lh 32) | Dirigido a:
+2002:557 | (directo) | 3129.5,13817 | 685×32 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~1 líneas (lh 32) | Egresados del Diploma Internacional del Consultor Político.
+2002:602 | (directo) | 3129.5,13859 | 685×64 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~2 líneas (lh 32) | Profesionales que trabajan en campañas electorales, gobiernos o espacios parlamentarios.
+2002:560 | (directo) | 2369,13876 | 204×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | ¿Cuál es el objetivo?
+2002:556 | (directo) | 3097.5,13897 | 717×32 | visible propio=false, efectivo=false (oculto por el propio nodo) | HEIGHT | MIXTO() MIXTO() | ~1 líneas (lh 32) | A lo largo del diploma aplicarás estos conocimientos dentro de una simulación electoral competitiva.
+2002:605 | (directo) | 3129.5,13933 | 685×32 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~1 líneas (lh 32) | Consultores políticos certificados en la metodología War Room de Goberna.
+2002:561 | (directo) | 2369,13965 | 231×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | ¿A quiénes está dirigido?
+2002:608 | (directo) | 3129.5,13975 | 685×32 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~1 líneas (lh 32) | Jefes de campaña, estrategas y asesores políticos en ejercicio.
+2002:611 | (directo) | 3129.5,14017 | 685×32 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~1 líneas (lh 32) | Profesionales que buscan dirigir su propia consultora.
+2002:562 | (directo) | 2369,14056 | 194×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | Perfil del egresado
+2002:614 | (directo) | 3129.5,14059 | 685×64 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~2 líneas (lh 32) | Consultores que buscan convertir su experiencia en una firma profesional de consultoría.
+
+================================================================================
+FRAME COPIA 3: CD v1 – Programa: Perfil (2002:617) · 9 capas de texto
+================================================================================
+2002:623 | (directo) | 2272,14426 | 163×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 20 | ~1 líneas (lh 50) | El programa
+2002:631 | (directo) | 2272,14503 | 581×180 | visible propio=true, efectivo=true | HEIGHT | Montserrat Bold 40 | ~4 líneas (lh 45) | Formar consultores senior capaces de fundar, dirigir y proyectar su propia firma de consultoría || ESTILOS MIXTOS: 0-45 #EBEFF2 Montserrat Bold 40 ; 45-95 #DD0005 Montserrat Bold 40
+2002:624 | (directo) | 3097.5,14529 | 211×50 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Inter Regular 24 | ~1 líneas (lh 50) | Qué lograrás
+2002:620 | (directo) | 3097.5,14602 | 717×96 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~3 líneas (lh 32) | Al finalizar el diploma estarás preparado para dirigir una firma de consultoría política como una empresa profesional, rentable y con capacidad de expansión internacional.
+2002:625 | (directo) | 2369,14703 | 204×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | ¿Cuál es el objetivo?
+2002:621 | (directo) | 3097.5,14724 | 717×32 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~1 líneas (lh 32) | Podrás desenvolverte como:
+2002:622 | (directo) | 3097.5,14790 | 717×64 | visible propio=true, efectivo=true | HEIGHT | Inter Regular 18 | ~2 líneas (lh 32) | Director de consultoría política · Fundador de firma consultora · Director de campañas · Estratega senior · Consultor internacional
+2002:626 | (directo) | 2369,14792 | 231×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | ¿A quiénes está dirigido?
+2002:627 | (directo) | 2369,14883 | 194×57 | visible propio=true, efectivo=true | WIDTH_AND_HEIGHT | Barlow Medium 20 | ~1 líneas (lh 57) | Perfil del egresado
+
+================================================================================
+ALTURAS
+================================================================================
+Frames copia (altura original → copia):
+- CARRERA DIPLOMÁTICA – v1 (2002:21): 10285 (original 357:27 = 10285) ✔
+- CD v1 – Programa: Dirigido a (2002:551): 717 (original 357:665 = 717) ✔
+- CD v1 – Programa: Perfil (2002:617): 717 (original 357:731 = 717) ✔
+
+Hijos directos de "CARRERA DIPLOMÁTICA – v1" (2002:21):
+- 2002:27 · Gemini_Generated_Image_lmv4yslmv4yslmv4 1 · RECTANGLE · h 1027 · visible
+- 2002:28 · Rectángulo 14329 · RECTANGLE · h 1017 · visible
+- 2002:29 · Frame 172 · FRAME · h 1027 · visible
+- 2002:45 · Rectángulo 14348 · RECTANGLE · h 251 · visible
+- 2002:46 · Rectángulo 14311 · RECTANGLE · h 717 · visible
+- 2002:47 · Rectángulo 14310 · RECTANGLE · h 859 · visible
+- 2002:48 · Grupo 29188 · GROUP · h 879.0001220703125 · visible
+- 2002:51 · (texto) "Formar consultores políticos de nivel senior…" · TEXT · h 96 · visible
+- 2002:52 · (texto) "Durante el programa transformarás…" · TEXT · h 96 · visible
+- 2002:53 · (texto, oculto) · TEXT · h 128 · visible propio=false
+- 2002:54 · Duración · TEXT · h 25 · visible propio=false
+- 2002:55 · Línea 668 · LINE · h 0 · visible
+- 2002:56 · Rectángulo 14306 · RECTANGLE · h 180 · visible
+- 2002:57 · Rectángulo 14309 · RECTANGLE · h 180 · visible
+- 2002:58 · OBJETIVO DEL PROGRAMA · TEXT · h 50 · visible
+- 2002:59 · MODALIDAD · TEXT · h 19 · visible
+- 2002:60 · INICIO · TEXT · h 19 · visible
+- 2002:61 · HORARIO · TEXT · h 19 · visible
+- 2002:62 · DURACIÓN · TEXT · h 19 · visible
+- 2002:63 · ONLINE EN VIVO · TEXT · h 19 · visible
+- 2002:64 · 31 DE OCTUBRE,\n2026 · TEXT · h 19 · visible
+- 2002:65 · 19:00 UTC-5 · TEXT · h 25 · visible
+- 2002:66 · 4 MESES - 10 sesiones · TEXT · h 19 · visible
+- 2002:67 · Frame 244 · FRAME · h 57 · visible
+- 2002:70 · Línea 762 · LINE · h 0 · visible
+- 2002:71 · Línea 765 · LINE · h 0 · visible
+- 2002:72 · Línea 763 · LINE · h 0 · visible
+- 2002:73 · Línea 764 · LINE · h 0 · visible
+- 2002:74 · Frame 157 · FRAME · h 507.25 · visible
+- 2002:106 · Grupo 5705 · GROUP · h 31.932321548461914 · visible
+- 2002:119 · Grupo 21174 · GROUP · h 38.97153854370117 · visible
+- 2002:132 · Grupo 21172 · GROUP · h 27.95384979248047 · visible
+- 2002:140 · Grupo 21171 · GROUP · h 27.105484008789062 · visible
+- 2002:146 · capitolio · RECTANGLE · h 643.7341918945312 · visible
+- 2002:147 · Enmascarar grupo 139 · GROUP · h 434 · visible
+- 2002:153 · Frame 199 · FRAME · h 33 · visible
+- 2002:163 · noun_Target_8017126 · GROUP · h 80.37271881103516 · visible
+- 2002:165 · Frame 229 · FRAME · h 564.0009765625 · visible
+- 2002:209 · Rectángulo 14319 · RECTANGLE · h 716 · visible
+- 2002:210 · Frame 202 · FRAME · h 366 · visible
+- 2002:216 · Grupo 29196 · GROUP · h 238 · visible
+- 2002:238 · Grupo 29210 · GROUP · h 14 · visible propio=false
+- 2002:242 · Grupo 29209 · GROUP · h 56 · visible propio=false
+- 2002:247 · Grupo 29208 · GROUP · h 56 · visible propio=false
+- 2002:252 · Frame 256 · FRAME · h 867 · visible
+- 2002:278 · Frame 242 · FRAME · h 780 · visible
+- 2002:316 · Frame 243 · FRAME · h 300 · visible
+- 2002:319 · Componente 13 – 1 · FRAME · h 90 · visible
+- 2002:332 · Frame 258 · FRAME · h 941 · visible
+- 2002:386 · Frame 160 · FRAME · h 475 · visible
+- 2002:402 · Frame 257 · FRAME · h 1056 · visible
+- 2002:437 · image 1 · RECTANGLE · h 1028 · visible
+- 2002:438 · Frame 255 · FRAME · h 1403 · visible
+- 2002:544 · Frame 172 · FRAME · h 340 · visible
+
+(Los hijos de texto con nombre-contenido se listan con su characters completo en la sección de capas de arriba.)
+
+================================================================================
+INCIDENCIAS
+================================================================================
+- 2002:53 (copia 1, oculto) contiene texto de otra temática heredado de la plantilla: "-Dirección de seguridad / Gestión de riesgos y seguridad corporativa / Protección de instalaciones y contrainteligencia / Investigaciones y debida diligencia". Está oculto; no se muestra en render, pero hay que reemplazarlo si se usa el texto oculto del volcado.
+- 2002:54 "Duración" (copia 1) está oculto de forma propia.
+- 2002:103 y 2002:104 (copia 1) tienen visible propio=true pero están dentro de "Frame 152", que está oculto: no se ven en render.
+- Copia 2: 2002:555 tiene characters vacío ("") y está oculto; 2002:556 está oculto y contiene texto. El 2002:599 visible "Dirigido a:" y los demás textos están en la misma posición (x=3097.5/3129.5) que sus versiones ocultas, por lo que hay textos ocultos superpuestos entre sí en el mismo punto.
+- Copia 3: no tiene capas ocultas.
+- Los lineHeight "AUTO" son estimaciones (fontSize × 1.2), por lo que el nº de líneas de esas capas es aproximado.
+- Algunas capas tienen ancho fraccionario (p. ej. 620.0000610351562) por auto-layout; no es un error.
+- Copia 1 contiene textos de la plantilla de tarjeta de estadística/porcentaje (100%, 10,000, 15, 20, 300, 1000, K) que no están en el documento de contenido de Carrera Diplomática; son cifras originales de la plantilla pendientes de decisión.
+- Copia 1 contiene textos de la plantilla de Consultor Político en la sección de ponente ("Roberto Bazán", "Magíster en Inteligencia Estratégica…", "PSYOPS en campañas electorales"); pendientes de decisión del inspector.
+- No se modificó ningún texto, posición, tamaño ni estructura en esta fase. Solo se crearon las 3 copias.

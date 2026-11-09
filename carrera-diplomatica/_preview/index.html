@@ -1,0 +1,165 @@
+<title>Carrera Diplomática · Vista previa</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Barra de revisión arriba, la landing escalada debajo a su tamaño real de pantalla */
+:root{
+  --bg:#ECEAEA; --chrome:#0C0000; --chrome-fg:#F5F2F2; --muted:#9C8E8E; --accent:#DD0005; --line:rgba(255,255,255,.14);
+  --panel:#FFFFFF; --panel-fg:#0C0000;
+  --ui:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#140C0C;--panel:#231717;--panel-fg:#F2ECEC;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#140C0C;--panel:#231717;--panel-fg:#F2ECEC;color-scheme:dark}
+html,body{height:100%}
+body{margin:0;background:var(--bg);font:14px/1.4 var(--ui);color:var(--panel-fg);display:flex;flex-direction:column}
+.bar{background:var(--chrome);color:var(--chrome-fg);display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;
+  padding-block:10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.name{font-weight:600;letter-spacing:.02em;white-space:nowrap}
+.name small{display:block;font-weight:400;color:var(--muted);font-size:12px;letter-spacing:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{all:unset;cursor:pointer;padding:7px 12px;font-size:13px;color:var(--chrome-fg);white-space:nowrap}
+.seg button small{color:var(--muted);margin-left:6px;font-variant-numeric:tabular-nums}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#FFFFFF}
+.seg button[aria-pressed="true"] small{color:#FFFFFF}
+.seg button:focus-visible,.chk:focus-within,.pend:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chk{display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:13px;white-space:nowrap}
+.chk input{accent-color:var(--accent);width:16px;height:16px;margin:0}
+.pend{all:unset;cursor:pointer;margin-left:auto;font-size:13px;padding:7px 12px;border-radius:8px;border:1px solid var(--accent);color:var(--accent);white-space:nowrap}
+.stage{flex:1;min-height:0;position:relative;overflow:hidden}
+.frame{position:absolute;top:16px;left:50%;transform-origin:top center;box-shadow:0 10px 40px rgba(0,0,0,.25);background:#fff}
+.frame iframe{display:block;border:0;width:100%;height:100%}
+.list{position:absolute;right:max(16px,env(safe-area-inset-right,0px));top:12px;width:min(420px,calc(100% - 32px));max-height:calc(100% - 24px);overflow:auto;
+  background:var(--panel);color:var(--panel-fg);border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,.3);padding:18px 20px;z-index:5}
+.list h2{margin:0 0 4px;font-size:15px}
+.list p{margin:0 0 12px;color:var(--muted);font-size:12.5px}
+.list ol{margin:0;padding-left:18px;display:grid;gap:9px;font-size:13px}
+.list b{font-weight:600}
+.pend2{margin-left:0}
+.list li small{display:block;color:var(--muted);font-size:12px;margin-top:2px}
+.list code{font-size:12px}
+@media (max-width:640px){.pend{margin-left:0}}
+</style>
+
+<div class="bar">
+  <div class="name">Carrera Diplomática<small>Vista previa de la plantilla de Elementor</small></div>
+  <div class="seg" role="group" aria-label="Dispositivo">
+    <button type="button" data-w="1920" data-h="1080" aria-pressed="true">Desktop<small>1920</small></button>
+    <button type="button" data-w="1366" data-h="768" aria-pressed="false">Laptop<small>1366</small></button>
+    <button type="button" data-w="375" data-h="812" aria-pressed="false">Mobile<small>375</small></button>
+  </div>
+  <div class="seg" role="group" aria-label="Página" id="pages">
+    <button type="button" data-src="landing.html" aria-pressed="true">Landing</button>
+    <button type="button" data-src="propuesta-a.html" aria-pressed="false">Propuesta A</button>
+    <button type="button" data-src="propuesta-a-progreso.html" aria-pressed="false">A + barra</button>
+    <button type="button" data-src="propuesta-b.html" aria-pressed="false">Propuesta B</button>
+  </div>
+  <label class="chk"><input type="checkbox" id="widgets"> Ver widgets</label>
+  <button type="button" class="pend" id="propBtn" aria-expanded="true">Propuestas módulos</button>
+  <button type="button" class="pend pend2" id="chgBtn" aria-expanded="false">Cambios (6)</button>
+  <button type="button" class="pend pend2" id="pendBtn" aria-expanded="false">Pendientes (8)</button>
+</div>
+
+<div class="stage" id="stage">
+  <div class="frame" id="frame"><iframe id="ifr" src="landing.html" title="Landing Carrera Diplomática"></iframe></div>
+  <div class="list" id="prop">
+    <h2>Propuestas · scroll en «Plan de estudios»</h2>
+    <p><b>Elegida: Propuesta A, sin barra.</b> Ya está aplicada en «Landing» y en el JSON. Las otras quedan solo para comparar. Elige una arriba («Propuesta A», «A + barra» o «Propuesta B»). La página se abre justo antes de la sección; baja con la rueda.</p>
+    <ol>
+      <li><b>Propuesta A · la lista se desplaza:</b> la sección se queda fija bajo el header y la lista de módulos avanza con el scroll, del 01 al 10; después la página sigue. Scroll extra: ~1180 px en 1920×1080 y ~890 px en 1366×768.<small>Mientras está fija, la rueda sobre la lista mueve la página (no se pelean).</small></li>
+      <li><b>A + barra:</b> lo mismo, con una barra roja fina de progreso.</li>
+      <li><b>Propuesta B · los módulos se abren en secuencia:</b> con la sección fija, cada tramo de scroll abre el módulo siguiente y cierra el anterior (01 → 10), con contador «05 / 10» y barra de progreso. Cada módulo ocupa el 60 % de la pantalla de scroll: ~6480 px extra en 1920×1080 (unas 6 pantallas).<small>Si haces clic en otro módulo, la secuencia sigue desde ahí. El tramo se puede acortar (p. ej. al 45 %).</small></li>
+      <li><b>Comunes:</b> solo desktop y laptop (≥1025 px); en tablet, mobile o con «reducir movimiento», la sección queda como ahora. El enlace «MÓDULOS» del menú lleva al inicio de la sección. En pantallas bajas la lista se acorta un poco para que la sección entera quepa.</li>
+      <li><b>Sin verificar:</b> en WordPress real (aquí el acordeón lo simula la vista previa) y en Safari o Firefox.</li>
+    </ol>
+  </div>
+  <div class="list" id="chg" hidden>
+    <h2>Cambios de esta ronda · 21 oct</h2>
+    <p>Revisados y aprobados. Cada uno se ve en la vista previa y ya está en los dos JSON.</p>
+    <ol>
+      <li><b>Portada nueva del hero:</b> exportada del Figma (Frame 260), 1920×879, webp de 163 KB. Mismo nombre de archivo: <code>hero-fondo-carrera-diplomatica.webp</code>.</li>
+      <li><b>Íconos con la paleta de Carrera:</b> las 3 cajas de 10 Módulos / 120 Horas / 100 % (rojo al 80 % con ícono blanco, como en el Figma), los 4 íconos de la barra del hero y la medalla de Certificación. Antes apuntaban a los SVG de Director y en WordPress salían amarillos u oscuros.<small>8 SVG nuevos en <code>iconos\</code>; ver Pendientes.</small></li>
+      <li><b>Stats del plan en mobile:</b> «Metodología práctica» ya no pisa «Aprende haciendo»; los tres rótulos quedan alineados.</li>
+      <li><b>7.ª tarjeta de docente:</b> copia de la última del carrusel, lista para editarla en WordPress.<small>En la vista previa de desktop el carrusel muestra 3 puntos (avanza de 3 en 3); en WordPress salen 7.</small></li>
+      <li><b>Animación de Preguntas frecuentes y de los Módulos:</b> abrir y cerrar va de forma continua, sin el salto final (era de 36 px en el FAQ y de 29 px en los módulos). Fundido del contenido y transición de color en el borde y en los íconos; respeta «reducir movimiento».<small>Al cerrar una pregunta del FAQ, el texto vuelve a bajar 8 px de forma suave (la pregunta abierta va más arriba, como en el Figma).</small></li>
+      <li><b>Certificación centrada en vertical:</b> el bloque derecho queda con el mismo espacio arriba y abajo en cualquier alto de pantalla (1920×1080: 52 / 52 px; antes 91 / 16).</li>
+    </ol>
+  </div>
+  <div class="list" id="list" hidden>
+    <h2>Pendientes</h2>
+    <p>Lo que no está en el Figma o hay que confirmar antes de publicar.</p>
+    <ol>
+      <li><b>Certificado:</b> el panel izquierdo de Certificación queda como cuadro gris para que subas la imagen del certificado (fondo del contenedor <code>ak-cert-img</code>).</li>
+      <li><b>Enlaces:</b> los dos botones de brochure y «Pagar ahora» apuntan a «#». WhatsApp conserva el número de la base con el mensaje de Carrera Diplomática. Los «Ver trayectoria» son los de la base.</li>
+      <li><b>Video de Metodología:</b> va la portada del Figma; el video lo agregas tú.</li>
+      <li><b>Docentes:</b> son los 6 de la base, como pediste.</li>
+      <li><b>Mapa:</b> se mantiene el mapa animado de la base (con nombres de países), con sus puntos dorados de Director. En el Figma es una imagen fija sin nombres. ¿Lo dejamos así o usamos la imagen del Figma?</li>
+      <li><b>Imágenes para subir a la Biblioteca de medios (2026/10):</b> hero-fondo-, titulo-, metodologia-video-, war-room-fondo-, war-room-fondo-movil-, banner-proxima-edicion- y fondo-presencia-carrera-diplomatica.webp (la portada nueva reemplaza a la anterior).</li>
+      <li><b>SVG para subir (2026/10, nombre exacto):</b> plan-modulos-, plan-horas-, plan-metodologia-caja-4-1-carrera-diplomatica.svg; barra-modalidad-, barra-inicio-, barra-horario-, barra-duracion-1-carrera-diplomatica.svg; certificacion-medalla-1-carrera-diplomatica.svg. Elementor muestra los SVG por su id: cuando los subas, pongo los ids reales en el JSON.</li>
+      <li><b>Animaciones de acordeón:</b> están medidas en la vista previa, que imita el código de Elementor; conviene confirmarlas en WordPress al importar.</li>
+    </ol>
+  </div>
+</div>
+
+<script>
+(function(){
+  var stage=document.getElementById('stage'), frame=document.getElementById('frame'), ifr=document.getElementById('ifr');
+  var btns=[].slice.call(document.querySelectorAll('.seg button')), dev={w:1920,h:1080};
+  function fit(){
+    var aw=stage.clientWidth-32, ah=stage.clientHeight-32;
+    var s=Math.min(1, aw/dev.w, ah/dev.h);
+    frame.style.width=dev.w+'px'; frame.style.height=dev.h+'px';
+    frame.style.transform='translateX(-50%) scale('+s+')';
+  }
+  btns.forEach(function(b){ b.addEventListener('click',function(){
+    btns.forEach(function(x){ x.setAttribute('aria-pressed', x===b?'true':'false'); });
+    dev={w:+b.dataset.w,h:+b.dataset.h}; fit();
+    try{ localStorage.setItem('cd-dev', b.dataset.w); }catch(e){}
+  }); });
+  window.addEventListener('resize',fit);
+  try{ var saved=localStorage.getItem('cd-dev'); var sb=btns.filter(function(b){return b.dataset.w===saved;})[0]; if(sb) sb.click(); }catch(e){}
+  fit();
+
+  // Ver widgets: contorno y etiqueta con el widget de Elementor y sus clases ak-
+  var CSS='.dsw-on .elementor-widget{outline:1px dashed rgba(221,0,5,.9);outline-offset:-1px;position:relative}'+
+    '.dsw-on .e-con.e-parent{outline:2px solid rgba(0,140,255,.55);outline-offset:-2px}'+
+    '.dsw-tag{display:none}.dsw-on .dsw-tag{display:block;position:absolute;left:0;top:0;z-index:9999;font:500 10px/1.3 Inter,Arial,sans-serif;'+
+    'background:#0C0000;color:#FF6B6E;padding:1px 5px;pointer-events:none;white-space:nowrap;letter-spacing:0;text-transform:none;-webkit-text-fill-color:#FF6B6E}'+
+    '.dsw-on .e-con.e-parent>.dsw-tag{background:#0A6BD6;color:#fff;-webkit-text-fill-color:#fff}';
+  function tag(doc){
+    if(doc.getElementById('dsw-style')) return;
+    var st=doc.createElement('style'); st.id='dsw-style'; st.textContent=CSS; doc.head.appendChild(st);
+    var NAMES={'heading':'Encabezado','text-editor':'Editor de texto','image':'Imagen','button':'Botón','icon':'Ícono','html':'HTML',
+      'nested-tabs':'Pestañas anidadas','nested-accordion':'Acordeón anidado','n-carousel':'Carrusel anidado','form':'Formulario',
+      'divider':'Divisor','nav-menu':'Menú','image-box':'Caja de imagen','icon-list':'Lista de íconos','social-icons':'Íconos sociales'};
+    [].forEach.call(doc.querySelectorAll('[data-widget_type], .e-con.e-parent'),function(el){
+      var t=(el.getAttribute('data-widget_type')||'').split('.')[0];
+      var cls=[].filter.call(el.classList,function(c){return /^ak-/.test(c);}).join(' ');
+      var lab=doc.createElement('span'); lab.className='dsw-tag';
+      lab.textContent=(t?(NAMES[t]||t):'Contenedor')+(cls?' · '+cls:'');
+      el.insertBefore(lab, el.firstChild);
+    });
+  }
+  var chk=document.getElementById('widgets');
+  function apply(){ try{ var d=ifr.contentDocument; if(!d||!d.body) return; tag(d); d.documentElement.classList.toggle('dsw-on',chk.checked); }catch(e){} }
+  chk.addEventListener('change',apply); ifr.addEventListener('load',apply);
+
+  // Página: landing o una propuesta; las propuestas se abren justo antes de «Plan de estudios»
+  var pbtns=[].slice.call(document.querySelectorAll('#pages button'));
+  pbtns.forEach(function(b){ b.addEventListener('click',function(){
+    pbtns.forEach(function(x){ x.setAttribute('aria-pressed', x===b?'true':'false'); });
+    ifr.src=b.dataset.src;
+  }); });
+  ifr.addEventListener('load',function(){
+    if(/landing\.html$/.test(ifr.src)) return;
+    try{ var w=ifr.contentWindow, el=w.document.querySelector('.ak-plan');
+      if(el) setTimeout(function(){ w.scrollTo(0, el.getBoundingClientRect().top + w.scrollY - 500); }, 400); }catch(e){}
+  });
+
+  var panels=[[document.getElementById('propBtn'),document.getElementById('prop')],[document.getElementById('chgBtn'),document.getElementById('chg')],[document.getElementById('pendBtn'),document.getElementById('list')]];
+  panels.forEach(function(pr){ pr[0].addEventListener('click',function(){
+    var show=pr[1].hidden;
+    panels.forEach(function(o){ o[1].hidden=true; o[0].setAttribute('aria-expanded','false'); });
+    if(show){ pr[1].hidden=false; pr[0].setAttribute('aria-expanded','true'); }
+  }); });
+})();
+</script>

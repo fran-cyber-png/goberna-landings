@@ -1,0 +1,151 @@
+REPORTE F2 – Carrera Diplomática (Diseño-Eje)
+Archivo Figma: nvxc199gG3N4UK6hH7DH4h · sesión 5ba4b868-d6aa-4038-b2b9-0fad6f70247a
+Regla aplicada: solo se cambió `characters` y se reaplicaron los rangos de estilo (color/peso) del tramo original. No se movió, redimensionó, agregó ni eliminó ningún nodo. Si la capa creció, no se restauró.
+
+Medición: alto y líneas (alto / lineHeight) antes y después del cambio. "Solape" = la caja de la capa intersecta la caja de otra capa de texto visible. "Fuera" = la caja sale de la de su padre.
+
+================================================================================
+COPIA 1: CARRERA DIPLOMÁTICA – v1 (2002:21)
+================================================================================
+id       | alto antes→después | líneas antes→después | solape / fuera de contenedor
+2002:64  | 19 → 19            | 1 → 1                | no
+2002:66  | 19 → 19            | 1 → 1                | no
+2002:69  | 30 → 30            | 1 → 1                | no
+2002:78  | 114 → 114          | 2 → 2                | no
+2002:79  | 32 → 64            | 1 → 2                | no (creció)
+2002:168 | 180 → 270          | 4 → 6                | no (creció)
+2002:51  | 96 → 128           | 3 → 4                | SÍ, solapa con 2002:52 (creció)
+2002:52  | 96 → 96            | 3 → 3                | SÍ, solapa con 2002:51 (efecto de 2002:51)
+2002:53  | 128 → 128          | 4 → 4                | oculto, no evaluado
+2002:213 | 50 → 100           | 1 → 2                | no (creció)
+2002:214 | 159 → 159          | 3 → 3                | no
+2002:215 | 87 → 87            | 3 → 3                | no
+2002:224 | 47 → 47            | 1 → 1                | no
+2002:228 | 37 → 37            | 1 → 1                | no
+2002:233 | 37 → 37            | 1 → 1                | no
+2002:236 | 37 → 37            | 1 → 1                | no
+2002:225 | 96 → 96            | 3 → 3                | no
+2002:229 | 96 → 96            | 3 → 3                | no
+2002:234 | 96 → 96            | 3 → 3                | no
+2002:237 | 96 → 96            | 3 → 3                | no
+2002:478 | 147 → 147          | 3 → 3                | no
+2002:445 | 56 → 28            | 2 → 1                | no (encogió)
+2002:440 | 64 → 64            | 2 → 2                | no
+2002:449 | 63 → 63            | 3 → 3                | SÍ, solapa con 2002:450 "Aprenderás"
+2002:453 | 72 → 48            | 3 → 2                | SÍ, solapa leve con 2002:454 "Aplicarás"
+2002:463 | 58 → 58            | 2 → 2                | no
+2002:471 | 58 → 29            | 2 → 1                | no (encogió)
+2002:486 | 47 → 47            | 1 → 1                | no
+2002:501 | 47 → 47            | 1 → 1                | SÍ, sale de su padre "Frame 164"
+2002:535 | 78 → 78            | 1 → 1                | SÍ, solapa con 2002:534 "¿Quieres vivir…"
+2002:264 | 42 → 42            | 1 → 1                | SÍ, solapa con 2002:273 "+", 2002:274 "10" y 2002:275 "K" ("Profesionales" es más ancho que "Egresados")
+2002:270 | 100 → 100          | 1 → 1                | SÍ, solapa con 2002:263 "Docentes"
+2002:263 | 42 → 42            | 1 → 1                | SÍ, solapa con 2002:269 "+" y 2002:270 "20"
+2002:408 | 171 → 228          | 3 → 4                | no (creció)
+2002:409 | 192 → 160          | 6 → 5                | no (encogió)
+2002:415 | 56 → 56            | 2 → 2                | no
+2002:425 | 84 → 84            | 3 → 3                | no
+2002:337 | 162 → 162          | 3 → 3                | SÍ, sale de su padre "Frame 232"
+2002:360 | 80 → 80            | 2 → 2                | no
+2002:341 | 146 → 146          | 1 → 1                | SÍ, sale de su padre "Frame 233" ("199" es más ancho que "1000")
+2002:348 | 70 → 70            | 1 → 1                | SÍ, solapa con 2002:347 "Inicio"
+2002:351 | 70 → 70            | 1 → 1                | SÍ, solapa con 2002:350 "DURACIÓN"
+2002:292 | 63 → 63            | 3 → 3                | no
+
+Alturas finales:
+- CARRERA DIPLOMÁTICA – v1 (2002:21): 10285 (sin cambio).
+- Hijos directos de 2002:21 que cambiaron de altura:
+  - 2002:51 · 96 → 128
+  - 2002:74 · Frame 157 · 507.3 → 539.3
+  - 2002:165 · Frame 229 · 564 → 654
+  - 2002:210 · Frame 202 · 366 → 416
+
+================================================================================
+COPIA 2: CD v1 – Programa: Dirigido a (2002:551)
+================================================================================
+id       | alto antes→después | líneas antes→después | solape / fuera de contenedor
+2002:566 | 180 → 270          | 4 → 6                | SÍ, solapa con 2002:560 "¿Cuál es el objetivo?" (creció)
+2002:557 | 32 → 32            | 1 → 1                | no
+2002:602 | 64 → 32            | 2 → 1                | no (encogió)
+2002:605 | 32 → 32            | 1 → 1                | no
+2002:608 | 32 → 32            | 1 → 1                | no
+2002:611 | 32 → 64            | 1 → 2                | SÍ, solapa con 2002:614 (creció)
+2002:614 | 64 → 64            | 2 → 2                | SÍ, solapa con 2002:611
+2002:556 | 32 → 96            | 1 → 3                | oculto (creció su caja, no visible)
+
+Alturas finales: 2002:551 = 717 (sin cambio).
+
+================================================================================
+COPIA 3: CD v1 – Programa: Perfil (2002:617)
+================================================================================
+id       | alto antes→después | líneas antes→después | solape / fuera de contenedor
+2002:631 | 180 → 270          | 4 → 6                | SÍ, solapa con 2002:625 "¿Cuál es el objetivo?" (creció)
+2002:620 | 96 → 96            | 3 → 3                | no
+2002:621 | 32 → 32            | 1 → 1                | no
+2002:622 | 64 → 96            | 2 → 3                | no (creció)
+
+Alturas finales: 2002:617 = 717 (sin cambio).
+
+================================================================================
+CAPAS NO CAMBIADAS / PENDIENTES
+================================================================================
+- 2002:555 (copia 2): characters vacío, oculto. No se tocó, según la lista.
+- Fuera del alcance, no tocados: header, footer, ponente (2002:44, 2002:37, 2002:39, 2002:41, "Saber más"), banner "Proyecto final" (2002:546–548), titular y párrafo de la red (2002:258 y 2002:259), etiquetas de Frame 199 (2002:154–162), botones, rótulos de formulario, 2002:103 y 2002:104.
+- Ninguna capa de la lista falló.
+
+================================================================================
+VOLCADO LITERAL PEDIDO
+================================================================================
+2002:53 (copia 1, oculto):
+-Política exterior\n-Análisis internacional\n-Inteligencia diplomática\n-Negociación internacional
+
+2002:556 (copia 2, oculto):
+Durante el diploma desarrollarás capacidades para evaluar fuentes, interpretar intereses y relaciones de poder, anticipar cambios y comunicar hallazgos con claridad, trazabilidad y criterio institucional.
+
+================================================================================
+OBSERVACIONES PARA DECISIÓN
+================================================================================
+1. Las capas que crecieron y las que se solapan deben revisarse en Figma. F2 no las movió, como se pidió.
+2. 2002:478 ("Una formación para dirigir la seguridad de forma integral") es un texto del listado que habla de seguridad, no de diplomacia. Se aplicó literal.
+3. Las etiquetas de estadísticas de la red (2002:264 "Profesionales", 2002:263 "Docentes", 2002:270 "20") ahora son más anchas que las originales y se solapan con sus vecinas.
+4. 2002:408 se aplicó sin saltos de línea forzados, como indicó el mensaje; por eso creció de 3 a 4 líneas.
+
+================================================================================
+ANEXO F2b – eliminar banner "Proyecto final"
+================================================================================
+Antes del cambio:
+- 2002:21 medía 10285 de alto.
+- El banner es 2002:544 ("Frame 172"), hijo directo, y=3571, h=340. Contiene 2002:545 (Frame 248, con 546–548 y los vectores 549–550).
+- 2002:44 (ponente) cuelga de 2002:29 "Frame 172", no de 2002:544. Verificado por cadena de padres; no se tocó.
+
+Acciones:
+1. Eliminado 2002:544 y todo su contenido (2002:545, 2002:546, 2002:547, 2002:548, 2002:549, 2002:550).
+2. Subidos 340 px los hijos directos de 2002:21 con y >= 3911 (incluidos ocultos).
+3. 2002:21 reducido de 10285 a 9945 (resizeWithoutConstraints, para que los constraints no muevan hijos).
+
+Hijos movidos (y antes → después):
+- 2002:28 Rectángulo 14329: 4974 → 4634
+- 2002:29 Frame 172 (ponente): 5314 → 4974
+- 2002:45 Rectángulo 14348: 5755 → 5415
+- 2002:238 Grupo 29210 (oculto): 5899 → 5559
+- 2002:242 Grupo 29209 (oculto): 5568 → 5228
+- 2002:247 Grupo 29208 (oculto): 5568 → 5228
+- 2002:252 Frame 256: 6341 → 6001
+- 2002:332 Frame 258: 8264 → 7924
+- 2002:402 Frame 257: 7208 → 6868
+- 2002:278 Frame 242: 9205 → 8865
+- 2002:316 Frame 243 (footer): 9985 → 9645
+- 2002:438 Frame 255 (PLAN DE ESTUDIOS): 3911 → 3571
+
+No movidos: todos los hijos con y < 3571 (incluido 2002:437 "image 1", y=2564).
+
+Comprobaciones:
+- Ningún hijo queda cortado por debajo del frame: el máximo bottom es 9945 = alto del frame.
+- Hueco: no hay hueco entre el fin de la sección de Objetivo/Experiencia y el inicio de PLAN DE ESTUDIOS; Frame 255 empieza en 3571, justo donde terminaba el banner.
+- Solape: SÍ, 2002:437 "image 1" (y=2564, h=1028, bottom=3592) queda 21 px por encima de Frame 255 (y=3571). Ya ocurría antes del anexo, porque el banner empezaba en 3571 y la imagen llegaba hasta 3592. No se corrigió porque el mensaje no lo pide; hay que decidir si la imagen se recorta, se reubica o se deja.
+- 2002:258 y 2002:259 (red) no se tocaron.
+
+Alturas finales:
+- 2002:21 = 9945
+- 2002:551 = 717
+- 2002:617 = 717

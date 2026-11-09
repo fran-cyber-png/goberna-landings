@@ -1,0 +1,427 @@
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - link [ref=e7] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=e9]:
+      - navigation "Menú" [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "METODOLOGÍA" [ref=e13] [cursor=pointer]:
+              - /url: "#metodologia"
+          - listitem [ref=e14]:
+            - link "DIPLOMA" [ref=e15] [cursor=pointer]:
+              - /url: "#diploma"
+          - listitem [ref=e16]:
+            - link "MÓDULOS" [ref=e17] [cursor=pointer]:
+              - /url: "#modulos"
+          - listitem [ref=e18]:
+            - link "DOCENTES" [ref=e19] [cursor=pointer]:
+              - /url: "#docentes"
+          - listitem [ref=e20]:
+            - link "CERTIFICACIÓN" [ref=e21] [cursor=pointer]:
+              - /url: "#certificacion"
+          - listitem [ref=e22]:
+            - link "INVERSIÓN" [ref=e23] [cursor=pointer]:
+              - /url: "#inversion"
+      - text:  
+    - link "Inscríbete ahora" [ref=e27] [cursor=pointer]:
+      - /url: "#inscripcion"
+  - generic [ref=e31]:
+    - heading "Diploma Internacional de Inteligencia Aplicada a la Carrera Diplomática" [level=1] [ref=e34]
+    - generic [ref=e37]:
+      - link "Reserva tu vacante" [ref=e41] [cursor=pointer]:
+        - /url: "#doble"
+        - generic [ref=e42]:
+          - generic [aria-hidden] [ref=e44]: 
+          - generic [ref=e45]: Reserva tu vacante
+      - link "Hablar con un asesor" [ref=e49] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+Internacional+de+Inteligencia+Aplicada+a+la+Carrera+Diplom%C3%A1tica
+        - generic [ref=e50]:
+          - generic [aria-hidden] [ref=e52]: 
+          - generic [ref=e53]: Hablar con un asesor
+    - link "Descargar brochure del programa" [ref=e57] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e58]:
+        - generic [aria-hidden] [ref=e60]: 
+        - generic [ref=e61]: Descargar brochure del programa
+  - generic [ref=e64]:
+    - generic [ref=e65]:
+      - paragraph [ref=e97]: Modalidad
+      - paragraph [ref=e100]: Online
+    - generic [ref=e101]:
+      - paragraph [ref=e133]: Inicio
+      - paragraph [ref=e136]: 17 de noviembre
+    - generic [ref=e137]:
+      - paragraph [ref=e156]: Hora
+      - paragraph [ref=e159]: 19:00 hrs. GMT-5
+    - generic [ref=e160]:
+      - paragraph [ref=e177]: Duración
+      - paragraph [ref=e180]: 10 módulos
+    - generic [ref=e181]:
+      - paragraph [ref=e184]: Inversión
+      - paragraph [ref=e187]: USD $199
+  - generic [ref=e189]:
+    - generic [ref=e190]:
+      - paragraph [ref=e193]: Metodología
+      - heading "De la información a la decisión diplomática" [level=2] [ref=e196]
+      - paragraph [ref=e199]: Aprende a analizar escenarios internacionales y convertir evidencia en inteligencia útil para la representación y la negociación.
+      - generic [ref=e200]:
+        - generic [ref=e201]:
+          - paragraph [ref=e204]: + 10,000
+          - paragraph [ref=e207]: Profesionales formados
+        - generic [ref=e208]:
+          - paragraph [ref=e211]: + 15
+          - paragraph [ref=e214]: Países en Latinoamérica
+        - generic [ref=e215]:
+          - paragraph [ref=e218]: + 20
+          - paragraph [ref=e221]: Docentes Internacionales en ejercicio
+    - generic [ref=e222]:
+      - generic [ref=e225] [cursor=pointer]:
+        - img "Video del Diploma Internacional de Inteligencia Aplicada a la Carrera Diplomática" [ref=e226]
+        - button "Reproducir video" [ref=e227]
+      - paragraph [ref=e232]: Inteligencia • Estrategia • Liderazgo • Crisis • Tecnología
+  - generic [ref=e233]:
+    - generic [ref=e234]:
+      - paragraph [ref=e237]: El programa
+      - heading [level=2] [ref=e240]:
+        - text: Desarrolla inteligencia estratégica para analizar actores, anticipar escenarios y
+        - generic [ref=e241]: sustentar decisiones en el entorno diplomático internacional.
+    - generic "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas." [ref=e244]:
+      - tablist [ref=e245]:
+        - tab "¿Cuál es el objetivo?" [selected] [ref=e246] [cursor=pointer]
+        - tab "¿A quiénes está dirigido?" [ref=e248] [cursor=pointer]
+        - tab "Perfil del egresado" [ref=e250] [cursor=pointer]
+      - tabpanel "¿Cuál es el objetivo?" [ref=e253]:
+        - heading "Objetivo del diploma" [level=3] [ref=e257]
+        - generic [ref=e259]:
+          - paragraph [ref=e260]:
+            - text: Formar profesionales capaces de
+            - strong [ref=e261]: convertir información internacional en productos de inteligencia útiles para la acción diplomática, desde la formulación de requerimientos hasta el análisis de actores, escenarios y recomendaciones.
+          - paragraph [ref=e262]: Durante el diploma desarrollarás capacidades para evaluar fuentes, interpretar intereses y relaciones de poder, anticipar cambios y comunicar hallazgos con claridad, trazabilidad y criterio institucional.
+  - generic [ref=e264]:
+    - generic [ref=e265]:
+      - paragraph [ref=e268]: Metodología de aprendizaje
+      - heading [level=2] [ref=e271]:
+        - text: Aquí la información se convierte en
+        - generic [ref=e272]: decisión diplomática
+      - paragraph [ref=e275]: Trabajarás sobre un caso transversal de misión diplomática que evolucionará durante todo el programa. Cada módulo combinará herramientas, aplicación y retroalimentación hasta construir tu expediente final de inteligencia.
+    - generic [ref=e276]:
+      - generic [ref=e277]:
+        - paragraph [ref=e280]: Etapa 1
+        - heading "Investiga" [level=3] [ref=e283]
+        - paragraph [ref=e286]: Identifica necesidades de información y trabaja con fuentes relevantes y verificables.
+      - generic [ref=e287]:
+        - paragraph [ref=e290]: Etapa 2
+        - heading "Analiza" [level=3] [ref=e293]
+        - paragraph [ref=e296]: Interpreta actores, intereses, relaciones de poder y escenarios internacionales.
+      - generic [ref=e297]:
+        - paragraph [ref=e300]: Etapa 3
+        - heading "Anticipa" [level=3] [ref=e303]
+        - paragraph [ref=e306]: Construye escenarios, reconoce señales de cambio y establece alertas.
+      - generic [ref=e307]:
+        - paragraph [ref=e310]: Etapa 4
+        - heading "Recomienda" [level=3] [ref=e313]
+        - paragraph [ref=e316]: Convierte el análisis en productos claros para sustentar decisiones diplomáticas.
+  - generic [ref=e319]:
+    - generic [ref=e320]:
+      - paragraph [ref=e323]: Plan de estudios
+      - heading "Una formación para dirigir la seguridad de forma integral" [level=2] [ref=e326]
+      - generic [ref=e327]:
+        - generic [ref=e328]:
+          - paragraph [ref=e340]: "10"
+          - paragraph [ref=e343]: Módulos
+          - paragraph [ref=e346]: Especializados
+        - generic [ref=e347]:
+          - paragraph [ref=e361]: "120"
+          - paragraph [ref=e364]: Horas
+          - paragraph [ref=e367]: Académicas
+        - generic [ref=e368]:
+          - paragraph [ref=e382]: 100 %
+          - paragraph [ref=e385]: Metodología práctica
+          - paragraph [ref=e388]: Aprende haciendo
+      - link "Descargar brochure" [ref=e392] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e393]:
+          - generic [aria-hidden] [ref=e395]: 
+          - generic [ref=e396]: Descargar brochure
+    - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e400]:
+      - group [ref=e401]:
+        - generic "Módulo Inteligencia y poder en la acción diplomática Ocultar" [ref=e402] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e403]: Inteligencia y poder en la acción diplomática
+          - generic [ref=e405]: Ocultar 
+        - region [ref=e407]:
+          - paragraph [ref=e410]: Comprende cómo la inteligencia fortalece la representación, la negociación y la protección de intereses nacionales.
+          - region [ref=e411]:
+            - region "Módulo Inteligencia y poder en la acción diplomática Ocultar Comprende cómo la inteligencia fortalece la representación, la negociación y la protección de intereses nacionales. Aprenderás Interés nacional, política exterior, funciones diplomáticas y necesidades de conocimiento. Aplicarás Identificación de requerimientos de inteligencia para un caso diplomático." [ref=e412]:
+              - heading "Aprenderás" [level=4] [ref=e415]
+              - paragraph [ref=e418]: Interés nacional, política exterior, funciones diplomáticas y necesidades de conocimiento.
+            - region "Módulo Inteligencia y poder en la acción diplomática Ocultar Comprende cómo la inteligencia fortalece la representación, la negociación y la protección de intereses nacionales. Aprenderás Interés nacional, política exterior, funciones diplomáticas y necesidades de conocimiento. Aplicarás Identificación de requerimientos de inteligencia para un caso diplomático." [ref=e419]:
+              - heading "Aplicarás" [level=4] [ref=e422]
+              - paragraph [ref=e425]: Identificación de requerimientos de inteligencia para un caso diplomático.
+      - group [ref=e426]:
+        - generic "Módulo Planeamiento, obtención y validación de información diplomática Ver contenido" [ref=e427] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e428]: Planeamiento, obtención y validación de información diplomática
+          - generic [ref=e430]: Ver contenido 
+      - group [ref=e432]:
+        - generic "Módulo Análisis de actores, poder y redes de decisión Ver contenido" [ref=e433] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e434]: Análisis de actores, poder y redes de decisión
+          - generic [ref=e436]: Ver contenido 
+      - group [ref=e438]:
+        - generic "Módulo Análisis geopolítico y geoeconómico aplicado a la diplomacia Ver contenido" [ref=e439] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e440]: Análisis geopolítico y geoeconómico aplicado a la diplomacia
+          - generic [ref=e442]: Ver contenido 
+      - group [ref=e444]:
+        - generic "Módulo Inteligencia, narrativas y diplomacia pública Ver contenido" [ref=e445] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e446]: Inteligencia, narrativas y diplomacia pública
+          - generic [ref=e448]: Ver contenido 
+      - group [ref=e450]:
+        - generic "Módulo Prospectiva y alerta estratégica para la acción diplomática Ver contenido" [ref=e451] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e452]: Prospectiva y alerta estratégica para la acción diplomática
+          - generic [ref=e454]: Ver contenido 
+      - group [ref=e456]:
+        - generic "Módulo Inteligencia para la negociación y las coaliciones internacionales Ver contenido" [ref=e457] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e458]: Inteligencia para la negociación y las coaliciones internacionales
+          - generic [ref=e460]: Ver contenido 
+      - group [ref=e462]:
+        - generic "Módulo Informes diplomáticos y briefing de inteligencia Ver contenido" [ref=e463] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e464]: Informes diplomáticos y briefing de inteligencia
+          - generic [ref=e466]: Ver contenido 
+      - group [ref=e468]:
+        - generic "Módulo Seguridad de la información y contrainteligencia defensiva Ver contenido" [ref=e469] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e470]: Seguridad de la información y contrainteligencia defensiva
+          - generic [ref=e472]: Ver contenido 
+      - group [ref=e474]:
+        - 'generic "Módulo Sala de situación: inteligencia y gestión de crisis diplomáticas Ver contenido" [ref=e475] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=e476]: "Sala de situación: inteligencia y gestión de crisis diplomáticas"
+          - generic [ref=e478]: Ver contenido 
+  - generic [ref=e482]:
+    - heading "¿Quieres vivir esta experiencia en la próxima edición?" [level=2] [ref=e485]
+    - paragraph [ref=e488]: "Inicio: 17 de noviembre | Online en vivo | 10 Módulos"
+    - generic [ref=e489]:
+      - link "Reserva tu vacante" [ref=e493] [cursor=pointer]:
+        - /url: "#doble"
+        - generic [ref=e494]:
+          - generic [aria-hidden] [ref=e496]: 
+          - generic [ref=e497]: Reserva tu vacante
+      - link "Hablar con un asesor" [ref=e501] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+Internacional+de+Inteligencia+Aplicada+a+la+Carrera+Diplom%C3%A1tica
+        - generic [ref=e502]:
+          - generic [aria-hidden] [ref=e504]: 
+          - generic [ref=e505]: Hablar con un asesor
+  - generic [ref=e507]:
+    - heading "Aprende de especialistas en inteligencia, diplomacia y análisis internacional" [level=2] [ref=e510]
+    - generic [ref=e512]:
+      - region "Docentes" [ref=e513]:
+        - generic [ref=e514]:
+          - group [aria-hidden] [ref=e515]:
+            - generic [ref=e517]:
+              - paragraph [ref=e523]: España
+              - generic [ref=e524]:
+                - heading [level=3] [ref=e527]: Francisco López
+                - paragraph [ref=e530]: Especialista en dirección de seguridad, criminología y prevención del crimen
+                - link [ref=e534] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e535]:
+                    - generic [aria-hidden] [ref=e537]: 
+                    - generic [ref=e538]: Ver trayectoria
+          - group "2 / 5" [ref=e539]:
+            - generic [ref=e541]:
+              - paragraph [ref=e547]: Argentina
+              - generic [ref=e548]:
+                - heading "Gonzalo Catanzariti" [level=3] [ref=e551]
+                - paragraph [ref=e554]: Especialista en ciberinteligencia e investigación digital
+                - link "Ver trayectoria" [ref=e558] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e559]:
+                    - generic [aria-hidden] [ref=e561]: 
+                    - generic [ref=e562]: Ver trayectoria
+          - group "3 / 5" [ref=e563]:
+            - generic [ref=e565]:
+              - paragraph [ref=e571]: Colombia
+              - generic [ref=e572]:
+                - heading "Eduardo Velandia Becerra" [level=3] [ref=e575]
+                - paragraph [ref=e578]: Especialista en inteligencia, seguridad y conducción de equipos
+                - link "Ver trayectoria" [ref=e582] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e583]:
+                    - generic [aria-hidden] [ref=e585]: 
+                    - generic [ref=e586]: Ver trayectoria
+          - group "4 / 5" [ref=e587]:
+            - generic [ref=e589]:
+              - paragraph [ref=e595]: Colombia
+              - generic [ref=e596]:
+                - heading "Andrés Peñaranda" [level=3] [ref=e599]
+                - paragraph [ref=e602]: Especialista en operaciones de información y seguridad estratégica
+                - link "Ver trayectoria" [ref=e606] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e607]:
+                    - generic [aria-hidden] [ref=e609]: 
+                    - generic [ref=e610]: Ver trayectoria
+          - group [aria-hidden] [ref=e611]:
+            - generic [ref=e613]:
+              - paragraph [ref=e619]: Colombia
+              - generic [ref=e620]:
+                - heading [level=3] [ref=e623]: Mg. Eduardo de la Torre
+                - paragraph [ref=e626]: Especialista en ciberseguridad, ciberdefensa y análisis digital
+                - link [ref=e630] [cursor=pointer]:
+                  - /url: https://grupogoberna.com/eduardo-de-la-torre/
+                  - generic [ref=e631]:
+                    - generic [aria-hidden] [ref=e633]: 
+                    - generic [ref=e634]: Ver trayectoria
+      - button "Previous slide" [disabled] [ref=e635] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e636]: 
+      - button "Next slide" [ref=e637] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e638]: 
+      - generic [ref=e639]:
+        - button "Go to slide 1" [ref=e640] [cursor=pointer]
+        - button "Go to slide 2" [ref=e641] [cursor=pointer]
+  - generic [ref=e644]:
+    - paragraph [ref=e647]: Presencia internacional
+    - heading [level=2] [ref=e650]:
+      - text: Una red que habla el idioma
+      - generic [ref=e651]: político de Latinoamérica.
+    - paragraph [ref=e654]: Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+    - generic [ref=e659]:
+      - generic [ref=e660]:
+        - paragraph [ref=e663]: "+15"
+        - paragraph [ref=e666]: Países
+      - generic [ref=e667]:
+        - paragraph [ref=e670]: +10K
+        - paragraph [ref=e673]: Profesionales
+      - generic [ref=e674]:
+        - paragraph [ref=e677]: "+20"
+        - paragraph [ref=e680]: Docentes
+  - generic [ref=e687]:
+    - paragraph [ref=e690]: Certificación
+    - heading [level=2] [ref=e693]:
+      - text: Una certificación para quienes
+      - generic [ref=e694]: analizan y asesoran en el entorno internacional
+    - paragraph [ref=e697]: Al culminar satisfactoriamente el programa recibirás la certificación como Asesor Internacional en Asuntos Diplomáticos e Inteligencia. Una acreditación que reconoce tu formación en análisis internacional, inteligencia estratégica, prospectiva, negociación y apoyo a la decisión diplomática.
+    - generic [ref=e706]:
+      - heading "Certificación internacional" [level=3] [ref=e709]
+      - paragraph [ref=e712]: Diploma emitido por Grupo Goberna, que acredita la culminación satisfactoria del programa.
+    - generic [ref=e721]:
+      - heading "Verificación digital" [level=3] [ref=e724]
+      - paragraph [ref=e727]: Credencial digital verificable que facilita la validación de tu certificación y su presentación profesional.
+      - link "Hablar con un asesor" [ref=e731] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+Internacional+de+Inteligencia+Aplicada+a+la+Carrera+Diplom%C3%A1tica
+        - generic [ref=e732]:
+          - generic [aria-hidden] [ref=e734]: 
+          - generic [ref=e735]: Hablar con un asesor
+  - generic [ref=e737]:
+    - generic [ref=e738]:
+      - paragraph [ref=e741]: Inversión
+      - heading "PREPÁRATE PARA DECIDIR EN ESCENARIOS INTERNACIONALES" [level=2] [ref=e744]
+      - paragraph [ref=e747]:
+        - generic [ref=e748]: $
+        - text: "199"
+        - generic [ref=e749]: USD
+      - generic [ref=e754]:
+        - generic [ref=e755]:
+          - paragraph [ref=e758]: Inicio
+          - paragraph [ref=e761]: 17 de noviembre
+        - generic [ref=e762]:
+          - paragraph [ref=e765]: DURACIÓN
+          - paragraph [ref=e768]: 10 MÓDULOS
+      - link "Pagar ahora" [ref=e772] [cursor=pointer]:
+        - /url: "#"
+      - paragraph [ref=e777]: Vacantes limitadas para garantizar una formación especializada.
+    - generic [ref=e778]:
+      - paragraph [ref=e781]: Admisión
+      - heading "¿Listo para fortalecer tu perfil internacional?" [level=2] [ref=e784]
+      - paragraph [ref=e787]: Déjanos tus datos y te ayudaremos con tu inscripción.
+      - form "Director de Seguridad — Habla con un asesor" [ref=e790]:
+        - generic [ref=e791]:
+          - generic [ref=e792]:
+            - generic [ref=e793] [cursor=pointer]: Nombre completo
+            - textbox "Nombre completo" [ref=e794]:
+              - /placeholder: Ej. María Pérez
+          - generic [ref=e795]:
+            - generic [ref=e796] [cursor=pointer]: País
+            - generic [ref=e797]:
+              - generic:
+                - generic [aria-hidden]: 
+              - combobox "País" [ref=e798] [cursor=pointer]:
+                - option "Selecciona tu país" [selected]
+                - option "Argentina"
+                - option "Bolivia"
+                - option "Brasil"
+                - option "Chile"
+                - option "Colombia"
+                - option "Costa Rica"
+                - option "Cuba"
+                - option "Ecuador"
+                - option "El Salvador"
+                - option "España"
+                - option "Guatemala"
+                - option "Honduras"
+                - option "México"
+                - option "Nicaragua"
+                - option "Panamá"
+                - option "Paraguay"
+                - option "Perú"
+                - option "Puerto Rico"
+                - option "República Dominicana"
+                - option "Uruguay"
+                - option "Venezuela"
+                - option "Otro"
+          - generic [ref=e799]:
+            - generic [ref=e800] [cursor=pointer]: Teléfono
+            - textbox "Teléfono" [ref=e801]:
+              - /placeholder: Ej. +51 999 999 999
+          - generic [ref=e802]:
+            - generic [ref=e803] [cursor=pointer]: Cargo
+            - textbox "Cargo" [ref=e804]:
+              - /placeholder: Ej. Analista de política exterior
+          - generic [ref=e805]:
+            - generic [ref=e806] [cursor=pointer]: Correo electrónico
+            - textbox "Correo electrónico" [ref=e807]:
+              - /placeholder: nombre@correo.com
+          - button "Enviar" [ref=e809] [cursor=pointer]
+      - paragraph [ref=e814]: Tus datos se usan solo para contactarte sobre el diploma.
+  - generic [ref=e816]:
+    - generic [ref=e817]:
+      - paragraph [ref=e820]: Preguntas frecuentes
+      - heading [level=2] [ref=e823]:
+        - text: Resolvemos tus dudas
+        - generic [ref=e824]: antes de que decidas.
+      - paragraph [ref=e827]: Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+    - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e831]:
+      - group [ref=e832]:
+        - generic "¿Cómo se realizan las clases?" [ref=e833] [cursor=pointer]:
+          - generic [ref=e836]:
+            - generic [aria-hidden] [ref=e838]: 
+            - text: 
+        - region "¿Cómo se realizan las clases? Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando herramientas de análisis, ejercicios guiados, simulaciones por roles y trabajo aplicado sobre un caso de misión diplomática." [ref=e839]:
+          - paragraph [ref=e842]: Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando herramientas de análisis, ejercicios guiados, simulaciones por roles y trabajo aplicado sobre un caso de misión diplomática.
+      - group [ref=e843]:
+        - generic "¿Cuánto dura el programa?" [ref=e844] [cursor=pointer]:
+          - generic [ref=e847]:
+            - text: 
+            - generic [aria-hidden] [ref=e849]: 
+      - group [ref=e850]:
+        - generic "¿Qué incluye mi inscripción?" [ref=e851] [cursor=pointer]:
+          - generic [ref=e854]:
+            - text: 
+            - generic [aria-hidden] [ref=e856]: 
+      - group [ref=e857]:
+        - generic "¿Cuáles son los medios de pago disponibles?" [ref=e858] [cursor=pointer]:
+          - generic [ref=e861]:
+            - text: 
+            - generic [aria-hidden] [ref=e863]: 
+      - group [ref=e864]:
+        - generic "¿Cómo puedo inscribirme?" [ref=e865] [cursor=pointer]:
+          - generic [ref=e868]:
+            - text: 
+            - generic [aria-hidden] [ref=e870]: 
+  - text:       

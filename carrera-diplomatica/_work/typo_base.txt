@@ -1,0 +1,178 @@
+ak-hd    4aa3f0b1  butt Inter      w400  sz 17/11//12 lh 1em// ls 0// col #15262F | Inscríbete ahora
+ak-hero  17c98689  head Inter      w400  sz 16/16//14 lh 1.2em// ls // col #FFFFFF | Diploma de Élite Internacional Director 
+ak-hero  6b6388d   head Inter      w400  sz 20/14//11 lh 32/22/18 ls 2.6/1.8/0.9 col #FFFFFF | Prepárate para dirigir la seguridad con 
+ak-hero  4be49e01  butt Inter      w500  sz 15/10//10 lh 1em// ls 1.5/1/1.1 col #15262F | Reserva tu vacante
+ak-hero  9c2fe2d   butt Inter      w500  sz 15/10//10 lh 1em// ls 1.5/1/1.1 col #F3F5F7 | Hablar con un asesor
+ak-hero  263d369c  butt Open Sans  w400  sz 14/10//10 lh 1em// ls 1.1/1/1 col #B8C4DE | Descargar brochure del programa
+ak-bar   7094f679  head Inter      w400  sz 16/11//10 lh 1.2em// ls 2.4/1.7/1.2 col #808591 | Modalidad
+ak-bar   5d6fff46  head Inter      w400  sz 16/11//10 lh 1.35em// ls 2.4/1.7/1.2 col #15262F | Online
+ak-bar   38e6f601  head Inter      w400  sz 16/11//10 lh 1.2em// ls 2.4/1.7/1.2 col #808591 | Inicio
+ak-bar   6919d0e7  head Inter      w400  sz 16/11//10 lh 1.35em// ls 2.4/1.7/1.2 col #15262F | 30 de noviembre
+ak-bar   78e96140  head Inter      w400  sz 16/11//10 lh 1.2em// ls 2.4/1.7/1.2 col #808591 | Hora
+ak-bar   2fda4138  head Inter      w400  sz 16/11//10 lh 1.35em// ls 2.4/1.7/1.2 col #15262F | 19:00 hrs. GMT-5
+ak-bar   6f2e556d  head Inter      w400  sz 16/11//10 lh 1.2em// ls 2.4/1.7/1.2 col #808591 | Duración
+ak-bar   4209211c  head Inter      w400  sz 16/11//10 lh 1.35em// ls 2.4/1.7/1.2 col #15262F | 10 módulos
+ak-bar   12c0a15   head Inter      w400  sz 16/11//12 lh 1.2em// ls 2.4/1.7/1.2 col #15262F | Inversión
+ak-bar   4c8ed0ee  head Inter      w400  sz 25/18//19 lh 1.1em// ls 3.75/2.7/1.8 col #15262F | USD $199
+ak-met   77542da8  head Inter      w400  sz 20/16//10 lh 1.2em// ls 2//2 col #FFBB03 | Metodología
+ak-met   b86c8ae   head Montserrat w700  sz 50/35//28 lh 57/40/32 ls -1.5/-1/-0.5 col #15262F | De gestionar la seguridad a dirigirla es
+ak-met   390db8e4  text Inter      w400  sz 18/16//14 lh 1.78em// ls // col #15262F | Desarrolla una visión integral para prot
+ak-met   221112d1  head Montserrat w800  sz 31/26//19 lh 1em// ls // col #FFBB03 | + 10,000
+ak-met   6bed2539  text Inter      w400  sz 16/14//11 lh 1.35em// ls // col #15262F | Profesionales formados
+ak-met   37c52840  head Montserrat w800  sz 31/26//19 lh 1em// ls // col #FFBB03 | + 15
+ak-met   1b3f3500  text Inter      w400  sz 16/14//11 lh 1.35em// ls // col #15262F | Países en Latinoamérica
+ak-met   1c863a03  head Montserrat w800  sz 31/26//19 lh 1em// ls // col #FFBB03 | + 20
+ak-met   5ef48ac1  text Inter      w400  sz 16/14//11 lh 1.35em// ls // col #15262F | Docentes Internacionales en ejercicio
+ak-met   4510a4fd  text Inter      w400  sz 15/14//11 lh 1.6em// ls // col #15262F | Inteligencia • Ciberseguridad • Liderazg
+ak-prog  80fac6b   head Inter      w300  sz 20/16//12 lh 1.2em// ls 2//2 col #FFBB03 | El DIPLOMA
+ak-prog  37799678  head Montserrat w700  sz 40/32//23 lh 45/36/27 ls -1.28/-1/-0.6 col #F3F5F7 | Formar directores capaces de diseñar, co
+ak-prog  5a5d4853  head Inter      w400  sz 24/19//14 lh 1.4em// ls 2.4// col #FFBB03 | Objetivo del diploma
+ak-prog  1e2e258a  text Inter      w400  sz 18/15//13 lh 1.78em// ls // col #15262F | Formar directores capaces de diseñar, co
+ak-prog  3dff5c49  head Inter      w400  sz 24/19//14 lh 1.4em// ls 2.4// col #FFBB03 | ¿Para quién es este diploma?
+ak-prog  2d2f5c00  text Inter      w400  sz 18/15//13 lh 1.78em// ls // col #15262F | Dirigido a:Directores, gerentes, jefes, 
+ak-prog  36ba7119  head Inter      w400  sz 24/19//14 lh 1.4em// ls 2.4// col #FFBB03 | Qué lograrás
+ak-prog  73081eaa  text Inter      w400  sz 18/15//13 lh 1.78em// ls // col #15262F | Al finalizar el diploma estarás preparad
+ak-war   24484833  head Inter      w300  sz 20/14//12 lh 1.2em// ls 2/1.8/1.6 col #FFBB03 | Experiencia estratégica
+ak-war   a50a77b   head Montserrat w700  sz 54/38//28 lh 53/38/30 ls // col #EAEFF2 | Aquí no solo estudias seguridad. Aprende
+ak-war   3079ff74  text Inter      w400  sz 18/13//13 lh 1.6em// ls // col rgba(255,255,255,0.75) | La metodología está conectada con el eje
+ak-war   15766917  head Inter      w400  sz 16/11//11 lh 1.2em// ls 1.6/1.4/1.3 col #FFBB03 | Etapa 1
+ak-war   7a82957e  head Barlow     w700  sz 27/19//17 lh 1.3em// ls // col #EAEFF2 | Diagnostica
+ak-war   71560803  text Inter      w400  sz 18/13//13 lh 1.78em// ls // col rgba(255,255,255,0.75) | Identifica amenazas, vulnerabilidades y 
+ak-war   2f41c276  head Inter      w400  sz 16/11//11 lh 1.2em// ls 1.6/1.4/1.3 col #FFBB03 | Etapa 2
+ak-war   245ad6bc  head Barlow     w700  sz 27/19//17 lh 1.3em// ls // col #EAEFF2 | Prioriza
+ak-war   746d9382  text Inter      w400  sz 18/13//13 lh 1.78em// ls // col rgba(255,255,255,0.75) | Convierte el análisis en decisiones sobr
+ak-war   79cc909c  head Inter      w400  sz 16/11//11 lh 1.2em// ls 1.6/1.4/1.3 col #FFBB03 | Etapa 3
+ak-war   544064c5  head Barlow     w700  sz 27/19//17 lh 1.3em// ls // col #EAEFF2 | Dirige
+ak-war   6d95755b  text Inter      w400  sz 18/13//13 lh 1.78em// ls // col rgba(255,255,255,0.75) | Coordina personas, proveedores, tecnolog
+ak-war   6ac16e5a  head Inter      w400  sz 16/11//11 lh 1.2em// ls 1.6/1.4/1.3 col #FFBB03 | Etapa 4
+ak-war   1f78edf1  head Barlow     w700  sz 27/19//17 lh 1.3em// ls // col #EAEFF2 | Responde
+ak-war   5f510898  text Inter      w400  sz 18/13//13 lh 1.78em// ls // col rgba(255,255,255,0.75) | Enfrenta crisis y escenarios complejos p
+ak-plan  29a6849b  head Inter      w400  sz 20/16//12 lh 1.2em// ls 2/1.8/1.6 col #FFBB03 | Plan de estudios
+ak-plan  48da84d4  head Montserrat w700  sz 50/40//23 lh 0.98em// ls // col #15262F | Una formación para dirigir la seguridad 
+ak-plan  5d85f006  head Montserrat w700  sz 42/32//24 lh 1em// ls // col #15262F | 10
+ak-plan  6b4c14ba  head Montserrat w700  sz 12/12//9 lh 1.3em// ls // col #15262F | Módulos
+ak-plan  1f049f70  head Montserrat w400  sz 12/11//9 lh 1.3em// ls // col #15262F | Especializados
+ak-plan  1db9c1b2  head Montserrat w700  sz 42/32//24 lh 1em// ls // col #15262F | 200
+ak-plan  54ee35e9  head Montserrat w700  sz 12/12//9 lh 1.3em// ls // col #15262F | Horas
+ak-plan  50bb001c  head Montserrat w400  sz 12/11//9 lh 1.3em// ls // col #15262F | Académicas
+ak-plan  3121b088  head Montserrat w700  sz 42/32//24 lh 1em// ls // col #15262F | 100 %
+ak-plan  4475c46   head Montserrat w700  sz 12/12//9 lh 1.3em// ls // col #15262F | Metodología práctica
+ak-plan  31fa5315  head Montserrat w400  sz 12/11//9 lh 1.3em// ls // col #15262F | Aprende haciendo
+ak-plan  3954484a  butt Inter      w500  sz 16/14//11 lh 1em// ls 1// col #15262F | Descargar brochure
+ak-plan  5d74db4b  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Comprende cómo se organiza y dirige la f
+ak-plan  63e4e4c9  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  c1f5d31   text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Gobierno de seguridad, estructuras, atri
+ak-plan  56156ae1  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  6f879d74  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Definición de la estructura, responsabil
+ak-plan  49c546a1  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Identifica amenazas, vulnerabilidades y 
+ak-plan  3ee2f200  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  81cba67   text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | OSINT, verificación de información, indi
+ak-plan  176ffbfa  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  68009d75  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Construcción de escenarios de riesgo y p
+ak-plan  469cdd65  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Aprende a conducir equipos y administrar
+ak-plan  55421832  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  41d4be4   text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Liderazgo, organización operativa, presu
+ak-plan  56f51414  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  7978bd1e  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Diseño de responsabilidades, recursos, i
+ak-plan  7db09e77  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Diseña sistemas de protección capaces de
+ak-plan  4073ab5f  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  4a920535  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Defensa en profundidad, accesos, videovi
+ak-plan  5664f6ea  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  4ffc4f95  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Diseño de un esquema de protección físic
+ak-plan  699c575d  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Comprende los riesgos digitales que pued
+ak-plan  652cfdb9  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  17cb4758  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | ISO 27001, marco NIST, protección de dat
+ak-plan  7fe3fdb7  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  5e2bf5f6  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Articulación de controles físicos y digi
+ak-plan  223f8014  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Identifica riesgos de espionaje, obtenci
+ak-plan  46752146  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  6188c58   text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Contrainteligencia, espionaje, vulnerabi
+ak-plan  4e88b0cd  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  793b23f7  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Definición de medidas de protección y cr
+ak-plan  33223d82  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Aprende a abordar irregularidades intern
+ak-plan  1a41e127  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  380b0797  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Fraude, corrupción, hipótesis investigat
+ak-plan  7df672e4  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  70c06fcf  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Estructuración de una investigación y ev
+ak-plan  13441162  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Gestiona los riesgos que pueden afectar 
+ak-plan  5ca9aba7  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  20691ff8  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Protección ejecutiva, viajes, antecedent
+ak-plan  5ada9e0d  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  4a526006  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Evaluación de riesgos y coordinación de 
+ak-plan  62ebcc5b  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Prepárate para conducir la respuesta cua
+ak-plan  4b6cfde9  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  8573c6f   text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Comités de crisis, activación, contingen
+ak-plan  3fba8ec   head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  6cb5a4d7  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Diseño de prioridades de respuesta, cont
+ak-plan  1bb8a42e  text Inter      w400  sz 20/16//14 lh 1.6em// ls // col #15262F | Integra todas las capacidades del progra
+ak-plan  449be0a6  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aprenderás
+ak-plan  4adc1393  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Integración estratégica, definición de p
+ak-plan  69948aa3  head Montserrat w600  sz 20/17//14 lh 1.3em// ls // col #15262F | Aplicarás
+ak-plan  265ddc79  text Inter      w400  sz 16/14//12 lh 1.5em// ls // col #15262F | Construcción y sustentación de un Plan D
+ak-cta   3dbab7b0  head Montserrat w700  sz 44/36//23 lh 1.05em//1.05em ls // col #FFFFFF | ¿Quieres vivir esta experiencia en la pr
+ak-cta   1251cd12  text Inter      w400  sz 24/20//13 lh 1.4em//1.5em ls // col #FFBB03 | Inicio: 30 de noviembre | Online en vivo
+ak-cta   5a7371c6  butt Inter      w400  sz 16/14//10 lh 1em// ls 1.44//0.9 col #15262F | Reserva tu vacante
+ak-cta   16c985f5  butt Inter      w400  sz 16/14//10 lh 1em// ls 1.44//0.9 col #F3F5F7 | Hablar con un asesor
+ak-doc   53717cd   head Montserrat w700  sz 48/36//23 lh 1.17em// ls // col #F3F5F7 | Aprende de especialistas en seguridad, i
+ak-doc   58cade9f  head Barlow     w400  sz 14///12 lh 14// ls 0.13// col #F1F7F7 | España
+ak-doc   6680ceb3  head Barlow     w700  sz 21///16 lh 22// ls 0.17// col #F1F7F7 | Francisco López
+ak-doc   79769873  head Barlow     w200  sz 15///14 lh 16// ls // col #FFFFFF9E | Especialista en dirección de seguridad, 
+ak-doc   75a74c29  butt Inder      w400  sz 13///12 lh 13// ls 1.3// col #FFFFFF | Ver trayectoria
+ak-doc   1b384167  head Barlow     w400  sz 14///12 lh 14// ls 0.13// col #F1F7F7 | Argentina
+ak-doc   128f09a4  head Barlow     w700  sz 21///16 lh 22// ls 0.17// col #F1F7F7 | Gonzalo Catanzariti
+ak-doc   57b5f444  head Barlow     w200  sz 15///14 lh 16// ls // col #FFFFFF9E | Especialista en ciberinteligencia e inve
+ak-doc   53554299  butt Inder      w400  sz 13///12 lh 13// ls 1.3// col #FFFFFF | Ver trayectoria
+ak-doc   66c8b733  head Barlow     w400  sz 14///12 lh 14// ls 0.13// col #F1F7F7 | Colombia
+ak-doc   322fbe2f  head Barlow     w700  sz 21///16 lh 22// ls 0.17// col #F1F7F7 | Eduardo Velandia Becerra
+ak-doc   1f57d183  head Barlow     w200  sz 15///14 lh 16// ls // col #FFFFFF9E | Especialista en inteligencia, seguridad 
+ak-doc   5b0fe0df  butt Inder      w400  sz 13///12 lh 13// ls 1.3// col #FFFFFF | Ver trayectoria
+ak-doc   2a7b35b3  head Barlow     w400  sz 14///12 lh 14// ls 0.13// col #F1F7F7 | Colombia
+ak-doc   4d05e8e4  head Barlow     w700  sz 21///16 lh 22// ls 0.17// col #F1F7F7 | Andrés Peñaranda
+ak-doc   74b539d4  head Barlow     w200  sz 15///14 lh 16// ls // col #FFFFFF9E | Especialista en operaciones de informaci
+ak-doc   2ea3bff   butt Inder      w400  sz 13///12 lh 13// ls 1.3// col #FFFFFF | Ver trayectoria
+ak-doc   2177322f  head Barlow     w400  sz 14///12 lh 14// ls 0.13// col #F1F7F7 | Colombia
+ak-doc   77221cd   head Barlow     w700  sz 21///16 lh 22// ls 0.17// col #F1F7F7 | Mg. Eduardo de la Torre
+ak-doc   763d9ecb  head Barlow     w200  sz 15///14 lh 16// ls // col #FFFFFF9E | Especialista en ciberseguridad, ciberdef
+ak-doc   2589e64c  butt Inder      w400  sz 13///12 lh 13// ls 1.3// col #FFFFFF | Ver trayectoria
+ak-doc   cb1efed   head Barlow     w400  sz 14///12 lh 14// ls 0.13// col #F1F7F7 | Argentina
+ak-doc   18be2462  head Barlow     w700  sz 21///16 lh 22// ls 0.17// col #F1F7F7 | Daniela Galván
+ak-doc   ab4fe3f   head Barlow     w200  sz 15///14 lh 16// ls // col #FFFFFF9E | Especialista en investigación criminal e
+ak-doc   2d6c4dbc  butt Inder      w400  sz 13///12 lh 13// ls 1.3// col #FFFFFF | Ver trayectoria
+ak-pres  75122411  head Inter      w400  sz 22/17//12 lh 1.2em// ls // col #FFBB03 | Presencia internacional
+ak-pres  23841199  head Montserrat w700  sz 56/44//23 lh 1.21em// ls // col #F3F5F7 | Una red que habla el idioma político de 
+ak-pres  389c79fe  text Inter      w400  sz 20/17//14 lh 1.6em// ls // col #F4F5F7 | Egresados en 18 países que hoy dirigen c
+ak-pres  151ee21e  head Montserrat w800  sz 54/44//32 lh 1em// ls -1.73// col #FFBB03 | +15
+ak-pres  17fe3c03  head Inter      w400  sz 22/16//10 lh 1.2em// ls 2.42//1.6 col #F4F5F7 | Países
+ak-pres  61338992  head Montserrat w800  sz 54/44//32 lh 1em// ls -1.73// col #FFBB03 | +10K
+ak-pres  1bdbba21  head Inter      w400  sz 22/16//10 lh 1.2em// ls 2.42//1.6 col #F4F5F7 | Egresados
+ak-pres  1d0e6775  head Montserrat w800  sz 54/44//32 lh 1em// ls -1.73// col #FFBB03 | +300
+ak-pres  73c91642  head Inter      w400  sz 22/16//10 lh 1.2em// ls 2.42//1.6 col #F4F5F7 | Campañas
+ak-cert  1b9af742  head Inter      w400  sz 20/16//12 lh 1.2em// ls 2/1.8/1.6 col #FFBB03 | Certificación
+ak-cert  2c9c857c  head Montserrat w700  sz 50/42//23 lh 1.14em// ls // col #15262F | Una certificación para quienes dirigen l
+ak-cert  3f88c4d3  text Inter      w400  sz 20/17//14 lh 1.6em// ls // col #15262F | Al culminar satisfactoriamente el progra
+ak-cert  1b6533dd  head Montserrat w600  sz 20/17//13 lh 1.3em// ls // col #15262F | Certificación internacional
+ak-cert  334be732  text Inter      w400  sz 20/17//13 lh 1.35em// ls // col #15262F | Diploma emitido por Grupo Goberna, que a
+ak-cert  4351992b  head Montserrat w600  sz 20/17//13 lh 1.3em// ls // col #15262F | Verificación digital
+ak-cert  3f0fb31c  text Inter      w400  sz 20/17//13 lh 1.35em// ls // col #15262F | Credencial digital verificable que facil
+ak-cert  2b7efae9  butt Inter      w600  sz 16/14//11 lh 1em// ls 1.44// col #FFBB03 | Hablar con un asesor
+ak-inv   125455a4  head Inter      w400  sz 22/18//12 lh 1.2em// ls 0.4/0.4/0.3 col #FFBB03 | Inversión
+ak-inv   2d4237ac  head Montserrat w700  sz 48/36//23 lh 54/41/26 ls // col #F3F5F7 | Lidera la seguridad con visión estratégi
+ak-inv   60f25b0f  head Montserrat w700  sz 120/96//84 lh 1em// ls // col #F3F5F7 | $199USD
+ak-inv   6ff88f9a  head Inter      w400  sz 16/14//10 lh 1.2em// ls 2.2/2/1.7 col #888D98 | Inicio
+ak-inv   9030ca2   head Inter      w500  sz 20/17//12 lh 1.2em// ls 2/1.7/1.4 col #F3F5F7 | 30 de noviembre
+ak-inv   609843a9  head Inter      w400  sz 16/14//10 lh 1.2em// ls 2.2/2/1.7 col #888D98 | DURACIÓN
+ak-inv   73517676  head Inter      w500  sz 20/17//12 lh 1.2em// ls 2/1.7/1.4 col #F3F5F7 | 10 MÓDULOS
+ak-inv   79c591de  butt Inter      w500  sz 15/14//12 lh 1em// ls 1.5/1.4/1.4 col #15262F | Pagar ahora
+ak-inv   12c8534c  text Inter      w400  sz 14/12//10 lh 1.4em// ls 0.7/0.6/0.5 col #FFBB03 | Vacantes limitadas para garantizar una f
+ak-inv   5c314a2a  head Inter      w400  sz 22/18//12 lh 1.2em// ls 0.4/0.4/0.3 col #FFBB03 | Admisión
+ak-inv   dc295fa   head Montserrat w700  sz 41/32//23 lh 40/32/26 ls -2.05/-1.5/-0.8 col #EAEFF2 | ¿Listo para liderar la seguridad de una 
+ak-inv   2a8cefb0  head Inter      w400  sz 15/13//10 lh 1.4em// ls 0.5/0.5/0.4 col #F3F5F7 | Déjanos tus datos y te ayudaremos con tu
+ak-inv   3e72a9d   text Inter      w400  sz 14/12//10 lh 1.4em// ls 0.7/0.6/0.5 col #FFBB03 | Tus datos se usan solo para contactarte 
+ak-faq   2e54988f  head Inter      w400  sz 16/14//13 lh 1.2em// ls 1.44//1.4 col #FFBB03 | Preguntas frecuentes
+ak-faq   36d376ec  head Montserrat w700  sz 56/44//24 lh 1.09em// ls // col #15262F | Resolvemos tus dudas antes de que decida
+ak-faq   4fe96a54  text Inter      w400  sz 22/18//15 lh 1.5em// ls // col #0A0F15 | Aquí encontrarás respuestas claras sobre
+ak-faq   ea24eba   text Inter      w400  sz 17/15//14 lh 1.65em// ls // col #656A81 | Las sesiones se desarrollan 100% online 
+ak-faq   77b34c1f  text Inter      w400  sz 17/15//14 lh 1.65em// ls // col #656A81 | El diploma contempla 200 horas académica
+ak-faq   3a6adec1  text Inter      w400  sz 17/15//14 lh 1.65em// ls // col #656A81 | Tu inscripción incluye acceso al program
+ak-faq   584613f6  text Inter      w400  sz 17/15//14 lh 1.65em// ls // col #656A81 | GOBERNA cuenta con diferentes alternativ
+ak-faq   38271e76  text Inter      w400  sz 17/15//14 lh 1.65em// ls // col #656A81 | Completa tus datos en el formulario y un

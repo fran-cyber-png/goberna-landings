@@ -1,0 +1,30 @@
+- generic [ref=e5]:
+  - generic [ref=e6] [cursor=pointer]
+  - generic [ref=e8] [cursor=pointer]:
+    - img "Logo" [ref=e10]
+    - generic [ref=e11]: GOBERNA
+    - generic [ref=e12]: ESCUELA
+  - generic [ref=e13]:
+    - generic:
+      - generic [ref=e14] [cursor=pointer]: "10"
+      - generic [ref=e18] [cursor=pointer]: "10"
+    - generic [ref=e22]:
+      - slider "Barra de progreso del video" [ref=e23] [cursor=pointer]
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - button "Reproducir" [ref=e27] [cursor=pointer]
+          - button "Retroceder 10 segundos" [ref=e30] [cursor=pointer]:
+            - generic [ref=e33]: "10"
+          - button "Adelantar 10 segundos" [ref=e34] [cursor=pointer]:
+            - generic [ref=e37]: "10"
+          - generic [ref=e38]:
+            - button "Activar sonido" [ref=e39] [cursor=pointer]
+            - generic [ref=e42] [cursor=pointer]
+          - generic [ref=e43]:
+            - text: 0:00
+            - generic [ref=e44]: / 0:00
+        - generic [ref=e45]:
+          - 'button "Velocidad de reproducción: 1x" [ref=e47] [cursor=pointer]':
+            - generic [ref=e48]: 1x
+          - button "Ver en ventana flotante (Picture-in-Picture)" [ref=e49] [cursor=pointer]
+          - button "Pantalla completa" [ref=e52] [cursor=pointer]

@@ -1,0 +1,2 @@
+[     369ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://127.0.0.1:8766/landing.html:3175
+[    1794ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cms.goberna.club/public-hls/spot_inteligencia_aplicada_a_la_carrera_diplomatica_final.mp4/master.m3u8:0
