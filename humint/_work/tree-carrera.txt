@@ -1,0 +1,334 @@
+13bd66b9 C ak-hd | 
+  6f15f2f9 image ak-hd-logo | [Logo-Goberna-2.png]
+  2093b739 nav-menu ak-hd-nav | 
+  4aa3f0b1 button ak-hd-cta | Inscríbete ahora
+2742d6b5 C ak-hero | [hero-fondo-carrera-diplomatica.webp]
+  17c98689 heading ak-sr | Diploma Internacional de Inteligencia Aplicada a la Carrera Diplomática
+  1916fb3 image  | [titulo-carrera-diplomatica.webp]
+  571a5de0 C  | 
+    4be49e01 button ak-hero-btn | Reserva tu vacante
+    9c2fe2d button ak-hero-btn | Hablar con un asesor
+  263d369c button ak-hero-dl | Descargar brochure del programa
+58716df6 C ak-bar | 
+  3cf4c36f C  | 
+    4e571a4a C ak-bar-item | 
+      3e247b14 icon  | [barra-modalidad-1-carrera-diplomatica.svg]
+      7094f679 heading  | Modalidad
+      5d6fff46 heading  | Online
+    1e9c4dab C ak-bar-item | 
+      1466ad22 icon  | [barra-inicio-1-carrera-diplomatica.svg]
+      38e6f601 heading  | Inicio
+      6919d0e7 heading  | 17 de noviembre
+    21c26060 C ak-bar-item | 
+      54ba9d28 icon  | [barra-horario-1-carrera-diplomatica.svg]
+      78e96140 heading  | Hora
+      2fda4138 heading  | 19:00 hrs. GMT-5
+    452ae72f C ak-bar-item | 
+      37b97c47 icon  | [barra-duracion-1-carrera-diplomatica.svg]
+      6f2e556d heading  | Duración
+      4209211c heading  | 10 módulos
+    7ba04a7 C  | 
+      12c0a15 heading  | Inversión
+      4c8ed0ee heading  | USD $199
+3f83c2c C ak-met | [capitolio-10-1-1.webp]
+  161b8b64 C ak-met-left | 
+    77542da8 heading ak-oro-text | Metodología
+    b86c8ae heading ak-met-title | De la información a la decisión diplomática
+    390db8e4 text-editor  | Aprende a analizar escenarios internacionales y convertir evidencia en inteligen
+    4728f10c C ak-met-bar | 
+      235dd9ee C ak-met-row | 
+        221112d1 heading ak-met-num ak-oro-text | + 10,000
+        6bed2539 text-editor  | Profesionales formados
+      f592749 C ak-met-row | 
+        37c52840 heading ak-met-num ak-oro-text | + 15
+        1b3f3500 text-editor  | Países en Latinoamérica
+      4b3e2e16 C ak-met-row | 
+        1c863a03 heading ak-met-num ak-oro-text | + 20
+        5ef48ac1 text-editor  | Docentes Internacionales en ejercicio
+  74f3d431 C ak-met-right | 
+    40d9161c html ak-met-img |  .video-goberna { position: relative; width: 100%; margin: 0 auto; aspect-ratio:
+    4510a4fd text-editor ak-tags | Inteligencia • Estrategia • Liderazgo • Crisis • Tecnología
+56bf8b99 C ak-prog | 
+  37b76e9a C ak-dip-intro | 
+    80fac6b heading  | El programa
+    37799678 heading ak-gold-span | Desarrolla inteligencia estratégica para analizar actores, anticipar escenarios 
+  4e1aa122 nested-tabs ak-dip-tabs | 
+    25702389 C  | 
+      1c48576d C ak-dip-ic ak-dip-ic-1 | 
+      5a5d4853 heading ak-oro-text | Objetivo del diploma
+      1e2e258a text-editor ak-dip-dots | Formar profesionales capaces de convertir información internacional en productos
+    7d37a03e C  | 
+      1308b181 C ak-dip-ic ak-dip-ic-2 | 
+      3dff5c49 heading ak-oro-text | ¿Para quién es este diploma?
+      2d2f5c00 text-editor ak-dip-list | Dirigido a:Diplomáticos y funcionarios de cancillerías, embajadas y consulados.P
+    30a07d6d C  | 
+      683c8176 C ak-dip-ic ak-dip-ic-3 | 
+      36ba7119 heading ak-oro-text | Qué lograrás
+      73081eaa text-editor  | Al finalizar el diploma estarás preparado para analizar problemas de decisión di
+3028d48c C ak-war | [war-room-fondo-carrera-diplomatica.webp]
+  5b22c8d6 C  | 
+    24484833 heading  | Metodología de aprendizaje
+    a50a77b heading ak-war-title | Aquí la información se convierte en decisión diplomática
+    3079ff74 text-editor  | Trabajarás sobre un caso transversal de misión diplomática que evolucionará dura
+  6bb85ab9 C ak-war-steps | 
+    187af424 C ak-war-step | 
+      15766917 heading  | Etapa 1
+      7a82957e heading  | Investiga
+      71560803 text-editor  | Identifica necesidades de información y trabaja con fuentes relevantes y verific
+    1fe5f3ba C ak-war-step | 
+      2f41c276 heading  | Etapa 2
+      245ad6bc heading  | Analiza
+      746d9382 text-editor  | Interpreta actores, intereses, relaciones de poder y escenarios internacionales.
+    421e5c33 C ak-war-step | 
+      79cc909c heading  | Etapa 3
+      544064c5 heading  | Anticipa
+      6d95755b text-editor  | Construye escenarios, reconoce señales de cambio y establece alertas.
+    76ebc950 C ak-war-step | 
+      6ac16e5a heading  | Etapa 4
+      1f78edf1 heading  | Recomienda
+      5f510898 text-editor  | Convierte el análisis en productos claros para sustentar decisiones diplomáticas
+5c4b1d1 C ak-plan-pin | 
+  7c39e8aa C ak-plan | 
+    6517c0d8 C ak-plan-left | 
+      29a6849b heading ak-oro-text | Plan de estudios
+      48da84d4 heading  | Una formación para dirigir la seguridad de forma integral
+      e42cc9c C ak-stats-row | 
+        32acee9f C ak-stat | 
+          38e590e4 icon ak-oro-box | [plan-modulos-caja-4-1-carrera-diplomatica.svg]
+          5d85f006 heading  | 10
+          6b4c14ba heading ak-nowrap | Módulos
+          1f049f70 heading  | Especializados
+        643a8d43 C ak-stat | 
+          9081977 icon ak-oro-box | [plan-horas-caja-4-1-carrera-diplomatica.svg]
+          1db9c1b2 heading  | 120
+          54ee35e9 heading ak-nowrap | Horas
+          50bb001c heading  | Académicas
+        62f44617 C ak-stat | 
+          2d10cc66 icon ak-oro-box | [plan-metodologia-caja-4-1-carrera-diplomatica.svg]
+          3121b088 heading  | 100 %
+          4475c46 heading ak-nowrap | Metodología práctica
+          31fa5315 heading  | Aprende haciendo
+      3954484a button ak-plan-dl | Descargar brochure
+    16e0013c C ak-plan-right | 
+      5b410621 nested-accordion ak-plan-acc | 
+        3b47e2e5 C ak-mod-body | 
+          5d74db4b text-editor  | Comprende cómo la inteligencia fortalece la representación, la negociación y la 
+          67f4e3ee C  | 
+            1b4bdcc6 C  | 
+              63e4e4c9 heading  | Aprenderás
+              c1f5d31 text-editor  | Interés nacional, política exterior, funciones diplomáticas y necesidades de con
+            10f50b90 C  | 
+              56156ae1 heading  | Aplicarás
+              6f879d74 text-editor  | Identificación de requerimientos de inteligencia para un caso diplomático.
+        63bf7155 C ak-mod-body | 
+          49c546a1 text-editor  | Aprende a convertir una necesidad de decisión en un proceso ordenado de búsqueda
+          6cfc340b C  | 
+            31171fbc C  | 
+              3ee2f200 heading  | Aprenderás
+              81cba67 text-editor  | Fuentes abiertas, trazabilidad, confiabilidad, contraste, sesgos, desinformación
+            3fe9a21f C  | 
+              176ffbfa heading  | Aplicarás
+              68009d75 text-editor  | Diseño de un plan de obtención y validación de información diplomática.
+        73b33023 C ak-mod-body | 
+          469cdd65 text-editor  | Identifica quién influye, quién decide y cómo se relacionan los principales acto
+          354ecd36 C  | 
+            5efc6106 C  | 
+              55421832 heading  | Aprenderás
+              41d4be4 text-editor  | Mapeo de poder, intereses, capacidades, alianzas, rivalidades y análisis de rede
+            404b1815 C  | 
+              56f51414 heading  | Aplicarás
+              7978bd1e text-editor  | Construcción de una matriz de actores y centros de decisión relevantes.
+        786597d6 C ak-mod-body | 
+          7db09e77 text-editor  | Comprende cómo recursos, comercio, tecnología y rivalidades internacionales cond
+          60230c1d C  | 
+            5dd732f2 C  | 
+              4073ab5f heading  | Aprenderás
+              4a920535 text-editor  | Dependencias estratégicas, vulnerabilidades, rutas, capacidades de presión y fac
+            64670950 C  | 
+              5664f6ea heading  | Aplicarás
+              4ffc4f95 text-editor  | Evaluación geopolítica y geoeconómica de riesgos y oportunidades para la negocia
+        17c9860e C ak-mod-body | 
+          699c575d text-editor  | Analiza cómo Estados y actores internacionales construyen influencia y disputan 
+          4f16ef4b C  | 
+            37b75b25 C  | 
+              652cfdb9 heading  | Aprenderás
+              17cb4758 text-editor  | Diplomacia pública, medios, plataformas digitales, narrativas, audiencias y desi
+            4cd77261 C  | 
+              7fe3fdb7 heading  | Aplicarás
+              5e2bf5f6 text-editor  | Análisis de narrativas y posibles impactos sobre la reputación y los intereses d
+        44d393af C ak-mod-body | 
+          223f8014 text-editor  | Anticipa escenarios y reconoce señales que pueden modificar los intereses o prio
+          f76c039 C  | 
+            2d853cd7 C  | 
+              46752146 heading  | Aprenderás
+              6188c58 text-editor  | Prospectiva, escenarios, incertidumbre, indicadores y niveles de alerta.
+            124a1c75 C  | 
+              4e88b0cd heading  | Aplicarás
+              793b23f7 text-editor  | Construcción de escenarios e indicadores para apoyar decisiones diplomáticas.
+        8eef1fb C ak-mod-body | 
+          33223d82 text-editor  | Utiliza análisis de inteligencia para comprender posiciones, restricciones e int
+          78c32649 C  | 
+            e1450c1 C  | 
+              1a41e127 heading  | Aprenderás
+              380b0797 text-editor  | Negociación bilateral y multilateral, incentivos, alternativas, aliados e intere
+            2d1a22df C  | 
+              7df672e4 heading  | Aplicarás
+              70c06fcf text-editor  | Mapeo de posiciones y oportunidades para construir acuerdos o coaliciones.
+        34ab71a C ak-mod-body | 
+          13441162 text-editor  | Transforma análisis complejos en productos claros, ejecutivos y útiles para quie
+          3eceb8ed C  | 
+            28ff18d0 C  | 
+              5ca9aba7 heading  | Aprenderás
+              20691ff8 text-editor  | Síntesis, evidencia, niveles de confianza, cursos de acción y comunicación ejecu
+            775368de C  | 
+              5ada9e0d heading  | Aplicarás
+              4a526006 text-editor  | Elaboración y sustentación de un briefing de inteligencia diplomática.
+        6fc26204 C ak-mod-body | 
+          62ebcc5b text-editor  | Reconoce riesgos que pueden comprometer información, comunicaciones y relaciones
+          4913d4c1 C  | 
+            37e481d3 C  | 
+              4b6cfde9 heading  | Aprenderás
+              8573c6f text-editor  | Espionaje, ingeniería social, filtraciones, seguridad digital y confidencialidad
+            4ea2369f C  | 
+              3fba8ec heading  | Aplicarás
+              6cb5a4d7 text-editor  | Definición de medidas preventivas para proteger información y comunicaciones ins
+        735e54f1 C ak-mod-body | 
+          1bb8a42e text-editor  | Integra todo el ciclo de inteligencia en un escenario de crisis donde nueva info
+          5eea5e08 C  | 
+            38a94422 C  | 
+              449be0a6 heading  | Aprenderás
+              4adc1393 text-editor  | Actualización de escenarios, coordinación institucional, priorización de respues
+            65bab7fd C  | 
+              69948aa3 heading  | Aplicarás
+              265ddc79 text-editor  | Sustentación de un expediente de inteligencia y defensa de recomendaciones frent
+  f584a7b html ak-plan-pin-js |  (function () { 'use strict'; var SHOW_PROGRESS = false; // true = barra roja de
+66c6bdeb C ak-cta | 
+  4d64e131 C ak-cta-card | [banner-proxima-edicion-carrera-diplomatica.webp]
+    3dbab7b0 heading ak-title | ¿Quieres vivir esta experiencia en la próxima edición?
+    1251cd12 text-editor ak-meta | Inicio: 17 de noviembre | Online en vivo | 10 Módulos
+    5c1d16fb C ak-btn-row | 
+      5a7371c6 button ak-btn ak-oro | Reserva tu vacante
+      16c985f5 button ak-btn | Hablar con un asesor
+613c44c5 C ak-doc | [fondo-docentes-director-1-1.webp]
+  53717cd heading ak-doc-title | Aprende de especialistas en inteligencia, diplomacia y análisis internacional
+  79feacd4 nested-carousel ak-doc-carousel | 
+    195a4326 C  | 
+      dba40cc C ak-doc-card | [francisco-lopez.webp]
+        1e281f1a C  | 
+          5db27ba1 image ak-doc-flag | [bandera-espana-1-1-1-1.png]
+          58cade9f heading  | España
+        3b0c5273 C ak-doc-body | 
+          6680ceb3 heading  | Francisco López
+          79769873 heading ak-doc-es | Especialista en dirección de seguridad, criminología y prevención del crimen
+          75a74c29 button ak-doc-link | Ver trayectoria
+    4bd7554a C  | 
+      18cff345 C ak-doc-card | [gonzalo-catanzariti-1.webp]
+        53bfaa77 C  | 
+          116184f6 image ak-doc-flag | [bandera-argentina-1-1-1.png]
+          1b384167 heading  | Argentina
+        167969a7 C ak-doc-body | 
+          128f09a4 heading  | Gonzalo Catanzariti
+          57b5f444 heading ak-doc-es | Especialista en ciberinteligencia e investigación digital
+          53554299 button ak-doc-link | Ver trayectoria
+    250d1da1 C  | 
+      29864fdc C ak-doc-card | [Frame-193.webp]
+        78656ec1 C  | 
+          4294c9f image ak-doc-flag | [bandera-colombia-1-1-1-1.png]
+          66c8b733 heading  | Colombia
+        7137d8e9 C ak-doc-body | 
+          322fbe2f heading  | Eduardo Velandia Becerra
+          1f57d183 heading ak-doc-es | Especialista en inteligencia, seguridad y conducción de equipos
+          5b0fe0df button ak-doc-link | Ver trayectoria
+    183f21cd C  | 
+      25393af0 C ak-doc-card | [card-andres-penaranda-1-1-1-1.webp]
+        248542ea C  | 
+          2e2bb6e9 image ak-doc-flag | [bandera-colombia-1-1-1-1.png]
+          2a7b35b3 heading  | Colombia
+        5f045aa6 C ak-doc-body | 
+          4d05e8e4 heading  | Andrés Peñaranda
+          74b539d4 heading ak-doc-es | Especialista en operaciones de información y seguridad estratégica
+          2ea3bff button ak-doc-link | Ver trayectoria
+    336d9ea6 C  | 
+      4258bba5 C ak-doc-card | [card-eduardo-de-la-torre-1-1-1-1.webp]
+        2046de30 C  | 
+          6f906d2b image ak-doc-flag | [bandera-colombia-1-1-1-1.png]
+          2177322f heading  | Colombia
+        32dce22 C ak-doc-body | 
+          77221cd heading  | Mg. Eduardo de la Torre
+          763d9ecb heading ak-doc-es | Especialista en ciberseguridad, ciberdefensa y análisis digital
+          2589e64c button ak-doc-link | Ver trayectoria
+63b5ee4a C ak-pres | [fondo-presencia-carrera-diplomatica.webp]
+  6d3759be C ak-pres-left | 
+    75122411 heading  | Presencia internacional
+    23841199 heading ak-pres-title | Una red que habla el idioma político de Latinoamérica.
+    389c79fe text-editor  | Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran eq
+    78c22442 divider  | Separador
+    1d2b7c01 C ak-pstat-row | 
+      67a7a2fb C ak-pstat | 
+        151ee21e heading ak-oro-text | +15
+        17fe3c03 heading  | Países
+      3b0cc897 C ak-pstat | 
+        61338992 heading ak-oro-text | +10K
+        1bdbba21 heading  | Profesionales
+      5255b723 C ak-pstat | 
+        1d0e6775 heading ak-oro-text | +20
+        73c91642 heading  | Docentes
+  6165612 C ak-pres-right | 
+    bd987de image ak-pres-map | [mapa-asesor-base.webp]
+    c43e5a5 image ak-pres-map ak-pres-anim | [mapa-asesor-animado-nombres.svg]
+54c4c5af C ak-cert | 
+  28c43ad5 C ak-cert-img | 
+  2cd97d01 C ak-cert-txt | 
+    2f408f57 C ak-cert-in | 
+      1b9af742 heading ak-oro-text | Certificación
+      2c9c857c heading ak-cert-title | Una certificación para quienes analizan y asesoran en el entorno internacional
+      3f88c4d3 text-editor ak-cert-p | Al culminar satisfactoriamente el programa recibirás la certificación como Aseso
+      7f54383e C ak-card | 
+        940608c icon  | [certificacion-medalla-1-carrera-diplomatica.svg]
+        2575bf0a C ak-card-body | 
+          1b6533dd heading  | Certificación internacional
+          334be732 text-editor  | Diploma emitido por Grupo Goberna, que acredita la culminación satisfactoria del
+      4194afb C ak-card | 
+        1adb523 icon  | [certificacion-medalla-1-carrera-diplomatica.svg]
+        5a80e479 C ak-card-body | 
+          4351992b heading  | Verificación digital
+          3f0fb31c text-editor  | Credencial digital verificable que facilita la validación de tu certificación y 
+          2b7efae9 button ak-cert-btn | Hablar con un asesor
+7a49a06a C ak-inv | 
+  298fa0cb C ak-inv-left | 
+    125455a4 heading ak-oro-text | Inversión
+    2d4237ac heading  | PREPÁRATE PARA DECIDIR EN ESCENARIOS INTERNACIONALES
+    60f25b0f heading ak-inv-price | $199USD
+    2d183dc1 divider  | Separador
+    47c0a6f1 C  | 
+      2302294b C ak-inv-fact | 
+        6ff88f9a heading  | Inicio
+        9030ca2 heading  | 17 de noviembre
+      11271bde C ak-inv-fact | 
+        609843a9 heading  | DURACIÓN
+        73517676 heading  | 10 MÓDULOS
+    79c591de button ak-inv-buy | Pagar ahora
+    12c8534c text-editor ak-inv-note | Vacantes limitadas para garantizar una formación especializada.
+  79a4768d C ak-inv-right | 
+    5c314a2a heading ak-oro-text | Admisión
+    dc295fa heading  | ¿Listo para fortalecer tu perfil internacional?
+    2a8cefb0 heading  | Déjanos tus datos y te ayudaremos con tu inscripción.
+    7d4e2b0 form ak-inv-form | 
+    3e72a9d text-editor ak-inv-priv | Tus datos se usan solo para contactarte sobre el diploma.
+521f33e5 C ak-faq | [capitolio-10-2.webp]
+  1fd97c03 C ak-faq-left | 
+    2e54988f heading ak-oro-text | Preguntas frecuentes
+    36d376ec heading ak-faq-title | Resolvemos tus dudas antes de que decidas.
+    4fe96a54 text-editor  | Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certif
+  821fc48 C ak-faq-right | 
+    266b2296 nested-accordion ak-faq-acc | 
+      3e80e6e1 C  | 
+        ea24eba text-editor  | Las sesiones se desarrollan 100% online y en vivo vía Zoom, combinando herramien
+      3c318452 C  | 
+        77b34c1f text-editor  | El diploma contempla 120 horas académicas, desarrolladas de acuerdo con el crono
+      6feda045 C  | 
+        3a6adec1 text-editor  | Tu inscripción incluye acceso al programa, materiales académicos, ejercicios y s
+      26b2ffbc C  | 
+        584613f6 text-editor  | GOBERNA cuenta con diferentes alternativas de pago para sus participantes. Al in
+      2a25fc11 C  | 
+        38271e76 text-editor  | Completa tus datos en el formulario y un asesor de GOBERNA se pondrá en contacto

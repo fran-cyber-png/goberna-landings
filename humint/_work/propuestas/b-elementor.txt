@@ -1,0 +1,196 @@
+# ============================================================================
+# PROPUESTA B · «Los módulos se abren uno tras otro» (plan de estudios, #modulos)
+# ============================================================================
+# Qué hace: al bajar, la sección se queda fijada justo debajo del header.
+# Cada tramo de scroll abre el módulo siguiente (01 → 10) y cierra el anterior,
+# con la animación del acordeón. Al pasar el 10 la página sigue. Al subir, la
+# secuencia va al revés.
+#
+# Cómo se monta en Elementor:
+#   1. Sección #modulos (ak-plan, id 7c39e8aa) → Avanzado → CSS personalizado:
+#      pegar el bloque "### CSS" (cambia «selector» por la clase del elemento,
+#      como en el resto de secciones).
+#   2. Dentro de la misma sección, al final de su contenido, un widget HTML con
+#      el bloque "### WIDGET HTML" (todo el <script>). No tiene salida visual.
+#   3. No cambia nada del listado ni de los módulos: el script solo abre y
+#      cierra con clic sobre el summary (el mismo camino que el usuario).
+#
+# Por qué sticky y no JS que mueve la página: la sección se alarga con
+# min-height (alto del bloque fijo + N tramos) y el bloque .e-con-inner usa
+# position: sticky; top: alto del header. Así el scroll sigue siendo nativo.
+#
+# Tramo por módulo: 60 % de la altura de la pantalla (1080 px → 648 px).
+#   - 450 ms de animación caben de sobra en un tramo.
+#   - Con 10 módulos son 10 tramos (~6.5 k px en 1080 px de alto): un tramo
+#     de 60 % deja ver el módulo entero antes de cambiar y no hace eterno el
+#     recorrido. Cambiar STEP si se quiere más lento o más rápido.
+#
+# Histéresis: HYST = 0.2 módulos. El cambio hacia arriba ocurre a +0.2 de la
+#   frontera y el cambio hacia abajo a −0.2, así no parpadea si el usuario
+#   se detiene justo en el límite.
+#
+# Límites:
+#   - Solo ≥1025 px (desktop y laptop). En tablet, mobile y con
+#     prefers-reduced-motion no se fija nada: todo queda como hoy.
+#   - Si el bloque fijo no cabe en la pantalla (1366×768, 1440×900), se limita
+#     la altura del listado MIENTRAS está fijado (mínimo 300 px). Al soltar,
+#     vuelve a su altura normal.
+#   - Mientras está fijado, la rueda sobre el listado mueve la página (no el
+#     listado), para que la rueda siempre avance la secuencia.
+#
+# Clic manual en un módulo mientras está fijado:
+#   - Ese módulo se abre (lo hace Elementor/shim). La secuencia se RE-BASA en
+#     ese módulo: sigue desde él, sin saltar a otro al mover un poco la rueda.
+#   - Si el usuario cierra el módulo abierto, queda cerrado hasta que el
+#     scroll cambie de módulo.
+#
+# El enlace «MÓDULOS» del header apunta a #modulos: sigue llevando al inicio
+# de la sección (la sección empieza donde estaba).
+# ============================================================================
+
+### CSS
+/* Propuesta B: solo ≥1025 px y sin «reducir movimiento». Pegar en Avanzado → CSS personalizado de #modulos. */
+@media (min-width: 1025px) and (prefers-reduced-motion: no-preference) {
+  /* el bloque de contenido queda fijado debajo del header (su alto se fija en JS con --ak-hdr) */
+  /* flex-grow 0: Elementor estira .e-con-inner y el espacio extra de la sección no debe ir dentro del bloque fijo */
+  selector.ak-plan-stick > .e-con-inner { position: sticky; top: var(--ak-hdr, 90px); align-self: flex-start; flex-grow: 0; }
+  selector.ak-plan-stick > .e-con-inner > .ak-plan-prog { display: block; }
+}
+/* barra de progreso y contador (solo se ven mientras está fijado) */
+selector .ak-plan-prog { display: none; position: absolute; left: 0; right: 0; bottom: 0; height: 0; pointer-events: none; }
+selector .ak-plan-prog-bar { position: absolute; left: 0; right: 0; bottom: 0; height: 3px; background: #CCD0D4; overflow: hidden; }
+selector .ak-plan-prog-bar::after { content: ""; position: absolute; inset: 0; background: #DD0005; transform-origin: left center;
+  transform: scaleX(var(--ak-p, 0)); transition: transform .45s cubic-bezier(.22,.61,.36,1); }
+selector .ak-plan-prog-n { position: absolute; right: 80px; bottom: 16px; font: 600 12px/1 Montserrat, sans-serif; letter-spacing: .12em; color: #0C0000; }
+@media (prefers-reduced-motion: reduce) { selector .ak-plan-prog-bar::after { transition: none; } }
+
+### WIDGET HTML
+<!-- Propuesta B · widget HTML dentro de #modulos. Sin salida visual: solo el script. -->
+<script>
+(function () {
+  // sección: la del widget (Elementor) o la de la página (vista previa)
+  var sec = (document.currentScript && document.currentScript.closest('.ak-plan')) || document.querySelector('.ak-plan');
+  if (!sec || sec.dataset.akPlanB) return;          // no instalar dos veces
+  sec.dataset.akPlanB = '1';
+
+  var inner = sec.querySelector('.e-con-inner') || sec.firstElementChild;   // bloque que queda fijado
+  var acc = sec.querySelector('.e-n-accordion');                             // listado con scroll interno
+  var items = [].slice.call(sec.querySelectorAll('details.e-n-accordion-item'));
+  var N = items.length;
+
+  var STEP = 0.6;     // tramo por módulo, en fracción de la altura de la pantalla
+  var HYST = 0.2;     // histéresis en módulos (ver comentario de cabecera)
+
+  var mqDesk = window.matchMedia('(min-width: 1025px)');
+  var mqMotion = window.matchMedia('(prefers-reduced-motion: no-preference)');
+
+  var on = false, step = 0, S = 0;       // S = distancia total de scroll fijado (N tramos)
+  var idx = -1, shown = -1, base = 0;    // módulo calculado / mostrado; base = re-base por clic manual
+  var programmatic = false, ticking = false;
+
+  // barra de progreso y contador (los crea el script; CSS los muestra solo mientras está fijado)
+  var bar = document.createElement('div');
+  bar.className = 'ak-plan-prog';
+  bar.innerHTML = '<span class="ak-plan-prog-bar"></span><span class="ak-plan-prog-n"></span>';
+  inner.appendChild(bar);
+  var nLabel = bar.querySelector('.ak-plan-prog-n');
+
+  function hdr() { var h = document.querySelector('.ak-hd'); return h ? h.getBoundingClientRect().height : 90; }
+  function clamp(v, a, b) { return v < a ? a : v > b ? b : v; }
+
+  // px de scroll desde que la sección queda fijada (0 = empieza a fijarse; S = se suelta)
+  function dist() {
+    var top = sec.getBoundingClientRect().top + window.pageYOffset;
+    return window.pageYOffset - (top - hdr());
+  }
+
+  // alto del bloque fijo, tramo por módulo y alto de la sección con los N tramos
+  function layout() {
+    var vh = window.innerHeight, hd = hdr(), avail = vh - hd;
+    sec.style.setProperty('--ak-hdr', hd + 'px');
+    step = Math.round(STEP * vh);
+    S = N * step;
+    // que el bloque fijo quepa bajo el header: 1) se acorta el listado (mínimo 300 px);
+    // 2) si el título aún no cabe, se reduce el padding del bloque (mínimo 24 px por lado)
+    acc.style.maxHeight = ''; inner.style.paddingTop = ''; inner.style.paddingBottom = '';
+    var cs = getComputedStyle(inner), pt = parseFloat(cs.paddingTop), pb = parseFloat(cs.paddingBottom);
+    var over = inner.offsetHeight - avail;
+    if (over > 0) { acc.style.maxHeight = Math.max(300, acc.offsetHeight - over) + 'px'; over = inner.offsetHeight - avail; }
+    if (over > 0) {
+      inner.style.paddingTop = Math.max(24, pt - over / 2) + 'px';
+      inner.style.paddingBottom = Math.max(24, pb - over / 2) + 'px';
+    }
+    sec.style.minHeight = (inner.offsetHeight + S) + 'px';  // la sección se hace más alta: N tramos de scroll
+  }
+
+  // abre el módulo (clic en el summary, igual que el usuario) y lo deja visible dentro del listado
+  function openItem(i) {
+    var it = items[i], sum = it.querySelector('summary');
+    if (!it.open) { programmatic = true; sum.click(); programmatic = false; }
+    keep(it);
+    setTimeout(function () { keep(it); }, 480);             // otra vez al terminar la animación
+  }
+  function keep(it) {
+    var a = acc.getBoundingClientRect(), t = it.getBoundingClientRect();
+    acc.scrollTop = Math.max(0, acc.scrollTop + (t.top - a.top) - 8);
+  }
+
+  function label() {
+    nLabel.textContent = ('0' + (shown + 1)).slice(-2) + ' / ' + N;
+    sec.style.setProperty('--ak-p', (shown / (N - 1)).toFixed(4));
+  }
+
+  function update() {
+    ticking = false;
+    if (!on) return;
+    var d = dist();
+    if (d <= 0 || d >= S) base = 0;                         // fuera del tramo fijado: sin re-base
+    var raw = clamp((d - base) / step, 0, N);               // progreso en módulos (0..N)
+    if (idx < 0) idx = clamp(Math.floor(raw), 0, N - 1);
+    while (idx < N - 1 && raw >= idx + 1 + HYST) idx++;     // hacia abajo
+    while (idx > 0 && raw < idx - HYST) idx--;              // hacia arriba
+    if (idx !== shown) { shown = idx; openItem(idx); label(); }
+  }
+  function sched() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
+
+  // clic manual mientras está fijado: se abre ese módulo y la secuencia sigue desde él
+  acc.addEventListener('click', function (e) {
+    if (!on || programmatic) return;
+    var s = e.target.closest && e.target.closest('summary');
+    if (!s) return;
+    var j = items.indexOf(s.parentElement), d = dist();
+    if (j < 0 || d <= 0 || d >= S) return;                  // fuera del tramo fijado: clic normal
+    base = d - j * step;                                    // raw = j ahora mismo
+    idx = shown = j;
+    label();
+  }, false);
+
+  // mientras está fijado, la rueda sobre el listado mueve la página (y así avanza la secuencia)
+  acc.addEventListener('wheel', function (e) {
+    if (!on) return;
+    var d = dist();
+    if (d <= 0 || d >= S) return;
+    e.preventDefault();
+    window.scrollBy(0, e.deltaY * (e.deltaMode === 1 ? 16 : 1));
+  }, { passive: false });
+
+  function apply() {
+    var want = mqDesk.matches && mqMotion.matches;
+    if (want === on) { if (on) { layout(); sched(); } return; }
+    on = want;
+    sec.classList.toggle('ak-plan-stick', on);
+    if (on) { idx = -1; shown = -1; base = 0; layout(); sched(); }
+    else {                                                  // vuelve todo a como estaba
+      sec.style.minHeight = ''; sec.style.removeProperty('--ak-hdr'); acc.style.maxHeight = '';
+      inner.style.paddingTop = ''; inner.style.paddingBottom = '';
+    }
+  }
+
+  window.addEventListener('scroll', sched, { passive: true });
+  window.addEventListener('resize', function () { if (on) layout(); sched(); }, { passive: true });
+  if (mqDesk.addEventListener) { mqDesk.addEventListener('change', apply); mqMotion.addEventListener('change', apply); }
+  else { mqDesk.addListener(apply); mqMotion.addListener(apply); }
+  window.addEventListener('load', apply);
+  apply();
+})();
+</script>

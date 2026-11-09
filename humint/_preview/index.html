@@ -1,0 +1,136 @@
+<title>HUMINT · Vista previa</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Barra de revisión arriba, la landing escalada debajo a su tamaño real de pantalla */
+:root{
+  --bg:#ECEAE7; --chrome:#100600; --chrome-fg:#F5F1EC; --muted:#A08F82; --accent:#905532; --accent-fg:#C98A5E; --line:rgba(255,255,255,.14);
+  --panel:#FFFFFF; --panel-fg:#141210;
+  --ui:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#15110E;--panel:#241C16;--panel-fg:#F2ECE6;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#15110E;--panel:#241C16;--panel-fg:#F2ECE6;color-scheme:dark}
+html,body{height:100%}
+body{margin:0;background:var(--bg);font:14px/1.4 var(--ui);color:var(--panel-fg);display:flex;flex-direction:column}
+.bar{background:var(--chrome);color:var(--chrome-fg);display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;
+  padding-block:10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.name{font-weight:600;letter-spacing:.02em;white-space:nowrap}
+.name small{display:block;font-weight:400;color:var(--muted);font-size:12px;letter-spacing:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{all:unset;cursor:pointer;padding:7px 12px;font-size:13px;color:var(--chrome-fg);white-space:nowrap}
+.seg button small{color:var(--muted);margin-left:6px;font-variant-numeric:tabular-nums}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#FFFFFF}
+.seg button[aria-pressed="true"] small{color:#FFFFFF}
+.seg button:focus-visible,.chk:focus-within,.pend:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chk{display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:13px;white-space:nowrap}
+.chk input{accent-color:var(--accent);width:16px;height:16px;margin:0}
+.pend{all:unset;cursor:pointer;margin-left:auto;font-size:13px;padding:7px 12px;border-radius:8px;border:1px solid var(--accent-fg);color:var(--accent-fg);white-space:nowrap}
+.stage{flex:1;min-height:0;position:relative;overflow:hidden}
+.frame{position:absolute;top:16px;left:50%;transform-origin:top center;box-shadow:0 10px 40px rgba(0,0,0,.25);background:#fff}
+.frame iframe{display:block;border:0;width:100%;height:100%}
+.list{position:absolute;right:max(16px,env(safe-area-inset-right,0px));top:12px;width:min(420px,calc(100% - 32px));max-height:calc(100% - 24px);overflow:auto;
+  background:var(--panel);color:var(--panel-fg);border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,.3);padding:18px 20px;z-index:5}
+.list h2{margin:0 0 4px;font-size:15px}
+.list p{margin:0 0 12px;color:var(--muted);font-size:12.5px}
+.list ol{margin:0;padding-left:18px;display:grid;gap:9px;font-size:13px}
+.list b{font-weight:600}
+.pend2{margin-left:0}
+.list li small{display:block;color:var(--muted);font-size:12px;margin-top:2px}
+.list code{font-size:12px}
+@media (max-width:640px){.pend{margin-left:0}}
+</style>
+
+<div class="bar">
+  <div class="name">HUMINT · Inteligencia de Fuentes Humanas<small>Vista previa de la plantilla de Elementor · base: Carrera Diplomática</small></div>
+  <div class="seg" role="group" aria-label="Dispositivo">
+    <button type="button" data-w="1920" data-h="1080" aria-pressed="true">Desktop<small>1920</small></button>
+    <button type="button" data-w="1366" data-h="768" aria-pressed="false">Laptop<small>1366</small></button>
+    <button type="button" data-w="375" data-h="812" aria-pressed="false">Mobile<small>375</small></button>
+  </div>
+  <label class="chk"><input type="checkbox" id="widgets"> Ver widgets</label>
+  <button type="button" class="pend" id="chgBtn" aria-expanded="true">Diferencias con el Figma (8)</button>
+  <button type="button" class="pend pend2" id="pendBtn" aria-expanded="false">Pendientes (7)</button>
+</div>
+
+<div class="stage" id="stage">
+  <div class="frame" id="frame"><iframe id="ifr" src="landing.html" title="Landing HUMINT"></iframe></div>
+  <div class="list" id="chg">
+    <h2>Diferencias con el Figma</h2>
+    <p>Donde el Figma y el PDF (8) no coinciden. En Elementor el texto fluye, así que manda el PDF literal. Cualquiera se puede volver a la versión del Figma.</p>
+    <ol>
+      <li><b>Barra del hero · Duración:</b> «8 módulos · 3 semanas» (PDF). El Figma dice «8 módulos».<small>En mobile ocupa 2 líneas.</small></li>
+      <li><b>Metodología de aprendizaje · título:</b> «Aquí no solo estudias HUMINT. Aprendes a construir inteligencia desde las personas.» (PDF). El Figma usa la versión corta.<small>La sección crece 85 px en 1920.</small></li>
+      <li><b>Etapas:</b> los títulos cortos, como el Figma («Planifica · Evalúa · Obtén · Analiza», que también está en el PDF); los textos son literales del PDF («…y vacíos informativos»).</li>
+      <li><b>Plan de estudios:</b> título del PDF («…para comprender, evaluar y trabajar con fuentes humanas») y los 8 módulos con su descripción, Aprenderás y Aplicarás. El módulo 3 lleva el nombre completo.</li>
+      <li><b>El programa:</b> las pestañas «¿A quiénes está dirigido?» y «Perfil del egresado» llevan las listas del PDF.</li>
+      <li><b>Docentes:</b> los 6 del PDF más Diego Miranda y Roniel Aledo (8 tarjetas), con sus fotos reales de la Biblioteca. En el Figma, las fotos venían de la plantilla de CII y no correspondían a los nombres.<small>Fernando Cocho no tenía foto de tarjeta: la nueva (card-fernando-cocho.webp) es el recorte de su CV sobre el fondo azul de las demás, con la cabeza a la misma escala y altura.</small></li>
+      <li><b>Preguntas frecuentes:</b> las 5 del PDF. La 4.ª es «¿Cuáles son los medios de pago disponibles?» (en el Figma, «¿Necesito experiencia previa…?»).</li>
+      <li><b>Título del hero:</b> el PNG original del brochure, a 696 × 254 px. En el Figma la imagen está estirada a 749 px.</li>
+    </ol>
+  </div>
+  <div class="list" id="list" hidden>
+    <h2>Pendientes</h2>
+    <p>Lo que falta o hay que confirmar antes de generar la entrega final.</p>
+    <ol>
+      <li><b>Título de El programa:</b> no está en el PDF. Va el del Figma, que viene de la plantilla de CII («…aplica inteligencia y contrainteligencia para proteger organizaciones, proyectos y decisiones estratégicas»). ¿Lo dejamos o me pasas otro?</li>
+      <li><b>Certificado:</b> el cuadro gris de la izquierda queda preparado para la imagen: en Elementor, contenedor <code>ak-cert-img</code> → Estilo → Fondo → Imagen (cubrir, posición 50 % / 52,5 %). Medida recomendada: unos 2044 × 2112 px.</li>
+      <li><b>Imagen de Metodología:</b> el cuadro del video pasó a ser un cuadro gris 16:9 preparado para la imagen: en Elementor, contenedor <code>ak-met-img</code> → Estilo → Fondo → Imagen (cubrir, centrada).</li>
+      <li><b>Mapa:</b> se mantiene el mapa animado de Carrera. En el Figma es una imagen fija en cobre.</li>
+      <li><b>Enlaces:</b> brochure (2 botones) y «Pagar ahora» apuntan a «#». Los 3 «Hablar con un asesor» van a WhatsApp (+51 970 356 062) con el mensaje del diploma HUMINT, y cada «Ver trayectoria» a la página del CV del docente.<small>«Inscríbete ahora» (header) y «Reserva tu vacante» llevan al formulario de Admisión (#doble).</small></li>
+      <li><b>Imágenes para subir a la Biblioteca (2026/10):</b> hero-fondo-, titulo-, war-room-fondo-, war-room-fondo-movil-, banner-proxima-edicion-, fondo-presencia- e inversion-fondo-humint.webp, card-fernando-cocho.webp y card-roniel-aledo.webp.<small>SVG: plan-modulos-, plan-horas-, plan-metodologia-caja-4-1-humint.svg; barra-modalidad-, barra-inicio-, barra-horario-, barra-duracion-1-humint.svg; certificacion-medalla-1-humint.svg. Elementor dibuja los SVG por su id: cuando los subas, pongo los ids reales en el JSON.</small></li>
+      <li><b>Presencia internacional:</b> los textos son los de la plantilla («idioma político», «dirigen campañas»), como decidiste para el Figma.</li>
+    </ol>
+  </div>
+</div>
+
+<script>
+(function(){
+  var stage=document.getElementById('stage'), frame=document.getElementById('frame'), ifr=document.getElementById('ifr');
+  var btns=[].slice.call(document.querySelectorAll('.seg button')), dev={w:1920,h:1080};
+  function fit(){
+    var aw=stage.clientWidth-32, ah=stage.clientHeight-32;
+    var s=Math.min(1, aw/dev.w, ah/dev.h);
+    frame.style.width=dev.w+'px'; frame.style.height=dev.h+'px';
+    frame.style.transform='translateX(-50%) scale('+s+')';
+  }
+  btns.forEach(function(b){ b.addEventListener('click',function(){
+    btns.forEach(function(x){ x.setAttribute('aria-pressed', x===b?'true':'false'); });
+    dev={w:+b.dataset.w,h:+b.dataset.h}; fit();
+    try{ localStorage.setItem('hu-dev', b.dataset.w); }catch(e){}
+  }); });
+  window.addEventListener('resize',fit);
+  try{ var saved=localStorage.getItem('hu-dev'); var sb=btns.filter(function(b){return b.dataset.w===saved;})[0]; if(sb) sb.click(); }catch(e){}
+  fit();
+
+  // Ver widgets: contorno y etiqueta con el widget de Elementor y sus clases ak-
+  var CSS='.dsw-on .elementor-widget{outline:1px dashed rgba(144,85,50,.9);outline-offset:-1px;position:relative}'+
+    '.dsw-on .e-con.e-parent{outline:2px solid rgba(0,140,255,.55);outline-offset:-2px}'+
+    '.dsw-tag{display:none}.dsw-on .dsw-tag{display:block;position:absolute;left:0;top:0;z-index:9999;font:500 10px/1.3 Inter,Arial,sans-serif;'+
+    'background:#100600;color:#E0A57C;padding:1px 5px;pointer-events:none;white-space:nowrap;letter-spacing:0;text-transform:none;-webkit-text-fill-color:#E0A57C}'+
+    '.dsw-on .e-con.e-parent>.dsw-tag{background:#0A6BD6;color:#fff;-webkit-text-fill-color:#fff}';
+  function tag(doc){
+    if(doc.getElementById('dsw-style')) return;
+    var st=doc.createElement('style'); st.id='dsw-style'; st.textContent=CSS; doc.head.appendChild(st);
+    var NAMES={'heading':'Encabezado','text-editor':'Editor de texto','image':'Imagen','button':'Botón','icon':'Ícono','html':'HTML',
+      'nested-tabs':'Pestañas anidadas','nested-accordion':'Acordeón anidado','n-carousel':'Carrusel anidado','form':'Formulario',
+      'divider':'Divisor','nav-menu':'Menú','image-box':'Caja de imagen','icon-list':'Lista de íconos','social-icons':'Íconos sociales'};
+    [].forEach.call(doc.querySelectorAll('[data-widget_type], .e-con.e-parent'),function(el){
+      var t=(el.getAttribute('data-widget_type')||'').split('.')[0];
+      var cls=[].filter.call(el.classList,function(c){return /^ak-/.test(c);}).join(' ');
+      var lab=doc.createElement('span'); lab.className='dsw-tag';
+      lab.textContent=(t?(NAMES[t]||t):'Contenedor')+(cls?' · '+cls:'');
+      el.insertBefore(lab, el.firstChild);
+    });
+  }
+  var chk=document.getElementById('widgets');
+  function apply(){ try{ var d=ifr.contentDocument; if(!d||!d.body) return; tag(d); d.documentElement.classList.toggle('dsw-on',chk.checked); }catch(e){} }
+  chk.addEventListener('change',apply); ifr.addEventListener('load',apply);
+
+  var panels=[[document.getElementById('chgBtn'),document.getElementById('chg')],[document.getElementById('pendBtn'),document.getElementById('list')]];
+  panels.forEach(function(pr){ pr[0].addEventListener('click',function(){
+    var show=pr[1].hidden;
+    panels.forEach(function(o){ o[1].hidden=true; o[0].setAttribute('aria-expanded','false'); });
+    if(show){ pr[1].hidden=false; pr[0].setAttribute('aria-expanded','true'); }
+  }); });
+})();
+</script>
