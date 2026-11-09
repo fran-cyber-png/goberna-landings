@@ -1,0 +1,96 @@
+{
+ "nombre_completo": "Diego Miranda Giménez de Azcárate",
+ "nombre": {
+  "d": [
+   "DIEGO",
+   "MIRANDA"
+  ],
+  "m": [
+   "DIEGO",
+   "MIRANDA"
+  ]
+ },
+ "titular": "Director de Formación y RRHH, Escuela de Inteligencia y Estrategia de GOBERNA, Miami USA y Director de Operaciones – Grupo GEES Spain",
+ "especialidades": {
+  "d": [
+   "Inteligencia",
+   "Seguridad<br>Corporativa",
+   "Criminología",
+   "Gestión de<br>Riesgos"
+  ],
+  "m": [
+   "Inteligencia",
+   "Seguridad<br>Corporativa",
+   "Criminología",
+   "Gestión de<br>Riesgos"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "35 años",
+   "small": "Seguridad, inteligencia, formación y gestión"
+  },
+  {
+   "big": "GEES Spain",
+   "small": "Director de Operaciones – Europa/Latam/Asia"
+  },
+  {
+   "big": "GOBERNA",
+   "small": "Director de Formación y RRHH, Miami USA"
+  }
+ ],
+ "resumen": [
+  "<b>Diego Miranda Giménez de Azcárate</b> cuenta con 35 años de experiencia profesional en los ámbitos de seguridad, inteligencia, formación y gestión estratégica. Es profesor universitario asociado en diversas instituciones académicas de España y Colombia, además de director de formación en organizaciones especializadas.",
+  "Su trayectoria combina experiencia operativa en seguridad nacional, dirección de equipos, coordinación institucional y formación de profesionales en escenarios complejos. Cuenta con <b>especialización en criminología, seguridad patrimonial y corporativa, inteligencia y gestión de riesgos</b>."
+ ],
+ "cargos": [
+  "<b>Director de Operaciones</b> – Grupo GEES Spain. Europa/Latam/Asia.",
+  "<b>Director de Seguridad Nacional</b> – EDPR Colombia.",
+  "<b>Director de Formación, RRHH y Carrera profesional en el CIE</b> – Centro Internacional de Especialidades, GEES Spain (2010–Actualidad).",
+  "<b>Director de Formación y RRHH</b> – Escuela de Inteligencia y Estrategia de GOBERNA, Miami USA (2024–Actualidad)."
+ ],
+ "formacion": [
+  "<b>Máster of Business Administration & RRHH Global Executive</b> – ESADE.",
+  "<b>Máster en Criminología, Justicia y Ciencias Militares</b> – IGM.",
+  "<b>Grado de Criminología, Perfil Criminal y Análisis de Conducta</b> – UNED.",
+  "<b>Director de Seguridad Patrimonial y Corporativa</b> – URJC."
+ ],
+ "aportes": [
+  "Profesor y conferenciante internacional en instituciones académicas y de seguridad de España y Colombia.",
+  "<b>Coordinador de programas de formación universitarios en España y Latinoamérica desde el CIE</b> – GEES Spain.",
+  "Participación como ponente y profesor en el Ejército Nacional y Policía Nacional de Colombia, Ejército de Tierra y Ejército del Aire de España."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "diego-miranda.webp",
+  "d": [
+   922,
+   101,
+   798,
+   749
+  ],
+  "m": [
+   8,
+   542,
+   414,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "184:734",
+  "laptop": "338:179",
+  "mobile": "316:2",
+  "foto": {
+   "desktop": "194:37",
+   "mobile": "316:14"
+  },
+  "hoja_gid": "2105707657"
+ }
+}

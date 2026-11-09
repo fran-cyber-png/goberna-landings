@@ -1,0 +1,96 @@
+{
+ "nombre_completo": "Cristiano Lamas",
+ "nombre": {
+  "d": [
+   "CRISTIANO",
+   "LAMAS"
+  ],
+  "m": [
+   "CRISTIANO",
+   "LAMAS"
+  ]
+ },
+ "titular": "Advogado. Assessor em Processo Legislativo na Assembleia Legislativa de Minas Gerais",
+ "especialidades": {
+  "d": [
+   "Processo<br>Legislativo",
+   "Relações<br>Governamentais",
+   "Políticas<br>Públicas",
+   "Análise Político-Regulatória"
+  ],
+  "m": [
+   "Processo<br>Legislativo",
+   "Relações<br>Governamentais",
+   "Políticas<br>Públicas",
+   "Análise<br>Político-Regulatória"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "+20 años",
+   "small": "Experiencia en proceso legislativo"
+  },
+  {
+   "big": "OAB-MG",
+   "small": "Vicepresidente de Comisión de Proceso Legislativo"
+  },
+  {
+   "big": "2013–2015",
+   "small": "Secretario Municipal – Belo Horizonte"
+  }
+ ],
+ "resumen": [
+  "<b>Cristiano Lamas</b> es abogado y especialista en proceso legislativo, relaciones gubernamentais e análise político-regulatória, con más de 20 años de experiencia en el núcleo del proceso legislativo brasileño.",
+  "Actualmente se desempeña como Assessor em Processo Legislativo na Assembleia Legislativa de Minas Gerais, donde actúa en el seguimiento, análisis y gestión de proposiciones legislativas, articulación institucional y construcción de estrategias públicas. Su trayectoria incluye experiencia ejecutiva en la Prefeitura de Belo Horizonte y una amplia participación en la interlocución entre Poder Legislativo, gobierno, sector productivo y sociedad."
+ ],
+ "cargos": [
+  "<b>Assessor em Processo Legislativo</b> – Assembleia Legislativa de Minas Gerais (feb. de 2015 – actualidad).",
+  "<b>Secretário Municipal</b> – Prefeitura de Belo Horizonte (mar. de 2013 – mar. de 2015).",
+  "<b>Técnico Executivo de Gabinete</b> – Assembleia Legislativa do Estado de Minas Gerais (feb. de 2003 – mar. de 2013).",
+  "<b>Gerente de Recursos Humanos</b> – Bela Ischia Alimentos Ltda. (2001 – 2003)."
+ ],
+ "formacion": [
+  "<b>Mestrado em Direito, Direito Ambiental e Sustentabilidade</b> – Escola Superior Dom Helder Câmara (2014 – 2016).",
+  "<b>Especialista em Marketing Político</b> – Universidade Federal de Minas Gerais (2011 – 2012).",
+  "<b>Especialista em Direito Tributário</b> – Universidade Gama Filho - UGF (2010).",
+  "<b>Bacharel em Direito</b> – Centro Universitario de Belo Horizonte - UNIBH (2006 – 2009)."
+ ],
+ "aportes": [
+  "Autor del libro <b>“I Have a Dream – Oratória que Inspira”</b>, sobre técnicas de persuasión y comunicación estratégica aplicadas a la oratoria.",
+  "Vice-Presidente da Comissão de Relacionamento e Processo Legislativo da OAB-MG.",
+  "Experiencia en monitoramento legislativo, mapeo de stakeholders, análisis de escenarios político-regulatorios y articulación institucional."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "cristiano-lamas-cv.webp",
+  "d": [
+   1022,
+   101,
+   700,
+   749
+  ],
+  "m": [
+   33,
+   542,
+   364,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "184:550",
+  "laptop": "338:326",
+  "mobile": "316:172",
+  "foto": {
+   "desktop": "194:42",
+   "mobile": "316:184"
+  },
+  "hoja_gid": "405241833"
+ }
+}

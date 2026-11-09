@@ -1,0 +1,57 @@
+- generic [ref=f5e3]:
+  - generic [ref=f5e4]:
+    - img "Goberna" [ref=f5e8]
+    - generic [ref=f5e9]:
+      - heading "FERNANDO" [level=1] [ref=f5e12]
+      - heading "COCHO" [level=1] [ref=f5e15]
+      - paragraph [ref=f5e18]: Funcionario MEC/CAM y Analista de Inteligencia | Docente UNIR | Socio fundador de la empresa de inteligencia y estrategia Hdm
+    - img "Fernando Cocho Pérez" [ref=f5e22]
+    - generic [ref=f5e23]:
+      - paragraph [ref=f5e26]: Especialidades
+      - generic [ref=f5e27]:
+        - paragraph [ref=f5e32]: Metodología deInteligencia
+        - paragraph [ref=f5e38]: InteligenciaEstratégica
+        - paragraph [ref=f5e44]: SeguridadNacional
+        - paragraph [ref=f5e50]: Ciberinteligencia
+  - generic [ref=f5e53]:
+    - generic [ref=f5e54]:
+      - heading "Resumen ejecutivo" [level=2] [ref=f5e57]
+      - paragraph [ref=f5e60]: Fernando Cocho Pérez es funcionario MEC/CAM, analista de inteligencia, experto en metodología de inteligencia y docente universitario. De acuerdo con UNIR, cuenta con más de 30 años de experiencia docente en universidades públicas y privadas, nacionales e internacionales, en materias relacionadas con inteligencia, seguridad, ciberinteligencia, ciberterrorismo, narrativas y perfiles delictivos. Es fundador de H4dm Inteligencia y ha desarrollado labores de asesoramiento a instituciones, empresas y gobiernos. CEDEGYS destaca su participación en la formación de analistas de inteligencia, su investigación sobre riesgos para la seguridad nacional y amenazas híbridas, así como su colaboración en medios de comunicación.
+      - heading "Cargos principales y trayectoria" [level=2] [ref=f5e64]
+      - list [ref=f5e67]:
+        - listitem [ref=f5e68]: Funcionario MEC/CAM y Analista de Inteligencia — denominación indicada por CEDEGYS.
+        - listitem [ref=f5e69]: Docente UNIR — Universidad Internacional de La Rioja.
+        - listitem [ref=f5e70]: Funcionario A1 — denominación indicada por UNIR.
+        - listitem [ref=f5e71]: Funcionario CAM — denominación indicada por UNIR.
+        - listitem [ref=f5e72]: Fundador H4dm Inteligencia — denominación indicada por UNIR.
+        - listitem [ref=f5e73]: Socio fundador de la empresa de inteligencia y estratategia Hdm — denominación indicada por CEDEGYS.
+        - listitem [ref=f5e74]: Profesor de filosofía del lenguaje y narrativas de la UNED — referencia incluida en la biografía de UNIR.
+        - listitem [ref=f5e75]: Profesor de diversos Máster y escuelas de inteligencia — referencia incluida en CEDEGYS.
+      - heading "Formación académica" [level=2] [ref=f5e79]
+      - list [ref=f5e82]:
+        - listitem [ref=f5e83]: Licenciado en Filosofía — Universidad Complutense de Madrid (UCM).
+        - listitem [ref=f5e84]: Cursos de doctorado finalizados; suficiencia investigadora.
+        - listitem [ref=f5e85]: Máster Inteligencia.
+        - listitem [ref=f5e86]: Máster en Logística.
+        - listitem [ref=f5e87]: Máster en Información internacional.
+        - listitem [ref=f5e88]: Experto en servicios de inteligencia.
+        - listitem [ref=f5e89]: Máster en Evaluación de la Calidad Docente.
+        - listitem [ref=f5e90]: Formación de máster en gestión del conocimiento, capital intelectual, cibercrimen y ciberinteligencia, según CEDEGYS (sin denominaciones oficiales completas indicadas).
+      - heading "Aportes destacados y publicaciones" [level=2] [ref=f5e94]
+      - list [ref=f5e97]:
+        - listitem [ref=f5e98]: Formación de analistas de inteligencia en distintos países.
+        - listitem [ref=f5e99]: Asesoramiento a empresas e instituciones nacionales e internacionales, incluidos gobiernos.
+        - listitem [ref=f5e100]: Actividad docente sobre metodología de inteligencia y riesgos a la seguridad nacional.
+        - listitem [ref=f5e101]: Publicaciones sobre riesgos a la seguridad nacional, según CEDEGYS, sin títulos individuales detallados en las fuentes consultadas.
+        - listitem [ref=f5e102]: Investigación sobre aplicación de la inteligencia a amenazas híbridas.
+        - listitem [ref=f5e103]: Colaboración en medios nacionales e internacionales sobre relaciones internacionales, terrorismo, delitos de odio y amenazas híbridas.
+    - generic [ref=f5e105]:
+      - generic [ref=f5e106]:
+        - paragraph [ref=f5e109]: +30 años
+        - paragraph [ref=f5e112]: Experiencia docente universitaria
+      - generic [ref=f5e113]:
+        - paragraph [ref=f5e116]: 4 Másteres
+        - paragraph [ref=f5e119]: Inteligencia, Logística, Información Internacional y Calidad Docente
+      - generic [ref=f5e120]:
+        - paragraph [ref=f5e123]: Fundador
+        - paragraph [ref=f5e126]: H4dm Inteligencia

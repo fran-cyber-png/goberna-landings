@@ -1,0 +1,101 @@
+{
+ "nombre_completo": "Fernando Cocho Pérez",
+ "nombre": {
+  "d": [
+   "FERNANDO",
+   "COCHO"
+  ],
+  "m": [
+   "FERNANDO",
+   "COCHO"
+  ]
+ },
+ "titular": "Funcionario MEC/CAM y Analista de Inteligencia | Docente UNIR | Socio fundador de la empresa de inteligencia y estrategia H4dm",
+ "especialidades": {
+  "d": [
+   "Metodología de<br>Inteligencia",
+   "Inteligencia<br>Estratégica",
+   "Seguridad<br>Nacional",
+   "Ciberinteligencia"
+  ],
+  "m": [
+   "Metodología de<br>Inteligencia",
+   "Inteligencia<br>Estratégica",
+   "Seguridad<br>Nacional",
+   "Ciberinteligencia"
+  ]
+ },
+ "cifras": [
+  {
+   "big": "+30 años",
+   "small": "Experiencia docente universitaria"
+  },
+  {
+   "big": "4 Másteres",
+   "small": "Inteligencia, Logística, Información Internacional y Calidad Docente"
+  },
+  {
+   "big": "Fundador",
+   "small": "H4dm Inteligencia"
+  }
+ ],
+ "resumen": [
+  "<b>Fernando Cocho Pérez es funcionario MEC/CAM, analista de inteligencia, experto en metodología de inteligencia y docente universitario.</b> De acuerdo con UNIR, cuenta con más de 30 años de experiencia docente en universidades públicas y privadas, nacionales e internacionales, en materias relacionadas con inteligencia, seguridad, ciberinteligencia, ciberterrorismo, narrativas y perfiles delictivos. Es fundador de H4dm Inteligencia y ha desarrollado labores de asesoramiento a instituciones, empresas y gobiernos. CEDEGYS destaca su participación en la formación de analistas de inteligencia, su investigación sobre riesgos para la seguridad nacional y amenazas híbridas, así como su colaboración en medios de comunicación."
+ ],
+ "cargos": [
+  "<b>Funcionario MEC/CAM y Analista de Inteligencia</b> — denominación indicada por CEDEGYS.",
+  "<b>Docente UNIR</b> — Universidad Internacional de La Rioja.",
+  "<b>Funcionario A1</b> — denominación indicada por UNIR.",
+  "<b>Funcionario CAM</b> — denominación indicada por UNIR.",
+  "<b>Fundador H4dm Inteligencia</b> — denominación indicada por UNIR.",
+  "<b>Socio fundador de la empresa de inteligencia y estrategia H4dm</b> — denominación indicada por CEDEGYS.",
+  "<b>Profesor de filosofía del lenguaje y narrativas de la UNED</b> — referencia incluida en la biografía de UNIR.",
+  "<b>Profesor de diversos Máster y escuelas de inteligencia</b> — referencia incluida en CEDEGYS."
+ ],
+ "formacion": [
+  "<b>Licenciado en Filosofía</b> — Universidad Complutense de Madrid (UCM).",
+  "<b>Cursos de doctorado finalizados</b>; suficiencia investigadora.",
+  "<b>Máster Inteligencia.</b>",
+  "<b>Máster en Logística.</b>",
+  "<b>Máster en Información internacional.</b>",
+  "<b>Experto en servicios de inteligencia.</b>",
+  "<b>Máster en Evaluación de la Calidad Docente.</b>",
+  "<b>Formación de máster en gestión del conocimiento, capital intelectual, cibercrimen y ciberinteligencia</b>, según CEDEGYS (sin denominaciones oficiales completas indicadas)."
+ ],
+ "aportes": [
+  "<b>Formación de analistas de inteligencia</b> en distintos países.",
+  "<b>Asesoramiento a empresas e instituciones</b> nacionales e internacionales, incluidos gobiernos.",
+  "<b>Actividad docente</b> sobre metodología de inteligencia y riesgos a la seguridad nacional.",
+  "<b>Publicaciones sobre riesgos a la seguridad nacional</b>, según CEDEGYS, sin títulos individuales detallados en las fuentes consultadas.",
+  "<b>Investigación sobre aplicación de la inteligencia a amenazas híbridas.</b>",
+  "<b>Colaboración en medios nacionales e internacionales</b> sobre relaciones internacionales, terrorismo, delitos de odio y amenazas híbridas."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "fernando-cocho.webp",
+  "d": [
+   982,
+   101,
+   738,
+   749
+  ],
+  "m": [
+   20,
+   542,
+   391,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "487:2",
+  "laptop": "490:2",
+  "mobile": "492:2",
+  "foto": {
+   "desktop": "496:4",
+   "mobile": "496:14"
+  },
+  "hoja_gid": "1858143491"
+ },
+ "titular_d": "Funcionario MEC/CAM y Analista de Inteligencia |<br>Docente UNIR | Socio fundador de la empresa de inteligencia<br>y estrategia H4dm"
+}

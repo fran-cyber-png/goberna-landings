@@ -1,0 +1,34 @@
+{
+ "slug": "daniela-galvan",
+ "nombre_completo": "Daniela Galván",
+ "hoja_gid": "1768512455",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "450:2",
+  "laptop": "452:2",
+  "mobile": "453:2"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "450:10",
+  "tarjeta_desktop": "450:51",
+  "portada_movil": "453:3",
+  "tarjeta_movil": "453:37"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "515:28"
+  ],
+  "movil": [
+   "515:32"
+  ]
+ },
+ "items_esperados": {
+  "car": 5,
+  "for": 3,
+  "apo": 4
+ },
+ "lineas_titular": {
+  "desktop": 1,
+  "movil": 2
+ }
+}

@@ -1,0 +1,270 @@
+- generic [active] [ref=f3e1]:
+  - group "VersiÃ³n de la landing" [ref=f3e2]:
+    - button "Desktop 1500" [ref=f3e3] [cursor=pointer]
+    - button "Laptop 1366" [pressed] [ref=f3e4] [cursor=pointer]
+    - button "Mobile 375" [ref=f3e5] [cursor=pointer]
+  - generic [ref=f3e6]:
+    - generic [ref=f3e8]:
+      - generic [ref=f3e9]:
+        - img "Goberna" [ref=f3e10]
+        - heading "DIANA PEREIRA" [level=1] [ref=f3e11]:
+          - text: DIANA
+          - generic [ref=f3e12]: PEREIRA
+        - paragraph [ref=f3e13]: Profesional en Gobierno y Relaciones Internacionales, con experiencia en seguridad y liderazgo estratÃ©gico.
+        - generic [ref=f3e14]:
+          - generic [ref=f3e15]: Especialidades
+          - generic [ref=f3e16]:
+            - generic [ref=f3e17]: Gobierno
+            - generic [ref=f3e18]: AsuntosInternacionales
+            - generic [ref=f3e19]: Defensa ySeguridad
+            - generic [ref=f3e20]: Liderazgo yGestiÃ³n de Crisis
+      - generic:
+        - img "Diana Pereira"
+    - main [ref=f3e22]:
+      - generic [ref=f3e23]:
+        - generic [ref=f3e24]:
+          - generic [ref=f3e25]:
+            - heading "Resumen ejecutivo" [level=2] [ref=f3e27]
+            - paragraph [ref=f3e28]: "Profesional en Gobierno y Relaciones Internacionales, con formaciÃ³n en la Escuela de Asuntos Internacionales y PÃºblicos de la Universidad de Columbia y quince aÃ±os de experiencia en el sector pÃºblico colombiano. Su trayectoria comprende la gestiÃ³n de crisis y el liderazgo de equipos en entornos complejos. Ha sido directora de Estudios EstratÃ©gicos del Ministerio de Defensa Nacional y asesora de la DirecciÃ³n para la EjecuciÃ³n de Gobierno y Ã\x81reas EstratÃ©gicas de la Presidencia de la RepÃºblica de Colombia. Ha participado en publicaciones del Departamento Nacional de PlaneaciÃ³n sobre seguridad y consolidaciÃ³n de la paz. Es creadora de la metodologÃa BrÃºjula de Mando EstratÃ©gico, orientada al fortalecimiento del liderazgo corporativo e inspirada en principios de las Fuerzas Especiales."
+          - generic [ref=f3e29]:
+            - heading "Cargos principales y trayectoria" [level=2] [ref=f3e31]
+            - list [ref=f3e32]:
+              - listitem [ref=f3e33]:
+                - generic [ref=f3e34]: Directora de Estudios EstratÃ©gicos â€“ Ministerio de Defensa Nacional de Colombia.
+              - listitem [ref=f3e35]:
+                - generic [ref=f3e36]: "Asesora de la DirecciÃ³n para la EjecuciÃ³n de Gobierno y Ã\x81reas EstratÃ©gicas â€“ Presidencia de la RepÃºblica de Colombia."
+              - listitem [ref=f3e37]:
+                - generic [ref=f3e38]: Creadora de la metodologÃa BrÃºjula de Mando EstratÃ©gico.
+          - generic [ref=f3e39]:
+            - heading "FormaciÃ³n acadÃ©mica" [level=2] [ref=f3e41]
+            - list [ref=f3e42]:
+              - listitem [ref=f3e43]:
+                - generic [ref=f3e44]: Estudios en la Escuela de Asuntos Internacionales y PÃºblicos de la Universidad de Columbia (2010â€“2012).
+              - listitem [ref=f3e45]:
+                - generic [ref=f3e46]: Diplomado en GestiÃ³n de Proyectos con Ã©nfasis en el Project Management Institute (PMI) â€“ Universidad EAFIT (2022).
+              - listitem [ref=f3e47]:
+                - generic [ref=f3e48]: Programa de Liderazgo de Alto DesempeÃ±o â€“ Blum.
+          - generic [ref=f3e49]:
+            - heading "Aportes destacados" [level=2] [ref=f3e51]
+            - list [ref=f3e52]:
+              - listitem [ref=f3e53]:
+                - generic [ref=f3e54]: DesarrollÃ³ BrÃºjula de Mando EstratÃ©gico, metodologÃa para fortalecer el liderazgo corporativo y el funcionamiento de los equipos.
+              - listitem [ref=f3e55]:
+                - generic [ref=f3e56]: "Registra en su perfil la publicaciÃ³n \"Defense and Security Spending 1998â€“2013: Evolution and reflections on its sustainability\", vinculada al BoletÃn de Seguimiento a la ConsolidaciÃ³n de la Paz del Departamento Nacional de PlaneaciÃ³n."
+              - listitem [ref=f3e57]:
+                - generic [ref=f3e58]: Fue entrevistada como experta para una investigaciÃ³n sobre reincidencia en el hurto de dispositivos mÃ³viles en BogotÃ¡, publicada en la revista Logos, Ciencia & TecnologÃa.
+        - complementary [ref=f3e59]:
+          - generic [ref=f3e60]:
+            - generic [ref=f3e61]: 15 aÃ±os
+            - text: Experiencia en el sector pÃºblico
+          - generic [ref=f3e62]:
+            - generic [ref=f3e63]: "3"
+            - text: Cargos principales
+          - generic [ref=f3e64]:
+            - generic [ref=f3e65]: 2010-2012
+            - text: Columbia University
+  - button "Ver widgets" [ref=f3e67] [cursor=pointer]
+  - complementary [aria-hidden] [ref=f3e68]:
+    - generic [ref=f3e69]:
+      - heading [level=3] [ref=f3e70]: Widgets de Elementor usados
+      - button [ref=f3e71] [cursor=pointer]: Cerrar
+    - generic [ref=f3e72]:
+      - generic [ref=f3e73]:
+        - checkbox [ref=f3e74]
+        - text: Marcar widgets sobre la pÃ¡gina
+      - paragraph [ref=f3e75]: Figma mide 1920 px de ancho y el contenido va de 200 a 1720 (1520 px). En Desktop (>1366) el contenedor es de 1500 px y las medidas se escalan Ã—0,987, casi las del Figma (H1 63/86, texto 18, H2 26). En Laptop (â‰¤1366) se usa la versiÃ³n de 1300 px (Ã—0,855).
+      - heading [level=4] [ref=f3e76]: Ajustes generales
+      - table [ref=f3e77]:
+        - rowgroup [ref=f3e78]:
+          - row [ref=f3e79]:
+            - columnheader [ref=f3e80]: Ajuste
+            - columnheader [ref=f3e81]: Valor
+          - row [ref=f3e82]:
+            - cell [ref=f3e83]: Contenedor padre
+            - cell [ref=f3e84]: En caja Â· 1500 px (â‰¥1367 px; 1300 px en Laptop) Â· Laptop â‰¤1366 Â· Tablet â‰¤1024 Â· Mobile â‰¤767
+          - row [ref=f3e85]:
+            - cell [ref=f3e86]: Fuentes
+            - cell [ref=f3e87]: Montserrat (800/700/400) Â· Open Sans (400/700)
+          - row [ref=f3e88]:
+            - cell [ref=f3e89]: Colores
+            - cell [ref=f3e90]:
+              - text: Dorado
+              - code [ref=f3e91]: "#D6A752"
+              - text: Â· Azul
+              - code [ref=f3e92]: "#030A22"
+              - text: Â· Fondo
+              - code [ref=f3e93]: "#F3F6FB"
+      - heading [level=4] [ref=f3e94]: VersiÃ³n Laptop 1366 (a escala)
+      - paragraph [ref=f3e95]: Es la misma pÃ¡gina reducida en proporciÃ³n 1366 / 1920 = Ã—0,7115 sobre las medidas del Figma, igual que la pÃ¡gina "Laptop" del archivo. En Elementor son los valores del dispositivo Laptop (Ajustes del sitio â†’ Puntos de interrupciÃ³n, hasta 1366).
+      - table [ref=f3e96]:
+        - rowgroup [ref=f3e97]:
+          - row [ref=f3e98]:
+            - columnheader [ref=f3e99]: Elemento
+            - columnheader [ref=f3e100]: Desktop 1500
+            - columnheader [ref=f3e101]: Laptop 1366
+          - row [ref=f3e102]:
+            - cell [ref=f3e103]: Contenedor
+            - cell [ref=f3e104]: 1500 px
+            - cell [ref=f3e105]: 1081 px
+          - row [ref=f3e106]:
+            - cell [ref=f3e107]: Hero alto mÃn.
+            - cell [ref=f3e108]: "850"
+            - cell [ref=f3e109]: "613"
+          - row [ref=f3e110]:
+            - cell [ref=f3e111]: DIANA / PEREIRA
+            - cell [ref=f3e112]: 63 / 86
+            - cell [ref=f3e113]: 45 / 62
+          - row [ref=f3e114]:
+            - cell [ref=f3e115]: Texto de portada
+            - cell [ref=f3e116]: 28 / 47
+            - cell [ref=f3e117]: 20 / 34
+          - row [ref=f3e118]:
+            - cell [ref=f3e119]: TÃtulo Especialidades
+            - cell [ref=f3e120]: "25"
+            - cell [ref=f3e121]: "18"
+          - row [ref=f3e122]:
+            - cell [ref=f3e123]: Textos de la barra
+            - cell [ref=f3e124]: 18 / 24
+            - cell [ref=f3e125]: 13 / 17
+          - row [ref=f3e126]:
+            - cell [ref=f3e127]: Relleno de la tarjeta
+            - cell [ref=f3e128]: 54 / 80
+            - cell [ref=f3e129]: 39 / 58
+          - row [ref=f3e130]:
+            - cell [ref=f3e131]: Columna derecha
+            - cell [ref=f3e132]: "340"
+            - cell [ref=f3e133]: "245"
+          - row [ref=f3e134]:
+            - cell [ref=f3e135]: TÃtulos H2
+            - cell [ref=f3e136]: "26"
+            - cell [ref=f3e137]: "19"
+          - row [ref=f3e138]:
+            - cell [ref=f3e139]: Texto del CV
+            - cell [ref=f3e140]: 18 / 33
+            - cell [ref=f3e141]: 13 / 24
+          - row [ref=f3e142]:
+            - cell [ref=f3e143]: Cifras
+            - cell [ref=f3e144]: 37 / 18
+            - cell [ref=f3e145]: 27 / 13
+      - heading [level=4] [ref=f3e146]: VersiÃ³n Mobile 375 (Figma mÃ³vil 430)
+      - paragraph [ref=f3e147]: "DiseÃ±o propio del Figma mÃ³vil (frame de 430 px). En Elementor mobile (375 px) todo se escala Ã—0,872 y las letras quedan al 87 % del XD, como en la guÃa. Fuentes del mÃ³vil: Montserrat (nombre y cifras), Sora (tÃtulos de secciÃ³n y \"Especialidades\"), Manrope (texto de portada y barra), Open Sans (cuerpo)."
+      - table [ref=f3e148]:
+        - rowgroup [ref=f3e149]:
+          - row [ref=f3e150]:
+            - columnheader [ref=f3e151]: Elemento
+            - columnheader [ref=f3e152]: Figma 430
+            - columnheader [ref=f3e153]: Mobile 375
+          - row [ref=f3e154]:
+            - cell [ref=f3e155]: Hero alto
+            - cell [ref=f3e156]: "931"
+            - cell [ref=f3e157]: "812"
+          - row [ref=f3e158]:
+            - cell [ref=f3e159]: DIANA / PEREIRA
+            - cell [ref=f3e160]: 30,9 / 42
+            - cell [ref=f3e161]: 27 / 36,6
+          - row [ref=f3e162]:
+            - cell [ref=f3e163]: Texto de portada
+            - cell [ref=f3e164]: 16 / 28 (Manrope)
+            - cell [ref=f3e165]: 14 / 24,4
+          - row [ref=f3e166]:
+            - cell [ref=f3e167]: Barra de Especialidades
+            - cell [ref=f3e168]: 2 Ã— 2, 382 de ancho
+            - cell [ref=f3e169]: 2 Ã— 2, 333 de ancho; textos 10,5 (Figma 12)
+          - row [ref=f3e170]:
+            - cell [ref=f3e171]: Foto
+            - cell [ref=f3e172]: 430 Ã— 390 pegada abajo
+            - cell [ref=f3e173]: 375 Ã— 340, recortada (imagen al 146 %, izq. âˆ’26 %, arriba âˆ’13 %)
+          - row [ref=f3e174]:
+            - cell [ref=f3e175]: Tarjeta
+            - cell [ref=f3e176]: 390 de ancho, margen 20, radio 20
+            - cell [ref=f3e177]: Ancho 100 % con 17 de margen, radio 17, relleno 44 / 17
+          - row [ref=f3e178]:
+            - cell [ref=f3e179]: TÃtulos H2
+            - cell [ref=f3e180]: 26 (Sora Bold)
+            - cell [ref=f3e181]: 22,7
+          - row [ref=f3e182]:
+            - cell [ref=f3e183]: Texto del CV
+            - cell [ref=f3e184]: 18 / 34
+            - cell [ref=f3e185]: 15,7 / 29,6
+          - row [ref=f3e186]:
+            - cell [ref=f3e187]: Listas
+            - cell [ref=f3e188]: 18 / 28, separaciÃ³n 17
+            - cell [ref=f3e189]: 15,7 / 24,4, separaciÃ³n 14,8
+          - row [ref=f3e190]:
+            - cell [ref=f3e191]: Datos (15 aÃ±os, 3, 2010-2012)
+            - cell [ref=f3e192]: Dentro de Resumen, tras el texto; borde izq. 2 px dorado; cifra 37 / texto 18
+            - cell [ref=f3e193]: Mismo bloque, cifra 32,3 / texto 15,7, sin sticky
+      - heading [level=4] [ref=f3e194]: Widgets por secciÃ³n
+      - table [ref=f3e195]:
+        - rowgroup [ref=f3e196]:
+          - row [ref=f3e197]:
+            - columnheader [ref=f3e198]: SecciÃ³n
+            - columnheader [ref=f3e199]: Widget
+            - columnheader [ref=f3e200]: ConfiguraciÃ³n (Figma â†’ Elementor)
+          - row [ref=f3e201]:
+            - cell [ref=f3e202]: Hero
+            - cell [ref=f3e203]: Contenedor
+            - cell [ref=f3e204]: Ancho completo, imagen de fondo + degradado; alto mÃn. 727 (Figma 850)
+          - row [ref=f3e205]:
+            - cell [ref=f3e206]: Hero
+            - cell [ref=f3e207]: Imagen (logo)
+            - cell [ref=f3e208]: 158 px (Figma 184)
+          - row [ref=f3e209]:
+            - cell [ref=f3e210]: Hero
+            - cell [ref=f3e211]: Encabezado H1
+            - cell [ref=f3e212]: DIANA 55 px dorado, PEREIRA 74 px blanco (Figma 64/87). Dos spans, Montserrat 800, espaciado 2,2
+          - row [ref=f3e213]:
+            - cell [ref=f3e214]: Hero
+            - cell [ref=f3e215]: Editor de texto
+            - cell [ref=f3e216]: 24 px / 41 (Figma 28/48), ancho 700
+          - row [ref=f3e217]:
+            - cell [ref=f3e218]: Hero
+            - cell [ref=f3e219]: Contenedor fila + tÃtulo + 4 Cajas de imagen
+            - cell [ref=f3e220]:
+              - text: "Ancho 700, relleno 34/14/26/14, alinear elementos: Inicio (arriba) para que los Ãconos queden en una lÃnea. Borde 1 px dorado dibujado con CSS"
+              - code [ref=f3e221]: ::before
+              - text: para que el tÃtulo lo corte. TÃtulo Montserrat 21 px dorado, absoluto arriba a la izquierda (36 px). Imagen 36 px de alto, texto 15 px (Figma 18), separadores con borde izq. 1 px
+          - row [ref=f3e222]:
+            - cell [ref=f3e223]: Hero
+            - cell [ref=f3e224]: Imagen (foto Diana)
+            - cell [ref=f3e225]: MÃ¡x. 575 px (Figma 828), alineada abajo
+          - row [ref=f3e226]:
+            - cell [ref=f3e227]: Fondo
+            - cell [ref=f3e228]: Contenedor ancho completo
+            - cell [ref=f3e229]: "Fondo #F3F6FB, direcciÃ³n columna, alinear elementos: centro, relleno 0/16 a los lados"
+          - row [ref=f3e230]:
+            - cell [ref=f3e231]: Tarjeta
+            - cell [ref=f3e232]: Contenedor ancho completo con ancho 1300 px
+            - cell [ref=f3e233]:
+              - text: "No usar \"en caja\": en caja deja el fondo blanco y la sombra a pantalla completa. Ancho 1500 px (100 % en Laptop y Tablet), margen 64 arriba y abajo, fila, radio 20, sombra 0 3 16 rgba(6,8,26,.16), relleno 46/69 (Figma 1519 de ancho). CSS:"
+              - code [ref=f3e234]: "selector{max-width:100%}"
+          - row [ref=f3e235]:
+            - cell [ref=f3e236]: Resumen
+            - cell [ref=f3e237]: Contenedor secciÃ³n â†’ Contenedor fila (Imagen + H2) + Editor de texto
+            - cell [ref=f3e238]: H2 22 px dorado (Figma 26); texto 16 px / 29 (Figma 18/34), sangrÃa 53
+          - row [ref=f3e239]:
+            - cell [ref=f3e240]: Cargos, FormaciÃ³n, Aportes
+            - cell [ref=f3e241]: Contenedor secciÃ³n â†’ Contenedor fila (Imagen + H2) + Lista de iconos
+            - cell [ref=f3e242]: ViÃ±eta SVG propia, 16 px / 24, separaciÃ³n 16 (Figma 20); lÃnea inferior 1 px
+          - row [ref=f3e243]:
+            - cell [ref=f3e244]: Columna derecha
+            - cell [ref=f3e245]: 3 Ã— Contenedor columna (Encabezado + Editor de texto)
+            - cell [ref=f3e246]: "Cifra 32 px Montserrat 800 (Figma 37); borde izq. 1 px dorado; ancho 300. Fija al hacer scroll: contenedor en Avanzado â†’ Efectos de movimiento â†’ Fijo (Sticky) â†’ Arriba, desplazamiento 24, solo Desktop y Laptop"
+          - row [ref=f3e247]:
+            - cell [ref=f3e248]: Mobile
+            - cell [ref=f3e249]: Todos
+            - cell [ref=f3e250]: Una columna, estadÃsticas bajo el texto; letras al 87 % del XD, revisar a 375
+      - heading [level=4] [ref=f3e251]: Clases sugeridas
+      - paragraph [ref=f3e252]:
+        - code [ref=f3e253]: ak-dp-hero
+        - text: ","
+        - code [ref=f3e254]: ak-dp-esp
+        - text: ","
+        - code [ref=f3e255]: ak-dp-card
+        - text: ","
+        - code [ref=f3e256]: ak-dp-sec
+        - text: ","
+        - code [ref=f3e257]: ak-dp-side
+        - text: . El CSS va en Avanzado â†’ CSS personalizado del contenedor padre, con
+        - code [ref=f3e258]: selector
+        - text: . Nada de "Ocultar en MÃ³vil/Desktop".

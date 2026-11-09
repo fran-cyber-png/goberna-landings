@@ -1,0 +1,44 @@
+- generic [ref=f7e3]:
+  - generic [ref=f7e4]:
+    - img "Goberna" [ref=f7e8]
+    - generic [ref=f7e9]:
+      - heading "ANDRÉS" [level=1] [ref=f7e12]
+      - heading "PEÑARANDA" [level=1] [ref=f7e15]
+      - paragraph [ref=f7e18]: Especialista en Operaciones de Información e Inteligencia Estratégica
+    - img "Andrés Peñaranda" [ref=f7e22]
+    - generic [ref=f7e23]:
+      - paragraph [ref=f7e26]: Especialidades
+      - generic [ref=f7e27]:
+        - paragraph [ref=f7e32]: Operaciones deInformación
+        - paragraph [ref=f7e38]: InteligenciaEstratégica
+        - paragraph [ref=f7e44]: ComunicaciónEstratégica
+        - paragraph [ref=f7e50]: Seguridad yDefensa Nacional
+  - generic [ref=f7e53]:
+    - generic [ref=f7e54]:
+      - heading "Resumen ejecutivo" [level=2] [ref=f7e57]
+      - paragraph [ref=f7e60]: Andrés Peñaranda es consultor internacional y especialista en operaciones de información, inteligencia estratégica y comunicación estratégica, con más de 25 años de experiencia en seguridad y defensa nacional. Ha desarrollado asesorías para instituciones públicas y privadas en escenarios complejos, integrando análisis estratégico, gestión de riesgos, comunicación estratégica y planificación para la toma de decisiones. Su trayectoria está enfocada en el fortalecimiento de capacidades institucionales, análisis de amenazas y diseño de estrategias para enfrentar entornos de alta incertidumbre.
+      - heading "Cargos principales y trayectoria" [level=2] [ref=f7e64]
+      - list [ref=f7e67]:
+        - listitem [ref=f7e68]: Consultor Internacional en Seguridad, Inteligencia Estratégica y Comunicación Estratégica.
+        - listitem [ref=f7e69]: Especialista en Operaciones de Información y planificación estratégica para escenarios complejos.
+        - listitem [ref=f7e70]: Asesor en Seguridad y Defensa Nacional, análisis de amenazas y fortalecimiento institucional.
+        - listitem [ref=f7e71]: Consultor en proyectos de gobernanza, gestión estratégica y comunicación institucional.
+      - heading "Formación académica" [level=2] [ref=f7e75]
+      - list [ref=f7e78]:
+        - listitem [ref=f7e79]: Magíster en Administración, Gobierno y Políticas Públicas.
+        - listitem [ref=f7e80]: Formación especializada en Operaciones de Información, Inteligencia Estratégica y Seguridad Nacional.
+      - heading "Aportes destacados y publicaciones" [level=2] [ref=f7e84]
+      - list [ref=f7e87]:
+        - listitem [ref=f7e88]: Más de 25 años de experiencia en seguridad, defensa, inteligencia y asesoría estratégica.
+        - listitem [ref=f7e89]: Desarrollo de estrategias de operaciones de información y comunicación estratégica para escenarios de crisis y alta complejidad.
+        - listitem [ref=f7e90]: Participación en proyectos relacionados con gobernanza, seguridad y fortalecimiento de capacidades institucionales.
+    - generic [ref=f7e92]:
+      - generic [ref=f7e93]:
+        - paragraph [ref=f7e96]: +25 años
+        - paragraph [ref=f7e99]: Seguridad y defensa nacional
+      - generic [ref=f7e100]:
+        - paragraph [ref=f7e103]: Magíster
+        - paragraph [ref=f7e106]: Administración, Gobierno y Políticas Públicas
+      - generic [ref=f7e107]:
+        - paragraph [ref=f7e110]: Consultor
+        - paragraph [ref=f7e113]: Internacional en Inteligencia Estratégica

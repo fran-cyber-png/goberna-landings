@@ -1,0 +1,34 @@
+{
+ "slug": "eduardo-velandia",
+ "nombre_completo": "Eduardo Velandia Becerra",
+ "hoja_gid": "1328779815",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "184:1095",
+  "laptop": "338:472",
+  "mobile": "316:342"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "184:1102",
+  "tarjeta_desktop": "184:1148",
+  "portada_movil": "316:343",
+  "tarjeta_movil": "316:379"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "194:45"
+  ],
+  "movil": [
+   "316:354"
+  ]
+ },
+ "items_esperados": {
+  "car": 3,
+  "for": 4,
+  "apo": 3
+ },
+ "lineas_titular": {
+  "desktop": 2,
+  "movil": 2
+ }
+}

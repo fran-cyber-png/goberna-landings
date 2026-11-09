@@ -1,0 +1,88 @@
+{
+ "nombre_completo": "Andrés Peñaranda",
+ "nombre": {
+  "d": [
+   "ANDRÉS",
+   "PEÑARANDA"
+  ],
+  "m": [
+   "ANDRÉS",
+   "PEÑARANDA"
+  ]
+ },
+ "titular": "Especialista en Operaciones de Información e Inteligencia Estratégica",
+ "especialidades": {
+  "d": [
+   "Operaciones de<br>Información",
+   "Inteligencia<br>Estratégica",
+   "Comunicación<br>Estratégica",
+   "Seguridad y<br>Defensa Nacional"
+  ],
+  "m": [
+   "Operaciones de<br>Información",
+   "Inteligencia<br>Estratégica",
+   "Comunicación<br>Estratégica",
+   "Seguridad y<br>Defensa Nacional"
+  ]
+ },
+ "cifras": [
+  {
+   "big": "+25 años",
+   "small": "Seguridad y defensa nacional"
+  },
+  {
+   "big": "Magíster",
+   "small": "Administración, Gobierno y Políticas Públicas"
+  },
+  {
+   "big": "Consultor",
+   "small": "Internacional en Inteligencia Estratégica"
+  }
+ ],
+ "resumen": [
+  "<b>Andrés Peñaranda es consultor internacional y especialista en operaciones de información, inteligencia estratégica y comunicación estratégica, con más de 25 años de experiencia en seguridad y defensa nacional.</b> Ha desarrollado asesorías para instituciones públicas y privadas en escenarios complejos, integrando análisis estratégico, gestión de riesgos, comunicación estratégica y planificación para la toma de decisiones. Su trayectoria está enfocada en el fortalecimiento de capacidades institucionales, análisis de amenazas y diseño de estrategias para enfrentar entornos de alta incertidumbre."
+ ],
+ "cargos": [
+  "<b>Consultor Internacional</b> en Seguridad, Inteligencia Estratégica y Comunicación Estratégica.",
+  "<b>Especialista en Operaciones de Información</b> y planificación estratégica para escenarios complejos.",
+  "<b>Asesor en Seguridad y Defensa Nacional</b>, análisis de amenazas y fortalecimiento institucional.",
+  "<b>Consultor en proyectos de gobernanza</b>, gestión estratégica y comunicación institucional."
+ ],
+ "formacion": [
+  "<b>Magíster en Administración, Gobierno y Políticas Públicas.</b>",
+  "<b>Formación especializada</b> en Operaciones de Información, Inteligencia Estratégica y Seguridad Nacional."
+ ],
+ "aportes": [
+  "<b>Más de 25 años de experiencia</b> en seguridad, defensa, inteligencia y asesoría estratégica.",
+  "<b>Desarrollo de estrategias de operaciones de información y comunicación estratégica</b> para escenarios de crisis y alta complejidad.",
+  "<b>Participación en proyectos</b> relacionados con gobernanza, seguridad y fortalecimiento de capacidades institucionales."
+ ],
+ "titulo_aportes": "Aportes destacados y publicaciones",
+ "foto": {
+  "archivo": "andres-penaranda.webp",
+  "d": [
+   928,
+   101,
+   792,
+   749
+  ],
+  "m": [
+   9,
+   542,
+   412,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "501:2",
+  "laptop": "506:141",
+  "mobile": "509:168",
+  "foto": [
+   "511:19",
+   "511:23",
+   "511:25"
+  ],
+  "hoja_gid": "1001048987"
+ }
+}

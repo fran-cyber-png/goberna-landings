@@ -1,0 +1,34 @@
+{
+ "slug": "cristiano-lamas",
+ "nombre_completo": "Cristiano Lamas",
+ "hoja_gid": "405241833",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "184:550",
+  "laptop": "338:326",
+  "mobile": "316:172"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "184:557",
+  "tarjeta_desktop": "184:603",
+  "portada_movil": "316:173",
+  "tarjeta_movil": "316:209"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "194:42"
+  ],
+  "movil": [
+   "316:184"
+  ]
+ },
+ "items_esperados": {
+  "car": 4,
+  "for": 4,
+  "apo": 3
+ },
+ "lineas_titular": {
+  "desktop": 2,
+  "movil": 2
+ }
+}

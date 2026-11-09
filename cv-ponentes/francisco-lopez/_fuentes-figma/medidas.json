@@ -1,0 +1,443 @@
+{
+ "figma": {
+  "desktop": "469:2",
+  "mobile": "473:2"
+ },
+ "desktop": {
+  "alto_total": 3428.14,
+  "titular_lineas": 1,
+  "barra_top": 536.0,
+  "esp_fila": [
+   42.54,
+   116.92
+  ],
+  "esp_iconos_d": [
+   {
+    "nodo": "470:6",
+    "nombre": "Ícono Criminología",
+    "ancho": 35.17,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "469:31",
+    "nombre": "Ícono Investigación Privada",
+    "ancho": 28.79,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "469:43",
+    "nombre": "Ícono Consultoría de Seguridad",
+    "ancho": 33.1,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "469:48",
+    "nombre": "Ícono Inteligencia Aplicada",
+    "ancho": 36.92,
+    "contenedor_alto": 36.92,
+    "alto": 36.92
+   }
+  ],
+  "esp_lineas_d": [
+   1,
+   2,
+   2,
+   2
+  ],
+  "esp_item_alto": 116.92,
+  "foto_capa_d": [
+   {
+    "nodo": "477:2",
+    "nombre": "FranciscoLopez (2) 1",
+    "x": 947.0,
+    "y": 101.0,
+    "w": 773.0,
+    "h": 749.0
+   }
+  ],
+  "tarjeta_alto": 2418.14,
+  "linea_dorada": [
+   81.0,
+   291.0
+  ],
+  "cifras_d": [
+   {
+    "top": 0.0,
+    "alto": 65.0,
+    "big_h": 45.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 328.0
+   },
+   {
+    "top": 104.0,
+    "alto": 65.0,
+    "big_h": 46.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 382.0
+   },
+   {
+    "top": 208.0,
+    "alto": 68.0,
+    "big_h": 45.0,
+    "small_top": 40.0,
+    "small_h": 28.0,
+    "small_w": 429.0
+   }
+  ],
+  "cifras_frame": [
+   1052.0,
+   88.0,
+   372.0,
+   276.0
+  ],
+  "secciones_d": {
+   "res": {
+    "top": 54.0,
+    "x": 80.0,
+    "alto": 360.03,
+    "cuerpo_top": 88.03,
+    "cuerpo_x": 62.0,
+    "cuerpo_alto": 272.0,
+    "titulo_nodo": "469:123"
+   },
+   "car": {
+    "top": 464.03,
+    "x": 81.0,
+    "alto": 552.7,
+    "cuerpo_top": 88.7,
+    "cuerpo_x": 61.0,
+    "cuerpo_alto": 464.0,
+    "titulo_nodo": "469:100",
+    "estilo": "items",
+    "n": 6,
+    "item_tops": [
+     0.0,
+     104.0,
+     180.0,
+     284.0,
+     360.0,
+     436.0
+    ],
+    "item_altos": [
+     84.0,
+     56.0,
+     84.0,
+     56.0,
+     56.0,
+     28.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "for": {
+    "top": 1066.73,
+    "x": 84.0,
+    "alto": 593.2,
+    "cuerpo_top": 89.2,
+    "cuerpo_x": 58.0,
+    "cuerpo_alto": 504.0,
+    "titulo_nodo": "469:117",
+    "estilo": "items",
+    "n": 8,
+    "item_tops": [
+     0.0,
+     76.0,
+     124.0,
+     200.0,
+     304.0,
+     352.0,
+     400.0,
+     448.0
+    ],
+    "item_altos": [
+     56.0,
+     28.0,
+     56.0,
+     84.0,
+     28.0,
+     28.0,
+     28.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "apo": {
+    "top": 1709.94,
+    "x": 81.0,
+    "alto": 654.2,
+    "cuerpo_top": 86.2,
+    "cuerpo_x": 61.5,
+    "cuerpo_alto": 540.0,
+    "titulo_nodo": "469:147",
+    "estilo": "items",
+    "n": 7,
+    "item_tops": [
+     0.0,
+     104.0,
+     208.0,
+     284.0,
+     360.0,
+     408.0,
+     484.0
+    ],
+    "item_altos": [
+     84.0,
+     84.0,
+     56.0,
+     56.0,
+     28.0,
+     56.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   }
+  },
+  "divisores_d": [
+   439.03,
+   1041.73,
+   1684.94
+  ]
+ },
+ "movil": {
+  "alto_total": 5767.0,
+  "portada_alto": 931.0,
+  "titular_lineas": 2,
+  "titular_top": 181.0,
+  "nombre": [
+   203.0,
+   72.0
+  ],
+  "barra": [
+   24.0,
+   298.0,
+   382.0,
+   181.0
+  ],
+  "esp_iconos_m": [
+   {
+    "nodo": "473:125",
+    "x": 108.93,
+    "y": 329.3,
+    "w": 22.15,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "473:33",
+    "x": 306.93,
+    "y": 329.3,
+    "w": 18.13,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "473:29",
+    "x": 109.58,
+    "y": 406.5,
+    "w": 20.84,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "473:31",
+    "x": 304.5,
+    "y": 406.8,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   }
+  ],
+  "esp_textos_m": [
+   {
+    "x": 85.0,
+    "y": 357.0,
+    "w": 70.0,
+    "lineas": 1
+   },
+   {
+    "x": 279.0,
+    "y": 357.0,
+    "w": 74.0,
+    "lineas": 2
+   },
+   {
+    "x": 79.0,
+    "y": 434.98,
+    "w": 82.0,
+    "lineas": 2
+   },
+   {
+    "x": 283.5,
+    "y": 434.9,
+    "w": 65.0,
+    "lineas": 2
+   }
+  ],
+  "foto_capa_m": [
+   {
+    "nodo": "477:8",
+    "nombre": "FranciscoLopez (2) 1",
+    "x": 8.0,
+    "y": 542.0,
+    "w": 415.0,
+    "h": 389.0
+   }
+  ],
+  "tarjeta": [
+   951.0,
+   4796.0
+  ],
+  "interior": [
+   20.0,
+   51.0,
+   4694.0
+  ],
+  "resumen_m": {
+   "top": 0.0,
+   "alto": 1128.0,
+   "texto": [
+    66.0,
+    680.0
+   ],
+   "datos": [
+    20.0,
+    786.0,
+    312.0,
+    342.0
+   ],
+   "dato": [
+    {
+     "top": 0.0,
+     "alto": 91.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 44.0
+    },
+    {
+     "top": 119.0,
+     "alto": 92.0,
+     "big_h": 46.0,
+     "small_top": 48.0,
+     "small_h": 44.0
+    },
+    {
+     "top": 239.0,
+     "alto": 103.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 56.0
+    }
+   ]
+  },
+  "secciones_m": {
+   "car": {
+    "top": 1228.0,
+    "alto": 969.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 841.0,
+    "estilo": "items",
+    "n": 6,
+    "item_tops": [
+     0.0,
+     185.0,
+     314.0,
+     471.0,
+     628.0,
+     757.0
+    ],
+    "item_altos": [
+     168.0,
+     112.0,
+     140.0,
+     140.0,
+     112.0,
+     84.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "for": {
+    "top": 2297.0,
+    "alto": 945.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 98.0,
+    "lista_alto": 847.0,
+    "estilo": "items",
+    "n": 8,
+    "item_tops": [
+     0.0,
+     129.0,
+     230.0,
+     359.0,
+     544.0,
+     617.0,
+     690.0,
+     763.0
+    ],
+    "item_altos": [
+     112.0,
+     84.0,
+     112.0,
+     168.0,
+     56.0,
+     56.0,
+     56.0,
+     84.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "apo": {
+    "top": 3342.0,
+    "alto": 1352.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 1224.0,
+    "estilo": "items",
+    "n": 7,
+    "item_tops": [
+     0.0,
+     221.0,
+     510.0,
+     663.0,
+     816.0,
+     901.0,
+     1054.0
+    ],
+    "item_altos": [
+     204.0,
+     272.0,
+     136.0,
+     136.0,
+     68.0,
+     136.0,
+     170.0
+    ],
+    "gap": [
+     17.0
+    ]
+   }
+  },
+  "divisores_m": [
+   1178.0,
+   2247.0,
+   3292.0
+  ]
+ }
+}

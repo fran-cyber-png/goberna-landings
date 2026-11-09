@@ -1,0 +1,86 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - heading "Plantilla Gonzalo Catanzariti" [level=1] [ref=f2e3]
+    - group "Ancho de pantalla" [ref=f2e4]:
+      - button "Desktop 1920" [pressed] [ref=f2e5] [cursor=pointer]
+      - button "Laptop 1366" [ref=f2e6] [cursor=pointer]
+      - button "Mobile 375" [ref=f2e7] [cursor=pointer]
+    - button "Ver widgets" [ref=f2e8] [cursor=pointer]
+    - paragraph [ref=f2e9]: Vista previa del diseño aprobado en Figma (532:2, 535:2, 538:2). Laptop es el desktop escalado a 1366 px; móvil es el frame de 430 px escalado a 375 px. Las cifras de la derecha quedan fijas al hacer scroll en desktop y laptop.
+  - generic [ref=f2e11]:
+    - generic [ref=f2e12]:
+      - img "Goberna" [ref=f2e14]
+      - generic [ref=f2e15]:
+        - paragraph [ref=f2e16]: GONZALO
+        - paragraph [ref=f2e17]: CATANZARITI
+        - paragraph [ref=f2e18]: Especialista en ciberinteligencia, investigación digital y análisis del cibercrimen
+      - img "Gonzalo Catanzariti" [ref=f2e20]
+      - generic [ref=f2e21]:
+        - generic [ref=f2e22]: Especialidades
+        - generic [ref=f2e23]:
+          - generic [ref=f2e24]: Arquitectura deCiberseguridad
+          - generic [ref=f2e27]: Investigación deCiberdelitos
+          - generic [ref=f2e30]: InformáticaForense
+          - generic [ref=f2e33]: OSINT y SOCMINT
+    - generic [ref=f2e37]:
+      - generic [ref=f2e38]:
+        - heading "Resumen ejecutivo" [level=2] [ref=f2e39]
+        - paragraph [ref=f2e41]: Gonzalo Catanzariti es licenciado en Seguridad en Tecnologías de la Información y las Comunicaciones y licenciado en Seguridad Marítima. Su trayectoria combina la investigación judicial de ciberdelitos y la informática forense en la Prefectura Naval Argentina con la protección de activos de información en el sector financiero. Desde marzo de 2025 lidera el equipo de Arquitectura de Ciberseguridad de Banco Comafi, supervisando la seguridad de proyectos tecnológicos, entornos cloud, gestión de vulnerabilidades y DevSecOps. Complementa su experiencia con docencia universitaria en ciberseguridad, evidencia digital y herramientas de inteligencia
+        - heading "Cargos principales y trayectoria" [level=2] [ref=f2e43]
+        - list [ref=f2e45]:
+          - listitem [ref=f2e46]:
+            - generic [ref=f2e47]: "Líder de Arquitectura de Ciberseguridad — Banco Comafi (desde 2025): conducción de equipos de IT Advisor, Business Advisor y DevSecOps; definición de estándares y supervisión de implementaciones tecnológicas."
+          - listitem [ref=f2e48]:
+            - generic [ref=f2e49]: "Arquitecto de Ciberseguridad — Banco Comafi (desde 2022): evaluación de proyectos, planificación de pentesting y gestión de vulnerabilidades en API, microservicios y entornos cloud."
+          - listitem [ref=f2e50]:
+            - generic [ref=f2e51]: "División Investigación de los Ciberdelitos — Prefectura Naval Argentina (desde 2019): intervención en investigaciones judiciales sobre hacking, accesos indebidos y ataques DoS y DDoS."
+          - listitem [ref=f2e52]:
+            - generic [ref=f2e53]: "Infraestructura de Sistemas — Prefectura Naval Argentina (desde 2016): implementación y mantenimiento de centros de datos, virtualización y almacenamiento."
+          - listitem [ref=f2e54]:
+            - generic [ref=f2e55]: "Pericias Informáticas — Prefectura Naval Argentina (desde 2013): análisis de elementos sujetos a disposición judicial, preservación de evidencia digital y cadena de custodia."
+          - listitem [ref=f2e56]:
+            - generic [ref=f2e57]: "Docente — Instituto Universitario de Seguridad Marítima (2019⁠–⁠2026): tecnologías de la información, cibercrimen, evidencia digital, redes, seguridad ofensiva y marcos regulatorios."
+          - listitem [ref=f2e58]:
+            - generic [ref=f2e59]: "Docente — Universidad Abierta Interamericana (2024): Tecnología y Herramientas de Inteligencia."
+          - listitem [ref=f2e60]:
+            - generic [ref=f2e61]: "Docente — GOBERNA (2026): inteligencia en fuentes abiertas digitales (OSINT) y SOCMINT."
+          - listitem [ref=f2e62]:
+            - generic [ref=f2e63]: "Docente — UPJET (2026): Fundamentos de Ciberseguridad."
+        - heading "Formación académica" [level=2] [ref=f2e65]
+        - list [ref=f2e67]:
+          - listitem [ref=f2e68]:
+            - generic [ref=f2e69]: Licenciatura en Seguridad en Tecnologías de la Información y las Comunicaciones — Instituto Universitario de la Policía Federal Argentina (2021).
+          - listitem [ref=f2e70]:
+            - generic [ref=f2e71]: Licenciatura en Seguridad Marítima — Instituto Universitario de Seguridad Marítima (2007).
+          - listitem [ref=f2e72]:
+            - generic [ref=f2e73]: Auditor Interno de Sistemas de Gestión de Seguridad de la Información ISO 27001:2022 — TÜV Rheinland Argentina (2023).
+          - listitem [ref=f2e74]:
+            - generic [ref=f2e75]: Certified in Cybersecurity (CC) — ISC2 (2023).
+          - listitem [ref=f2e76]:
+            - generic [ref=f2e77]: Certificado en Liderazgo de Ciberseguridad — OEA e Instituto Jack D. Gordon de Política Pública de Florida International University (2018).
+          - listitem [ref=f2e78]:
+            - generic [ref=f2e79]: Meya Pico Forensic Examiner Certified — Meya Pico (2018).
+          - listitem [ref=f2e80]:
+            - generic [ref=f2e81]: Formación en EnCase Computer Forensic I y II, administración de sistemas Linux y Ethical Hacking.
+        - heading "Aportes destacados y publicaciones" [level=2] [ref=f2e83]
+        - list [ref=f2e85]:
+          - listitem [ref=f2e86]:
+            - generic [ref=f2e87]: Participación en investigaciones judiciales de ciberdelitos y análisis pericial de evidencia digital.
+          - listitem [ref=f2e88]:
+            - generic [ref=f2e89]: Liderazgo de equipos para integrar la ciberseguridad en proyectos tecnológicos y en el ciclo de vida del software.
+          - listitem [ref=f2e90]:
+            - generic [ref=f2e91]: Definición y validación de criterios de seguridad para API, microservicios y entornos cloud.
+          - listitem [ref=f2e92]:
+            - generic [ref=f2e93]: Planificación y supervisión de pruebas de intrusión y procesos de gestión de vulnerabilidades.
+          - listitem [ref=f2e94]:
+            - generic [ref=f2e95]: Formación de profesionales en cibercrimen, informática forense, seguridad ofensiva, OSINT y SOCMINT.
+      - generic [ref=f2e97]:
+        - generic [ref=f2e98]:
+          - paragraph [ref=f2e99]: Desde 2013
+          - paragraph [ref=f2e100]: Pericias informáticas y evidencia digital
+        - generic [ref=f2e101]:
+          - paragraph [ref=f2e102]: Líder
+          - paragraph [ref=f2e103]: Arquitectura de Ciberseguridad en Banco Comafi
+        - generic [ref=f2e104]:
+          - paragraph [ref=f2e105]: 2 licenciaturas
+          - paragraph [ref=f2e106]: Seguridad TIC y Seguridad Marítima

@@ -1,0 +1,87 @@
+{
+ "nombre_completo": "Diana Pereira",
+ "nombre": {
+  "d": [
+   "DIANA",
+   "PEREIRA"
+  ],
+  "m": [
+   "DIANA",
+   "PEREIRA"
+  ]
+ },
+ "titular": "Profesional en Gobierno y Relaciones Internacionales, con experiencia en seguridad y liderazgo estratégico.",
+ "especialidades": {
+  "d": [
+   "Gobierno",
+   "Asuntos<br>Internacionales",
+   "Defensa y<br>Seguridad",
+   "Liderazgo y<br>Gestión de Crisis"
+  ],
+  "m": [
+   "Gobierno",
+   "Asuntos<br>Internacionales",
+   "Defensa y<br>Seguridad",
+   "Liderazgo y<br>Gestión de Crisis"
+  ]
+ },
+ "cifras": [
+  {
+   "big": "15 años",
+   "small": "Experiencia en el sector público"
+  },
+  {
+   "big": "3",
+   "small": "Cargos principales"
+  },
+  {
+   "big": "2010-2012",
+   "small": "Columbia University"
+  }
+ ],
+ "resumen": [
+  "<b>Profesional en Gobierno y Relaciones Internacionales</b>, con formación en la Escuela de Asuntos Internacionales y Públicos de la Universidad de Columbia y quince años de experiencia en el sector público colombiano. Su trayectoria comprende la gestión de crisis y el liderazgo de equipos en entornos complejos. Ha sido directora de Estudios Estratégicos del Ministerio de Defensa Nacional y asesora de la Dirección para la Ejecución de Gobierno y Áreas Estratégicas de la Presidencia de la República de Colombia. Ha participado en publicaciones del Departamento Nacional de Planeación sobre seguridad y consolidación de la paz. Es creadora de la metodología Brújula de Mando Estratégico, orientada al fortalecimiento del liderazgo corporativo e inspirada en principios de las Fuerzas Especiales."
+ ],
+ "cargos": [
+  "<b>Directora de Estudios Estratégicos</b> – Ministerio de Defensa Nacional de Colombia.",
+  "<b>Asesora de la Dirección para la Ejecución de Gobierno y Áreas Estratégicas</b> – Presidencia de la República de Colombia.",
+  "<b>Creadora de la metodología Brújula de Mando Estratégico</b>."
+ ],
+ "formacion": [
+  "<b>Estudios en la Escuela de Asuntos Internacionales y Públicos de la Universidad de Columbia</b> (2010–2012).",
+  "<b>Diplomado en Gestión de Proyectos con énfasis en el Project Management Institute (PMI)</b> – Universidad EAFIT (2022).",
+  "<b>Programa de Liderazgo de Alto Desempeño</b> – Blum."
+ ],
+ "aportes": [
+  "Desarrolló <b>Brújula de Mando Estratégico</b>, metodología para fortalecer el liderazgo corporativo y el funcionamiento de los equipos.",
+  "Registra en su perfil la publicación <b>\"Defense and Security Spending 1998–2013: Evolution and reflections on its sustainability\"</b>, vinculada al Boletín de Seguimiento a la Consolidación de la Paz del Departamento Nacional de Planeación.",
+  "Fue entrevistada como experta para una investigación sobre reincidencia en el hurto de dispositivos móviles en Bogotá, publicada en la revista <b>Logos, Ciencia & Tecnología</b>."
+ ],
+ "titulo_aportes": "Aportes Destacados",
+ "foto": {
+  "archivo": "diana-pereira-cv.webp",
+  "d": [
+   892,
+   101,
+   828,
+   749
+  ],
+  "m": [
+   0,
+   542,
+   430,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "395:2",
+  "laptop": "426:2",
+  "mobile": "409:2",
+  "foto": {
+   "desktop": "407:2",
+   "mobile": "409:14"
+  },
+  "hoja_gid": "1985372636"
+ }
+}

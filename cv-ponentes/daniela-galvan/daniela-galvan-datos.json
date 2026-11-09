@@ -1,0 +1,91 @@
+{
+ "nombre_completo": "Daniela Galván",
+ "nombre": {
+  "d": [
+   "DANIELA",
+   "GALVAN"
+  ],
+  "m": [
+   "DANIELA",
+   "GALVAN"
+  ]
+ },
+ "titular": "Especialista en investigación criminal e inteligencia digital.",
+ "especialidades": {
+  "d": [
+   "Investigación<br>Criminal",
+   "Inteligencia Digital",
+   "Prevención del<br>Ciberdelito",
+   "OSINT y SOCMINT"
+  ],
+  "m": [
+   "Investigación<br>Criminal",
+   "Inteligencia Digital",
+   "Prevención del<br>Ciberdelito",
+   "OSINT y SOCMINT"
+  ]
+ },
+ "cifras": [
+  {
+   "big": "+14 años",
+   "small": "Investigación criminal e inteligencia digital"
+  },
+  {
+   "big": "Cibercrimen",
+   "small": "Policía Federal Argentina"
+  },
+  {
+   "big": "Master",
+   "small": "Comunicación Corporativa e Institucional"
+  }
+ ],
+ "resumen": [
+  "<b>Daniela Galvan cuenta con más de 14 años de experiencia en investigación criminal e inteligencia digital.</b> Su trayectoria combina la investigación en entornos digitales con el diseño e implementación de iniciativas de formación, desarrollo profesional y transferencia de conocimiento. Actualmente se desempeña en la Dirección General de Cibercrimen de la Policía Federal Argentina, donde coordina iniciativas de formación vinculadas a la investigación digital, la prevención del ciberdelito y el fortalecimiento de competencias especializadas. Ha participado en investigaciones sobre narcotráfico, trata de personas, secuestros, estafas y ciberdelitos, incorporando nuevas tecnologías y metodologías de análisis."
+ ],
+ "cargos": [
+  "<b>Desempeño profesional en la Dirección General de Cibercrimen</b> de la Policía Federal Argentina.",
+  "<b>Coordinación de iniciativas de formación</b> en investigación digital y prevención del ciberdelito.",
+  "<b>Participación en investigaciones</b> vinculadas a delitos complejos.",
+  "<b>Participación en proyectos de incorporación, evaluación y desarrollo profesional</b> del personal.",
+  "<b>Cooperación con fuerzas de seguridad</b>, organismos públicos, instituciones académicas y organizaciones del sector privado."
+ ],
+ "formacion": [
+  "<b>Master en Comunicación Corporativa e Institucional</b> de la Universidad del Salvador.",
+  "Cursando la <b>Especialización en Cibercrimen</b> de la Facultad de Derecho de la Universidad de Buenos Aires",
+  "<b>Diplomatura en Aprendizaje y Desarrollo con Inteligencia Artificial</b> de la Universidad de Belgrano.."
+ ],
+ "aportes": [
+  "Aplicación de metodologías <b>OSINT, SOCMINT, Virtual HUMINT y técnicas de ciberpatrullaje</b> a la investigación criminal y la prevención del ciberdelito.",
+  "<b>Diseño e implementación de iniciativas de formación</b> y transferencia de conocimiento para fortalecer capacidades especializadas.",
+  "<b>Incorporación de nuevas tecnologías y metodologías de análisis</b> en investigaciones sobre delitos complejos.",
+  "Promoción del <b>aprendizaje continuo y la cooperación institucional</b> frente a los desafíos de la transformación digital."
+ ],
+ "titulo_aportes": "Aportes destacados y publicaciones",
+ "foto": {
+  "archivo": "daniela-galvan.webp",
+  "d": [
+   999,
+   101,
+   721,
+   749
+  ],
+  "m": [
+   28,
+   542,
+   375,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "450:2",
+  "laptop": "452:2",
+  "mobile": "453:2",
+  "foto": [
+   "515:28",
+   "515:30",
+   "515:32"
+  ],
+  "hoja_gid": "1768512455"
+ }
+}

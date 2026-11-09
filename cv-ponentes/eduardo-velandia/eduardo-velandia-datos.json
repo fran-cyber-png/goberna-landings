@@ -1,0 +1,95 @@
+{
+ "nombre_completo": "Eduardo Velandia Becerra",
+ "nombre": {
+  "d": [
+   "EDUARDO",
+   "VELANDIA"
+  ],
+  "m": [
+   "EDUARDO",
+   "VELANDIA"
+  ]
+ },
+ "titular": "Magíster en Ciberseguridad y Ciberdefensa, Especialista en Seguridad y Defensa Nacional",
+ "especialidades": {
+  "d": [
+   "Ciberseguridad",
+   "Ciberdefensa",
+   "Inteligencia",
+   "Seguridad<br>Nacional"
+  ],
+  "m": [
+   "Ciberseguridad",
+   "Ciberdefensa",
+   "Inteligencia",
+   "Seguridad<br>Nacional"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "Magíster",
+   "small": "Ciberseguridad y Ciberdefensa"
+  },
+  {
+   "big": "Diplomado",
+   "small": "Seguridad y Defensa Nacional"
+  },
+  {
+   "big": "Autor",
+   "small": "El Ciberespacio y los delitos transnacionales"
+  }
+ ],
+ "resumen": [
+  "<b>Eduardo Velandia Becerra</b> es especialista en ciberseguridad, ciberdefensa e inteligencia aplicada. Cuenta con formación en seguridad nacional y experiencia académica e investigativa en el análisis del ciberespacio como escenario estratégico para enfrentar amenazas contemporáneas.",
+  "Es autor del artículo <b>“El Ciberespacio como escenario para enfrentar los delitos transnacionales en Colombia”</b>, publicado por la Escuela Superior de Guerra “General Rafael Reyes Prieto”."
+ ],
+ "cargos": [
+  "Especialista en Ciberseguridad y Ciberdefensa.",
+  "Investigador y autor en temas relacionados con ciberespacio, delitos transnacionales y seguridad digital.",
+  "Profesional vinculado al ámbito académico y estratégico de la seguridad y defensa."
+ ],
+ "formacion": [
+  "<b>Magíster Ciberseguridad y Ciberdefensa</b> – Escuela Superior de Guerra, Colombia.",
+  "<b>Diplomado Oficial de Estado</b> – Escuela Superior de Guerra, Colombia.",
+  "<b>Diplomado de Seguridad y Defensa Nacional</b> – Escuela Superior de Guerra, Colombia.",
+  "<b>Especialista en Administración de Recursos para la Defensa Nacional</b> – Centro de Educación Militar, Colombia."
+ ],
+ "aportes": [
+  "<b>Autor del artículo “El Ciberespacio como escenario para enfrentar los delitos transnacionales en Colombia”.</b>",
+  "<b>Investigación sobre el ciberespacio como dominio estratégico</b> y su relación con organizaciones criminales transnacionales.",
+  "<b>Desarrollo de análisis</b> sobre seguridad digital, amenazas híbridas y protección institucional."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "eduardo-velandia.webp",
+  "d": [
+   945,
+   101,
+   775,
+   749
+  ],
+  "m": [
+   13,
+   542,
+   404,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "184:1095",
+  "laptop": "338:472",
+  "mobile": "316:342",
+  "foto": {
+   "desktop": "194:45",
+   "mobile": "316:354"
+  },
+  "hoja_gid": "1328779815"
+ }
+}

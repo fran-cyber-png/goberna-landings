@@ -1,0 +1,34 @@
+{
+ "slug": "rafael-ausejo",
+ "nombre_completo": "Rafael Ausejo",
+ "hoja_gid": "752962489",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "282:2",
+  "laptop": "338:1403",
+  "mobile": "317:888"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "282:10",
+  "tarjeta_desktop": "282:53",
+  "portada_movil": "317:889",
+  "tarjeta_movil": "317:925"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "277:5"
+  ],
+  "movil": [
+   "317:900"
+  ]
+ },
+ "items_esperados": {
+  "car": 3,
+  "for": 2,
+  "apo": 3
+ },
+ "lineas_titular": {
+  "desktop": 2,
+  "movil": 2
+ }
+}

@@ -1,0 +1,62 @@
+- generic [active] [ref=f6e1]:
+  - generic [ref=f6e2]:
+    - heading "Plantilla Andrés Peñaranda" [level=1] [ref=f6e3]
+    - group "Ancho de pantalla" [ref=f6e4]:
+      - button "Desktop 1920" [pressed] [ref=f6e5] [cursor=pointer]
+      - button "Laptop 1366" [ref=f6e6] [cursor=pointer]
+      - button "Mobile 375" [ref=f6e7] [cursor=pointer]
+    - button "Ver widgets" [ref=f6e8] [cursor=pointer]
+    - paragraph [ref=f6e9]: Vista previa del diseño aprobado en Figma (501:2, 506:141, 509:168). Laptop es el desktop escalado a 1366 px; móvil es el frame de 430 px escalado a 375 px. Las cifras de la derecha quedan fijas al hacer scroll en desktop y laptop.
+  - generic [ref=f6e11]:
+    - generic [ref=f6e12]:
+      - img "Goberna" [ref=f6e14]
+      - generic [ref=f6e15]:
+        - paragraph [ref=f6e16]: ANDRÉS
+        - paragraph [ref=f6e17]: PEÑARANDA
+        - paragraph [ref=f6e18]: Especialista en Operaciones de Información e Inteligencia Estratégica
+      - img "Andrés Peñaranda" [ref=f6e20]
+      - generic [ref=f6e21]:
+        - generic [ref=f6e22]: Especialidades
+        - generic [ref=f6e23]:
+          - generic [ref=f6e24]: Operaciones deInformación
+          - generic [ref=f6e27]: InteligenciaEstratégica
+          - generic [ref=f6e30]: ComunicaciónEstratégica
+          - generic [ref=f6e33]: Seguridad yDefensa Nacional
+    - generic [ref=f6e37]:
+      - generic [ref=f6e38]:
+        - heading "Resumen ejecutivo" [level=2] [ref=f6e39]
+        - paragraph [ref=f6e41]: Andrés Peñaranda es consultor internacional y especialista en operaciones de información, inteligencia estratégica y comunicación estratégica, con más de 25 años de experiencia en seguridad y defensa nacional. Ha desarrollado asesorías para instituciones públicas y privadas en escenarios complejos, integrando análisis estratégico, gestión de riesgos, comunicación estratégica y planificación para la toma de decisiones. Su trayectoria está enfocada en el fortalecimiento de capacidades institucionales, análisis de amenazas y diseño de estrategias para enfrentar entornos de alta incertidumbre.
+        - heading "Cargos principales y trayectoria" [level=2] [ref=f6e43]
+        - list [ref=f6e45]:
+          - listitem [ref=f6e46]:
+            - generic [ref=f6e47]: Consultor Internacional en Seguridad, Inteligencia Estratégica y Comunicación Estratégica.
+          - listitem [ref=f6e48]:
+            - generic [ref=f6e49]: Especialista en Operaciones de Información y planificación estratégica para escenarios complejos.
+          - listitem [ref=f6e50]:
+            - generic [ref=f6e51]: Asesor en Seguridad y Defensa Nacional, análisis de amenazas y fortalecimiento institucional.
+          - listitem [ref=f6e52]:
+            - generic [ref=f6e53]: Consultor en proyectos de gobernanza, gestión estratégica y comunicación institucional.
+        - heading "Formación académica" [level=2] [ref=f6e55]
+        - list [ref=f6e57]:
+          - listitem [ref=f6e58]:
+            - generic [ref=f6e59]: Magíster en Administración, Gobierno y Políticas Públicas.
+          - listitem [ref=f6e60]:
+            - generic [ref=f6e61]: Formación especializada en Operaciones de Información, Inteligencia Estratégica y Seguridad Nacional.
+        - heading "Aportes destacados y publicaciones" [level=2] [ref=f6e63]
+        - list [ref=f6e65]:
+          - listitem [ref=f6e66]:
+            - generic [ref=f6e67]: Más de 25 años de experiencia en seguridad, defensa, inteligencia y asesoría estratégica.
+          - listitem [ref=f6e68]:
+            - generic [ref=f6e69]: Desarrollo de estrategias de operaciones de información y comunicación estratégica para escenarios de crisis y alta complejidad.
+          - listitem [ref=f6e70]:
+            - generic [ref=f6e71]: Participación en proyectos relacionados con gobernanza, seguridad y fortalecimiento de capacidades institucionales.
+      - generic [ref=f6e73]:
+        - generic [ref=f6e74]:
+          - paragraph [ref=f6e75]: +25 años
+          - paragraph [ref=f6e76]: Seguridad y defensa nacional
+        - generic [ref=f6e77]:
+          - paragraph [ref=f6e78]: Magíster
+          - paragraph [ref=f6e79]: Administración, Gobierno y Políticas Públicas
+        - generic [ref=f6e80]:
+          - paragraph [ref=f6e81]: Consultor
+          - paragraph [ref=f6e82]: Internacional en Inteligencia Estratégica

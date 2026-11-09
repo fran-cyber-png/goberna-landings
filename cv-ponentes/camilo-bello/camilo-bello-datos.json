@@ -1,0 +1,95 @@
+{
+ "nombre_completo": "Camilo Bello",
+ "nombre": {
+  "d": [
+   "CAMILO",
+   "BELLO"
+  ],
+  "m": [
+   "CAMILO",
+   "BELLO"
+  ]
+ },
+ "titular": "Mayor (r) – Ejército Nacional de Colombia, Profesional en Ciencias Militares y Administrador de Empresas",
+ "especialidades": {
+  "d": [
+   "Seguridad y<br>Defensa",
+   "Inteligencia<br>Aplicada",
+   "Gestión de<br>Crisis",
+   "Liderazgo<br>Estratégico"
+  ],
+  "m": [
+   "Seguridad y<br>Defensa",
+   "Inteligencia<br>Aplicada",
+   "Gestión de<br>Crisis",
+   "Liderazgo<br>Estratégico"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "+21 años",
+   "small": "Seguridad, operaciones e inteligencia"
+  },
+  {
+   "big": "GAULA",
+   "small": "Comandante Militar Antioquia"
+  },
+  {
+   "big": "Mayor (r)",
+   "small": "Ejército Nacional de Colombia"
+  }
+ ],
+ "resumen": [
+  "<b>Edgar Camilo Bello Mora</b> es oficial superior retirado del Ejército Nacional de Colombia (grado Mayor), con <b>más de 21 años de experiencia</b> en seguridad, operaciones, inteligencia aplicada y formación de personal en entornos de alta exigencia.",
+  "Ha liderado unidades especializadas, incluyendo el GAULA Militar Antioquia, desarrollando capacidades en análisis estratégico, gestión del riesgo, operaciones contra amenazas complejas y toma de decisiones bajo presión. Cuenta con experiencia como instructor y docente militar, formando líderes en planeamiento, liderazgo y conducción de operaciones. Su trayectoria integra experiencia operacional, formación académica y metodologías estructuradas para enfrentar escenarios dinámicos de seguridad."
+ ],
+ "cargos": [
+  "<b>Gerente General de Operaciones</b> – INTERASEO (2025).",
+  "<b>Jefe de Sección de Acción Integral</b> – VII División, Ejército Nacional de Colombia (2024–2025).",
+  "<b>Comandante GAULA Militar Antioquia</b> – Ejército Nacional de Colombia (2020–2023).",
+  "<b>Instructor y docente militar</b> – Escuela de Fuerzas Especiales, Escuela Militar de Cadetes General José María Córdova y Escuela de Caballería."
+ ],
+ "formacion": [
+  "<b>Especialización en Estrategia y Administración de Recursos Militares para la Defensa Nacional</b> – Centro de Educación Militar (2020).",
+  "<b>Especialización en Docencia Universitaria</b> – Centro de Educación Militar (2019).",
+  "<b>Administrador de Empresas</b> – Universidad Militar Nueva Granada (2017) / Profesional en Ciencias Militares – Escuela Militar de Cadetes General José María Córdova (2007)."
+ ],
+ "aportes": [
+  "<b>Liderazgo de operaciones especiales</b> contra secuestro, extorsión y criminalidad organizada mediante coordinación con Policía Nacional y Fiscalía General de la Nación.",
+  "Diseño y ejecución de <b>proyectos cívico-militares</b> orientados al fortalecimiento de gobernanza territorial y confianza institucional.",
+  "Desarrollo de <b>programas de formación en inteligencia aplicada</b>, análisis de riesgos, liderazgo y gestión de crisis."
+ ],
+ "titulo_aportes": "Aportes Destacados",
+ "foto": {
+  "archivo": "camilo-bello.webp",
+  "d": [
+   1038,
+   101,
+   682,
+   749
+  ],
+  "m": [
+   37,
+   542,
+   356,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "279:2",
+  "laptop": "338:1281",
+  "mobile": "317:718",
+  "foto": {
+   "desktop": "277:2",
+   "mobile": "317:730"
+  },
+  "hoja_gid": "427108989"
+ }
+}

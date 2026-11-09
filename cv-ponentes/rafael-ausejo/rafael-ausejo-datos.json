@@ -1,0 +1,93 @@
+{
+ "nombre_completo": "Rafael Ausejo",
+ "nombre": {
+  "d": [
+   "RAFAEL",
+   "AUSEJO"
+  ],
+  "m": [
+   "RAFAEL",
+   "AUSEJO"
+  ]
+ },
+ "titular": "Gerente de Ciberseguridad Industrial e Inteligencia de Amenazas y Integración Tecnológica Empresarial",
+ "especialidades": {
+  "d": [
+   "Ciberseguridad",
+   "Inteligencia de<br>Amenazas",
+   "Ciberseguridad<br>Industrial",
+   "Gestión de Riesgos<br>Tecnológicos"
+  ],
+  "m": [
+   "Ciberseguridad",
+   "Inteligencia de<br>Amenazas",
+   "Ciberseguridad<br>Industrial",
+   "Gestión de Riesgos<br>Tecnológicos"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "+22 años",
+   "small": "Experiencia en ciberseguridad"
+  },
+  {
+   "big": "CISSP",
+   "small": "CISA · CISM · ISO 27001 Lead Auditor"
+  },
+  {
+   "big": "Gerente",
+   "small": "Integración Tecnológica Empresarial"
+  }
+ ],
+ "resumen": [
+  "<b>Rafael Ausejo</b> es experto en Ciberseguridad e Inteligencia, Ingeniero Técnico en Informática de Sistemas y profesional con <b>más de 22 años de experiencia</b> en ciberseguridad. Cuenta con certificaciones internacionales como CISA, CISM, CISSP, ISO 27001 Lead Auditor y OSSTM OPSA.",
+  "Actualmente se desempeña como Gerente de Ciberseguridad Industrial e Inteligencia de Amenazas en Integración Tecnológica Empresarial, desarrollando capacidades orientadas a la protección de entornos críticos, gestión de riesgos tecnológicos y análisis de amenazas cibernéticas."
+ ],
+ "cargos": [
+  "<b>Gerente de Ciberseguridad Industrial e Inteligencia de Amenazas</b> – Integración Tecnológica Empresarial.",
+  "<b>Experto en Ciberseguridad e Inteligencia</b> con más de 22 años de experiencia profesional.",
+  "<b>Especialista en protección de sistemas</b>, gestión de riesgos tecnológicos e inteligencia de amenazas."
+ ],
+ "formacion": [
+  "<b>Ingeniero Técnico en Informática de Sistemas</b>.",
+  "<b>Certificaciones profesionales</b>: CISA, CISM, CISSP, ISO 27001 Lead Auditor y OSSTM OPSA."
+ ],
+ "aportes": [
+  "Experiencia aplicada en <b>ciberseguridad industrial, inteligencia de amenazas</b> y protección de activos tecnológicos.",
+  "Desarrollo de <b>estrategias para anticipación, análisis y respuesta</b> frente a riesgos cibernéticos.",
+  "Contribución al <b>fortalecimiento de capacidades de ciberseguridad</b> en organizaciones."
+ ],
+ "titulo_aportes": "Aportes Destacados",
+ "foto": {
+  "archivo": "rafael-ausejo.webp",
+  "d": [
+   928,
+   101,
+   792,
+   749
+  ],
+  "m": [
+   9,
+   542,
+   412,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "282:2",
+  "laptop": "338:1403",
+  "mobile": "317:888",
+  "foto": {
+   "desktop": "277:5",
+   "mobile": "317:900"
+  },
+  "hoja_gid": "752962489"
+ }
+}

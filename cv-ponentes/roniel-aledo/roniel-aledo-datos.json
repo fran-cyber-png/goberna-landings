@@ -1,0 +1,41 @@
+{
+ "nombre_completo": "Roniel Aledo",
+ "nombre": {"d": ["RON", "ALEDO"], "m": ["RON", "ALEDO"]},
+ "titular": "Ex Analista Senior de la CIA y la Defense Intelligence Agency (DIA)",
+ "titular_d": "Ex Analista Senior de la CIA y la Defense Intelligence<br>Agency (DIA)",
+ "especialidades": {
+  "d": ["Inteligencia<br>Estratégica", "Seguridad<br>Internacional", "Contraterrorismo", "Contrainsurgencia"],
+  "m": ["Inteligencia<br>Estratégica", "Seguridad<br>Internacional", "Contraterrorismo", "Contrainsurgencia"]
+ },
+ "iconos_esp": ["escudo", "pin", "global", "proceso"],
+ "cifras": [
+  {"big": "+20 años", "small": "Inteligencia, defensa y seguridad"},
+  {"big": "CIA", "small": "Senior Intelligence Analyst"},
+  {"big": "DIA", "small": "Senior Counterintelligence Analyst"}
+ ],
+ "resumen": [
+  "<b>Ron Aledo</b> es un especialista en inteligencia estratégica y seguridad internacional, con amplia trayectoria en el sistema de inteligencia y defensa de los Estados Unidos. Se desempeñó como <b>analista senior de la Central Intelligence Agency (CIA) y de la Defense Intelligence Agency (DIA)</b>, además de ocupar funciones como oficial de inteligencia del Departamento de Defensa de los Estados Unidos (Pentágono).",
+  "A lo largo de su carrera participó en el análisis de amenazas estratégicas, terrorismo, insurgencia y escenarios de seguridad global. Durante su trayectoria elaboró productos de inteligencia dirigidos a la Casa Blanca, al Congreso de los Estados Unidos y a altos responsables de seguridad nacional, y ha asesorado a organismos gubernamentales y empresas en análisis estratégico, gestión del riesgo y geopolítica."
+ ],
+ "cargos": [
+  "<b>Senior Intelligence Analyst (Contractor)</b> – Central Intelligence Agency (CIA).",
+  "<b>Senior Strategic Counterintelligence Analyst</b> – Defense Intelligence Agency (DIA).",
+  "<b>Senior Intelligence Officer</b> – Departamento de Defensa de los Estados Unidos (Pentágono).",
+  "<b>Consultor Internacional</b> – Inteligencia estratégica, análisis geopolítico y gestión de riesgos.",
+  "<b>Más de 20 años de experiencia</b> en inteligencia, defensa y seguridad internacional."
+ ],
+ "formacion": [
+  "<b>Máster en Relaciones Internacionales</b> – University of Oklahoma.",
+  "<b>Licenciado en Ciencias Políticas</b> – University of Puerto Rico.",
+  "<b>Formación especializada en inteligencia, operaciones psicológicas, contrainteligencia y asuntos internacionales</b> – Instituciones militares y de inteligencia de los Estados Unidos."
+ ],
+ "aportes": [
+  "Participó en la elaboración de <b>productos de inteligencia estratégica</b> para la Casa Blanca, el Congreso de los Estados Unidos y altos responsables del sistema de seguridad nacional, contribuyendo al análisis de amenazas globales y a la formulación de decisiones estratégicas.",
+  "Cuenta con amplia experiencia en <b>contraterrorismo, contrainsurgencia, contrainteligencia</b>, operaciones de información y análisis geopolítico, desempeñándose en escenarios internacionales y colaborando con diversas agencias de seguridad y defensa.",
+  "Como <b>consultor y conferencista internacional</b>, asesora a instituciones públicas y privadas en inteligencia estratégica, gestión del riesgo, geopolítica y seguridad internacional, compartiendo metodologías de análisis utilizadas en el sistema de inteligencia de los Estados Unidos."
+ ],
+ "titulo_aportes": "Aportes Destacados",
+ "foto": {"archivo": "roniel-aledo.webp", "d": [929, 101, 791, 749], "m": [10, 542, 410, 389]},
+ "figma": {"fileKey": "VDnG8Ey0gIPBtCqea1kya9", "desktop": "267:120", "laptop": "338:1165", "mobile": "317:548",
+           "foto": {"desktop": "268:28", "mobile": "317:560"}, "hoja_gid": "120241723"}
+}

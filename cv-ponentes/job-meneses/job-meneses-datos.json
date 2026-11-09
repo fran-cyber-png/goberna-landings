@@ -1,0 +1,109 @@
+{
+ "nombre_completo": "Job Meneses",
+ "nombre": {
+  "d": [
+   "JOB",
+   "MENESES"
+  ],
+  "m": [
+   "JOB",
+   "MENESES"
+  ]
+ },
+ "titular": "Consultor Político Senior 360°, CEO EME Gabinete Estratégico y Consultor Senior Goberna",
+ "especialidades": {
+  "d": [
+   "Consultoría<br>Política 360°",
+   "Estrategia<br>Electoral",
+   "War<br>Rooms",
+   "Manejo de<br>Crisis"
+  ],
+  "m": [
+   "Consultoría<br>Política 360°",
+   "Estrategia<br>Electoral",
+   "War<br>Rooms",
+   "Manejo de<br>Crisis"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "+30 años",
+   "small": "Experiencia en campañas y gobernanza"
+  },
+  {
+   "big": "CEO",
+   "small": "EME Gabinete Estratégico"
+  },
+  {
+   "big": "GOBERNA",
+   "small": "Consultor Senior y Asesor Estratégico"
+  }
+ ],
+ "resumen": [
+  "<b>Job Antonio Meneses Eternod</b> es consultor político senior, estratega 360° y mercadólogo con <b>más de 30 años de experiencia</b> en campañas electorales, comunicación de crisis institucional y gobernanza en México y Perú. Su experiencia comprende procesos presidenciales, gubernaturas, legislativos y municipales, con especialización en arquitectura de cuartos de guerra (war rooms), campañas de contraste, neuropolítica, microsegmentación territorial, pauta algorítmica avanzada y análisis demotécnico de alta resolución.",
+  "Ha desarrollado funciones de dirección estratégica, coordinación de asesores, investigación de opinión pública, operación territorial y consultoría gubernamental, combinando estrategia política, inteligencia competitiva, comunicación y gestión pública."
+ ],
+ "cargos": [
+  "<b>EME Gabinete Estratégico</b> — Chief Executive Officer (CEO) (2021 – Presente).",
+  "<b>Goberna</b> — Consultor Senior y Asesor Estratégico (Jul 2025 – Presente).",
+  "<b>Ayuntamiento de Morelia</b> — Coordinador de Asesores (2021 – 2025).",
+  "<b>Movimiento Ciudadano</b> — Secretario de Círculos Ciudadanos (2018 – 2021).",
+  "<b>Centro Ágora</b> — Director General (2015 – 2018).",
+  "<b>Secretaría de Gobierno de Michoacán</b> — Dir. de Relación con Organizaciones (2014 – 2015).",
+  "<b>Auditoría Superior de Michoacán</b> — Secretario Técnico (2012 – 2014).",
+  "<b>Telcel (Radiomóvil Dipsa)</b> — Líder de Análisis de la Competencia (Región 9) (5 años).",
+  "<b>Nestlé México</b> — Key Account Manager Jr. (3 años).",
+  "<b>Gallup México</b> — Líder de Proyectos (1995 – 1998)."
+ ],
+ "formacion": [
+  "<b>Maestría en Gerencia Pública y Política Social</b> — Nova Hispania (2020 – 2023). En fase de conclusión de tesis de grado.",
+  "<b>Lic. en Administración / Mercadotecnia</b> — Western Pacific University (2000 – 2004). Graduado con Mención Honorífica.",
+  "<b>TSU en Comercialización</b> — UTN (1992 – 1994). Estancia académica en Burdeos, Francia. Graduado con honores.",
+  "<b>The George Washington University (GWU)</b>: Estrategia Política y Gestión Gubernamental.",
+  "<b>Goberna</b>: Comando Estratégico, Formación Directiva y Consultoría Gubernamental.",
+  "<b>Instituto de Comunicación Política (ICP)</b>: Estrategia Electoral y Campañas Políticas.",
+  "<b>ITAM / UTN</b>: Planeación Estratégica Aplicada.",
+  "<b>Universidad de Morelia</b>: Formación Docente en Constructivismo."
+ ],
+ "aportes": [
+  "<b>Dirección estratégica electoral</b> y asesoría en contiendas a gubernaturas, senadurías y alcaldías en Michoacán, Estado de México, CDMX, Lima, Áncash y Tumbes.",
+  "Experiencia como <b>Delegado Operador Regional</b> (Edo. de México) y como <b>Delegado Especial del CEN & Coordinador de Campaña</b> en procesos presidenciales, federales y locales.",
+  "<b>Especialista en Cuartos de Guerra y Defensa del Voto</b>, con experiencia en representación y coordinación ante órganos electorales distritales y formación técnica de cuadros políticos.",
+  "En <b>Gallup México</b> dirigió investigación cualitativa y cuantitativa, diseño muestral de opinión pública y análisis demotécnico bajo protocolo internacional Gallup.",
+  "<b>Consultor Certificado</b> bajo el Estándar de Competencia Laboral EC0249: Prestación de servicios de consultoría general (SEP-CONOCER & ICEMéxico)."
+ ],
+ "titulo_aportes": "Aportes Destacados",
+ "foto": {
+  "archivo": "job-meneses-cv.webp",
+  "d": [
+   892,
+   101,
+   828,
+   749
+  ],
+  "m": [
+   0,
+   542,
+   430,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "253:2",
+  "laptop": "338:871",
+  "mobile": "317:164",
+  "foto": {
+   "desktop": "266:21",
+   "mobile": "317:176"
+  },
+  "hoja_gid": "27376805"
+ },
+ "titular_d": "Consultor Político Senior 360°, CEO EME Gabinete Estratégico<br>y Consultor Senior Goberna"
+}

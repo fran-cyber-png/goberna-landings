@@ -1,0 +1,75 @@
+{
+ "nombre": {
+  "linea1": "GONZALO",
+  "linea2": "CATANZARITI"
+ },
+ "titular": "Especialista en ciberinteligencia, investigación digital y análisis del cibercrimen",
+ "especialidades": [
+  "Arquitectura de Ciberseguridad",
+  "Investigación de Ciberdelitos",
+  "Informática Forense",
+  "OSINT y SOCMINT"
+ ],
+ "especialidades_html": [
+  "Arquitectura de<br>Ciberseguridad",
+  "Investigación de<br>Ciberdelitos",
+  "Informática<br>Forense",
+  "OSINT y SOCMINT"
+ ],
+ "cifras": [
+  [
+   "Desde 2013",
+   "Pericias informáticas y evidencia digital"
+  ],
+  [
+   "Líder",
+   "Arquitectura de Ciberseguridad en Banco Comafi"
+  ],
+  [
+   "2 licenciaturas",
+   "Seguridad TIC y Seguridad Marítima"
+  ]
+ ],
+ "resumen": {
+  "negrita": "Gonzalo Catanzariti es licenciado en Seguridad en Tecnologías de la Información y las Comunicaciones y licenciado en Seguridad Marítima.",
+  "resto": " Su trayectoria combina la investigación judicial de ciberdelitos y la informática forense en la Prefectura Naval Argentina con la protección de activos de información en el sector financiero. Desde marzo de 2025 lidera el equipo de Arquitectura de Ciberseguridad de Banco Comafi, supervisando la seguridad de proyectos tecnológicos, entornos cloud, gestión de vulnerabilidades y DevSecOps. Complementa su experiencia con docencia universitaria en ciberseguridad, evidencia digital y herramientas de inteligencia"
+ },
+ "cargos": [
+  "<b>Líder de Arquitectura de Ciberseguridad</b> — Banco Comafi (desde 2025): conducción de equipos de IT Advisor, Business Advisor y DevSecOps; definición de estándares y supervisión de implementaciones tecnológicas.",
+  "<b>Arquitecto de Ciberseguridad</b> — Banco Comafi (desde 2022): evaluación de proyectos, planificación de pentesting y gestión de vulnerabilidades en API, microservicios y entornos cloud.",
+  "<b>División Investigación de los Ciberdelitos</b> — Prefectura Naval Argentina (desde 2019): intervención en investigaciones judiciales sobre hacking, accesos indebidos y ataques DoS y DDoS.",
+  "<b>Infraestructura de Sistemas</b> — Prefectura Naval Argentina (desde 2016): implementación y mantenimiento de centros de datos, virtualización y almacenamiento.",
+  "<b>Pericias Informáticas</b> — Prefectura Naval Argentina (desde 2013): análisis de elementos sujetos a disposición judicial, preservación de evidencia digital y cadena de custodia.",
+  "<b>Docente</b> — Instituto Universitario de Seguridad Marítima (2019⁠–⁠2026): tecnologías de la información, cibercrimen, evidencia digital, redes, seguridad ofensiva y marcos regulatorios.",
+  "<b>Docente</b> — Universidad Abierta Interamericana (2024): Tecnología y Herramientas de Inteligencia.",
+  "<b>Docente</b> — GOBERNA (2026): inteligencia en fuentes abiertas digitales (OSINT) y SOCMINT.",
+  "<b>Docente</b> — UPJET (2026): Fundamentos de Ciberseguridad."
+ ],
+ "formacion": [
+  "<b>Licenciatura en Seguridad en Tecnologías de la Información y las Comunicaciones</b> — Instituto Universitario de la Policía Federal Argentina (2021).",
+  "<b>Licenciatura en Seguridad Marítima</b> — Instituto Universitario de Seguridad Marítima (2007).",
+  "<b>Auditor Interno de Sistemas de Gestión de Seguridad de la Información ISO 27001:2022</b> — TÜV Rheinland Argentina (2023).",
+  "<b>Certified in Cybersecurity (CC)</b> — ISC2 (2023).",
+  "<b>Certificado en Liderazgo de Ciberseguridad</b> — OEA e Instituto Jack D. Gordon de Política Pública de Florida International University (2018).",
+  "<b>Meya Pico Forensic Examiner Certified</b> — Meya Pico (2018).",
+  "<b>Formación en EnCase Computer Forensic I y II</b>, administración de sistemas Linux y Ethical Hacking."
+ ],
+ "aportes": [
+  "<b>Participación en investigaciones judiciales de ciberdelitos</b> y análisis pericial de evidencia digital.",
+  "<b>Liderazgo de equipos</b> para integrar la ciberseguridad en proyectos tecnológicos y en el ciclo de vida del software.",
+  "<b>Definición y validación de criterios de seguridad</b> para API, microservicios y entornos cloud.",
+  "<b>Planificación y supervisión de pruebas de intrusión</b> y procesos de gestión de vulnerabilidades.",
+  "<b>Formación de profesionales</b> en cibercrimen, informática forense, seguridad ofensiva, OSINT y SOCMINT."
+ ],
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "532:2",
+  "laptop": "535:2",
+  "mobile": "538:2",
+  "foto": [
+   "529:1795",
+   "529:1798",
+   "529:1800"
+  ]
+ }
+}

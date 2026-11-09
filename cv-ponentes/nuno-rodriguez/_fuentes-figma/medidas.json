@@ -1,0 +1,435 @@
+{
+ "figma": {
+  "desktop": "376:2",
+  "mobile": "376:258"
+ },
+ "desktop": {
+  "alto_total": 3346.14,
+  "titular_lineas": 1,
+  "barra_top": 536.0,
+  "esp_fila": [
+   42.54,
+   116.92
+  ],
+  "esp_iconos_d": [
+   {
+    "nodo": "376:29",
+    "nombre": "noun-security-8354638",
+    "ancho": 33.1,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "376:34",
+    "nombre": "noun_Pin_3698121",
+    "ancho": 28.79,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "376:41",
+    "nombre": "noun_global_2559364",
+    "ancho": 37.82,
+    "contenedor_alto": 37.82,
+    "alto": 37.82
+   },
+   {
+    "nodo": "376:46",
+    "nombre": "noun_process_2021778",
+    "ancho": 36.92,
+    "contenedor_alto": 36.92,
+    "alto": 36.92
+   }
+  ],
+  "esp_lineas_d": [
+   2,
+   3,
+   1,
+   3
+  ],
+  "esp_item_alto": 116.92,
+  "foto_capa_d": [
+   {
+    "nodo": "373:266",
+    "nombre": "Nuño (1) 1",
+    "x": 1720.0,
+    "y": 101.0,
+    "w": 732.0,
+    "h": 749.0
+   }
+  ],
+  "tarjeta_alto": 2336.14,
+  "linea_dorada": [
+   81.0,
+   291.0
+  ],
+  "cifras_d": [
+   {
+    "top": 0.0,
+    "alto": 65.0,
+    "big_h": 45.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 384.0
+   },
+   {
+    "top": 104.0,
+    "alto": 65.0,
+    "big_h": 46.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 391.0
+   },
+   {
+    "top": 208.0,
+    "alto": 68.0,
+    "big_h": 45.0,
+    "small_top": 40.0,
+    "small_h": 28.0,
+    "small_w": 349.0
+   }
+  ],
+  "cifras_frame": [
+   1052.0,
+   88.0,
+   372.0,
+   276.0
+  ],
+  "secciones_d": {
+   "res": {
+    "top": 54.0,
+    "x": 80.0,
+    "alto": 394.03,
+    "cuerpo_top": 88.03,
+    "cuerpo_x": 62.0,
+    "cuerpo_alto": 306.0,
+    "titulo_nodo": "376:135"
+   },
+   "car": {
+    "top": 498.03,
+    "x": 81.0,
+    "alto": 508.7,
+    "cuerpo_top": 88.7,
+    "cuerpo_x": 61.0,
+    "cuerpo_alto": 420.0,
+    "titulo_nodo": "376:79",
+    "estilo": "items",
+    "n": 8,
+    "item_tops": [
+     0.0,
+     56.0,
+     112.0,
+     168.0,
+     224.0,
+     280.0,
+     336.0,
+     392.0
+    ],
+    "item_altos": [
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     28.0
+    ],
+    "gap": [
+     28.0
+    ]
+   },
+   "for": {
+    "top": 1056.74,
+    "x": 84.0,
+    "alto": 341.2,
+    "cuerpo_top": 89.2,
+    "cuerpo_x": 58.0,
+    "cuerpo_alto": 252.0,
+    "titulo_nodo": "376:116",
+    "estilo": "items",
+    "n": 4,
+    "item_tops": [
+     0.0,
+     56.0,
+     140.0,
+     196.0
+    ],
+    "item_altos": [
+     28.0,
+     56.0,
+     28.0,
+     56.0
+    ],
+    "gap": [
+     28.0
+    ]
+   },
+   "apo": {
+    "top": 1447.94,
+    "x": 81.0,
+    "alto": 834.2,
+    "cuerpo_top": 86.2,
+    "cuerpo_x": 61.5,
+    "cuerpo_alto": 748.0,
+    "titulo_nodo": "376:142",
+    "estilo": "items",
+    "n": 7,
+    "item_tops": [
+     0.0,
+     102.0,
+     204.0,
+     306.0,
+     408.0,
+     510.0,
+     646.0
+    ],
+    "item_altos": [
+     68.0,
+     68.0,
+     68.0,
+     68.0,
+     68.0,
+     102.0,
+     102.0
+    ],
+    "gap": [
+     34.0
+    ]
+   }
+  },
+  "divisores_d": [
+   473.03,
+   1031.74,
+   1422.94
+  ]
+ },
+ "movil": {
+  "alto_total": 5175.0,
+  "portada_alto": 931.0,
+  "titular_lineas": 1,
+  "titular_top": 181.0,
+  "nombre": [
+   283.0,
+   72.0
+  ],
+  "barra": [
+   24.0,
+   298.0,
+   382.0,
+   181.0
+  ],
+  "esp_iconos_m": [
+   {
+    "nodo": "376:285",
+    "x": 109.11,
+    "y": 329.32,
+    "w": 20.84,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "376:287",
+    "x": 307.1,
+    "y": 329.32,
+    "w": 18.13,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "376:291",
+    "x": 108.54,
+    "y": 406.54,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "376:293",
+    "x": 304.25,
+    "y": 407.0,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   }
+  ],
+  "esp_textos_m": [
+   {
+    "x": 76.53,
+    "y": 357.0,
+    "w": 86.0,
+    "lineas": 2
+   },
+   {
+    "x": 247.66,
+    "y": 357.0,
+    "w": 137.0,
+    "lineas": 2
+   },
+   {
+    "x": 102.54,
+    "y": 434.98,
+    "w": 35.0,
+    "lineas": 1
+   },
+   {
+    "x": 245.75,
+    "y": 434.9,
+    "w": 140.0,
+    "lineas": 2
+   }
+  ],
+  "foto_capa_m": [
+   {
+    "nodo": "373:252",
+    "nombre": "Nuño (1) 1",
+    "x": 0.0,
+    "y": 501.0,
+    "w": 430.0,
+    "h": 431.0
+   }
+  ],
+  "tarjeta": [
+   951.0,
+   4204.0
+  ],
+  "interior": [
+   20.0,
+   51.0,
+   4102.0
+  ],
+  "resumen_m": {
+   "top": 0.0,
+   "alto": 1128.0,
+   "texto": [
+    66.0,
+    680.0
+   ],
+   "datos": [
+    20.0,
+    786.0,
+    312.0,
+    342.0
+   ],
+   "dato": [
+    {
+     "top": 0.0,
+     "alto": 91.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 44.0
+    },
+    {
+     "top": 119.0,
+     "alto": 92.0,
+     "big_h": 46.0,
+     "small_top": 48.0,
+     "small_h": 44.0
+    },
+    {
+     "top": 239.0,
+     "alto": 103.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 56.0
+    }
+   ]
+  },
+  "secciones_m": {
+   "car": {
+    "top": 1228.0,
+    "alto": 807.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 679.0,
+    "estilo": "items",
+    "n": 8,
+    "item_tops": [
+     0.0,
+     101.0,
+     202.0,
+     303.0,
+     404.0,
+     477.0,
+     550.0,
+     623.0
+    ],
+    "item_altos": [
+     84.0,
+     84.0,
+     84.0,
+     84.0,
+     56.0,
+     56.0,
+     56.0,
+     56.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "for": {
+    "top": 2135.0,
+    "alto": 429.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 98.0,
+    "lista_alto": 331.0,
+    "estilo": "items",
+    "n": 4,
+    "item_tops": [
+     0.0,
+     73.0,
+     174.0,
+     247.0
+    ],
+    "item_altos": [
+     56.0,
+     84.0,
+     56.0,
+     84.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "apo": {
+    "top": 2664.0,
+    "alto": 1438.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 1310.0,
+    "estilo": "items",
+    "n": 7,
+    "item_tops": [
+     0.0,
+     156.0,
+     312.0,
+     468.0,
+     658.0,
+     814.0,
+     1106.0
+    ],
+    "item_altos": [
+     136.0,
+     136.0,
+     136.0,
+     170.0,
+     136.0,
+     272.0,
+     204.0
+    ],
+    "gap": [
+     20.0
+    ]
+   }
+  },
+  "divisores_m": [
+   1178.0,
+   2085.0,
+   2614.0
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "francisco-lopez",
+ "nombre_completo": "Francisco José López",
+ "hoja_gid": "810927693",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "469:2",
+  "laptop": "472:2",
+  "mobile": "473:2"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "469:10",
+  "tarjeta_desktop": "469:53",
+  "portada_movil": "473:3",
+  "tarjeta_movil": "473:39"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "477:2"
+  ],
+  "movil": [
+   "477:8"
+  ]
+ },
+ "items_esperados": {
+  "car": 6,
+  "for": 8,
+  "apo": 7
+ },
+ "lineas_titular": {
+  "desktop": 1,
+  "movil": 2
+ }
+}

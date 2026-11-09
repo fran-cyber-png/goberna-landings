@@ -1,0 +1,104 @@
+{
+ "nombre_completo": "Nuño Rodríguez",
+ "nombre": {
+  "d": [
+   "NUÑO",
+   "RODRÍGUEZ"
+  ],
+  "m": [
+   "NUÑO",
+   "RODRÍGUEZ"
+  ]
+ },
+ "titular": "Policy and Regulatory Affairs Analyst",
+ "especialidades": {
+  "d": [
+   "Análisis político y regulatorio",
+   "Procesos institucionales de la Unión Europea",
+   "OSINT",
+   "Comunicación estratégica (STRATCOM)"
+  ],
+  "m": [
+   "Análisis político<br>y regulatorio",
+   "Procesos institucionales<br>de la Unión Europea",
+   "OSINT",
+   "Comunicación<br>estratégica (STRATCOM)"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "+200",
+   "small": "Analytical briefings en medios internacionales"
+  },
+  {
+   "big": "+100",
+   "small": "Profesionales formados en gobierno y defensa"
+  },
+  {
+   "big": "CEDEGYS",
+   "small": "Lecturer in Political Warfare & STRATCOM"
+  }
+ ],
+ "resumen": [
+  "<b>Nuño Rodríguez</b> es un profesional de políticas públicas con experiencia en procesos institucionales de la Unión Europea, análisis regulatorio y coordinación multinacional. Su trayectoria combina análisis político y regulatorio, elaboración de policy briefs, monitoreo legislativo, OSINT, comunicación estratégica y gestión de actores.",
+  "Actualmente desarrolla funciones como HEAD OF POLITICAL INT – Atlantida Business Intelligence S.A. y DIRECTOR – Quixote Globe, además de mantener actividad académica y de análisis internacional como LECTURER in Political Warfare & STRATCOM — CEDEGYS y POLITICAL ANALYST — International Media."
+ ],
+ "cargos": [
+  "<b>HEAD OF POLITICAL INT</b> – Atlantida Business Intelligence S.A. (2022 - present)",
+  "<b>DIRECTOR</b> – Quixote Globe www.quixoteglobe.com (2018–present)",
+  "<b>GENERAL MANAGER</b> – ICN Digital (TV channel) www.icndigital.com (2022 - 2024)",
+  "<b>LECTURER in Political Warfare & STRATCOM</b> — CEDEGYS (2020 – present)",
+  "<b>POLITICAL ANALYST</b> — International Media (2014 – Present)",
+  "<b>RESEARCH ASSISTANT</b> – University of Amsterdam 2013–2015",
+  "<b>CONTRIBUTOR & Research Partner</b> – Air University (USAF) (2019–2025)",
+  "<b>DOCUMENTALIST</b> – “El Dominio Mental” (Editorial Planeta, 2020)"
+ ],
+ "formacion": [
+  "<b>M.A. Political Communication</b> — University of Amsterdam (2013)",
+  "<b>Postgrad Terrorism, Counterintelligence & Geostrategy</b> — Rey Juan Carlos University (2018)",
+  "<b>117th European Union Course</b> — Spanish Diplomatic School (2016)",
+  "<b>B.A. Political Science & Public Administration</b> — Complutense University of Madrid (2010)"
+ ],
+ "aportes": [
+  "Diseñó módulos de posgrado sobre strategic communications, cognitive security e hybrid influence en CEDEGYS.",
+  "Ha formado a más de 100 profesionales de gobierno, defensa y diplomacia mediante aprendizaje basado en simulaciones.",
+  "Desarrolló un currículo de STRATCOM posteriormente adoptado por instituciones asociadas.",
+  "Ha realizado más de 200 analytical briefings y comentarios en medios internacionales sobre gobernanza, seguridad, geopolítica y amenazas híbridas.",
+  "Ha producido análisis basados en OSINT para estrategias editoriales, diplomacia pública, análisis de escenarios y evaluación de riesgos.",
+  "Como CONTRIBUTOR & Research Partner – Air University (USAF), elaboró estudios analíticos sobre influence operations, incluyendo <b>“War on Public Mind”</b>, y facilitó la colaboración entre redes de investigación europeas y estadounidenses.",
+  "Como DOCUMENTALIST – <b>“El Dominio Mental”</b> (Editorial Planeta, 2020), realizó búsqueda y análisis de literatura científica y académica sobre manipulación y técnicas de desinformación."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "nuno-rodriguez.webp",
+  "d": [
+   988,
+   101,
+   732,
+   749
+  ],
+  "m": [
+   0,
+   542,
+   430,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "376:2",
+  "laptop": "376:488",
+  "mobile": "376:258",
+  "foto": {
+   "desktop": "373:266",
+   "mobile": "373:252"
+  },
+  "hoja_gid": "933125855"
+ }
+}

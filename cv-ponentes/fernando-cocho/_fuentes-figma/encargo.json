@@ -1,0 +1,34 @@
+{
+ "slug": "fernando-cocho",
+ "nombre_completo": "Fernando Cocho Pérez",
+ "hoja_gid": "1858143491",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "487:2",
+  "laptop": "490:2",
+  "mobile": "492:2"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "487:10",
+  "tarjeta_desktop": "487:54",
+  "portada_movil": "492:3",
+  "tarjeta_movil": "492:40"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "496:4"
+  ],
+  "movil": [
+   "496:14"
+  ]
+ },
+ "items_esperados": {
+  "car": 8,
+  "for": 8,
+  "apo": 6
+ },
+ "lineas_titular": {
+  "desktop": 3,
+  "movil": 3
+ }
+}

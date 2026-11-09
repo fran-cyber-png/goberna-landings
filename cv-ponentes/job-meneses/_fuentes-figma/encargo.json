@@ -1,0 +1,34 @@
+{
+ "slug": "job-meneses",
+ "nombre_completo": "Job Meneses",
+ "hoja_gid": "27376805",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "253:2",
+  "laptop": "338:871",
+  "mobile": "317:164"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "253:10",
+  "tarjeta_desktop": "253:57",
+  "portada_movil": "317:165",
+  "tarjeta_movil": "317:201"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "266:21"
+  ],
+  "movil": [
+   "317:176"
+  ]
+ },
+ "items_esperados": {
+  "car": 10,
+  "for": 8,
+  "apo": 5
+ },
+ "lineas_titular": {
+  "desktop": 2,
+  "movil": 2
+ }
+}

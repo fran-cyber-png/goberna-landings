@@ -1,0 +1,292 @@
+<title>Francisco José López</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&family=Open+Sans:wght@400;700&display=swap">
+<style>
+/* diseño de una sola versión (claro), igual que en Figma: sin modo oscuro */
+:root{--bg:#f3f6fa;--card:#ffffff;--gold:#d6a752;--ink:#030a22;--hero:#06101f;--line:#e3e7ee;--fg:#030a22;--muted:#5b646c;
+--display:'Montserrat',Arial,sans-serif;--body:'Open Sans',Arial,sans-serif;color-scheme:light}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);padding-block:20px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.bar{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin-bottom:16px;font-size:13px}
+.bar h1{font:600 15px var(--body);margin:0 auto 0 0}
+.bar p{margin:0;color:var(--muted);flex-basis:100%}
+.seg{display:flex;gap:6px;flex-wrap:wrap}
+.seg button{font:600 13px var(--body);padding:7px 14px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg);cursor:pointer}
+.seg button[aria-pressed="true"]{background:#d6a752;color:#030a22;border-color:#d6a752}
+.seg button:focus-visible{outline:2px solid #d6a752;outline-offset:2px}
+.view{overflow-x:clip;border:1px solid var(--line);background:var(--bg)}
+.stage{position:relative;width:1920px;}
+.stage.m{width:430px}
+.hidden{display:none}
+
+/* ---------- DESKTOP (1920 de diseño) ---------- */
+.hero{position:relative;height:850px;overflow:hidden;background:var(--hero)}
+.hero>.bg{position:absolute;inset:0;background:url(__MARCO__) center/cover no-repeat}
+.hero>.ov{display:none}
+.abs{position:absolute}
+.logo-d{left:200px;top:101px;width:184px;height:47px}
+.logo-d img,.logo-m img{display:block;width:100%;height:100%}
+.name-d{left:200px;top:192px;color:#fff;width:820px}
+.name-d .n1{font:800 64px/.964 var(--display);color:var(--gold);letter-spacing:2.56px;margin:0}
+.name-d .n2{font:800 87px/.964 var(--display);color:#fff;margin:0}
+.name-d .sub{font:400 28px/48px var(--body);color:#fff;margin:16px 0 0}
+.foto-d{left:947px;top:101px;width:773px;height:749px;overflow:hidden}
+.foto-d img{position:absolute;left:-5.05%;top:-13.5%;width:114.62%;height:141.95%;max-width:none;object-fit:cover}
+/* marco dorado con el hueco del rótulo (forma de Figma, sin fondo) */
+.esp-d{left:200px;top:536px;width:820px;height:170px;background:url(__BARRA_D__) 0 0/100% 100% no-repeat}
+.esp-lbl{position:absolute;left:29px;top:-14px;padding:0 10px;background:none;font:400 25px/1.2 var(--display);color:var(--gold)}
+.esp-row-d{position:absolute;left:29px;top:41px;display:flex;align-items:flex-start;gap:20px}
+.esp-it{width:160px;display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center;color:#fff;font:400 18px/24px var(--body)}
+.esp-it img{height:36px;width:auto}
+.sep{width:1px;height:48px;background:rgba(214,167,82,.7);margin-top:34px}
+
+.body-d{position:relative;height:2578px;background:var(--bg)}
+.card-d{position:absolute;left:201px;top:80px;width:1519px;height:2418px;background:var(--card);border-radius:20px;box-shadow:0 3px 16px rgba(6,8,26,.16)}
+.blk{position:absolute;left:81px;width:812px}
+.sec-h{display:flex;align-items:center;gap:14px;height:88px;font:700 26px/1 var(--display);color:var(--gold);text-transform:uppercase;margin:0}
+.sec-h img{height:36px;width:auto;flex:none}
+.resumen-d{top:54px}
+.resumen-d p{margin:0 0 0 62px;width:753px;font:400 18px/34px var(--body);color:var(--ink)}
+.resumen-d p b{font-weight:700}
+.hr{position:absolute;left:81px;width:812px;height:1px;background:var(--line)}
+.list-d{list-style:none;margin:0 0 0 61px;padding:0;width:750px}
+.list-d li{display:flex;gap:10px;align-items:flex-start;margin-bottom:20px;font:400 18px/28px var(--body);color:var(--ink)}
+.list-d li:last-child{margin-bottom:0}
+.list-d li img{width:8px;height:28px;flex:none;margin-top:0}
+.list-d li b{font-weight:700}
+.list-arrow li img{width:18px;height:28px}
+/* columna de datos: sticky dentro de la tarjeta, a la misma distancia del borde superior que tenía en reposo (81 px) */
+.stats-d{position:sticky;top:81px;margin:81px 0 0 972px;width:452px;box-sizing:border-box;padding:7px 0 0 79px;border-left:1px solid var(--gold)}
+.stat{position:relative;height:65px;margin-bottom:39px;color:var(--ink)}
+.stat .big{font:800 37px/1.1 var(--display);margin:0}
+.stat .small{font:400 18px/22px var(--body);margin:0}
+.stat.s2 .big{font-size:38px}
+.stat.s3 .big{font-size:37px}
+
+/* ---------- MOBILE (430 de diseño) ---------- */
+.hero-m{position:relative;height:931px;overflow:hidden;background:var(--hero)}
+.hero-m>.bg{position:absolute;inset:0;background:url(__MARCO__) 40% center/cover no-repeat}
+.hero-m>.ov{display:none}
+.logo-m{left:24px;top:36px;width:120px;height:31px}
+.name-m{left:24px;top:95px;width:382px;color:#fff}
+.name-m .n1{font:800 36px/.964 var(--display);color:var(--gold);letter-spacing:1px;margin:0}
+.name-m .n2{font:800 36px/.964 var(--display);color:#fff;margin:0}
+.sub-m{left:24px;top:181px;width:382px;font:400 16px/28px var(--body);color:#fff;margin:0}
+.esp-m{left:24px;top:298px;width:382px;height:181px;background:url(__BARRA_M__) 0 0/100% 100% no-repeat}
+.esp-m .esp-lbl{left:19px;top:-13px;font-size:16px;background:none}
+.grid-m{position:absolute;inset:0;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;padding:20px 12px}
+.esp-m .cell{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;color:#fff;text-align:center;font:400 14px/18px var(--body)}
+.esp-m .cell img{height:24px;width:auto}
+.foto-m{left:8px;top:542px;width:415px;height:389px;overflow:hidden}
+.foto-m img{position:absolute;left:-5.05%;top:-13.5%;width:114.62%;height:141.95%;max-width:none;object-fit:cover}
+.card-m{position:absolute;left:20px;top:951px;width:390px;height:4796px;background:var(--card);border-radius:16px;box-shadow:0 3px 16px rgba(6,8,26,.16)}
+.body-m{position:relative;height:5767px;background:var(--bg)}
+.blk-m{position:absolute;left:20px;width:350px}
+.sec-m{display:flex;align-items:center;gap:12px;font:700 22px/30px var(--display);color:var(--gold);text-transform:uppercase;margin:0;height:99px}
+.resumen-m .sec-m{height:66px}
+.sec-m img{height:30px;width:auto;flex:none}
+.resumen-m p{margin:0 0 0 0;font:400 16px/26px var(--body);color:var(--ink)}
+.resumen-m p b{font-weight:700}
+.stats-m{margin:28px 0 0 20px;width:312px}
+.stats-m .stat{height:auto;margin-bottom:22px}
+.stats-m .big{font:800 28px/1.1 var(--display);margin:0}
+.stats-m .small{font:400 15px/22px var(--body);margin:0}
+.list-m{list-style:none;margin:0 0 0 19px;padding:0;width:331px}
+.list-m li{display:flex;gap:10px;align-items:flex-start;margin-bottom:17px;font:400 16px/26px var(--body);color:var(--ink)}
+.list-m li:last-child{margin-bottom:0}
+.list-m li img{width:6px;height:26px;flex:none}
+.list-m li.arrow img{width:18px;height:28px}
+.list-m li b{font-weight:700}
+.hr-m{position:absolute;left:20px;width:350px;height:1px;background:var(--line)}
+.cargo-m{top:1228px}
+</style>
+
+<div class="bar"><h1>Plantilla Francisco José López</h1>
+<div class="seg" role="group" aria-label="Ancho de pantalla">
+<button type="button" data-v="d1920" aria-pressed="true">Desktop 1920</button>
+<button type="button" data-v="d1366" aria-pressed="false">Laptop 1366</button>
+<button type="button" data-v="m375" aria-pressed="false">Mobile 375</button></div>
+<p>Vista previa del diseño aprobado en Figma (469:2, 472:2, 473:2). Laptop es el desktop escalado a 1366 px; móvil es el frame de 430 px escalado a 375 px.</p></div>
+
+<div class="view" id="view">
+
+<!-- DESKTOP -->
+<div class="stage" id="s-desk">
+<section class="hero">
+  <div class="bg"></div><div class="ov"></div>
+  <div class="abs logo-d"><img src="__LOGO__" alt="Goberna"></div>
+  <div class="abs name-d">
+    <p class="n1">FRANCISCO</p>
+    <p class="n2">LÓPEZ</p>
+    <p class="sub">Doctor en Criminología y detective privado habilitado</p>
+  </div>
+  <div class="abs foto-d"><img src="__FOTO__" alt="Francisco José López"></div>
+  <div class="abs esp-d">
+    <span class="esp-lbl">Especialidades</span>
+    <div class="esp-row-d">
+      <div class="esp-it"><img src="__I_CRIM__" alt="">Criminología</div><div class="sep"></div>
+      <div class="esp-it"><img src="__I_INV__" alt="">Investigación Privada</div><div class="sep"></div>
+      <div class="esp-it"><img src="__I_CONS__" alt="">Consultoría de Seguridad</div><div class="sep"></div>
+      <div class="esp-it"><img src="__I_INT__" alt="">Inteligencia Aplicada</div>
+    </div>
+  </div>
+</section>
+
+<section class="body-d">
+  <div class="card-d">
+    <div class="blk resumen-d" style="top:54px">
+      <h2 class="sec-h"><img src="__I_RES__" alt="">Resumen ejecutivo</h2>
+      <p>
+        <b>Doctor en Criminología por la Universidad de Granada y detective privado habilitado, con actividad profesional en investigación privada y servicios de seguridad desde 2007.</b> Su trayectoria combina investigación criminológica, consultoría de seguridad, gestión de proyectos empresariales y formación especializada. Ha desarrollado servicios de planificación preventiva y operativa en OPCON Seguridad, así como investigaciones para particulares y empresas mediante OPCON Detectives. Impulsa CIVVIE, iniciativa de seguridad colaborativa vinculada a su tesis doctoral, y ha participado en proyectos de investigación aplicada y colaboraciones internacionales en seguridad.
+      </p>
+    </div>
+
+    <div class="hr" style="top:439px"></div>
+
+    <div class="blk" style="top:464px">
+      <h2 class="sec-h"><img src="__I_CARGO__" alt="">Cargos principales y trayectoria</h2>
+      <ul class="list-d" style="margin-top:0;padding-top:0">
+        <li><img src="__V_DOT__" alt=""><span><b>OPCON Seguridad:</b> creación y desarrollo de una empresa de seguridad de ámbito nacional, planificación de servicios preventivos y coordinación de operaciones especializadas.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>OPCON Detectives:</b> desarrollo de investigaciones privadas para particulares y empresas, utilizando técnicas OSINT, SOCMINT y HUMINT.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Safezone Technologies SL y CIVVIE:</b> impulso de una plataforma conceptual de seguridad comunitaria y colaborativa basada en información territorial y participación ciudadana.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Codirección de un proyecto de detección de COVID-19</b> mediante perros con OPCON, DOCRIM y el Hospital Universitario Torrecárdenas (2020).</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Colaboraciones profesionales con UC Global</b> en Mauritania, en seguridad, formación y análisis de riesgos sobre el terreno.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Desarrollo de OPCON Hispania</b> como centro de formación en seguridad.</span></li>
+      </ul>
+    </div>
+
+    <div class="hr" style="top:1041px"></div>
+
+    <div class="blk" style="top:1066px;left:84px">
+      <h2 class="sec-h"><img src="__I_FORM__" alt="">Formación académica</h2>
+      <ul class="list-d" style="margin-top:0">
+        <li><img src="__V_DOT__" alt=""><span><b>Doctor en Criminología</b> – Universidad de Granada. Tesis: “Seguridad colaborativa y tecnologías de información y comunicación”.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Máster Oficial en Análisis y Prevención del Crimen</b> – Universidad Miguel Hernández.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Máster en Ciberinteligencia</b> – Campus Internacional de Ciberseguridad y Universidad Francisco de Vitoria.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Máster en Seguridad, Paz y Conflictos Internacionales</b> – Universidad de Santiago de Compostela, Centro Superior de Estudios de la Defensa e Instituto Español de Estudios Estratégicos.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Grado en Criminología</b> – Universidad de Salamanca.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Diploma de Detective Privado</b> – Universidad de Salamanca.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Experto Profesional en Dirección y Gestión de la Seguridad</b> – UNED.</span></li>
+        <li><img src="__V_DOT__" alt=""><span><b>Curso Universitario Superior de Instructor de Protección Integral</b> – Universidad de Salamanca.</span></li>
+      </ul>
+    </div>
+
+    <div class="hr" style="top:1685px"></div>
+
+    <div class="blk" style="top:1710px">
+      <h2 class="sec-h"><img src="__I_APORT__" alt="">Aportes destacados y publicaciones</h2>
+      <ul class="list-d list-arrow" style="margin-top:0">
+        <li><img src="__V_ARROW__" alt=""><span>Impulsor de <b>CIVVIE</b>, proyecto de seguridad colaborativa sustentado en su investigación doctoral y orientado a la prevención mediante participación ciudadana e información geográfica.</span></li>
+        <li><img src="__V_ARROW__" alt=""><span>Autor de <b>“Delimitación de factores para la prevención del delito: aproximación a una solución de carácter tecnológico basada en la participación ciudadana”</b>, Revista Electrónica de Criminología, volumen extra 6 (2022).</span></li>
+        <li><img src="__V_ARROW__" alt=""><span>Autor de <b>“Prevención y Seguridad en Entornos Aeroportuarios”</b>, Revista DOCRIM, Universidad de Granada.</span></li>
+        <li><img src="__V_ARROW__" alt=""><span><b>Ponente en el congreso sobre vivienda, integración social y victimización</b> – Universidad de Sevilla (2023).</span></li>
+        <li><img src="__V_ARROW__" alt=""><span><b>Ponente de pitch en eMobility Expo World Congress</b> (2026).</span></li>
+        <li><img src="__V_ARROW__" alt=""><span>Participación en <b>encuentros académicos</b> sobre análisis del riesgo delictivo, seguridad ciudadana y seguridad y defensa.</span></li>
+        <li><img src="__V_ARROW__" alt=""><span>Reconocido con <b>menciones honoríficas tipo A (2010) y tipo B (2011)</b>, propuestas por la Dirección General de la Policía en condición de detective privado.</span></li>
+      </ul>
+    </div>
+
+    <div class="stats-d">
+      <div class="stat"><p class="big">Doctor</p><p class="small">Criminología – Universidad de Granada</p></div>
+      <div class="stat s2"><p class="big">Desde 2007</p><p class="small">Investigación privada y servicios de seguridad</p></div>
+      <div class="stat s3"><p class="big">3 Másteres</p><p class="small">Crimen, Ciberinteligencia y Seguridad Internacional</p></div>
+    </div>
+  </div>
+</section>
+</div>
+
+<!-- MÓVIL -->
+<div class="stage m hidden" id="s-mob">
+<section class="hero-m">
+  <div class="bg"></div><div class="ov"></div>
+  <div class="abs logo-m"><img src="__LOGO__" alt="Goberna"></div>
+  <div class="abs name-m">
+    <p class="n1">FRANCISCO</p>
+    <p class="n2">LÓPEZ</p>
+  </div>
+  <p class="abs sub-m">Doctor en Criminología y detective privado habilitado</p>
+  <div class="abs esp-m">
+    <span class="esp-lbl">Especialidades</span>
+    <div class="grid-m">
+      <div class="cell"><img src="__I_CRIM__" alt="">Criminología</div>
+      <div class="cell"><img src="__I_INV__" alt="">Investigación Privada</div>
+      <div class="cell"><img src="__I_CONS__" alt="">Consultoría de Seguridad</div>
+      <div class="cell"><img src="__I_INT__" alt="">Inteligencia Aplicada</div>
+    </div>
+  </div>
+  <div class="abs foto-m"><img src="__FOTO__" alt="Francisco José López"></div>
+</section>
+
+<section class="body-m">
+  <div class="card-m"></div>
+
+  <div class="blk-m resumen-m" style="top:71px">
+    <h2 class="sec-m"><img src="__I_RES__" alt="">Resumen ejecutivo</h2>
+    <p><b>Doctor en Criminología por la Universidad de Granada y detective privado habilitado, con actividad profesional en investigación privada y servicios de seguridad desde 2007.</b> Su trayectoria combina investigación criminológica, consultoría de seguridad, gestión de proyectos empresariales y formación especializada. Ha desarrollado servicios de planificación preventiva y operativa en OPCON Seguridad, así como investigaciones para particulares y empresas mediante OPCON Detectives. Impulsa CIVVIE, iniciativa de seguridad colaborativa vinculada a su tesis doctoral, y ha participado en proyectos de investigación aplicada y colaboraciones internacionales en seguridad.</p>
+    <div class="stats-m">
+      <div class="stat"><p class="big">Doctor</p><p class="small">Criminología – Universidad de Granada</p></div>
+      <div class="stat"><p class="big">Desde 2007</p><p class="small">Investigación privada y servicios de seguridad</p></div>
+      <div class="stat"><p class="big">3 Másteres</p><p class="small">Crimen, Ciberinteligencia y Seguridad Internacional</p></div>
+    </div>
+  </div>
+
+  <div class="hr-m" style="top:1249px"></div>
+
+  <div class="blk-m" style="top:1299px">
+    <h2 class="sec-m"><img src="__I_CARGO__" alt="">Cargos principales y trayectoria</h2>
+    <ul class="list-m" style="margin-top:29px">
+      <li><img src="__V_DOT__" alt=""><span><b>OPCON Seguridad:</b> creación y desarrollo de una empresa de seguridad de ámbito nacional, planificación de servicios preventivos y coordinación de operaciones especializadas.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>OPCON Detectives:</b> desarrollo de investigaciones privadas para particulares y empresas, utilizando técnicas OSINT, SOCMINT y HUMINT.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Safezone Technologies SL y CIVVIE:</b> impulso de una plataforma conceptual de seguridad comunitaria y colaborativa basada en información territorial y participación ciudadana.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Codirección de un proyecto de detección de COVID-19</b> mediante perros con OPCON, DOCRIM y el Hospital Universitario Torrecárdenas (2020).</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Colaboraciones profesionales con UC Global</b> en Mauritania, en seguridad, formación y análisis de riesgos sobre el terreno.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Desarrollo de OPCON Hispania</b> como centro de formación en seguridad.</span></li>
+    </ul>
+  </div>
+
+  <div class="hr-m" style="top:2318px"></div>
+
+  <div class="blk-m" style="top:2368px">
+    <h2 class="sec-m"><img src="__I_FORM__" alt="">Formación académica</h2>
+    <ul class="list-m" style="margin-top:29px">
+      <li><img src="__V_DOT__" alt=""><span><b>Doctor en Criminología</b> – Universidad de Granada. Tesis: “Seguridad colaborativa y tecnologías de información y comunicación”.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Máster Oficial en Análisis y Prevención del Crimen</b> – Universidad Miguel Hernández.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Máster en Ciberinteligencia</b> – Campus Internacional de Ciberseguridad y Universidad Francisco de Vitoria.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Máster en Seguridad, Paz y Conflictos Internacionales</b> – Universidad de Santiago de Compostela, Centro Superior de Estudios de la Defensa e Instituto Español de Estudios Estratégicos.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Grado en Criminología</b> – Universidad de Salamanca.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Diploma de Detective Privado</b> – Universidad de Salamanca.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Experto Profesional en Dirección y Gestión de la Seguridad</b> – UNED.</span></li>
+      <li><img src="__V_DOT__" alt=""><span><b>Curso Universitario Superior de Instructor de Protección Integral</b> – Universidad de Salamanca.</span></li>
+    </ul>
+  </div>
+
+  <div class="hr-m" style="top:3363px"></div>
+
+  <div class="blk-m" style="top:3413px">
+    <h2 class="sec-m"><img src="__I_APORT__" alt="">Aportes destacados y publicaciones</h2>
+    <ul class="list-m list-arrow" style="margin-top:29px">
+      <li class="arrow"><img src="__V_ARROW__" alt=""><span>Impulsor de <b>CIVVIE</b>, proyecto de seguridad colaborativa sustentado en su investigación doctoral y orientado a la prevención mediante participación ciudadana e información geográfica.</span></li>
+      <li class="arrow"><img src="__V_ARROW__" alt=""><span>Autor de <b>“Delimitación de factores para la prevención del delito: aproximación a una solución de carácter tecnológico basada en la participación ciudadana”</b>, Revista Electrónica de Criminología, volumen extra 6 (2022).</span></li>
+      <li class="arrow"><img src="__V_ARROW__" alt=""><span>Autor de <b>“Prevención y Seguridad en Entornos Aeroportuarios”</b>, Revista DOCRIM, Universidad de Granada.</span></li>
+      <li class="arrow"><img src="__V_ARROW__" alt=""><span><b>Ponente en el congreso sobre vivienda, integración social y victimización</b> – Universidad de Sevilla (2023).</span></li>
+      <li class="arrow"><img src="__V_ARROW__" alt=""><span><b>Ponente de pitch en eMobility Expo World Congress</b> (2026).</span></li>
+      <li class="arrow"><img src="__V_ARROW__" alt=""><span>Participación en <b>encuentros académicos</b> sobre análisis del riesgo delictivo, seguridad ciudadana y seguridad y defensa.</span></li>
+      <li class="arrow"><img src="__V_ARROW__" alt=""><span>Reconocido con <b>menciones honoríficas tipo A (2010) y tipo B (2011)</b>, propuestas por la Dirección General de la Policía en condición de detective privado.</span></li>
+    </ul>
+  </div>
+</section>
+</div>
+
+</div>
+
+<script>
+const S={d1920:{id:'s-desk',z:1},d1366:{id:'s-desk',z:1366/1920},m375:{id:'s-mob',z:375/430}};
+const view=document.getElementById('view');
+function show(k){
+  const cfg=S[k];
+  ['s-desk','s-mob'].forEach(id=>document.getElementById(id).classList.toggle('hidden',id!==cfg.id));
+  const st=document.getElementById(cfg.id);
+  st.style.zoom=cfg.z;
+  document.querySelectorAll('.seg button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.v===k)));
+}
+document.querySelectorAll('.seg button').forEach(b=>b.addEventListener('click',()=>show(b.dataset.v)));
+</script>

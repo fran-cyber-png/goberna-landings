@@ -1,0 +1,34 @@
+{
+ "nombre": {"linea1": "DANIELA", "linea2": "GALVAN"},
+ "titular": "Especialista en investigación criminal e inteligencia digital.",
+ "especialidades": ["Investigación Criminal", "Inteligencia Digital", "Prevención del Ciberdelito", "OSINT y SOCMINT"],
+ "especialidades_html": ["Investigación<br>Criminal", "Inteligencia Digital", "Prevención del<br>Ciberdelito", "OSINT y SOCMINT"],
+ "cifras": [
+  ["+14 años", "Investigación criminal e inteligencia digital"],
+  ["Cibercrimen", "Policía Federal Argentina"],
+  ["Master", "Comunicación Corporativa e Institucional"]
+ ],
+ "resumen": {
+  "negrita": "Daniela Galvan cuenta con más de 14 años de experiencia en investigación criminal e inteligencia digital.",
+  "resto": " Su trayectoria combina la investigación en entornos digitales con el diseño e implementación de iniciativas de formación, desarrollo profesional y transferencia de conocimiento. Actualmente se desempeña en la Dirección General de Cibercrimen de la Policía Federal Argentina, donde coordina iniciativas de formación vinculadas a la investigación digital, la prevención del ciberdelito y el fortalecimiento de competencias especializadas. Ha participado en investigaciones sobre narcotráfico, trata de personas, secuestros, estafas y ciberdelitos, incorporando nuevas tecnologías y metodologías de análisis."
+ },
+ "cargos": [
+  "<b>Desempeño profesional en la Dirección General de Cibercrimen</b> de la Policía Federal Argentina.",
+  "<b>Coordinación de iniciativas de formación</b> en investigación digital y prevención del ciberdelito.",
+  "<b>Participación en investigaciones</b> vinculadas a delitos complejos.",
+  "<b>Participación en proyectos de incorporación, evaluación y desarrollo profesional</b> del personal.",
+  "<b>Cooperación con fuerzas de seguridad</b>, organismos públicos, instituciones académicas y organizaciones del sector privado."
+ ],
+ "formacion": [
+  "<b>Master en Comunicación Corporativa e Institucional</b> de la Universidad del Salvador.",
+  "Cursando la <b>Especialización en Cibercrimen</b> de la Facultad de Derecho de la Universidad de Buenos Aires",
+  "<b>Diplomatura en Aprendizaje y Desarrollo con Inteligencia Artificial</b> de la Universidad de Belgrano.."
+ ],
+ "aportes": [
+  "Aplicación de metodologías <b>OSINT, SOCMINT, Virtual HUMINT y técnicas de ciberpatrullaje</b> a la investigación criminal y la prevención del ciberdelito.",
+  "<b>Diseño e implementación de iniciativas de formación</b> y transferencia de conocimiento para fortalecer capacidades especializadas.",
+  "<b>Incorporación de nuevas tecnologías y metodologías de análisis</b> en investigaciones sobre delitos complejos.",
+  "Promoción del <b>aprendizaje continuo y la cooperación institucional</b> frente a los desafíos de la transformación digital."
+ ],
+ "figma": {"fileKey": "VDnG8Ey0gIPBtCqea1kya9", "desktop": "450:2", "laptop": "452:2", "mobile": "453:2", "foto": ["515:28", "515:30", "515:32"]}
+}

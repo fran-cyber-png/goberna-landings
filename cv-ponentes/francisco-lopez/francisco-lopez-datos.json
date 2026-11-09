@@ -1,0 +1,99 @@
+{
+ "nombre_completo": "Francisco José López",
+ "nombre": {
+  "d": [
+   "FRANCISCO",
+   "LÓPEZ"
+  ],
+  "m": [
+   "FRANCISCO",
+   "LÓPEZ"
+  ]
+ },
+ "titular": "Doctor en Criminología y detective privado habilitado",
+ "especialidades": {
+  "d": [
+   "Criminología",
+   "Investigación Privada",
+   "Consultoría de Seguridad",
+   "Inteligencia Aplicada"
+  ],
+  "m": [
+   "Criminología",
+   "Investigación<br>Privada",
+   "Consultoría de<br>Seguridad",
+   "Inteligencia<br>Aplicada"
+  ]
+ },
+ "cifras": [
+  {
+   "big": "Doctor",
+   "small": "Criminología – Universidad de Granada"
+  },
+  {
+   "big": "Desde 2007",
+   "small": "Investigación privada y servicios de seguridad"
+  },
+  {
+   "big": "3 Másteres",
+   "small": "Crimen, Ciberinteligencia y Seguridad Internacional"
+  }
+ ],
+ "resumen": [
+  "<b>Doctor en Criminología por la Universidad de Granada y detective privado habilitado, con actividad profesional en investigación privada y servicios de seguridad desde 2007.</b> Su trayectoria combina investigación criminológica, consultoría de seguridad, gestión de proyectos empresariales y formación especializada. Ha desarrollado servicios de planificación preventiva y operativa en OPCON Seguridad, así como investigaciones para particulares y empresas mediante OPCON Detectives. Impulsa CIVVIE, iniciativa de seguridad colaborativa vinculada a su tesis doctoral, y ha participado en proyectos de investigación aplicada y colaboraciones internacionales en seguridad."
+ ],
+ "cargos": [
+  "<b>OPCON Seguridad:</b> creación y desarrollo de una empresa de seguridad de ámbito nacional, planificación de servicios preventivos y coordinación de operaciones especializadas.",
+  "<b>OPCON Detectives:</b> desarrollo de investigaciones privadas para particulares y empresas, utilizando técnicas OSINT, SOCMINT y HUMINT.",
+  "<b>Safezone Technologies SL y CIVVIE:</b> impulso de una plataforma conceptual de seguridad comunitaria y colaborativa basada en información territorial y participación ciudadana.",
+  "<b>Codirección de un proyecto de detección de COVID⁠-⁠19</b> mediante perros con OPCON, DOCRIM y el Hospital Universitario Torrecárdenas (2020).",
+  "<b>Colaboraciones profesionales con UC Global</b> en Mauritania, en seguridad, formación y análisis de riesgos sobre el terreno.",
+  "<b>Desarrollo de OPCON Hispania</b> como centro de formación en seguridad."
+ ],
+ "formacion": [
+  "<b>Doctor en Criminología</b> – Universidad de Granada. Tesis: “Seguridad colaborativa y tecnologías de información y comunicación”.",
+  "<b>Máster Oficial en Análisis y Prevención del Crimen</b> – Universidad Miguel Hernández.",
+  "<b>Máster en Ciberinteligencia</b> – Campus Internacional de Ciberseguridad y Universidad Francisco de Vitoria.",
+  "<b>Máster en Seguridad, Paz y Conflictos Internacionales</b> – Universidad de Santiago de Compostela, Centro Superior de Estudios de la Defensa e Instituto Español de Estudios Estratégicos.",
+  "<b>Grado en Criminología</b> – Universidad de Salamanca.",
+  "<b>Diploma de Detective Privado</b> – Universidad de Salamanca.",
+  "<b>Experto Profesional en Dirección y Gestión de la Seguridad</b> – UNED.",
+  "<b>Curso Universitario Superior de Instructor de Protección Integral</b> – Universidad de Salamanca."
+ ],
+ "aportes": [
+  "Impulsor de <b>CIVVIE</b>, proyecto de seguridad colaborativa sustentado en su investigación doctoral y orientado a la prevención mediante participación ciudadana e información geográfica.",
+  "Autor de <b>“Delimitación de factores para la prevención del delito: aproximación a una solución de carácter tecnológico basada en la participación ciudadana”</b>, Revista Electrónica de Criminología, volumen extra 6 (2022).",
+  "Autor de <b>“Prevención y Seguridad en Entornos Aeroportuarios”</b>, Revista DOCRIM, Universidad de Granada.",
+  "<b>Ponente en el congreso sobre vivienda, integración social y victimización</b> – Universidad de Sevilla (2023).",
+  "<b>Ponente de pitch en eMobility Expo World Congress</b> (2026).",
+  "Participación en <b>encuentros académicos</b> sobre análisis del riesgo delictivo, seguridad ciudadana y seguridad y defensa.",
+  "Reconocido con <b>menciones honoríficas tipo A (2010) y tipo B (2011)</b>, propuestas por la Dirección General de la Policía en condición de detective privado."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "francisco-lopez-cv.webp",
+  "d": [
+   947,
+   101,
+   773,
+   749
+  ],
+  "m": [
+   8,
+   542,
+   415,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "469:2",
+  "laptop": "472:2",
+  "mobile": "473:2",
+  "foto": {
+   "desktop": "477:2",
+   "mobile": "477:8"
+  },
+  "hoja_gid": "810927693"
+ }
+}

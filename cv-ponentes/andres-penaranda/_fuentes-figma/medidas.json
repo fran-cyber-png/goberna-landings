@@ -1,0 +1,395 @@
+{
+ "figma": {
+  "desktop": "501:2",
+  "mobile": "509:168"
+ },
+ "desktop": {
+  "alto_total": 2482.14,
+  "titular_lineas": 2,
+  "barra_top": 536.0,
+  "esp_fila": [
+   42.54,
+   116.92
+  ],
+  "esp_iconos_d": [
+   {
+    "nodo": "501:31",
+    "nombre": "Contenedor Ícono Operaciones de Información",
+    "ancho": 36.92,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "501:37",
+    "nombre": "Contenedor Ícono Inteligencia Estratégica",
+    "ancho": 37.82,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "504:5",
+    "nombre": "Contenedor Ícono Comunicación Estratégica",
+    "ancho": 35.17,
+    "contenedor_alto": 37.93,
+    "alto": 36.52
+   },
+   {
+    "nodo": "501:49",
+    "nombre": "Contenedor Ícono Seguridad y Defensa Nacional",
+    "ancho": 33.1,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   }
+  ],
+  "esp_lineas_d": [
+   2,
+   2,
+   2,
+   2
+  ],
+  "esp_item_alto": 116.92,
+  "foto_capa_d": [
+   {
+    "nodo": "511:19",
+    "nombre": "AndrésPeñarandaCivil 1",
+    "x": 928.0,
+    "y": 101.0,
+    "w": 792.0,
+    "h": 749.0
+   }
+  ],
+  "tarjeta_alto": 1472.14,
+  "linea_dorada": [
+   81.0,
+   291.0
+  ],
+  "cifras_d": [
+   {
+    "top": 0.0,
+    "alto": 65.0,
+    "big_h": 45.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 246.0
+   },
+   {
+    "top": 104.0,
+    "alto": 65.0,
+    "big_h": 46.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 376.0
+   },
+   {
+    "top": 208.0,
+    "alto": 68.0,
+    "big_h": 45.0,
+    "small_top": 40.0,
+    "small_h": 28.0,
+    "small_w": 334.0
+   }
+  ],
+  "cifras_frame": [
+   1052.0,
+   88.0,
+   372.0,
+   276.0
+  ],
+  "secciones_d": {
+   "res": {
+    "top": 54.0,
+    "x": 80.0,
+    "alto": 326.03,
+    "cuerpo_top": 88.03,
+    "cuerpo_x": 62.0,
+    "cuerpo_alto": 238.0,
+    "titulo_nodo": "501:158"
+   },
+   "car": {
+    "top": 430.03,
+    "x": 81.0,
+    "alto": 372.7,
+    "cuerpo_top": 88.7,
+    "cuerpo_x": 61.0,
+    "cuerpo_alto": 284.0,
+    "titulo_nodo": "501:115",
+    "estilo": "items",
+    "n": 4,
+    "item_tops": [
+     0.0,
+     76.0,
+     152.0,
+     228.0
+    ],
+    "item_altos": [
+     56.0,
+     56.0,
+     56.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "for": {
+    "top": 852.74,
+    "x": 84.0,
+    "alto": 193.2,
+    "cuerpo_top": 89.2,
+    "cuerpo_x": 58.0,
+    "cuerpo_alto": 104.0,
+    "titulo_nodo": "501:152",
+    "estilo": "items",
+    "n": 2,
+    "item_tops": [
+     0.0,
+     48.0
+    ],
+    "item_altos": [
+     28.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "apo": {
+    "top": 1095.94,
+    "x": 81.0,
+    "alto": 322.2,
+    "cuerpo_top": 86.2,
+    "cuerpo_x": 61.5,
+    "cuerpo_alto": 208.0,
+    "titulo_nodo": "501:190",
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     76.0,
+     152.0
+    ],
+    "item_altos": [
+     56.0,
+     56.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   }
+  },
+  "divisores_d": [
+   405.03,
+   827.74,
+   1070.94
+  ]
+ },
+ "movil": {
+  "alto_total": 3841.0,
+  "portada_alto": 931.0,
+  "titular_lineas": 2,
+  "titular_top": 181.0,
+  "nombre": [
+   305.0,
+   72.0
+  ],
+  "barra": [
+   24.0,
+   298.0,
+   382.0,
+   181.0
+  ],
+  "esp_iconos_m": [
+   {
+    "nodo": "509:334",
+    "x": 108.81,
+    "y": 329.0,
+    "w": 22.39,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "509:337",
+    "x": 304.53,
+    "y": 329.0,
+    "w": 22.94,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "509:340",
+    "x": 109.34,
+    "y": 406.5,
+    "w": 21.33,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "509:343",
+    "x": 305.96,
+    "y": 406.5,
+    "w": 20.07,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   }
+  ],
+  "esp_textos_m": [
+   {
+    "x": 76.5,
+    "y": 357.0,
+    "w": 87.0,
+    "lineas": 2
+   },
+   {
+    "x": 283.5,
+    "y": 357.0,
+    "w": 65.0,
+    "lineas": 2
+   },
+   {
+    "x": 80.0,
+    "y": 435.0,
+    "w": 80.0,
+    "lineas": 2
+   },
+   {
+    "x": 267.5,
+    "y": 435.0,
+    "w": 97.0,
+    "lineas": 2
+   }
+  ],
+  "foto_capa_m": [
+   {
+    "nodo": "511:25",
+    "nombre": "AndrésPeñarandaCivil 1",
+    "x": 9.0,
+    "y": 542.0,
+    "w": 412.0,
+    "h": 389.0
+   }
+  ],
+  "tarjeta": [
+   951.0,
+   2870.0
+  ],
+  "interior": [
+   20.0,
+   51.0,
+   2768.0
+  ],
+  "resumen_m": {
+   "top": 0.0,
+   "alto": 1072.0,
+   "texto": [
+    66.0,
+    646.0
+   ],
+   "datos": [
+    20.0,
+    752.0,
+    312.0,
+    320.0
+   ],
+   "dato": [
+    {
+     "top": 0.0,
+     "alto": 69.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 22.0
+    },
+    {
+     "top": 97.0,
+     "alto": 92.0,
+     "big_h": 46.0,
+     "small_top": 48.0,
+     "small_h": 44.0
+    },
+    {
+     "top": 217.0,
+     "alto": 103.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 56.0
+    }
+   ]
+  },
+  "secciones_m": {
+   "car": {
+    "top": 1172.0,
+    "alto": 543.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 415.0,
+    "estilo": "items",
+    "n": 4,
+    "item_tops": [
+     0.0,
+     101.0,
+     230.0,
+     331.0
+    ],
+    "item_altos": [
+     84.0,
+     112.0,
+     84.0,
+     84.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "for": {
+    "top": 1815.0,
+    "alto": 283.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 98.0,
+    "lista_alto": 185.0,
+    "estilo": "items",
+    "n": 2,
+    "item_tops": [
+     0.0,
+     73.0
+    ],
+    "item_altos": [
+     56.0,
+     112.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "apo": {
+    "top": 2198.0,
+    "alto": 570.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 442.0,
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     119.0,
+     306.0
+    ],
+    "item_altos": [
+     102.0,
+     170.0,
+     136.0
+    ],
+    "gap": [
+     17.0
+    ]
+   }
+  },
+  "divisores_m": [
+   1122.0,
+   1765.0,
+   2148.0
+  ]
+ }
+}

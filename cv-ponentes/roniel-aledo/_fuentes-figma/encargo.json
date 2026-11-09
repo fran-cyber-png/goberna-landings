@@ -1,0 +1,34 @@
+{
+ "slug": "roniel-aledo",
+ "nombre_completo": "Roniel Aledo",
+ "hoja_gid": "120241723",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "267:120",
+  "laptop": "338:1165",
+  "mobile": "317:548"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "267:128",
+  "tarjeta_desktop": "267:171",
+  "portada_movil": "317:549",
+  "tarjeta_movil": "317:585"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "268:28"
+  ],
+  "movil": [
+   "317:560"
+  ]
+ },
+ "items_esperados": {
+  "car": 5,
+  "for": 3,
+  "apo": 3
+ },
+ "lineas_titular": {
+  "desktop": 2,
+  "movil": 2
+ }
+}

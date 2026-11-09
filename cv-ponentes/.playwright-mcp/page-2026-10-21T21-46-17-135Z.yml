@@ -1,0 +1,88 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - heading "Plantilla Fernando Cocho Pérez" [level=1] [ref=f2e3]
+    - group "Ancho de pantalla" [ref=f2e4]:
+      - button "Desktop 1920" [pressed] [ref=f2e5] [cursor=pointer]
+      - button "Laptop 1366" [ref=f2e6] [cursor=pointer]
+      - button "Mobile 375" [ref=f2e7] [cursor=pointer]
+    - button "Ver widgets" [ref=f2e8] [cursor=pointer]
+    - paragraph [ref=f2e9]: Vista previa del diseño aprobado en Figma (487:2, 490:2, 492:2). Laptop es el desktop escalado a 1366 px; móvil es el frame de 430 px escalado a 375 px. Las cifras de la derecha quedan fijas al hacer scroll en desktop y laptop.
+  - generic [ref=f2e11]:
+    - generic [ref=f2e12]:
+      - img "Goberna" [ref=f2e14]
+      - generic [ref=f2e15]:
+        - paragraph [ref=f2e16]: FERNANDO
+        - paragraph [ref=f2e17]: COCHO
+        - paragraph [ref=f2e18]: Funcionario MEC/CAM y Analista de Inteligencia | Docente UNIR | Socio fundador de la empresa de inteligencia y estrategia Hdm
+      - img "Fernando Cocho Pérez" [ref=f2e20]
+      - generic [ref=f2e21]:
+        - generic [ref=f2e22]: Especialidades
+        - generic [ref=f2e23]:
+          - generic [ref=f2e24]: Metodología deInteligencia
+          - generic [ref=f2e27]: InteligenciaEstratégica
+          - generic [ref=f2e30]: SeguridadNacional
+          - generic [ref=f2e33]: Ciberinteligencia
+    - generic [ref=f2e37]:
+      - generic [ref=f2e38]:
+        - heading "Resumen ejecutivo" [level=2] [ref=f2e39]
+        - paragraph [ref=f2e41]: Fernando Cocho Pérez es funcionario MEC/CAM, analista de inteligencia, experto en metodología de inteligencia y docente universitario. De acuerdo con UNIR, cuenta con más de 30 años de experiencia docente en universidades públicas y privadas, nacionales e internacionales, en materias relacionadas con inteligencia, seguridad, ciberinteligencia, ciberterrorismo, narrativas y perfiles delictivos. Es fundador de H4dm Inteligencia y ha desarrollado labores de asesoramiento a instituciones, empresas y gobiernos. CEDEGYS destaca su participación en la formación de analistas de inteligencia, su investigación sobre riesgos para la seguridad nacional y amenazas híbridas, así como su colaboración en medios de comunicación.
+        - heading "Cargos principales y trayectoria" [level=2] [ref=f2e43]
+        - list [ref=f2e45]:
+          - listitem [ref=f2e46]:
+            - generic [ref=f2e47]: Funcionario MEC/CAM y Analista de Inteligencia — denominación indicada por CEDEGYS.
+          - listitem [ref=f2e48]:
+            - generic [ref=f2e49]: Docente UNIR — Universidad Internacional de La Rioja.
+          - listitem [ref=f2e50]:
+            - generic [ref=f2e51]: Funcionario A1 — denominación indicada por UNIR.
+          - listitem [ref=f2e52]:
+            - generic [ref=f2e53]: Funcionario CAM — denominación indicada por UNIR.
+          - listitem [ref=f2e54]:
+            - generic [ref=f2e55]: Fundador H4dm Inteligencia — denominación indicada por UNIR.
+          - listitem [ref=f2e56]:
+            - generic [ref=f2e57]: Socio fundador de la empresa de inteligencia y estratategia Hdm — denominación indicada por CEDEGYS.
+          - listitem [ref=f2e58]:
+            - generic [ref=f2e59]: Profesor de filosofía del lenguaje y narrativas de la UNED — referencia incluida en la biografía de UNIR.
+          - listitem [ref=f2e60]:
+            - generic [ref=f2e61]: Profesor de diversos Máster y escuelas de inteligencia — referencia incluida en CEDEGYS.
+        - heading "Formación académica" [level=2] [ref=f2e63]
+        - list [ref=f2e65]:
+          - listitem [ref=f2e66]:
+            - generic [ref=f2e67]: Licenciado en Filosofía — Universidad Complutense de Madrid (UCM).
+          - listitem [ref=f2e68]:
+            - generic [ref=f2e69]: Cursos de doctorado finalizados; suficiencia investigadora.
+          - listitem [ref=f2e70]:
+            - generic [ref=f2e71]: Máster Inteligencia.
+          - listitem [ref=f2e72]:
+            - generic [ref=f2e73]: Máster en Logística.
+          - listitem [ref=f2e74]:
+            - generic [ref=f2e75]: Máster en Información internacional.
+          - listitem [ref=f2e76]:
+            - generic [ref=f2e77]: Experto en servicios de inteligencia.
+          - listitem [ref=f2e78]:
+            - generic [ref=f2e79]: Máster en Evaluación de la Calidad Docente.
+          - listitem [ref=f2e80]:
+            - generic [ref=f2e81]: Formación de máster en gestión del conocimiento, capital intelectual, cibercrimen y ciberinteligencia, según CEDEGYS (sin denominaciones oficiales completas indicadas).
+        - heading "Aportes destacados y publicaciones" [level=2] [ref=f2e83]
+        - list [ref=f2e85]:
+          - listitem [ref=f2e86]:
+            - generic [ref=f2e87]: Formación de analistas de inteligencia en distintos países.
+          - listitem [ref=f2e88]:
+            - generic [ref=f2e89]: Asesoramiento a empresas e instituciones nacionales e internacionales, incluidos gobiernos.
+          - listitem [ref=f2e90]:
+            - generic [ref=f2e91]: Actividad docente sobre metodología de inteligencia y riesgos a la seguridad nacional.
+          - listitem [ref=f2e92]:
+            - generic [ref=f2e93]: Publicaciones sobre riesgos a la seguridad nacional, según CEDEGYS, sin títulos individuales detallados en las fuentes consultadas.
+          - listitem [ref=f2e94]:
+            - generic [ref=f2e95]: Investigación sobre aplicación de la inteligencia a amenazas híbridas.
+          - listitem [ref=f2e96]:
+            - generic [ref=f2e97]: Colaboración en medios nacionales e internacionales sobre relaciones internacionales, terrorismo, delitos de odio y amenazas híbridas.
+      - generic [ref=f2e99]:
+        - generic [ref=f2e100]:
+          - paragraph [ref=f2e101]: +30 años
+          - paragraph [ref=f2e102]: Experiencia docente universitaria
+        - generic [ref=f2e103]:
+          - paragraph [ref=f2e104]: 4 Másteres
+          - paragraph [ref=f2e105]: Inteligencia, Logística, Información Internacional y Calidad Docente
+        - generic [ref=f2e106]:
+          - paragraph [ref=f2e107]: Fundador
+          - paragraph [ref=f2e108]: H4dm Inteligencia

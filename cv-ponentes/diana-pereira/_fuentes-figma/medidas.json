@@ -1,0 +1,395 @@
+{
+ "figma": {
+  "desktop": "395:2",
+  "mobile": "409:2"
+ },
+ "desktop": {
+  "alto_total": 2584.14,
+  "titular_lineas": 2,
+  "barra_top": 536.0,
+  "esp_fila": [
+   42.54,
+   116.92
+  ],
+  "esp_iconos_d": [
+   {
+    "nodo": "395:34",
+    "nombre": "noun_Pin_3698121",
+    "ancho": 28.79,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "395:41",
+    "nombre": "noun_global_2559364",
+    "ancho": 37.82,
+    "contenedor_alto": 37.82,
+    "alto": 37.82
+   },
+   {
+    "nodo": "395:29",
+    "nombre": "noun-security-8354638",
+    "ancho": 33.1,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "395:46",
+    "nombre": "noun_process_2021778",
+    "ancho": 36.92,
+    "contenedor_alto": 36.92,
+    "alto": 36.92
+   }
+  ],
+  "esp_lineas_d": [
+   1,
+   2,
+   2,
+   2
+  ],
+  "esp_item_alto": 116.92,
+  "foto_capa_d": [
+   {
+    "nodo": "407:2",
+    "nombre": "hysa 1",
+    "x": 892.0,
+    "y": 101.0,
+    "w": 828.0,
+    "h": 749.0
+   }
+  ],
+  "tarjeta_alto": 1574.14,
+  "linea_dorada": [
+   81.0,
+   291.0
+  ],
+  "cifras_d": [
+   {
+    "top": 0.0,
+    "alto": 65.0,
+    "big_h": 45.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 265.0
+   },
+   {
+    "top": 104.0,
+    "alto": 65.0,
+    "big_h": 46.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 154.0
+   },
+   {
+    "top": 208.0,
+    "alto": 68.0,
+    "big_h": 45.0,
+    "small_top": 40.0,
+    "small_h": 28.0,
+    "small_w": 169.0
+   }
+  ],
+  "cifras_frame": [
+   1052.0,
+   88.0,
+   372.0,
+   276.0
+  ],
+  "secciones_d": {
+   "res": {
+    "top": 54.0,
+    "x": 80.0,
+    "alto": 428.03,
+    "cuerpo_top": 88.03,
+    "cuerpo_x": 62.0,
+    "cuerpo_alto": 340.0,
+    "titulo_nodo": "395:100"
+   },
+   "car": {
+    "top": 532.03,
+    "x": 81.0,
+    "alto": 240.7,
+    "cuerpo_top": 88.7,
+    "cuerpo_x": 61.0,
+    "cuerpo_alto": 152.0,
+    "titulo_nodo": "395:85",
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     48.0,
+     124.0
+    ],
+    "item_altos": [
+     28.0,
+     56.0,
+     28.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "for": {
+    "top": 822.74,
+    "x": 84.0,
+    "alto": 269.2,
+    "cuerpo_top": 89.2,
+    "cuerpo_x": 58.0,
+    "cuerpo_alto": 180.0,
+    "titulo_nodo": "395:94",
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     76.0,
+     152.0
+    ],
+    "item_altos": [
+     56.0,
+     56.0,
+     28.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "apo": {
+    "top": 1141.94,
+    "x": 81.0,
+    "alto": 378.2,
+    "cuerpo_top": 86.2,
+    "cuerpo_x": 61.5,
+    "cuerpo_alto": 264.0,
+    "titulo_nodo": "395:112",
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     76.0,
+     180.0
+    ],
+    "item_altos": [
+     56.0,
+     84.0,
+     84.0
+    ],
+    "gap": [
+     20.0
+    ]
+   }
+  },
+  "divisores_d": [
+   507.03,
+   797.74,
+   1116.94
+  ]
+ },
+ "movil": {
+  "alto_total": 4132.0,
+  "portada_alto": 931.0,
+  "titular_lineas": 3,
+  "titular_top": 181.0,
+  "nombre": [
+   207.0,
+   72.0
+  ],
+  "barra": [
+   24.0,
+   298.0,
+   382.0,
+   181.0
+  ],
+  "esp_iconos_m": [
+   {
+    "nodo": "431:2",
+    "x": 110.93,
+    "y": 329.3,
+    "w": 18.13,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "431:6",
+    "x": 304.5,
+    "y": 329.3,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "431:8",
+    "x": 109.58,
+    "y": 406.5,
+    "w": 20.84,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "431:10",
+    "x": 304.5,
+    "y": 406.8,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   }
+  ],
+  "esp_textos_m": [
+   {
+    "x": 94.5,
+    "y": 357.0,
+    "w": 51.0,
+    "lineas": 1
+   },
+   {
+    "x": 273.0,
+    "y": 357.0,
+    "w": 86.0,
+    "lineas": 2
+   },
+   {
+    "x": 91.5,
+    "y": 434.98,
+    "w": 57.0,
+    "lineas": 2
+   },
+   {
+    "x": 269.0,
+    "y": 434.9,
+    "w": 94.0,
+    "lineas": 2
+   }
+  ],
+  "foto_capa_m": [
+   {
+    "nodo": "409:14",
+    "nombre": "Foto Diana",
+    "x": 0.0,
+    "y": 542.0,
+    "w": 430.0,
+    "h": 390.0
+   }
+  ],
+  "tarjeta": [
+   951.0,
+   3161.0
+  ],
+  "interior": [
+   20.0,
+   51.0,
+   3059.0
+  ],
+  "resumen_m": {
+   "top": 0.0,
+   "alto": 1192.0,
+   "texto": [
+    66.0,
+    816.0
+   ],
+   "datos": [
+    20.0,
+    922.0,
+    312.0,
+    270.0
+   ],
+   "dato": [
+    {
+     "top": 0.0,
+     "alto": 69.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 22.0
+    },
+    {
+     "top": 97.0,
+     "alto": 70.0,
+     "big_h": 46.0,
+     "small_top": 48.0,
+     "small_h": 22.0
+    },
+    {
+     "top": 195.0,
+     "alto": 75.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 28.0
+    }
+   ]
+  },
+  "secciones_m": {
+   "car": {
+    "top": 1292.0,
+    "alto": 414.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 286.0,
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     101.0,
+     230.0
+    ],
+    "item_altos": [
+     84.0,
+     112.0,
+     56.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "for": {
+    "top": 1806.0,
+    "alto": 412.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 98.0,
+    "lista_alto": 314.0,
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     129.0,
+     258.0
+    ],
+    "item_altos": [
+     112.0,
+     112.0,
+     56.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "apo": {
+    "top": 2318.0,
+    "alto": 741.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 95.0,
+    "lista_alto": 646.0,
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     153.0,
+     442.0
+    ],
+    "item_altos": [
+     136.0,
+     272.0,
+     204.0
+    ],
+    "gap": [
+     17.0
+    ]
+   }
+  },
+  "divisores_m": [
+   1242.0,
+   1756.0,
+   2268.0
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "diana-pereira",
+ "nombre_completo": "Diana Pereira",
+ "hoja_gid": "1985372636",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "395:2",
+  "laptop": "426:2",
+  "mobile": "409:2"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "395:10",
+  "tarjeta_desktop": "395:53",
+  "portada_movil": "409:3",
+  "tarjeta_movil": "409:39"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "407:2"
+  ],
+  "movil": [
+   "409:14"
+  ]
+ },
+ "items_esperados": {
+  "car": 3,
+  "for": 3,
+  "apo": 3
+ },
+ "lineas_titular": {
+  "desktop": 2,
+  "movil": 3
+ }
+}

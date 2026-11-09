@@ -1,0 +1,47 @@
+- generic [ref=f9e3]:
+  - generic [ref=f9e4]:
+    - img "Goberna" [ref=f9e8]
+    - generic [ref=f9e9]:
+      - heading "DANIELA" [level=1] [ref=f9e12]
+      - heading "GALVAN" [level=1] [ref=f9e15]
+      - paragraph [ref=f9e18]: Especialista en investigación criminal e inteligencia digital.
+    - img "Daniela Galvan" [ref=f9e22]
+    - generic [ref=f9e23]:
+      - paragraph [ref=f9e26]: Especialidades
+      - generic [ref=f9e27]:
+        - paragraph [ref=f9e32]: InvestigaciónCriminal
+        - paragraph [ref=f9e38]: Inteligencia Digital
+        - paragraph [ref=f9e44]: Prevención delCiberdelito
+        - paragraph [ref=f9e50]: OSINT y SOCMINT
+  - generic [ref=f9e53]:
+    - generic [ref=f9e54]:
+      - heading "Resumen ejecutivo" [level=2] [ref=f9e57]
+      - paragraph [ref=f9e60]: Daniela Galvan cuenta con más de 14 años de experiencia en investigación criminal e inteligencia digital. Su trayectoria combina la investigación en entornos digitales con el diseño e implementación de iniciativas de formación, desarrollo profesional y transferencia de conocimiento. Actualmente se desempeña en la Dirección General de Cibercrimen de la Policía Federal Argentina, donde coordina iniciativas de formación vinculadas a la investigación digital, la prevención del ciberdelito y el fortalecimiento de competencias especializadas. Ha participado en investigaciones sobre narcotráfico, trata de personas, secuestros, estafas y ciberdelitos, incorporando nuevas tecnologías y metodologías de análisis.
+      - heading "Cargos principales y trayectoria" [level=2] [ref=f9e64]
+      - list [ref=f9e67]:
+        - listitem [ref=f9e68]: Desempeño profesional en la Dirección General de Cibercrimen de la Policía Federal Argentina.
+        - listitem [ref=f9e69]: Coordinación de iniciativas de formación en investigación digital y prevención del ciberdelito.
+        - listitem [ref=f9e70]: Participación en investigaciones vinculadas a delitos complejos.
+        - listitem [ref=f9e71]: Participación en proyectos de incorporación, evaluación y desarrollo profesional del personal.
+        - listitem [ref=f9e72]: Cooperación con fuerzas de seguridad, organismos públicos, instituciones académicas y organizaciones del sector privado.
+      - heading "Formación académica" [level=2] [ref=f9e76]
+      - list [ref=f9e79]:
+        - listitem [ref=f9e80]: Master en Comunicación Corporativa e Institucional de la Universidad del Salvador.
+        - listitem [ref=f9e81]: Cursando la Especialización en Cibercrimen de la Facultad de Derecho de la Universidad de Buenos Aires
+        - listitem [ref=f9e82]: Diplomatura en Aprendizaje y Desarrollo con Inteligencia Artificial de la Universidad de Belgrano..
+      - heading "Aportes destacados y publicaciones" [level=2] [ref=f9e86]
+      - list [ref=f9e89]:
+        - listitem [ref=f9e90]: Aplicación de metodologías OSINT, SOCMINT, Virtual HUMINT y técnicas de ciberpatrullaje a la investigación criminal y la prevención del ciberdelito.
+        - listitem [ref=f9e91]: Diseño e implementación de iniciativas de formación y transferencia de conocimiento para fortalecer capacidades especializadas.
+        - listitem [ref=f9e92]: Incorporación de nuevas tecnologías y metodologías de análisis en investigaciones sobre delitos complejos.
+        - listitem [ref=f9e93]: Promoción del aprendizaje continuo y la cooperación institucional frente a los desafíos de la transformación digital.
+    - generic [ref=f9e95]:
+      - generic [ref=f9e96]:
+        - paragraph [ref=f9e99]: +14 años
+        - paragraph [ref=f9e102]: Investigación criminal e inteligencia digital
+      - generic [ref=f9e103]:
+        - paragraph [ref=f9e106]: Cibercrimen
+        - paragraph [ref=f9e109]: Policía Federal Argentina
+      - generic [ref=f9e110]:
+        - paragraph [ref=f9e113]: Master
+        - paragraph [ref=f9e116]: Comunicación Corporativa e Institucional

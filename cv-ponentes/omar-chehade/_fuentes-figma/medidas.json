@@ -1,0 +1,415 @@
+{
+ "figma": {
+  "desktop": "437:2",
+  "mobile": "447:2"
+ },
+ "desktop": {
+  "alto_total": 2700.14,
+  "titular_lineas": 2,
+  "barra_top": 536.0,
+  "esp_fila": [
+   42.54,
+   116.92
+  ],
+  "esp_iconos_d": [
+   {
+    "nodo": "524:2",
+    "nombre": "Contenedor Ícono Derecho Constitucional",
+    "ancho": 31.66,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "524:3",
+    "nombre": "Contenedor Ícono Derecho Penal",
+    "ancho": 40.97,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "524:4",
+    "nombre": "Contenedor Ícono Lucha Anticorrupción",
+    "ancho": 33.1,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "524:5",
+    "nombre": "Contenedor Ícono Gobernanza y Políticas Públicas",
+    "ancho": 36.92,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   }
+  ],
+  "esp_lineas_d": [
+   2,
+   1,
+   2,
+   2
+  ],
+  "esp_item_alto": 116.92,
+  "foto_capa_d": [
+   {
+    "nodo": "523:1653",
+    "nombre": "Chehade 1",
+    "x": 1059.0,
+    "y": 101.0,
+    "w": 661.0,
+    "h": 749.0
+   }
+  ],
+  "tarjeta_alto": 1690.14,
+  "linea_dorada": [
+   81.0,
+   291.0
+  ],
+  "cifras_d": [
+   {
+    "top": 0.0,
+    "alto": 65.0,
+    "big_h": 45.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 276.0
+   },
+   {
+    "top": 104.0,
+    "alto": 65.0,
+    "big_h": 46.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 231.0
+   },
+   {
+    "top": 208.0,
+    "alto": 68.0,
+    "big_h": 45.0,
+    "small_top": 40.0,
+    "small_h": 28.0,
+    "small_w": 115.0
+   }
+  ],
+  "cifras_frame": [
+   1052.0,
+   88.0,
+   372.0,
+   276.0
+  ],
+  "secciones_d": {
+   "res": {
+    "top": 54.0,
+    "x": 80.0,
+    "alto": 360.03,
+    "cuerpo_top": 88.03,
+    "cuerpo_x": 62.0,
+    "cuerpo_alto": 272.0,
+    "titulo_nodo": "437:116"
+   },
+   "car": {
+    "top": 464.03,
+    "x": 81.0,
+    "alto": 440.7,
+    "cuerpo_top": 88.7,
+    "cuerpo_x": 61.0,
+    "cuerpo_alto": 352.0,
+    "titulo_nodo": "437:93",
+    "estilo": "items",
+    "n": 6,
+    "item_tops": [
+     0.0,
+     48.0,
+     96.0,
+     172.0,
+     248.0,
+     324.0
+    ],
+    "item_altos": [
+     28.0,
+     28.0,
+     56.0,
+     56.0,
+     56.0,
+     28.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "for": {
+    "top": 954.73,
+    "x": 84.0,
+    "alto": 241.2,
+    "cuerpo_top": 89.2,
+    "cuerpo_x": 58.0,
+    "cuerpo_alto": 152.0,
+    "titulo_nodo": "437:110",
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     48.0,
+     124.0
+    ],
+    "item_altos": [
+     28.0,
+     56.0,
+     28.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "apo": {
+    "top": 1245.94,
+    "x": 81.0,
+    "alto": 390.2,
+    "cuerpo_top": 86.2,
+    "cuerpo_x": 61.5,
+    "cuerpo_alto": 276.0,
+    "titulo_nodo": "437:136",
+    "estilo": "items",
+    "n": 5,
+    "item_tops": [
+     0.0,
+     48.0,
+     124.0,
+     172.0,
+     248.0
+    ],
+    "item_altos": [
+     28.0,
+     56.0,
+     28.0,
+     56.0,
+     28.0
+    ],
+    "gap": [
+     20.0
+    ]
+   }
+  },
+  "divisores_d": [
+   439.03,
+   929.73,
+   1220.94
+  ]
+ },
+ "movil": {
+  "alto_total": 4208.0,
+  "portada_alto": 931.0,
+  "titular_lineas": 3,
+  "titular_top": 181.0,
+  "nombre": [
+   233.0,
+   72.0
+  ],
+  "barra": [
+   24.0,
+   298.0,
+   382.0,
+   181.0
+  ],
+  "esp_iconos_m": [
+   {
+    "nodo": "447:113",
+    "x": 110.4,
+    "y": 329.3,
+    "w": 19.2,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "447:115",
+    "x": 303.54,
+    "y": 329.3,
+    "w": 24.92,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "447:117",
+    "x": 109.58,
+    "y": 406.5,
+    "w": 20.84,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "447:119",
+    "x": 304.5,
+    "y": 406.8,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   }
+  ],
+  "esp_textos_m": [
+   {
+    "x": 79.0,
+    "y": 357.0,
+    "w": 82.0,
+    "lineas": 2
+   },
+   {
+    "x": 275.5,
+    "y": 357.0,
+    "w": 81.0,
+    "lineas": 1
+   },
+   {
+    "x": 78.5,
+    "y": 434.98,
+    "w": 83.0,
+    "lineas": 2
+   },
+   {
+    "x": 267.5,
+    "y": 434.9,
+    "w": 97.0,
+    "lineas": 2
+   }
+  ],
+  "foto_capa_m": [
+   {
+    "nodo": "523:1658",
+    "nombre": "Chehade 1",
+    "x": 37.0,
+    "y": 542.0,
+    "w": 357.0,
+    "h": 390.0
+   }
+  ],
+  "tarjeta": [
+   951.0,
+   3237.0
+  ],
+  "interior": [
+   20.0,
+   51.0,
+   3135.0
+  ],
+  "resumen_m": {
+   "top": 0.0,
+   "alto": 1022.0,
+   "texto": [
+    66.0,
+    646.0
+   ],
+   "datos": [
+    20.0,
+    752.0,
+    312.0,
+    270.0
+   ],
+   "dato": [
+    {
+     "top": 0.0,
+     "alto": 69.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 22.0
+    },
+    {
+     "top": 97.0,
+     "alto": 70.0,
+     "big_h": 46.0,
+     "small_top": 48.0,
+     "small_h": 22.0
+    },
+    {
+     "top": 195.0,
+     "alto": 75.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 28.0
+    }
+   ]
+  },
+  "secciones_m": {
+   "car": {
+    "top": 1122.0,
+    "alto": 689.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 561.0,
+    "estilo": "items",
+    "n": 6,
+    "item_tops": [
+     0.0,
+     73.0,
+     146.0,
+     275.0,
+     376.0,
+     505.0
+    ],
+    "item_altos": [
+     56.0,
+     56.0,
+     112.0,
+     84.0,
+     112.0,
+     56.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "for": {
+    "top": 1911.0,
+    "alto": 384.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 98.0,
+    "lista_alto": 286.0,
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     101.0,
+     230.0
+    ],
+    "item_altos": [
+     84.0,
+     112.0,
+     56.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "apo": {
+    "top": 2395.0,
+    "alto": 740.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 612.0,
+    "estilo": "items",
+    "n": 5,
+    "item_tops": [
+     0.0,
+     119.0,
+     238.0,
+     323.0,
+     510.0
+    ],
+    "item_altos": [
+     102.0,
+     102.0,
+     68.0,
+     170.0,
+     102.0
+    ],
+    "gap": [
+     17.0
+    ]
+   }
+  },
+  "divisores_m": [
+   1072.0,
+   1861.0,
+   2345.0
+  ]
+ }
+}

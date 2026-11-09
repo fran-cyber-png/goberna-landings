@@ -1,0 +1,34 @@
+{
+ "slug": "omar-chehade",
+ "nombre_completo": "Omar Chehade",
+ "hoja_gid": "582566461",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "437:2",
+  "laptop": "444:2",
+  "mobile": "447:2"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "437:10",
+  "tarjeta_desktop": "437:54",
+  "portada_movil": "447:3",
+  "tarjeta_movil": "447:39"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "523:1653"
+  ],
+  "movil": [
+   "523:1658"
+  ]
+ },
+ "items_esperados": {
+  "car": 6,
+  "for": 3,
+  "apo": 5
+ },
+ "lineas_titular": {
+  "desktop": 2,
+  "movil": 3
+ }
+}

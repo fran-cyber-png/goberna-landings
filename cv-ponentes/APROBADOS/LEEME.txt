@@ -1,0 +1,34 @@
+LANDINGS CV DE PONENTES — APROBADAS (27-oct-2026)
+Generadas con el motor estándar (cv-ponentes\_motor). Banner idéntico en todas.
+
+Cómo importar cada una en Elementor:
+1. Subir UNA VEZ a la Biblioteca de medios lo de "_comunes-subir-una-vez": cv-ponentes-fondo-desktop.webp, cv-ponentes-fondo-movil.webp
+   (logo-goberna-1-1.webp ya está en la web: no hace falta subirlo de nuevo).
+2. Subir la foto del ponente (el .webp de su carpeta) SIN cambiarle el nombre.
+   El JSON la busca en https://grupogoberna.com/wp-content/uploads/2026/10/<nombre-del-archivo>.webp
+3. Plantillas > Plantillas guardadas > Importar > el .json de la carpeta del ponente.
+4. Si una imagen sale en blanco: volver a elegirla (ak-d-hero / ak-m-hero: Estilo > Fondo; widgets ak-d-foto-img, ak-m-foto-img, ak-d-logo-img, ak-m-logo-img).
+5. Comprobar con scroll en desktop y laptop que las cifras de la derecha quedan fijas.
+
+Diana Pereira                            Diana Pereira.json   foto: diana-pereira-cv.webp (101 KB)
+Francisco José López                     Francisco José López.json   foto: francisco-lopez-cv.webp (107 KB)
+Fernando Cocho Pérez                     Fernando Cocho Pérez.json   foto: fernando-cocho.webp (151 KB)
+Andrés Peñaranda                         Andrés Peñaranda.json   foto: andres-penaranda.webp (142 KB)
+Daniela Galván                           Daniela Galván.json   foto: daniela-galvan.webp (69 KB)
+Omar Chehade                             Omar Chehade.json   foto: omar-chehade.webp (231 KB)
+Gonzalo Catanzariti                      Gonzalo Catanzariti.json   foto: gonzalo-catanzariti-cv.webp (133 KB)
+María Herrera                            María Herrera.json   foto: maria-herrera.webp (85 KB)
+Camilo Bello                             Camilo Bello.json   foto: camilo-bello.webp (126 KB)
+Eduardo Velandia Becerra                 Eduardo Velandia Becerra.json   foto: eduardo-velandia.webp (163 KB)
+Rafael Ausejo                            Rafael Ausejo.json   foto: rafael-ausejo.webp (134 KB)
+Eduardo De La Torre Díaz                 Eduardo De La Torre Díaz.json   foto: eduardo-de-la-torre.webp (108 KB)
+Juan de Dios Páramo                      Juan de Dios Páramo.json   foto: juan-de-dios-paramo-cv.webp (71 KB)
+Roberto Bazán                            Roberto Bazán.json   foto: roberto-bazan.webp (75 KB)
+Mauricio García Ramírez                  Mauricio García Ramírez.json   foto: mauricio-garcia.webp (88 KB)
+Job Meneses                              Job Meneses.json   foto: job-meneses-cv.webp (240 KB)
+Nuño Rodríguez                           Nuño Rodríguez.json   foto: nuno-rodriguez.webp (135 KB)
+Diego Miranda Giménez de Azcárate        Diego Miranda Giménez de Azcárate.json   foto: diego-miranda.webp (42 KB)
+Cristiano Lamas                          Cristiano Lamas.json   foto: cristiano-lamas-cv.webp (54 KB)
+Ron Aledo                                Ron Aledo.json   foto: roniel-aledo.webp (148 KB)
+
+_versiones-anteriores: los JSON aprobados antes del motor (solo como respaldo).

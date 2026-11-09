@@ -1,0 +1,94 @@
+{
+ "nombre_completo": "Juan de Dios Páramo",
+ "nombre": {
+  "d": [
+   "JUAN DE DIOS",
+   "PÁRAMO"
+  ],
+  "m": [
+   "JUAN DE DIOS",
+   "PÁRAMO"
+  ]
+ },
+ "titular": "Especialista en Geografía Electoral y Análisis Territorial",
+ "especialidades": {
+  "d": [
+   "Geografía<br>Electoral",
+   "Análisis<br>Territorial",
+   "Cartografía<br>Estratégica",
+   "Estudios<br>Regionales"
+  ],
+  "m": [
+   "Geografía<br>Electoral",
+   "Análisis<br>Territorial",
+   "Cartografía<br>Estratégica",
+   "Estudios<br>Regionales"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "UNAM",
+   "small": "Formación de posgrado en Geografía"
+  },
+  {
+   "big": "Investigador",
+   "small": "Estudios geográficos y territoriales"
+  },
+  {
+   "big": "Coautor",
+   "small": "Investigaciones sobre análisis territorial"
+  }
+ ],
+ "resumen": [
+  "<b>Juan de Dios Páramo</b> es especialista en análisis territorial y geografía aplicada, con experiencia en investigación académica y estudios sobre la dimensión espacial de fenómenos sociales.",
+  "Su trabajo integra herramientas geográficas, análisis territorial y metodologías de investigación para comprender dinámicas regionales y territoriales. Cuenta con trayectoria académica vinculada a la <b>Universidad Nacional Autónoma de México (UNAM)</b>, desarrollando investigaciones y publicaciones relacionadas con geografía, territorio y desarrollo."
+ ],
+ "cargos": [
+  "Especialista en Geografía Electoral y Análisis Territorial.",
+  "Investigador académico vinculado a estudios geográficos y territoriales.",
+  "Profesor y colaborador académico en programas relacionados con geografía y análisis espacial.",
+  "Participación en investigaciones y publicaciones sobre dinámicas territoriales."
+ ],
+ "formacion": [
+  "<b>Formación de posgrado en Geografía</b> – Universidad Nacional Autónoma de México (UNAM).",
+  "<b>Especialización</b> en estudios territoriales, análisis espacial y desarrollo regional."
+ ],
+ "aportes": [
+  "Coautor de investigaciones académicas sobre análisis territorial y cartografía.",
+  "Autor de trabajos sobre dimensión territorial del turismo y estudios regionales.",
+  "Desarrollo de metodologías de análisis espacial aplicadas a la comprensión del territorio."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "juan-de-dios-paramo-cv.webp",
+  "d": [
+   982,
+   101,
+   738,
+   749
+  ],
+  "m": [
+   23,
+   542,
+   384,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "184:1275",
+  "laptop": "338:738",
+  "mobile": "317:2",
+  "foto": {
+   "desktop": "194:50",
+   "mobile": "317:14"
+  },
+  "hoja_gid": "1859014833"
+ }
+}

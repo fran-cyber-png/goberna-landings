@@ -1,0 +1,102 @@
+OK    desktop sin scroll horizontal (ancho de página)    medido      1920   Figma      1920
+OK    desktop alto total                                 medido    2732.0   Figma   2732.14
+OK    desktop portada                                    medido     850.0   Figma       850
+OK    desktop tarjeta: alto                              medido   1722.06   Figma   1722.14
+OK    desktop titular: líneas                            medido       2.0   Figma         2
+OK    desktop especialidad 1: líneas                     medido       2.0   Figma         2
+OK    desktop especialidad 2: líneas                     medido       2.0   Figma         2
+OK    desktop especialidad 3: líneas                     medido       2.0   Figma         2
+OK    desktop especialidad 4: líneas                     medido       3.0   Figma         3
+OK    desktop foto: x                                    medido      1046   Figma      1046
+OK    desktop foto: ancho                                medido       674   Figma       674
+OK    desktop nombre línea 2 cabe en 820                 medido       820   Figma       820
+OK    desktop título res: top en la tarjeta              medido      54.0   Figma      54.0
+OK    desktop título car: top en la tarjeta              medido     532.0   Figma    532.03
+OK    desktop título for: top en la tarjeta              medido    866.69   Figma    866.74
+OK    desktop título apo: top en la tarjeta              medido   1173.88   Figma   1173.94
+OK    desktop resumen: alto                              medido     340.0   Figma     340.0
+OK    desktop lista car: top                             medido    620.69   Figma    620.73
+OK    desktop lista car: alto                            medido     196.0   Figma     196.0
+OK    desktop lista for: top                             medido    955.88   Figma    955.94
+OK    desktop lista for: alto                            medido     168.0   Figma     168.0
+OK    desktop lista apo: top                             medido   1260.06   Figma   1260.14
+OK    desktop lista apo: alto                            medido     408.0   Figma     408.0
+OK    desktop divisor 1: top                             medido     507.0   Figma    507.03
+OK    desktop divisor 2: top                             medido    841.69   Figma    841.74
+OK    desktop divisor 3: top                             medido   1148.88   Figma   1148.94
+OK    desktop línea dorada: top                          medido      81.0   Figma      81.0
+OK    desktop línea dorada: alto                         medido     291.0   Figma     291.0
+OK    desktop cifra 1: top                               medido      88.0   Figma      88.0
+OK    desktop cifra 1: alto de la descripción            medido      22.0   Figma      22.0
+OK    desktop cifra 2: top                               medido     192.0   Figma     192.0
+OK    desktop cifra 2: alto de la descripción            medido      22.0   Figma      22.0
+OK    desktop cifra 3: top                               medido     296.0   Figma     296.0
+OK    desktop cifra 3: alto de la descripción            medido      28.0   Figma      28.0
+OK    laptop  sin scroll horizontal (ancho de página)    medido      1366   Figma      1366
+OK    laptop  alto total                                 medido   2732.42   Figma   2732.14
+OK    laptop  portada                                    medido    849.99   Figma       850
+OK    laptop  tarjeta: alto                              medido   1722.98   Figma   1722.14
+OK    laptop  título res: top en la tarjeta              medido     53.98   Figma      54.0
+OK    laptop  título car: top en la tarjeta              medido    532.31   Figma    532.03
+OK    laptop  título for: top en la tarjeta              medido    867.32   Figma    866.74
+OK    laptop  título apo: top en la tarjeta              medido   1174.85   Figma   1173.94
+OK    laptop  resumen: alto                              medido    339.97   Figma     340.0
+OK    laptop  lista car: top                             medido     621.0   Figma    620.73
+OK    laptop  lista car: alto                            medido    195.94   Figma     196.0
+OK    laptop  lista for: top                             medido    956.51   Figma    955.94
+OK    laptop  lista for: alto                            medido    167.96   Figma     168.0
+OK    laptop  lista apo: top                             medido   1261.03   Figma   1260.14
+OK    laptop  lista apo: alto                            medido    407.96   Figma     408.0
+OK    laptop  divisor 1: top                             medido    506.93   Figma    507.03
+OK    laptop  divisor 2: top                             medido    841.93   Figma    841.74
+OK    laptop  divisor 3: top                             medido   1149.47   Figma   1148.94
+OK    laptop  línea dorada: top                          medido     80.97   Figma      81.0
+OK    laptop  línea dorada: alto                         medido     291.0   Figma     291.0
+OK    laptop  cifra 1: top                               medido     87.96   Figma      88.0
+OK    laptop  cifra 1: alto de la descripción            medido     22.01   Figma      22.0
+OK    laptop  cifra 2: top                               medido    191.93   Figma     192.0
+OK    laptop  cifra 2: alto de la descripción            medido     22.01   Figma      22.0
+OK    laptop  cifra 3: top                               medido    295.89   Figma     296.0
+OK    laptop  cifra 3: alto de la descripción            medido      28.0   Figma      28.0
+OK    móvil   sin scroll horizontal (ancho de página)    medido       375   Figma       375
+OK    móvil   alto total                                 medido   4137.17   Figma    4137.0
+OK    móvil   portada (estándar)                         medido    900.99   Figma       901
+OK    móvil   foto: abajo = fin del banner               medido    900.98   Figma       901
+OK    móvil   tarjeta: alto                              medido   3196.46   Figma    3196.0
+OK    móvil   titular: líneas                            medido       2.0   Figma         2
+OK    móvil   especialidad 1: líneas                     medido       2.0   Figma         2
+OK    móvil   especialidad 2: líneas                     medido       2.0   Figma         2
+OK    móvil   especialidad 3: líneas                     medido       2.0   Figma         2
+OK    móvil   especialidad 4: líneas                     medido       2.0   Figma         2
+OK    móvil   foto: alto                                 medido    388.99   Figma       389
+OK    móvil   nombre línea 2 cabe en 382                 medido    225.16   Figma    225.16
+OK    móvil   resumen: alto del texto                    medido    748.11   Figma     748.0
+OK    móvil   cifras: top                                medido    905.08   Figma     905.0
+OK    móvil   cifras: alto                               medido    269.95   Figma     270.0
+OK    móvil   cifra 1: alto                              medido      69.0   Figma      69.0
+OK    móvil   cifra 2: alto                              medido     69.98   Figma      70.0
+OK    móvil   cifra 3: alto                              medido      75.0   Figma      75.0
+OK    móvil   título car: top en la tarjeta              medido   1275.15   Figma    1275.0
+OK    móvil   lista car: top                             medido   1403.14   Figma    1403.0
+OK    móvil   lista car: alto                            medido    302.99   Figma     303.0
+OK    móvil   lista car ítem 1: top / alto               medido      0.06   Figma      0.06
+OK    móvil   lista car ítem 2: top / alto               medido     73.05   Figma     73.06
+OK    móvil   lista car ítem 3: top / alto               medido    146.07   Figma    146.08
+OK    móvil   lista car ítem 4: top / alto               medido    247.04   Figma    247.06
+OK    móvil   título for: top en la tarjeta              medido   1806.25   Figma    1806.0
+OK    móvil   lista for: top                             medido   1904.24   Figma    1904.0
+OK    móvil   lista for: alto                            medido     258.0   Figma     258.0
+OK    móvil   lista for ítem 1: top / alto               medido      0.06   Figma      0.06
+OK    móvil   lista for ítem 2: top / alto               medido     73.02   Figma     73.03
+OK    móvil   lista for ítem 3: top / alto               medido    118.12   Figma    118.14
+OK    móvil   título apo: top en la tarjeta              medido   2262.36   Figma    2262.0
+OK    móvil   lista apo: top                             medido   2357.35   Figma    2357.0
+OK    móvil   lista apo: alto                            medido    788.12   Figma     788.0
+OK    móvil   lista apo ítem 1: top / alto               medido      0.24   Figma      0.24
+OK    móvil   lista apo ítem 2: top / alto               medido    258.31   Figma    258.27
+OK    móvil   lista apo ítem 3: top / alto               medido    550.32   Figma    550.24
+OK    móvil   divisor 1: top                             medido   1225.02   Figma    1225.0
+OK    móvil   divisor 2: top                             medido   1756.12   Figma    1756.0
+OK    móvil   divisor 3: top                             medido   2212.22   Figma    2212.0
+
+TODO CUADRA (100 comprobaciones)

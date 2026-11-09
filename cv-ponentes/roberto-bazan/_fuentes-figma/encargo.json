@@ -1,0 +1,34 @@
+{
+ "slug": "roberto-bazan",
+ "nombre_completo": "Roberto Bazán",
+ "hoja_gid": "1289267049",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "157:2",
+  "laptop": "338:2",
+  "mobile": "312:6"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "157:5",
+  "tarjeta_desktop": "157:48",
+  "portada_movil": "312:8",
+  "tarjeta_movil": "312:47"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "190:24"
+  ],
+  "movil": [
+   "312:19"
+  ]
+ },
+ "items_esperados": {
+  "car": 8,
+  "for": 3,
+  "apo": 8
+ },
+ "lineas_titular": {
+  "desktop": 1,
+  "movil": 1
+ }
+}

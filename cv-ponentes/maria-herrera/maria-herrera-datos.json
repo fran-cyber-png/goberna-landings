@@ -1,0 +1,95 @@
+{
+ "nombre_completo": "María Herrera",
+ "nombre": {
+  "d": [
+   "MARÍA",
+   "HERRERA"
+  ],
+  "m": [
+   "MARÍA",
+   "HERRERA"
+  ]
+ },
+ "titular": "Consultora Política y Especialista en Seguridad, Geopolítica y Contraterrorismo",
+ "especialidades": {
+  "d": [
+   "Derecho<br>Internacional",
+   "Análisis<br>Político",
+   "Derecho<br>Comparado",
+   "Geopolítica y Asuntos Internacionales"
+  ],
+  "m": [
+   "Derecho<br>Internacional",
+   "Análisis<br>Político",
+   "Derecho<br>Comparado",
+   "Geopolítica y Asuntos<br>Internacionales"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "Ph.D.",
+   "small": "Doctora en Ciencias Jurídicas"
+  },
+  {
+   "big": "6 estados",
+   "small": "Habilitada para ejercer en EE. UU."
+  },
+  {
+   "big": "España",
+   "small": "Abogada colegiada"
+  }
+ ],
+ "resumen": [
+  "<b>María Herrera Mellado</b> es <b>doctora en Ciencias Jurídicas</b> y abogada con ejercicio profesional tanto en España como en Estados Unidos, donde está habilitada para ejercer en los estados de Nuevo México, Arizona, Carolina del Sur, Distrito de Columbia, Texas y Florida.",
+  "Su trayectoria combina el ejercicio del derecho con el análisis político y jurídico de los principales acontecimientos internacionales. Además de su práctica profesional, desarrolla una labor como analista política y legal en medios nacionales e internacionales, donde aborda política internacional, procesos electorales, derecho constitucional, relaciones internacionales y actualidad geopolítica desde una perspectiva jurídica."
+ ],
+ "cargos": [
+  "<b>Abogada</b> – Autorizada para ejercer en España y Estados Unidos.",
+  "<b>Analista Política y Legal</b> – Medios nacionales e internacionales.",
+  "<b>Consultora Internacional</b> – Derecho, política y asuntos internacionales.",
+  "<b>Conferencista Internacional</b> – Derecho, democracia y geopolítica."
+ ],
+ "formacion": [
+  "<b>Doctorado (Ph.D.)</b> – Ciencias Jurídicas.",
+  "<b>Abogada</b> – Colegiada en España.",
+  "<b>Licencia profesional para el ejercicio del Derecho en Estados Unidos</b> – Distrito de Columbia, Arizona, Nuevo México, Carolina del Sur, Texas y Florida."
+ ],
+ "aportes": [
+  "Ha desarrollado una sólida trayectoria en el ejercicio del <b>derecho internacional y comparado</b>, asesorando y analizando temas vinculados al Estado de derecho, la gobernanza y los sistemas jurídicos.",
+  "Es <b>analista política y legal</b> en medios nacionales e internacionales, donde interpreta acontecimientos de impacto global, procesos electorales, relaciones internacionales y escenarios geopolíticos desde una perspectiva jurídica.",
+  "Como <b>conferencista y consultora internacional</b>, promueve el análisis de los desafíos de las democracias contemporáneas, el fortalecimiento institucional y la importancia del derecho como herramienta para la estabilidad política y la gobernanza."
+ ],
+ "titulo_aportes": "Aportes destacados",
+ "foto": {
+  "archivo": "maria-herrera.webp",
+  "d": [
+   1046,
+   101,
+   674,
+   749
+  ],
+  "m": [
+   40,
+   542,
+   350,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "267:2",
+  "laptop": "338:1051",
+  "mobile": "317:382",
+  "foto": {
+   "desktop": "268:27",
+   "mobile": "317:394"
+  },
+  "hoja_gid": "1206442830"
+ }
+}

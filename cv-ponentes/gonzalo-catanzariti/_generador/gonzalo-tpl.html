@@ -1,0 +1,284 @@
+<meta charset="utf-8">
+<title>Gonzalo Catanzariti</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400&family=Montserrat:wght@400;700;800&family=Open+Sans:wght@400;700&family=Sora:wght@400;700&display=swap">
+<style>
+/* diseño de una sola versión (claro), igual que en Figma: sin modo oscuro */
+:root{--bg:#f3f6fa;--card:#ffffff;--gold:#d6a752;--ink:#030a22;--hero:#020715;--line:#e3e7ee;--fg:#030a22;--muted:#5b646c;--wcol:#e0457b;
+--display:'Montserrat',Arial,sans-serif;--body:'Open Sans',Arial,sans-serif;--sora:'Sora',Arial,sans-serif;--manrope:'Manrope',Arial,sans-serif;color-scheme:light}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);padding-block:20px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.bar{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin-bottom:16px;font-size:13px}
+.bar h1{font:600 15px var(--body);margin:0 auto 0 0}
+.bar p{margin:0;color:var(--muted);flex-basis:100%}
+.seg{display:flex;gap:6px;flex-wrap:wrap}
+.seg button,.wbtn{font:600 13px var(--body);padding:7px 14px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg);cursor:pointer}
+.seg button[aria-pressed="true"],.wbtn[aria-pressed="true"]{background:#d6a752;color:#030a22;border-color:#d6a752}
+.seg button:focus-visible,.wbtn:focus-visible{outline:2px solid #d6a752;outline-offset:2px}
+.view{overflow-x:clip;border:1px solid var(--line);background:var(--bg)}
+.stage{position:relative;width:1920px}
+.stage.m{width:430px}
+.hidden{display:none}
+.abs{position:absolute}
+p{margin:0}
+img{display:block}
+
+/* ---------- DESKTOP (1920 de diseño; laptop = mismo diseño × 1366/1920) ---------- */
+.hero{position:relative;height:850px;overflow:hidden;background:var(--hero) url(__BG_D__) center/cover no-repeat}
+.logo-d{left:200px;top:101px;width:184px;height:47px}
+.logo-d img,.logo-m img{width:100%;height:100%}
+.name-d{left:200px;top:192px;width:820px;color:#fff}
+.name-d .n1{font:800 64px/.964 var(--display);color:var(--gold);letter-spacing:2.56px}
+.name-d .n2{font:800 87px/.964 var(--display);color:#fff;letter-spacing:3.48px}
+.name-d .sub{font:400 28px/48px var(--body);color:#fff;margin-top:19.4px;width:820px}
+.foto-d{left:1026px;top:101px;width:694px;height:749px}
+.foto-d img,.foto-m img{width:100%;height:100%;object-fit:cover;object-position:center top}
+/* marco dorado con el hueco del rótulo (forma exacta de Figma) */
+.esp-d{left:200px;top:536px;width:820px;height:170px;background:url(__BARRA_D__) 0 0/100% 100% no-repeat}
+.esp-lbl-d{position:absolute;left:42px;top:-16px;font:400 25px/normal var(--display);color:var(--gold);white-space:nowrap}
+.esp-row-d{position:absolute;left:30px;top:42.54px;width:760px;height:116.92px;display:flex;align-items:center;gap:20px}
+.esp-it{flex:none;width:160px;height:116.92px;display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center;color:#fff;font:400 18px/24px var(--body)}
+.esp-ico{height:37.93px;display:flex;align-items:flex-end;justify-content:center}
+.esp-ico img{width:auto}
+.sep-d{width:1px;margin:0 -0.5px;height:48.5px;background:rgba(214,167,82,.7);flex:none}
+
+.body-d{position:relative;padding:80px 0;background:var(--bg)}
+.card-d{position:relative;margin-left:201px;width:1519px;box-sizing:border-box;padding:54px 95px 82px 81px;background:var(--card);border-radius:20px;box-shadow:0 3px 16px rgba(6,8,26,.16)}
+.cols-d{display:flex;align-items:flex-start;gap:79px}
+.main-d{flex:none;width:812px}
+.sh{position:relative;margin:0;font:700 26px/91px var(--display);color:var(--gold);text-transform:uppercase;white-space:nowrap}
+.sh img{position:absolute;left:0}
+.sh span{position:absolute;left:0;top:0}
+.res-d{margin-left:61px;width:753px;font:400 18px/34px var(--body);color:var(--ink)}
+.res-d b,.res-m b,li b{font-weight:700}
+.hr-d{height:1px;background:var(--line);margin:25px 0 24px}
+.list-d{list-style:none;margin:0;padding:0;width:750px}
+.list-d li{display:flex;gap:10px;align-items:flex-start;margin-bottom:20px;font:400 18px/28px var(--body);color:var(--ink)}
+.list-d li:last-child,.list-m li:last-child{margin-bottom:0}
+.list-d .dot{width:8px;height:28px;flex:none}
+.list-d .arr{width:18px;height:28px;flex:none}
+/* columna de datos: sticky; en reposo la línea dorada está a 81 px del borde superior de la tarjeta y se queda a esa distancia */
+.stats-d{flex:none;width:452px;padding-top:27px;position:sticky;top:54px}
+.stats-in{border-left:1px solid var(--gold);padding:7px 0 8px 79px;display:flex;flex-direction:column;gap:39px}
+.stat-d{position:relative;color:var(--ink)}
+.stat-d .big{font:800 37px/normal var(--display);white-space:nowrap}
+.stat-d .small{position:absolute;left:0;font:400 18px/22px var(--body)}
+.st1{height:65px}.st1 .small{top:43px;white-space:nowrap}
+.st2{height:65px}.st2 .big{font-size:38px}.st2 .small{top:43px;white-space:nowrap}
+.st3{height:68px}.st3 .small{top:40px;line-height:28px;white-space:nowrap}
+
+/* ---------- MOBILE (430 de diseño; en Elementor × 0,872 → 375) ---------- */
+.hero-m{position:relative;height:931px;overflow:hidden;background:var(--hero) url(__BG_M__) center top/100% auto no-repeat}
+.logo-m{left:24px;top:36px;width:119.92px;height:30.65px}
+.name-m{left:24px;top:95px;white-space:nowrap}
+.name-m .n1{font:800 30.897px/.964 var(--display);color:var(--gold);letter-spacing:1.2359px}
+.name-m .n2{font:800 42px/.964 var(--display);color:#fff;letter-spacing:1.68px}
+.sub-m{left:24px;top:181px;width:382px;font:400 16px/28px var(--manrope);color:#fff}
+.esp-m{left:24px;top:298px;width:382px;height:181px;background:url(__BARRA_M__) 0 0/100% 100% no-repeat}
+.esp-lbl-m{position:absolute;left:29px;top:-28px;font:400 13px/54px var(--sora);color:var(--gold);white-space:nowrap}
+.cell{position:absolute;width:160px;margin-left:-80px;display:flex;flex-direction:column;align-items:center;color:#fff;text-align:center;font:400 12px/13px var(--manrope)}
+.cell .ico{height:23px;display:flex;align-items:flex-end;margin-bottom:5px}
+.cell .ico img{width:auto}
+.sep-m{position:absolute;left:188.36px;width:1px;height:57.5px;background:rgba(214,167,82,.7)}
+.foto-m{left:35px;top:542px;width:360px;height:389px}
+
+.body-m{position:relative;padding:20px;background:var(--bg)}
+.card-m{width:390px;box-sizing:border-box;padding:51px 20px;background:var(--card);border-radius:20px;box-shadow:0 3px 16px rgba(6,8,26,.16)}
+.shm{position:relative;margin:0;font:700 26px/33px var(--sora);color:var(--gold);text-transform:uppercase}
+.shm img{position:absolute;left:0}
+.shm span{position:absolute;width:303px}
+.res-m{margin-left:20px;width:330px;font:400 18px/34px var(--body);color:var(--ink)}
+.datos-m{margin:40px 0 0 20px;width:312px;box-sizing:border-box;border-left:2px solid var(--gold);padding-left:20px;display:flex;flex-direction:column;gap:28px;color:var(--ink)}
+.dato-m{display:flex;flex-direction:column;gap:2px;width:290px}
+.dato-m .big{font:800 37px/45px var(--display);white-space:nowrap}
+.dato-m.d2 .big{font-size:38px;line-height:46px}
+.dato-m .small{font:400 18px/22px var(--body)}
+.dato-m.d3 .small{line-height:28px}
+.hr-m{height:1px;background:var(--line);margin:50px 0 49px}
+.list-m{list-style:none;margin:0 0 0 19px;padding:0;width:331px}
+.list-m li{display:flex;gap:10px;align-items:flex-start;margin-bottom:17px;font:400 18px/28px var(--body);color:var(--ink)}
+.list-m .dot{width:6px;height:28px;flex:none}
+.list-m.ap li{line-height:34px}
+.list-m .arr{width:18px;height:34px;flex:none}
+
+/* ---------- Modo "Ver widgets" ---------- */
+body.show-w [data-w]{outline:1px dashed var(--wcol);outline-offset:-1px}
+body.show-w [data-w]:not(.abs):not(.stats-d):not(.sh):not(.shm):not(.hero):not(.hero-m){position:relative}
+body.show-w [data-w]::after{content:attr(data-w);position:absolute;left:0;top:0;z-index:5;transform:translateY(-100%);background:var(--wcol);color:#fff;font:600 12px/1.35 var(--body);letter-spacing:0;text-transform:none;padding:1px 5px;white-space:nowrap;pointer-events:none}
+.stage.m [data-w]::after{font-size:10px}
+body.show-w li[data-w]::after{transform:none;left:auto;right:0}
+.wnote{display:none;margin:0 0 12px;font-size:13px;color:var(--muted)}
+body.show-w .wnote{display:block}
+</style>
+
+<div class="bar"><h1>Plantilla Gonzalo Catanzariti</h1>
+<div class="seg" role="group" aria-label="Ancho de pantalla">
+<button type="button" data-v="d1920" aria-pressed="true">Desktop 1920</button>
+<button type="button" data-v="d1366" aria-pressed="false">Laptop 1366</button>
+<button type="button" data-v="m375" aria-pressed="false">Mobile 375</button></div>
+<button type="button" class="wbtn" id="wbtn" aria-pressed="false">Ver widgets</button>
+<p>Vista previa del diseño aprobado en Figma (532:2, 535:2, 538:2). Laptop es el desktop escalado a 1366 px; móvil es el frame de 430 px escalado a 375 px. Las cifras de la derecha quedan fijas al hacer scroll en desktop y laptop.</p></div>
+<p class="wnote">Cada recuadro rosa es un widget o contenedor de Elementor, con su clase <code>ak-gc-…</code>, fuente y tamaño del Figma (valores de desktop 1920 o móvil 430).</p>
+
+<div class="view" id="view">
+
+<!-- DESKTOP -->
+<div class="stage" id="s-desk">
+<section class="hero" data-w="Contenedor ak-gc-hero · fondo imagen (Estilo → Fondo) · alto 850">
+  <div class="abs logo-d" data-w="Imagen · logo 184×47"><img src="__LOGO__" alt="Goberna"></div>
+  <div class="abs name-d">
+    <p class="n1" data-w="Título h1 · Montserrat 800 64/0.964">GONZALO</p>
+    <p class="n2" data-w="Título h1 · Montserrat 800 87/0.964">CATANZARITI</p>
+    <p class="sub" data-w="Texto · Open Sans 28/48 · 2 líneas">Especialista en ciberinteligencia, investigación digital y análisis del cibercrimen</p>
+  </div>
+  <div class="abs foto-d" data-w="Imagen · foto 694×749"><img src="__FOTO__" alt="Gonzalo Catanzariti"></div>
+  <div class="abs esp-d" data-w="Contenedor ak-gc-esp · marco dorado">
+    <span class="esp-lbl-d">Especialidades</span>
+    <div class="esp-row-d">
+      <div class="esp-it" data-w="Ícono + texto · Open Sans 18/24"><div class="esp-ico"><img src="__I_ARQ__" alt="" style="height:36.52px"></div>Arquitectura de<br>Ciberseguridad</div><div class="sep-d"></div>
+      <div class="esp-it" data-w="Ícono + texto"><div class="esp-ico"><img src="__I_INV__" alt="" style="height:36.52px"></div>Investigación de<br>Ciberdelitos</div><div class="sep-d"></div>
+      <div class="esp-it" data-w="Ícono + texto"><div class="esp-ico"><img src="__I_FOR__" alt="" style="height:36.92px"></div>Informática<br>Forense</div><div class="sep-d"></div>
+      <div class="esp-it" data-w="Ícono + texto"><div class="esp-ico"><img src="__I_OSI__" alt="" style="height:37.82px"></div>OSINT y SOCMINT</div>
+    </div>
+  </div>
+</section>
+
+<section class="body-d" data-w="Contenedor ak-gc-body · fondo #F3F6FA">
+  <div class="card-d" data-w="Contenedor ak-gc-card · 1519 · radio 20 · sombra">
+   <div class="cols-d">
+    <div class="main-d">
+      <h2 class="sh" style="height:88px" data-w="Título h2 · Montserrat 700 26 · ícono"><img src="__H_RES__" alt="" style="left:-1px;top:21.64px;width:39.34px;height:40.36px"><span style="left:46px">Resumen ejecutivo</span></h2>
+      <p class="res-d" data-w="Texto · Open Sans 18/34 · negrita en la 1.ª oración"><b>Gonzalo Catanzariti es licenciado en Seguridad en Tecnologías de la Información y las Comunicaciones y licenciado en Seguridad Marítima.</b> Su trayectoria combina la investigación judicial de ciberdelitos y la informática forense en la Prefectura Naval Argentina con la protección de activos de información en el sector financiero. Desde marzo de 2025 lidera el equipo de Arquitectura de Ciberseguridad de Banco Comafi, supervisando la seguridad de proyectos tecnológicos, entornos cloud, gestión de vulnerabilidades y DevSecOps. Complementa su experiencia con docencia universitaria en ciberseguridad, evidencia digital y herramientas de inteligencia</p>
+      <div class="hr-d" data-w="Divisor"></div>
+
+      <h2 class="sh" style="height:88.7px" data-w="Título h2 · ícono"><img src="__H_CAR__" alt="" style="top:30.25px;width:38.34px;height:30.5px"><span style="left:46.34px">Cargos principales y trayectoria</span></h2>
+      <ul class="list-d" style="margin-left:61px" data-w="Lista · Open Sans 18/28 · 9 ítems">
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Líder de Arquitectura de Ciberseguridad</b> — Banco Comafi (desde 2025): conducción de equipos de IT Advisor, Business Advisor y DevSecOps; definición de estándares y supervisión de implementaciones tecnológicas.</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Arquitecto de Ciberseguridad</b> — Banco Comafi (desde 2022): evaluación de proyectos, planificación de pentesting y gestión de vulnerabilidades en API, microservicios y entornos cloud.</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>División Investigación de los Ciberdelitos</b> — Prefectura Naval Argentina (desde 2019): intervención en investigaciones judiciales sobre hacking, accesos indebidos y ataques DoS y DDoS.</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Infraestructura de Sistemas</b> — Prefectura Naval Argentina (desde 2016): implementación y mantenimiento de centros de datos, virtualización y almacenamiento.</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Pericias Informáticas</b> — Prefectura Naval Argentina (desde 2013): análisis de elementos sujetos a disposición judicial, preservación de evidencia digital y cadena de custodia.</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Docente</b> — Instituto Universitario de Seguridad Marítima (2019⁠–⁠2026): tecnologías de la información, cibercrimen, evidencia digital, redes, seguridad ofensiva y marcos regulatorios.</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Docente</b> — Universidad Abierta Interamericana (2024): Tecnología y Herramientas de Inteligencia.</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Docente</b> — GOBERNA (2026): inteligencia en fuentes abiertas digitales (OSINT) y SOCMINT.</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Docente</b> — UPJET (2026): Fundamentos de Ciberseguridad.</span></li>
+      </ul>
+      <div class="hr-d"></div>
+
+      <h2 class="sh" style="height:89.2px" data-w="Título h2 · ícono"><img src="__H_FOR__" alt="" style="left:3px;top:17.47px;width:31.66px;height:37.93px"><span style="left:46px">Formación académica</span></h2>
+      <ul class="list-d" style="margin-left:61px" data-w="Lista · 7 ítems">
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Licenciatura en Seguridad en Tecnologías de la Información y las Comunicaciones</b> — Instituto Universitario de la Policía Federal Argentina (2021).</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Licenciatura en Seguridad Marítima</b> — Instituto Universitario de Seguridad Marítima (2007).</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Auditor Interno de Sistemas de Gestión de Seguridad de la Información ISO 27001:2022</b> — TÜV Rheinland Argentina (2023).</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Certified in Cybersecurity (CC)</b> — ISC2 (2023).</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Certificado en Liderazgo de Ciberseguridad</b> — OEA e Instituto Jack D. Gordon de Política Pública de Florida International University (2018).</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Meya Pico Forensic Examiner Certified</b> — Meya Pico (2018).</span></li>
+        <li><img class="dot" src="__V_DOT__" alt=""><span><b>Formación en EnCase Computer Forensic I y II</b>, administración de sistemas Linux y Ethical Hacking.</span></li>
+      </ul>
+      <div class="hr-d"></div>
+
+      <h2 class="sh" style="height:86.2px" data-w="Título h2 · ícono"><img src="__H_APO__" alt="" style="top:26.47px;width:35.17px;height:32.46px"><span style="left:46.5px">Aportes destacados y publicaciones</span></h2>
+      <ul class="list-d" style="margin-left:61.5px" data-w="Lista · viñeta flecha · 5 ítems">
+        <li><img class="arr" src="__V_ARR__" alt=""><span><b>Participación en investigaciones judiciales de ciberdelitos</b> y análisis pericial de evidencia digital.</span></li>
+        <li><img class="arr" src="__V_ARR__" alt=""><span><b>Liderazgo de equipos</b> para integrar la ciberseguridad en proyectos tecnológicos y en el ciclo de vida del software.</span></li>
+        <li><img class="arr" src="__V_ARR__" alt=""><span><b>Definición y validación de criterios de seguridad</b> para API, microservicios y entornos cloud.</span></li>
+        <li><img class="arr" src="__V_ARR__" alt=""><span><b>Planificación y supervisión de pruebas de intrusión</b> y procesos de gestión de vulnerabilidades.</span></li>
+        <li><img class="arr" src="__V_ARR__" alt=""><span><b>Formación de profesionales</b> en cibercrimen, informática forense, seguridad ofensiva, OSINT y SOCMINT.</span></li>
+      </ul>
+    </div>
+
+    <div class="stats-d" data-w="Contenedor ak-gc-stats · sticky (desktop y laptop)">
+      <div class="stats-in" data-w="Contenedor · borde izq. dorado 1 px · alto 291">
+        <div class="stat-d st1" data-w="Texto · Montserrat 800 37 / Open Sans 18/22"><p class="big">Desde 2013</p><p class="small">Pericias informáticas y evidencia digital</p></div>
+        <div class="stat-d st2" data-w="Texto · Montserrat 800 38 / Open Sans 18/22"><p class="big">Líder</p><p class="small">Arquitectura de Ciberseguridad en Banco Comafi</p></div>
+        <div class="stat-d st3" data-w="Texto · Montserrat 800 37 / Open Sans 18/28"><p class="big">2 licenciaturas</p><p class="small">Seguridad TIC y Seguridad Marítima</p></div>
+      </div>
+    </div>
+   </div>
+  </div>
+</section>
+</div>
+
+<!-- MÓVIL -->
+<div class="stage m hidden" id="s-mob">
+<section class="hero-m" data-w="Contenedor ak-gc-hero-m · fondo imagen móvil · alto 931">
+  <div class="abs logo-m" data-w="Imagen · logo"><img src="__LOGO__" alt="Goberna"></div>
+  <div class="abs name-m">
+    <p class="n1" data-w="Título h1 · Montserrat 800 30.9">GONZALO</p>
+    <p class="n2" data-w="Título h1 · Montserrat 800 42">CATANZARITI</p>
+  </div>
+  <p class="abs sub-m" data-w="Texto · Manrope 16/28 · 2 líneas">Especialista en ciberinteligencia, investigación digital y análisis del cibercrimen</p>
+  <div class="abs esp-m" data-w="Contenedor ak-gc-esp-m · 2×2">
+    <span class="esp-lbl-m">Especialidades</span>
+    <div class="cell" style="left:96px;top:31px"><div class="ico"><img src="__I_ARQ__" alt="" style="height:22.15px"></div>Arquitectura de<br>Ciberseguridad</div>
+    <div class="cell" style="left:292px;top:31px"><div class="ico"><img src="__I_INV__" alt="" style="height:22.15px"></div>Investigación de<br>Ciberdelitos</div>
+    <div class="cell" style="left:96px;top:108.5px"><div class="ico"><img src="__I_FOR__" alt="" style="height:22.39px"></div>Informática<br>Forense</div>
+    <div class="cell" style="left:292px;top:108.5px"><div class="ico"><img src="__I_OSI__" alt="" style="height:22.94px"></div>OSINT y SOCMINT</div>
+    <div class="sep-m" style="top:29px"></div>
+    <div class="sep-m" style="top:107px"></div>
+  </div>
+  <div class="abs foto-m" data-w="Imagen · foto 360×389"><img src="__FOTO__" alt="Gonzalo Catanzariti"></div>
+</section>
+
+<section class="body-m" data-w="Contenedor ak-gc-body-m">
+  <div class="card-m" data-w="Contenedor ak-gc-card-m · 390 · radio 20">
+    <h2 class="shm" style="height:66px" data-w="Título h2 · Sora 700 26"><img src="__H_RES__" alt="" style="top:0;width:39.34px;height:40.36px"><span style="left:47px;top:4px">Resumen ejecutivo</span></h2>
+    <p class="res-m" data-w="Texto · Open Sans 18/34"><b>Gonzalo Catanzariti es licenciado en Seguridad en Tecnologías de la Información y las Comunicaciones y licenciado en Seguridad Marítima.</b> Su trayectoria combina la investigación judicial de ciberdelitos y la informática forense en la Prefectura Naval Argentina con la protección de activos de información en el sector financiero. Desde marzo de 2025 lidera el equipo de Arquitectura de Ciberseguridad de Banco Comafi, supervisando la seguridad de proyectos tecnológicos, entornos cloud, gestión de vulnerabilidades y DevSecOps. Complementa su experiencia con docencia universitaria en ciberseguridad, evidencia digital y herramientas de inteligencia</p>
+    <div class="datos-m" data-w="Contenedor · cifras (solo móvil) · borde 2 px">
+      <div class="dato-m"><p class="big">Desde 2013</p><p class="small">Pericias informáticas y evidencia digital</p></div>
+      <div class="dato-m d2"><p class="big">Líder</p><p class="small">Arquitectura de Ciberseguridad en Banco Comafi</p></div>
+      <div class="dato-m d3"><p class="big">2 licenciaturas</p><p class="small">Seguridad TIC y Seguridad Marítima</p></div>
+    </div>
+    <div class="hr-m"></div>
+
+    <h2 class="shm" style="height:128px" data-w="Título h2 · Sora 700 26"><img src="__H_CAR__" alt="" style="top:0.3px;width:38.34px;height:30.5px"><span style="left:46px;top:0">Cargos<br>principales y<br>trayectoria</span></h2>
+    <ul class="list-m" data-w="Lista · Open Sans 18/28">
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Líder de Arquitectura de Ciberseguridad</b> — Banco Comafi (desde 2025): conducción de equipos de IT Advisor, Business Advisor y DevSecOps; definición de estándares y supervisión de implementaciones tecnológicas.</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Arquitecto de Ciberseguridad</b> — Banco Comafi (desde 2022): evaluación de proyectos, planificación de pentesting y gestión de vulnerabilidades en API, microservicios y entornos cloud.</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>División Investigación de los Ciberdelitos</b> — Prefectura Naval Argentina (desde 2019): intervención en investigaciones judiciales sobre hacking, accesos indebidos y ataques DoS y DDoS.</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Infraestructura de Sistemas</b> — Prefectura Naval Argentina (desde 2016): implementación y mantenimiento de centros de datos, virtualización y almacenamiento.</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Pericias Informáticas</b> — Prefectura Naval Argentina (desde 2013): análisis de elementos sujetos a disposición judicial, preservación de evidencia digital y cadena de custodia.</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Docente</b> — Instituto Universitario de Seguridad Marítima (2019⁠–⁠2026): tecnologías de la información, cibercrimen, evidencia digital, redes, seguridad ofensiva y marcos regulatorios.</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Docente</b> — Universidad Abierta Interamericana (2024): Tecnología y Herramientas de Inteligencia.</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Docente</b> — GOBERNA (2026): inteligencia en fuentes abiertas digitales (OSINT) y SOCMINT.</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Docente</b> — UPJET (2026): Fundamentos de Ciberseguridad.</span></li>
+    </ul>
+    <div class="hr-m"></div>
+
+    <h2 class="shm" style="height:98px" data-w="Título h2"><img src="__H_FOR__" alt="" style="left:4px;top:0;width:31.66px;height:37.93px"><span style="left:47px;top:3px">Formación académica</span></h2>
+    <ul class="list-m" data-w="Lista · 7 ítems">
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Licenciatura en Seguridad en Tecnologías de la Información y las Comunicaciones</b> — Instituto Universitario de la Policía Federal Argentina (2021).</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Licenciatura en Seguridad Marítima</b> — Instituto Universitario de Seguridad Marítima (2007).</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Auditor Interno de Sistemas de Gestión de Seguridad de la Información ISO 27001:2022</b> — TÜV Rheinland Argentina (2023).</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Certified in Cybersecurity (CC)</b> — ISC2 (2023).</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Certificado en Liderazgo de Ciberseguridad</b> — OEA e Instituto Jack D. Gordon de Política Pública de Florida International University (2018).</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Meya Pico Forensic Examiner Certified</b> — Meya Pico (2018).</span></li>
+      <li><img class="dot" src="__V_DOT_M__" alt=""><span><b>Formación en EnCase Computer Forensic I y II</b>, administración de sistemas Linux y Ethical Hacking.</span></li>
+    </ul>
+    <div class="hr-m"></div>
+
+    <h2 class="shm" style="height:128px" data-w="Título h2"><img src="__H_APO__" alt="" style="top:1px;width:35.17px;height:32.46px"><span style="left:46.5px;top:0">Aportes destacados y publicaciones</span></h2>
+    <ul class="list-m ap" data-w="Lista · Open Sans 18/34 · viñeta flecha">
+      <li><img class="arr" src="__V_ARR_M__" alt=""><span><b>Participación en investigaciones judiciales de ciberdelitos</b> y análisis pericial de evidencia digital.</span></li>
+      <li><img class="arr" src="__V_ARR_M__" alt=""><span><b>Liderazgo de equipos</b> para integrar la ciberseguridad en proyectos tecnológicos y en el ciclo de vida del software.</span></li>
+      <li><img class="arr" src="__V_ARR_M__" alt=""><span><b>Definición y validación de criterios de seguridad</b> para API, microservicios y entornos cloud.</span></li>
+      <li><img class="arr" src="__V_ARR_M__" alt=""><span><b>Planificación y supervisión de pruebas de intrusión</b> y procesos de gestión de vulnerabilidades.</span></li>
+      <li><img class="arr" src="__V_ARR_M__" alt=""><span><b>Formación de profesionales</b> en cibercrimen, informática forense, seguridad ofensiva, OSINT y SOCMINT.</span></li>
+    </ul>
+  </div>
+</section>
+</div>
+
+</div>
+
+<script>
+const S={d1920:{id:'s-desk',z:1},d1366:{id:'s-desk',z:1366/1920},m375:{id:'s-mob',z:375/430}};
+function show(k){
+  const cfg=S[k];
+  ['s-desk','s-mob'].forEach(id=>document.getElementById(id).classList.toggle('hidden',id!==cfg.id));
+  document.getElementById(cfg.id).style.zoom=cfg.z;
+  document.querySelectorAll('.seg button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.v===k)));
+}
+document.querySelectorAll('.seg button').forEach(b=>b.addEventListener('click',()=>show(b.dataset.v)));
+const wb=document.getElementById('wbtn');
+wb.addEventListener('click',()=>{const on=document.body.classList.toggle('show-w');wb.setAttribute('aria-pressed',String(on));});
+</script>

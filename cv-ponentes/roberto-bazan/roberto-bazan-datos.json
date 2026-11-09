@@ -1,0 +1,104 @@
+{
+ "nombre_completo": "Roberto Bazán",
+ "nombre": {
+  "d": [
+   "ROBERTO",
+   "BAZÁN"
+  ],
+  "m": [
+   "ROBERTO",
+   "BAZÁN"
+  ]
+ },
+ "titular": "Estratega político, Autor y CEO de Grupo Goberna",
+ "especialidades": {
+  "d": [
+   "Estrategia<br>Política",
+   "Consultoría<br>Política",
+   "Inteligencia",
+   "Contrainteligencia"
+  ],
+  "m": [
+   "Estrategia<br>Política",
+   "Consultoría<br>Política",
+   "Inteligencia",
+   "Contrainteligencia"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "GOBERNA",
+   "small": "CEO de Grupo Goberna"
+  },
+  {
+   "big": "CAEN",
+   "small": "Magíster en Inteligencia Estratégica"
+  },
+  {
+   "big": "7",
+   "small": "Libros publicados"
+  }
+ ],
+ "resumen": [
+  "<b>Roberto Bazán Ferrer</b> es estratega político, autor y CEO de Grupo Goberna. Es Licenciado en Ciencia Política por la Universidad Nacional Mayor de San Marcos (UNMSM), Magíster en Inteligencia Estratégica por el Centro de Altos Estudios Nacionales (CAEN) y Abogado por la Universidad de Lima.",
+  "Cuenta con experiencia en consultoría política, campañas electorales y gobierno en América Latina, integrando estrategia, inteligencia y dirección de operaciones políticas. Es creador de Campaña Total y del Marketing Político de 4.ª Generación, enfoques que articulan investigación, análisis, comunicación y capacidad operativa para la conducción de escenarios políticos."
+ ],
+ "cargos": [
+  "CEO de Grupo Goberna.",
+  "Estratega político y autor especializado en campañas electorales, inteligencia y estrategia.",
+  "Consultor en procesos de campaña electoral y gobierno en América Latina.",
+  "Creador de Campaña Total.",
+  "Creador del Marketing Político de 4.ª Generación.",
+  "Experiencia en dirección de War Room, escenarios y operaciones políticas.",
+  "Ha trabajado directamente con secretarios de Estado, parlamentarios y gobernadores de países de Latinoamérica en el diseño de estrategias y ejecución de operaciones.",
+  "Conferencista y formador en estrategia política, inteligencia, War Room, campañas electorales, comunicación y Lawfare."
+ ],
+ "formacion": [
+  "<b>Licenciado en Ciencia Política</b> – Universidad Nacional Mayor de San Marcos (UNMSM).",
+  "<b>Magíster en Inteligencia Estratégica</b> – Centro de Altos Estudios Nacionales (CAEN).",
+  "<b>Abogado</b> – Universidad de Lima."
+ ],
+ "aportes": [
+  "Creador de Campaña Total y del Marketing Político de 4.ª Generación como marcos de integración entre estrategia, organización, comunicación, análisis y operaciones.",
+  "Autor de <b>“War Room en campañas electorales”</b>.",
+  "Autor de <b>“Manual del Consultor Político: Herramientas para estrategas y jefes de campañas”</b>.",
+  "Autor de <b>“El Poder de la Oratoria e Imagen Política”</b>.",
+  "Autor de <b>“Guerra Electoral: El Poder en las Sombras”</b>.",
+  "Autor de <b>“Lawfare: Guerra jurídica en la política”</b>.",
+  "Autor de <b>“Manual de Operaciones Psicológicas y Psicosociales”</b>.",
+  "Autor de <b>“Manual de Inteligencia y Contrainteligencia”</b>, con segunda edición registrada en 2025."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "roberto-bazan.webp",
+  "d": [
+   1020,
+   101,
+   700,
+   749
+  ],
+  "m": [
+   33,
+   542,
+   364,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "157:2",
+  "laptop": "338:2",
+  "mobile": "312:6",
+  "foto": {
+   "desktop": "190:24",
+   "mobile": "312:19"
+  },
+  "hoja_gid": "1289267049"
+ }
+}

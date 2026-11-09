@@ -1,0 +1,34 @@
+{
+ "slug": "gonzalo-catanzariti",
+ "nombre_completo": "Gonzalo Catanzariti",
+ "hoja_gid": "158174956",
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "532:2",
+  "laptop": "535:2",
+  "mobile": "538:2"
+ },
+ "nodos_design_context": {
+  "portada_desktop": "532:10",
+  "tarjeta_desktop": "532:56",
+  "portada_movil": "538:3",
+  "tarjeta_movil": "538:42"
+ },
+ "nodos_foto": {
+  "desktop": [
+   "529:1795"
+  ],
+  "movil": [
+   "529:1800"
+  ]
+ },
+ "items_esperados": {
+  "car": 9,
+  "for": 7,
+  "apo": 5
+ },
+ "lineas_titular": {
+  "desktop": 2,
+  "movil": 2
+ }
+}

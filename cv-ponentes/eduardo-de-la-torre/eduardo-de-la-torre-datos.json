@@ -1,0 +1,96 @@
+{
+ "nombre_completo": "Eduardo De La Torre Díaz",
+ "nombre": {
+  "d": [
+   "EDUARDO",
+   "DE LA TORRE"
+  ],
+  "m": [
+   "EDUARDO",
+   "DE LA TORRE"
+  ]
+ },
+ "titular": "Especialista en Ciberseguridad, Ciberdefensa e Inteligencia Aplicada",
+ "especialidades": {
+  "d": [
+   "Ciberseguridad",
+   "Ciberdefensa",
+   "Ciberinteligencia",
+   "Infraestructuras<br>Críticas"
+  ],
+  "m": [
+   "Ciberseguridad",
+   "Ciberdefensa",
+   "Ciberinteligencia",
+   "Infraestructuras<br>Críticas"
+  ]
+ },
+ "iconos_esp": [
+  "escudo",
+  "pin",
+  "global",
+  "proceso"
+ ],
+ "cifras": [
+  {
+   "big": "+23 años",
+   "small": "Ciberseguridad, ciberdefensa e inteligencia"
+  },
+  {
+   "big": "CDO",
+   "small": "Grupo empresarial Posso Bogotá"
+  },
+  {
+   "big": "4",
+   "small": "Manuales de inteligencia militar (coautor)"
+  }
+ ],
+ "resumen": [
+  "<b>Eduardo De La Torre Díaz</b> cuenta con <b>más de 23 años de experiencia</b> liderando capacidades en ciberseguridad, ciberdefensa e inteligencia aplicada. Es Ingeniero de Sistemas y especialista en la protección de infraestructuras críticas, entornos tecnológicos estratégicos y activos de información sensibles.",
+  "Ha diseñado e implementado soluciones para mitigar riesgos complejos, enfrentar amenazas cibernéticas avanzadas y fortalecer la resiliencia operativa en sectores de alta sensibilidad. Su trayectoria combina <b>experiencia militar, innovación tecnológica, investigación, consultoría y docencia</b> especializada en ciberseguridad, ciberinteligencia y gestión del riesgo."
+ ],
+ "cargos": [
+  "<b>CDO (Chief Data Officer)</b> – Grupo empresarial Posso Bogotá.",
+  "<b>Director de Seguridad Cibernética</b> – Seguridad BALAM.",
+  "<b>Investigador sobre fenómenos de criminalidad y ciberdelito</b> – Observatorio del Delito, Alcaldía de Santiago de Cali.",
+  "<b>Oficial de Operaciones Cibernéticas, Oficial de Investigación y Desarrollo I+D+i, Comandante de capacidad UAV y Comandante de Compañía Guerra Electrónica</b> – Ejército Nacional de Colombia."
+ ],
+ "formacion": [
+  "<b>Magíster en Ciberseguridad y Ciberdefensa</b> – Universidad de Alcalá de Henares, España.",
+  "<b>Magíster en Ciberseguridad y Ciberdefensa</b> – Escuela Superior de Guerra General Rafael Reyes Prieto.",
+  "<b>Ingeniero de Sistemas</b>; Gerente de la Seguridad y Análisis Sociopolítico; Profesional en Ciencias Militares."
+ ],
+ "aportes": [
+  "<b>Arquitecto de capacidades de Ciberdefensa</b> para la protección de infraestructuras tecnológicas estratégicas y activos críticos.",
+  "<b>Lideró el diseño e integración de plataformas de sistemas aéreos remotamente tripulados (RPAS)</b> para inteligencia táctica.",
+  "<b>Coautor de cuatro manuales fundamentales</b> para la transformación digital de la inteligencia militar."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {
+  "archivo": "eduardo-de-la-torre.webp",
+  "d": [
+   937,
+   101,
+   783,
+   749
+  ],
+  "m": [
+   12,
+   542,
+   406,
+   389
+  ]
+ },
+ "figma": {
+  "fileKey": "VDnG8Ey0gIPBtCqea1kya9",
+  "desktop": "283:2",
+  "laptop": "338:1515",
+  "mobile": "317:1046",
+  "foto": {
+   "desktop": "277:8",
+   "mobile": "317:1058"
+  },
+  "hoja_gid": "426254177"
+ },
+ "titular_d": "Especialista en Ciberseguridad, Ciberdefensa e<br>Inteligencia Aplicada"
+}

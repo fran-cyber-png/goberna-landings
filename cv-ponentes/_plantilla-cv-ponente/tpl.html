@@ -1,0 +1,397 @@
+<title>Diana Pereira Landing</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&family=Open+Sans:wght@400;700&family=Manrope:wght@400&family=Sora:wght@400;700&display=swap">
+<style>
+/* Layout: hero oscuro a ancho completo + tarjeta blanca de 1300px (caja de Elementor). Figma 1920 -> Elementor 1300: contenido 1520 -> 1300 = x0.855 */
+:root{--navy:#030a22;--night:#06112e;--gold:#d6a752;--paper:#f3f6fb;--white:#fff;--line:#d9dde6;--hf:'Montserrat',system-ui,sans-serif;--bf:'Open Sans',system-ui,sans-serif}
+body{background:var(--paper);color:var(--navy);font-family:var(--bf)}
+*{box-sizing:border-box}
+.wrap{max-width:1300px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.hero{position:relative;background:var(--night) url({{BG}}) center 20%/cover;color:#fff;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,10,34,.4) 0,rgba(3,10,34,.15) 50%,rgba(3,10,34,0))}
+.hero .wrap{position:relative;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.62fr);gap:0 24px;min-height:727px;padding-top:86px}
+.hero-l{display:flex;flex-direction:column;gap:14px;padding-bottom:40px}
+.logo{width:158px;height:auto;display:block;margin-bottom:44px}
+h1{margin:0;font-family:var(--hf);font-weight:800;letter-spacing:2.2px;line-height:.964;color:var(--gold);font-size:55px}
+h1 span{display:block;color:#fff;font-size:74px}
+.lead{margin:0;font-size:24px;line-height:41px;max-width:700px}
+.esp{margin-top:22px;max-width:700px;position:relative}
+.esp-t,.esp-t[data-w]{position:absolute}
+.esp-t{font-family:var(--hf);font-weight:400;color:var(--gold);font-size:21px;line-height:25px;position:absolute;top:-13px;left:36px;z-index:1}
+.esp-b{position:relative;padding:34px 14px 26px;display:grid;grid-template-columns:repeat(4,1fr);align-items:start}
+.esp-b::before{content:"";position:absolute;inset:0;border:1px solid var(--gold);border-radius:8px;pointer-events:none;-webkit-mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 26px 0/176px 3px no-repeat;-webkit-mask-composite:xor;mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 26px 0/176px 3px no-repeat;mask-composite:exclude}
+.esp-i{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:8px;text-align:center;font-size:15px;line-height:21px;padding:0 6px;min-width:0}
+.esp-i+.esp-i{border-left:1px solid rgba(255,255,255,.25)}
+.esp-i img{height:36px;width:auto;display:block}
+.hero-r{position:absolute;top:0;left:36.7%;width:76.5%;z-index:1;pointer-events:none}
+.hero-r img{display:block;width:100%;height:auto}
+.hero-l{position:relative;z-index:2}
+.card{background:var(--white);border-radius:20px;box-shadow:0 3px 16px rgba(6,8,26,.16);position:relative;padding:46px 69px 40px;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:0 72px}
+.main{min-width:0}
+.sec{padding:8px 0 28px;border-bottom:1px solid var(--line)}
+.sec:last-child{border-bottom:0}
+.sec+.sec{padding-top:26px}
+.sh{display:flex;align-items:center;gap:8px;margin:0 0 16px}
+.sh img{height:30px;width:auto}
+.sh h2{margin:0;font-family:var(--hf);font-weight:700;font-size:22px;color:var(--gold);text-transform:uppercase;line-height:1.2}
+.sec p{margin:0 0 0 53px;font-size:16px;line-height:29px}
+.sec ul{list-style:none;margin:0 0 0 53px;padding:0;display:flex;flex-direction:column;gap:16px}
+.sec li{display:flex;gap:10px;font-size:16px;line-height:24px}
+.sec li img{flex:none;height:24px;width:auto}
+.side,.side[data-w]{position:sticky}
+.side{border-left:1px solid var(--gold);padding-left:40px;display:flex;flex-direction:column;gap:33px;align-self:start;margin-top:34px;position:sticky;top:max(24px,env(safe-area-inset-top,0px))}
+.stat b{display:block;font-family:var(--hf);font-weight:800;font-size:32px;line-height:1.2}
+.stat span{font-size:16px;line-height:22px}
+.band,.foot{height:64px}
+#stage.desk .wrap{max-width:1532px}
+#stage.desk .band,#stage.desk .foot{height:79px}
+#stage.desk .hero .wrap{min-height:839px;padding-top:100px}
+#stage.desk .hero-l{gap:15.8px}
+#stage.desk .logo{width:182px;margin-bottom:27.7px}
+#stage.desk h1{font-size:63px;letter-spacing:2.5px;line-height:.984}
+#stage.desk h1 span{font-size:86px}
+#stage.desk .lead{font-size:28px;line-height:47px;max-width:810px}
+#stage.desk .esp{max-width:810px;margin-top:66.2px}
+#stage.desk .esp-t{font-size:25px;line-height:30px;top:-15px;left:41px}
+#stage.desk .esp-b{padding:40px 16px 32px}
+#stage.desk .esp-b::before{-webkit-mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 30px 0/210px 3px no-repeat;mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 30px 0/210px 3px no-repeat;-webkit-mask-composite:xor;mask-composite:exclude}
+#stage.desk .esp-i{font-size:18px;line-height:24px;gap:9px}
+#stage.desk .esp-i img{height:37px}
+#stage.desk .card{padding:79px 80px 81px;grid-template-columns:801px minmax(0,1fr);gap:0 78px}
+#stage.desk .sh{gap:9px;margin-bottom:25.4px}
+#stage.desk .sh img{height:36px}
+#stage.desk .sh h2{font-size:26px}
+#stage.desk .sec{padding:0 0 24.7px}
+#stage.desk .sec+.sec{padding-top:50px}
+#stage.desk .sec:last-child{padding-bottom:0}
+#stage.desk .sec p{margin-left:61px;font-size:17.8px;line-height:33.6px}
+#stage.desk .sec ul{margin-left:61px;margin-right:-12px;gap:20px}
+#stage.desk .sec li{font-size:17.8px;line-height:27.6px}
+#stage.desk .sec li img{height:28px}
+#stage.desk .side{padding:7px 0 8px 78px;gap:38.5px;margin-top:1px;top:80px}
+#stage.desk .stat b{font-size:37px;line-height:42.4px}
+#stage.desk .stat span{font-size:17.8px;line-height:21.7px}
+#stage.lap .wrap{max-width:1113px}
+#stage.lap .band,#stage.lap .foot{height:57px}
+#stage.lap .hero .wrap{min-height:604.7px;padding-top:72px}
+#stage.lap .hero-l{gap:11.4px}
+#stage.lap .logo{width:131px;margin-bottom:19.9px}
+#stage.lap h1{font-size:45px;letter-spacing:1.8px;line-height:1}
+#stage.lap h1 span{font-size:62px}
+#stage.lap .lead{font-size:20px;line-height:34.5px;max-width:584px}
+#stage.lap .esp{max-width:584px;margin-top:45.9px}
+#stage.lap .esp-t{font-size:18px;line-height:22px;top:-11px;left:30px}
+#stage.lap .esp-b{padding:29px 12px 24.4px}
+#stage.lap .esp-b::before{-webkit-mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 22px 0/151px 3px no-repeat;mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 22px 0/151px 3px no-repeat;-webkit-mask-composite:xor;mask-composite:exclude}
+#stage.lap .esp-i{font-size:13px;line-height:17px;gap:6.5px}
+#stage.lap .esp-i img{height:27px}
+#stage.lap .card{padding:57px 58px 58px;grid-template-columns:578px minmax(0,1fr);gap:0 56px}
+#stage.lap .sh{gap:6.5px;margin-bottom:18.2px}
+#stage.lap .sh img{height:26px}
+#stage.lap .sh h2{font-size:19px}
+#stage.lap .sec{padding:0 0 17.7px}
+#stage.lap .sec+.sec{padding-top:36px}
+#stage.lap .sec:last-child{padding-bottom:0}
+#stage.lap .sec p{margin-left:44px;font-size:12.8px;line-height:24.2px}
+#stage.lap .sec ul{margin-left:44px;margin-right:-8px;gap:14.2px}
+#stage.lap .sec li{font-size:12.8px;line-height:19.9px;gap:7.1px}
+#stage.lap .sec li img{height:20px}
+#stage.lap .side{padding:5px 0 6px 56px;gap:27.4px;margin-top:1px;top:58px}
+#stage.lap .stat b{font-size:27px;line-height:30.6px}
+#stage.lap .stat span{font-size:12.8px;line-height:16.2px}
+.mphoto{display:none}
+#stage.mob{width:min(375px,100%);box-shadow:0 0 0 1px rgba(128,128,128,.35)}
+#stage.mob .wrap{max-width:none;padding-left:17px;padding-right:17px}
+#stage.mob .hero{min-height:812px;background:#020715 url({{BG}}) center -29px/1494px 841px no-repeat}
+#stage.mob .hero::before{background:linear-gradient(180deg,rgba(0,0,0,.42) 0,rgba(0,0,0,0) 478px),rgba(2,7,21,.68)}
+#stage.mob .hero .wrap{display:block;min-height:0;padding:31px 21px 0}
+#stage.mob .hero-r,#stage.mob .hero-r[data-w]{display:none}
+#stage.mob .mphoto{display:block;position:absolute;right:0;bottom:-1px;width:100%;height:340px;overflow:hidden;z-index:1}
+#stage.mob .mphoto img{position:absolute;max-width:none;height:160.81%;width:146.12%;left:-25.98%;top:-13.4%}
+#stage.mob .hero-l{padding-bottom:0;gap:0;z-index:2}
+#stage.mob .logo{width:105px;margin:0 0 25px}
+#stage.mob h1{font-size:27px;letter-spacing:1.1px;line-height:.964}
+#stage.mob h1 span{font-size:36.6px}
+#stage.mob .lead{font-family:'Manrope',var(--bf);font-size:14px;line-height:24.4px;max-width:333px;margin:14px 0 0}
+#stage.mob .esp{max-width:333px;margin-top:29px}
+#stage.mob .esp-t,#stage.mob .esp-t[data-w]{font-family:'Sora',var(--hf);font-size:11.3px;line-height:14px;top:-7px;left:25px}
+#stage.mob .esp-b{padding:27px 0 16px;grid-template-columns:1fr 1fr;row-gap:17.6px;align-items:start}
+#stage.mob .esp-b::before{-webkit-mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 18px 0/100px 3px no-repeat;mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 18px 0/100px 3px no-repeat;-webkit-mask-composite:xor;mask-composite:exclude}
+#stage.mob .esp-i{font-family:'Manrope',var(--bf);font-size:10.5px;line-height:11.3px;min-height:50px;padding:0 8px;gap:4.4px}
+#stage.mob .esp-i img{height:20px}
+#stage.mob .esp-i+.esp-i{border-left:0}
+#stage.mob .esp-i:nth-child(even){border-left:1px solid rgba(255,255,255,.25)}
+#stage.mob .band,#stage.mob .foot{height:17px}
+#stage.mob .card{display:flex;flex-direction:column;padding:44px 17px 44px;gap:0;border-radius:17px}
+#stage.mob .main{display:contents}
+#stage.mob .sec{padding:0;border:0;order:3}
+#stage.mob .sec:nth-child(1){order:1}
+#stage.mob .sec:nth-child(n+2){border-top:1px solid var(--line);margin-top:43.6px;padding-top:43.6px}
+#stage.mob .sec:nth-child(2){order:3}
+#stage.mob .sec:nth-child(3){order:4}
+#stage.mob .sec:nth-child(4){order:5}
+#stage.mob .side,#stage.mob .side[data-w]{order:2;position:static;border-left:2px solid var(--gold);border-top:0;padding:0 0 0 17.4px;margin:43px 0 0 17.4px;gap:24.4px;flex-direction:column;flex-wrap:nowrap;align-self:auto}
+#stage.mob .sh{align-items:flex-start;gap:9px;margin:0 0 25px}
+#stage.mob .sh img{height:30px}
+#stage.mob .sh h2{font-family:'Sora',var(--hf);font-size:22.7px;line-height:normal}
+#stage.mob .sec p{margin-left:17px;font-size:15.7px;line-height:29.6px}
+#stage.mob .sec ul{margin-left:16.6px;gap:14.8px}
+#stage.mob .sec li{font-size:15.7px;line-height:24.4px}
+#stage.mob .sec li img{height:24px}
+#stage.mob .sec:nth-child(4) li{line-height:29.6px}
+#stage.mob .sec:nth-child(4) li img{height:29px}
+#stage.mob .sec:nth-child(1) p b{font-weight:400}
+#stage.mob .sec:nth-child(1) p b:first-child{font-weight:700}
+#stage.mob .stat b{font-size:32.3px}
+#stage.mob .stat span{font-size:15.7px;line-height:19.2px}
+#stage{margin:0 auto;position:relative}
+#stage.lap{width:1366px;box-shadow:0 0 0 1px rgba(128,128,128,.35)}
+.vbar[hidden]{display:none}
+.vbar{position:fixed;top:max(10px,env(safe-area-inset-top,0px));left:50%;transform:translateX(-50%);z-index:36;display:flex;gap:4px;background:#0a1633;border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:4px;box-shadow:0 6px 18px rgba(0,0,0,.35)}
+.vbar button{background:none;border:0;color:#cfd7ea;font:700 13px var(--hf);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
+.vbar button[aria-pressed="true"]{background:var(--gold);color:var(--navy)}
+.vbar button:focus-visible{outline:2px solid #fff;outline-offset:1px}
+@media (max-width:1024px){
+ .hero .wrap{grid-template-columns:1fr;min-height:0}
+ .hero-r,.hero-r[data-w]{position:relative;left:auto;width:100%;order:-1;margin:0 -16px -90px;width:calc(100% + 32px);height:380px;overflow:hidden}
+ .hero-r img{width:auto;height:560px;margin:0 auto;position:relative}
+ .hero-l{padding-bottom:36px}
+ .card{grid-template-columns:1fr;padding:34px 28px;gap:24px}
+ .side,.side[data-w]{position:static;border-left:0;border-top:1px solid var(--gold);padding:24px 0 0;margin-top:0;flex-direction:row;flex-wrap:wrap;gap:20px 36px}
+}
+@media (max-width:767px){
+ .hero .wrap{padding-top:40px}
+ .logo{margin-bottom:24px;width:130px}
+ h1{font-size:40px}h1 span{font-size:54px}
+ .lead{font-size:17px;line-height:27px}
+ .esp-b{grid-template-columns:1fr 1fr;gap:18px 0}
+ .esp-i:nth-child(3){border-left:0}
+ .card{padding:26px 20px}
+ .sec p,.sec ul{margin-left:0}
+ .sh h2{font-size:18px}
+}
+.wbtn{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:max(16px,env(safe-area-inset-bottom,0px));z-index:30;background:var(--gold);color:var(--navy);border:0;border-radius:999px;padding:13px 20px;font:700 14px var(--hf);cursor:pointer;box-shadow:0 6px 20px rgba(0,0,0,.35)}
+.wbtn:focus-visible,.wx:focus-visible{outline:3px solid #fff;outline-offset:2px}
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(560px,100%);background:#0a1633;color:#e9edf7;z-index:40;transform:translateX(102%);transition:transform .25s;display:flex;flex-direction:column;padding-top:env(safe-area-inset-top,0px)}
+.drawer.open{transform:none}
+.dh{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:16px 20px;border-bottom:1px solid rgba(255,255,255,.15)}
+.dh h3{margin:0;font:800 17px var(--hf);color:var(--gold)}
+.wx{background:none;border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:6px;padding:6px 12px;cursor:pointer;font:600 13px var(--bf)}
+.db{overflow:auto;padding:16px 20px 28px;font-size:13.5px;line-height:1.5}
+.db h4{font:700 14px var(--hf);color:var(--gold);margin:20px 0 8px}
+.db table{width:100%;border-collapse:collapse;display:block;overflow-x:auto}
+.db th,.db td{text-align:left;padding:7px 9px;border-bottom:1px solid rgba(255,255,255,.12);vertical-align:top}
+.db td:nth-child(3){min-width:210px}
+.db th{color:#aeb9d4;font-weight:600}
+.db code{font:12.5px ui-monospace,Consolas,monospace;color:#f2d79b}
+.tg{display:flex;align-items:center;gap:10px;margin:0 0 14px}
+.note{color:#aeb9d4;margin:0 0 6px}
+[data-w]{position:relative}
+.hero-r[data-w]{position:absolute}
+body.show-w [data-w]{outline:1px dashed rgba(255,79,163,.7);outline-offset:-1px}
+body.show-w .hero-r{pointer-events:auto}
+body.show-w [data-w].hot,body.show-w [data-w].pin{outline:2px solid #ff4fa3;outline-offset:-2px;background-image:linear-gradient(rgba(255,79,163,.12),rgba(255,79,163,.12))}
+body.show-w [data-w].hot::after,body.show-w [data-w].pin::after{content:attr(data-w);position:absolute;top:0;left:0;z-index:20;background:#ff4fa3;color:#fff;font:700 11px/1 var(--bf);padding:4px 7px;border-radius:0 0 4px 0;pointer-events:none;white-space:nowrap;text-transform:none;letter-spacing:0}
+.insp{position:fixed;left:max(16px,env(safe-area-inset-left,0px));bottom:max(16px,env(safe-area-inset-bottom,0px));z-index:35;width:min(430px,calc(100% - 150px));background:#0a1633;color:#e9edf7;border:1px solid #ff4fa3;border-radius:10px;font-size:13px;line-height:1.5;box-shadow:0 8px 24px rgba(0,0,0,.4)}
+.insp[hidden]{display:none}
+.ih{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.15)}
+.ih b{font:700 13px var(--hf);color:#ff8cc4}
+.ib{padding:10px 12px;max-height:34vh;overflow:auto}
+.ib .dim{color:#aeb9d4;margin-top:4px}
+@media (prefers-reduced-motion:reduce){.drawer{transition:none}}
+</style>
+
+<div class="vbar" role="group" aria-label="Versión de la landing"><button type="button" id="mdesk" aria-pressed="true">Desktop 1500</button><button type="button" id="mlap" aria-pressed="false">Laptop 1366</button><button type="button" id="mmob" aria-pressed="false">Mobile 375</button></div>
+<div id="stage" class="desk">
+<section class="hero" data-w="Contenedor · ancho completo · imagen de fondo">
+ <div class="wrap" data-w="Contenedor en caja 1300 · fila">
+  <div class="hero-l" data-w="Contenedor columna 58%">
+   <img class="logo" src="{{LOGO}}" alt="Goberna" data-w="Imagen">
+   <h1 data-w="Encabezado (H1)">DIANA<span>PEREIRA</span></h1>
+   <p class="lead" data-w="Editor de texto">Profesional en Gobierno y Relaciones Internacionales, con experiencia en seguridad y liderazgo estratégico.</p>
+   <div class="esp" data-w="Contenedor fila · borde 1px dorado (CSS ::before)">
+    <div class="esp-t" data-w="Encabezado · sobre el borde, corta la línea">Especialidades</div>
+    <div class="esp-b">
+     <div class="esp-i" data-w="Caja de imagen · ícono arriba"><img src="{{I_PIN}}" alt="">Gobierno</div>
+     <div class="esp-i" data-w="Caja de imagen · ícono arriba"><img src="{{I_GLOBAL}}" alt="">Asuntos<br>Internacionales</div>
+     <div class="esp-i" data-w="Caja de imagen · ícono arriba"><img src="{{I_SEC}}" alt="">Defensa y<br>Seguridad</div>
+     <div class="esp-i" data-w="Caja de imagen · ícono arriba"><img src="{{I_PROC}}" alt="">Liderazgo y<br>Gestión de Crisis</div>
+    </div>
+   </div>
+  </div>
+  <div class="hero-r" data-w="Contenedor columna 42%"><img src="{{HYSA}}" alt="Diana Pereira" data-w="Imagen"></div>
+ </div>
+<div class="mphoto" data-w="Imagen · recortada (alto 340)"><img src="{{HYSA}}" alt="Diana Pereira"></div>
+</section>
+<div class="band"></div>
+<main class="wrap">
+ <div class="card" data-w="Contenedor ancho completo · width 1500 px · fila · radio 20 · sombra (ak-dp-card)">
+  <div class="main" data-w="Contenedor columna">
+   <section class="sec" data-w="Contenedor">
+    <div class="sh" data-w="Contenedor fila · centrado"><img data-w="Imagen 30 px" src="{{I_G29144}}" alt=""><h2 data-w="Encabezado (H2)">Resumen ejecutivo</h2></div>
+    <p data-w="Editor de texto"><b>Profesional en Gobierno y Relaciones Internacionales</b>, con formación en la Escuela de Asuntos Internacionales y Públicos de la Universidad de Columbia y <b>quince años de experiencia en el sector público colombiano</b>. Su trayectoria comprende la gestión de crisis y el liderazgo de equipos en entornos complejos. Ha sido <b>directora de Estudios Estratégicos del Ministerio de Defensa Nacional</b> y <b>asesora de la Dirección para la Ejecución de Gobierno y Áreas Estratégicas</b> de la Presidencia de la República de Colombia. Ha participado en publicaciones del Departamento Nacional de Planeación sobre seguridad y consolidación de la paz. Es <b>creadora de la metodología Brújula de Mando Estratégico</b>, orientada al fortalecimiento del liderazgo corporativo e inspirada en principios de las Fuerzas Especiales.</p>
+   </section>
+   <section class="sec" data-w="Contenedor">
+    <div class="sh" data-w="Contenedor fila · centrado"><img data-w="Imagen 30 px" src="{{I_T}}" alt=""><h2 data-w="Encabezado (H2)">Cargos principales y trayectoria</h2></div>
+    <ul data-w="Lista de iconos">
+     <li><img src="{{VIN}}" alt=""><span><b>Directora de Estudios Estratégicos</b> – Ministerio de Defensa Nacional de Colombia.</span></li>
+     <li><img src="{{VIN}}" alt=""><span><b>Asesora de la Dirección para la Ejecución de Gobierno y Áreas Estratégicas</b> – Presidencia de la República de Colombia.</span></li>
+     <li><img src="{{VIN}}" alt=""><span><b>Creadora de la metodología Brújula de Mando Estratégico</b>.</span></li>
+    </ul>
+   </section>
+   <section class="sec" data-w="Contenedor">
+    <div class="sh" data-w="Contenedor fila · centrado"><img data-w="Imagen 30 px" src="{{I_CAP}}" alt=""><h2 data-w="Encabezado (H2)">Formación académica</h2></div>
+    <ul data-w="Lista de iconos">
+     <li><img src="{{VIN}}" alt=""><span><b>Estudios en la Escuela de Asuntos Internacionales y Públicos de la Universidad de Columbia</b> (2010–2012).</span></li>
+     <li><img src="{{VIN}}" alt=""><span><b>Diplomado en Gestión de Proyectos con énfasis en el Project Management Institute (PMI)</b> – Universidad EAFIT (2022).</span></li>
+     <li><img src="{{VIN}}" alt=""><span><b>Programa de Liderazgo de Alto Desempeño</b> – Blum.</span></li>
+    </ul>
+   </section>
+   <section class="sec" data-w="Contenedor">
+    <div class="sh" data-w="Contenedor fila · centrado"><img data-w="Imagen 30 px" src="{{I_BOOK}}" alt=""><h2 data-w="Encabezado (H2)">Aportes destacados</h2></div>
+    <ul data-w="Lista de iconos">
+     <li><img src="{{VIN1}}" alt=""><span>Desarrolló <b>Brújula de Mando Estratégico</b>, metodología para fortalecer el liderazgo corporativo y el funcionamiento de los equipos.</span></li>
+     <li><img src="{{VIN1}}" alt=""><span>Registra en su perfil la publicación <b>"Defense and Security Spending 1998–2013: Evolution and reflections on its sustainability"</b>, vinculada al Boletín de Seguimiento a la Consolidación de la Paz del Departamento Nacional de Planeación.</span></li>
+     <li><img src="{{VIN1}}" alt=""><span>Fue entrevistada como experta para una investigación sobre reincidencia en el hurto de dispositivos móviles en Bogotá, publicada en la revista <b>Logos, Ciencia &amp; Tecnología</b>.</span></li>
+    </ul>
+   </section>
+  </div>
+  <aside class="side" data-w="Contenedor columna · borde izq. dorado · sticky (ak-dp-side)">
+   <div class="stat" data-w="Contenedor columna (ak-dp-stat) · Encabezado + Editor de texto"><b>15 años</b><span>Experiencia en el sector público</span></div>
+   <div class="stat" data-w="Contenedor columna (ak-dp-stat) · Encabezado + Editor de texto"><b>3</b><span>Cargos principales</span></div>
+   <div class="stat" data-w="Contenedor columna (ak-dp-stat) · Encabezado + Editor de texto"><b>2010-2012</b><span>Columbia University</span></div>
+  </aside>
+ </div>
+</main>
+<div class="foot"></div>
+</div>
+
+<button class="wbtn" id="wopen" type="button" aria-controls="wd">Ver widgets</button>
+<aside class="drawer" id="wd" aria-label="Widgets de Elementor" aria-hidden="true">
+ <div class="dh"><h3>Widgets de Elementor usados</h3><button class="wx" id="wclose" type="button">Cerrar</button></div>
+ <div class="db">
+  <label class="tg"><input type="checkbox" id="wtog"> Marcar widgets sobre la página</label>
+  <p class="note">Figma mide 1920 px de ancho y el contenido va de 200 a 1720 (1520 px). En Desktop (&gt;1366) el contenedor es de 1500 px y las medidas se escalan ×0,987, casi las del Figma (H1 63/86, texto 18, H2 26). En Laptop (≤1366) se usa la versión de 1300 px (×0,855).</p>
+
+  <h4>Ajustes generales</h4>
+  <table><tr><th>Ajuste</th><th>Valor</th></tr>
+   <tr><td>Contenedor padre</td><td>En caja · 1500 px (≥1367 px; 1300 px en Laptop) · Laptop ≤1366 · Tablet ≤1024 · Mobile ≤767</td></tr>
+   <tr><td>Fuentes</td><td>Montserrat (800/700/400) · Open Sans (400/700)</td></tr>
+   <tr><td>Colores</td><td>Dorado <code>#D6A752</code> · Azul <code>#030A22</code> · Fondo <code>#F3F6FB</code></td></tr>
+  </table>
+
+  <h4>Versión Laptop 1366 (a escala)</h4>
+  <p class="note">Es la misma página reducida en proporción 1366 / 1920 = ×0,7115 sobre las medidas del Figma, igual que la página "Laptop" del archivo. En Elementor son los valores del dispositivo <b>Laptop</b> (Ajustes del sitio → Puntos de interrupción, hasta 1366).</p>
+  <table><tr><th>Elemento</th><th>Desktop 1500</th><th>Laptop 1366</th></tr>
+   <tr><td>Contenedor</td><td>1500 px</td><td>1081 px</td></tr>
+   <tr><td>Hero alto mín.</td><td>839</td><td>604,7</td></tr>
+   <tr><td>DIANA / PEREIRA (tamaño / interlínea)</td><td>63 / 62 · 86 / 85</td><td>45 / 46 · 62 / 61</td></tr>
+   <tr><td>Texto de portada</td><td>28 / 47</td><td>20 / 34,5</td></tr>
+   <tr><td>Espacio texto de portada → barra</td><td>82</td><td>57,3</td></tr>
+   <tr><td>Título Especialidades</td><td>25</td><td>18</td></tr>
+   <tr><td>Textos de la barra</td><td>18 / 24</td><td>13 / 17</td></tr>
+   <tr><td>Portada → tarjeta (y bajo la tarjeta)</td><td>79</td><td>57</td></tr>
+   <tr><td>Relleno de la tarjeta (arr. / lados / abajo)</td><td>79 / 80 / 81</td><td>57 / 58 / 58</td></tr>
+   <tr><td>Columnas: texto · separación · datos</td><td>801 · 78 · 460</td><td>578 · 56 · 331</td></tr>
+   <tr><td>Datos: relleno izq. (tras el borde dorado)</td><td>78</td><td>56</td></tr>
+   <tr><td>Datos fijos (sticky) a</td><td>80</td><td>58</td></tr>
+   <tr><td>Títulos H2 · icono</td><td>26 · 36 alto</td><td>19 · 26 alto</td></tr>
+   <tr><td>Título → texto</td><td>25,4 (+ mitad del icono)</td><td>18,2 (+ mitad del icono)</td></tr>
+   <tr><td>Texto → línea / línea → título</td><td>24,7 / 50</td><td>17,7 / 36</td></tr>
+   <tr><td>Texto del CV (tamaño / interlínea)</td><td>17,8 / 33,6</td><td>12,8 / 24,2</td></tr>
+   <tr><td>Listas: interlínea · separación</td><td>27,6 · 20</td><td>19,9 · 14,2</td></tr>
+   <tr><td>Cifras · etiquetas</td><td>37 / 42,4 · 17,8 / 21,7</td><td>27 / 30,6 · 12,8 / 16,2</td></tr>
+  </table>
+
+  <h4>Versión Mobile 375 (Figma móvil 430)</h4>
+  <p class="note">Diseño propio del Figma móvil (frame de 430 px). En Elementor mobile (375 px) todo se escala ×0,872 y las letras quedan al 87 % del XD, como en la guía. Fuentes del móvil: Montserrat (nombre y cifras), Sora (títulos de sección y "Especialidades"), Manrope (texto de portada y barra), Open Sans (cuerpo).</p>
+  <table><tr><th>Elemento</th><th>Figma 430</th><th>Mobile 375</th></tr>
+   <tr><td>Hero alto</td><td>931</td><td>812</td></tr>
+   <tr><td>DIANA / PEREIRA</td><td>30,9 / 42</td><td>27 / 36,6</td></tr>
+   <tr><td>Texto de portada</td><td>16 / 28 (Manrope)</td><td>14 / 24,4</td></tr>
+   <tr><td>Barra de Especialidades</td><td>2 × 2, 382 de ancho</td><td>2 × 2, 333 de ancho; textos 10,5 (Figma 12)</td></tr>
+   <tr><td>Foto</td><td>430 × 390 pegada abajo</td><td>375 × 340, recortada (imagen al 146 %, izq. −26 %, arriba −13 %)</td></tr>
+   <tr><td>Tarjeta</td><td>390 de ancho, margen 20, radio 20</td><td>Ancho 100 % con 17 de margen, radio 17, relleno 44 / 17</td></tr>
+   <tr><td>Títulos H2</td><td>26 (Sora Bold)</td><td>22,7</td></tr>
+   <tr><td>Texto del CV</td><td>18 / 34</td><td>15,7 / 29,6</td></tr>
+   <tr><td>Listas</td><td>18 / 28, separación 17</td><td>15,7 / 24,4, separación 14,8</td></tr>
+   <tr><td>Datos (15 años, 3, 2010-2012)</td><td>Dentro de Resumen, tras el texto; borde izq. 2 px dorado; cifra 37 / texto 18</td><td>Mismo bloque, cifra 32,3 / texto 15,7, <b>sin sticky</b></td></tr>
+  </table>
+
+  <h4>Widgets por sección</h4>
+  <table><tr><th>Sección</th><th>Widget</th><th>Configuración (Figma → Elementor)</th></tr>
+   <tr><td>Hero</td><td>Contenedor</td><td>Ancho completo, imagen de fondo + degradado; alto mín. 727 (Figma 850)</td></tr>
+   <tr><td>Hero</td><td>Imagen (logo)</td><td>158 px (Figma 184)</td></tr>
+   <tr><td>Hero</td><td>Encabezado H1</td><td>DIANA 55 px dorado, PEREIRA 74 px blanco (Figma 64/87). Dos spans, Montserrat 800, espaciado 2,2</td></tr>
+   <tr><td>Hero</td><td>Editor de texto</td><td>24 px / 41 (Figma 28/48), ancho 700</td></tr>
+   <tr><td>Hero</td><td>Contenedor fila + título + 4 Cajas de imagen</td><td>Ancho 700, relleno 34/14/26/14, alinear elementos: <b>Inicio (arriba)</b> para que los íconos queden en una línea. Borde 1 px dorado dibujado con CSS <code>::before</code> para que el título lo corte. Título Montserrat 21 px dorado, absoluto arriba a la izquierda (36 px). Imagen 36 px de alto, texto 15 px (Figma 18), separadores con borde izq. 1 px</td></tr>
+   <tr><td>Hero</td><td>Imagen (foto Diana)</td><td>Máx. 575 px (Figma 828), alineada abajo</td></tr>
+   <tr><td>Fondo</td><td>Contenedor ancho completo</td><td>Fondo #F3F6FB, dirección columna, <b>alinear elementos: centro</b>, relleno 0/16 a los lados</td></tr><tr><td>Tarjeta</td><td>Contenedor <b>ancho completo</b> con ancho 1300 px</td><td>No usar "en caja": en caja deja el fondo blanco y la sombra a pantalla completa. Ancho 1500 px (100 % en Laptop y Tablet), margen 64 arriba y abajo, fila, radio 20, sombra 0 3 16 rgba(6,8,26,.16), relleno 46/69 (Figma 1519 de ancho). CSS: <code>selector{max-width:100%}</code></td></tr>
+   <tr><td>Resumen</td><td>Contenedor sección → Contenedor fila (Imagen + H2) + Editor de texto</td><td>H2 22 px dorado (Figma 26); texto 16 px / 29 (Figma 18/34), sangría 53</td></tr>
+   <tr><td>Cargos, Formación, Aportes</td><td>Contenedor sección → Contenedor fila (Imagen + H2) + Lista de iconos</td><td>Viñeta SVG propia, 16 px / 24, separación 16 (Figma 20); línea inferior 1 px</td></tr>
+   <tr><td>Columna derecha</td><td>3 × Contenedor columna (Encabezado + Editor de texto)</td><td>Cifra 32 px Montserrat 800 (Figma 37); borde izq. 1 px dorado; ancho 300. <b>Fija al hacer scroll</b>: contenedor en Avanzado → Efectos de movimiento → Fijo (Sticky) → Arriba, desplazamiento 24, solo Desktop y Laptop</td></tr>
+   <tr><td>Mobile</td><td>Todos</td><td>Una columna, estadísticas bajo el texto; letras al 87 % del XD, revisar a 375</td></tr>
+  </table>
+  <h4>Clases sugeridas</h4>
+  <p class="note"><code>ak-dp-hero</code>, <code>ak-dp-esp</code>, <code>ak-dp-card</code>, <code>ak-dp-sec</code>, <code>ak-dp-side</code>. El CSS va en Avanzado → CSS personalizado del contenedor padre, con <code>selector</code>. Nada de "Ocultar en Móvil/Desktop".</p>
+ </div>
+</aside>
+<div class="insp" id="insp" hidden>
+ <div class="ih"><b id="iname">Pasa el mouse sobre la landing</b><button class="wx" id="ilist" type="button">Ver lista completa</button></div>
+ <div class="ib" id="ibody">Cada recuadro rosa es un widget o contenedor de Elementor. Haz clic para fijarlo y ver sus medidas.</div>
+</div>
+<script>
+(function(){
+ var d=document.getElementById('wd'),o=document.getElementById('wopen'),c=document.getElementById('wclose'),t=document.getElementById('wtog');
+ var insp=document.getElementById('insp'),iname=document.getElementById('iname'),ibody=document.getElementById('ibody');
+ var stage=document.getElementById('stage'),bd=document.getElementById('mdesk'),bl=document.getElementById('mlap'),bm=document.getElementById('mmob');
+ var on=false,pin=null,hot=null,zoom=1;
+ function K(){return stage.classList.contains('mob')?0.872:stage.classList.contains('lap')?0.7115:0.987}
+ var cur=innerWidth>1366?'desk':'lap',vb=document.querySelector('.vbar');
+ function setMode(m){
+  cur=m;var w=innerWidth,eff=w<=767?'mob':(w<=1024?'':m);
+  vb.hidden=w<=1024;
+  ['desk','lap','mob'].forEach(function(c){stage.classList.toggle(c,eff===c)});
+  bd.setAttribute('aria-pressed',m==='desk'?'true':'false');bl.setAttribute('aria-pressed',m==='lap'?'true':'false');bm.setAttribute('aria-pressed',m==='mob'?'true':'false');
+  zoom=(eff==='lap'&&w<1366)?w/1366:1;stage.style.zoom=zoom===1?'':zoom;
+  if(pin){pin.classList.remove('pin');pin=null}if(on)iname.textContent='Pasa el mouse sobre la landing';
+ }
+ bd.onclick=function(){setMode('desk')};bl.onclick=function(){setMode('lap')};bm.onclick=function(){setMode('mob')};
+ setMode(cur);
+ addEventListener('resize',function(){setMode(cur)});
+ function s(v){d.classList.toggle('open',v);d.setAttribute('aria-hidden',v?'false':'true');if(v)c.focus()}
+ function mode(v){on=v;document.body.classList.toggle('show-w',v);insp.hidden=!v;o.textContent=v?'Ocultar widgets':'Ver widgets';o.setAttribute('aria-pressed',v?'true':'false');t.checked=v;if(!v){clear();pin=null}}
+ function clear(){if(hot)hot.classList.remove('hot');hot=null}
+ function px(v){return Math.round(parseFloat(v))}
+ function info(el){
+  var cs=getComputedStyle(el),r=el.getBoundingClientRect(),desk=!!(stage.className),rows=[],k=K();
+  var fs=px(cs.fontSize);
+  if(/^(H1|H2|P|B|SPAN|LI)$/.test(el.tagName)||el.classList.contains('stat')||el.classList.contains('esp-i')){
+   rows.push('Fuente: '+cs.fontFamily.split(',')[0].replace(/"/g,'')+' '+cs.fontWeight+' · '+fs+' px'+(desk?' (Figma '+Math.round(fs/k)+' px)':'')+' · interlineado '+(cs.lineHeight==='normal'?'normal':px(cs.lineHeight)+' px'));
+   rows.push('Color: '+cs.color);
+  }
+  rows.push('Tamaño: '+Math.round(r.width/zoom)+' × '+Math.round(r.height/zoom)+' px'+(desk?' (Figma '+Math.round(r.width/zoom/k)+' × '+Math.round(r.height/zoom/k)+' px)':''));
+  if(cs.display==='flex')rows.push('Flex · dirección '+cs.flexDirection+' · gap '+cs.gap);
+  if(cs.display==='grid')rows.push('Grid · columnas '+cs.gridTemplateColumns.split(' ').length+' · gap '+cs.gap);
+  if(cs.paddingTop!=='0px'||cs.paddingLeft!=='0px')rows.push('Relleno: '+cs.paddingTop+' '+cs.paddingRight+' '+cs.paddingBottom+' '+cs.paddingLeft);
+  if(cs.borderRadius!=='0px')rows.push('Radio: '+cs.borderRadius);
+  return rows.map(function(x){return '<div>'+x+'</div>'}).join('')+(desk?'':'<div class="dim">Las medidas de Figma se calculan solo en Desktop y Laptop.</div>');
+ }
+ function show(el){iname.textContent=el.getAttribute('data-w');ibody.innerHTML=info(el)}
+ document.addEventListener('mouseover',function(e){
+  if(!on||pin||e.target.closest('.insp,.drawer,.wbtn'))return;
+  var el=e.target.closest('[data-w]');if(el===hot)return;clear();hot=el;if(el){el.classList.add('hot');show(el)}
+ });
+ document.addEventListener('click',function(e){
+  if(!on||e.target.closest('.insp,.drawer,.wbtn'))return;
+  e.preventDefault();var el=e.target.closest('[data-w]');
+  if(pin)pin.classList.remove('pin');
+  if(el&&el!==pin){pin=el;el.classList.add('pin');show(el)}else{pin=null}
+ },true);
+ o.onclick=function(){mode(!on)};
+ c.onclick=function(){s(false);o.focus()};
+ document.getElementById('ilist').onclick=function(){s(true)};
+ t.onchange=function(){mode(t.checked)};
+ document.addEventListener('keydown',function(e){if(e.key==='Escape'&&d.classList.contains('open'))s(false)});
+})();
+</script>

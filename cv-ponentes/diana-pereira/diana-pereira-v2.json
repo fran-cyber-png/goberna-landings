@@ -1,0 +1,3880 @@
+{
+  "content": [
+    {
+      "id": "1b00f214",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1300,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_gap": {
+          "column": "14",
+          "row": "14",
+          "isLinked": true,
+          "unit": "px"
+        },
+        "min_height": {
+          "unit": "px",
+          "size": 850,
+          "sizes": []
+        },
+        "min_height_laptop": {
+          "unit": "px",
+          "size": 727,
+          "sizes": []
+        },
+        "min_height_tablet": {
+          "unit": "px",
+          "size": 0,
+          "sizes": []
+        },
+        "overflow": "hidden",
+        "background_background": "classic",
+        "background_image": {
+          "id": 93357,
+          "url": "https://grupogoberna.com/wp-content/uploads/2026/10/hero-fondo-capitolio-scaled.webp",
+          "alt": "",
+          "source": "library",
+          "size": ""
+        },
+        "background_position": "initial",
+        "background_xpos": {
+          "unit": "%",
+          "size": 50,
+          "sizes": []
+        },
+        "background_ypos": {
+          "unit": "%",
+          "size": 20,
+          "sizes": []
+        },
+        "background_size": "cover",
+        "padding": {
+          "unit": "px",
+          "top": "86",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "36",
+          "left": "0",
+          "isLinked": false
+        },
+        "custom_css": "selector .ak-dp-esp{position:relative}selector .ak-dp-esp::before{content:\"\";position:absolute;inset:0;border:1px solid #D6A752;border-radius:8px;pointer-events:none;mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 26px 0/176px 3px no-repeat;mask-composite:exclude;-webkit-mask:linear-gradient(#000 0 0) 0 0/100% 100% no-repeat,linear-gradient(#000 0 0) 26px 0/176px 3px no-repeat;-webkit-mask-composite:xor}selector .ak-dp-esp-t{position:absolute !important;top:-13px;left:36px;width:auto;margin:0}selector .ak-dp-foto{position:absolute;top:0;left:39.5%;width:60.5%;max-width:none;z-index:1;pointer-events:none;margin:0}selector .ak-dp-foto img{width:100%;height:auto;display:block}selector .e-con-inner>*:not(.ak-dp-foto){position:relative;z-index:2}selector .ak-dp-ico-1 .elementor-image-box-wrapper::before{content:\"\";display:block;width:28px;height:36px;margin:0 auto 8px;background:url(data:image/webp;base64,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) center/contain no-repeat}selector .ak-dp-ico-2 .elementor-image-box-wrapper::before{content:\"\";display:block;width:36px;height:36px;margin:0 auto 8px;background:url(data:image/webp;base64,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) center/contain no-repeat}selector .ak-dp-ico-3 .elementor-image-box-wrapper::before{content:\"\";display:block;width:32px;height:36px;margin:0 auto 8px;background:url(data:image/webp;base64,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) center/contain no-repeat}selector .ak-dp-ico-4 .elementor-image-box-wrapper::before{content:\"\";display:block;width:36px;height:36px;margin:0 auto 8px;background:url(data:image/webp;base64,UklGRtYSAABXRUJQVlA4TMkSAAAv5oA5EPfnIJIkKcpeHCAC86jADwq+6/s1uI0kSVKyd6W7A2zCfztQkUC6rx1HkuQo2Yf44RNO4Dye6IIrSZJjJWY7otBaW5r/d/kQbFwsremjd9SmbcCQtTlvtGr1GD6www03FMAl8Ee4uf1XAAMYAofNtEkuhsnCleXvJtunGDEYAsYjrQAgIgxXdgvo6Cc9vTNSmBRofDbscqsUEAEARAWrwLASEGugFABABASAmmgsaDUBwNYHA4ZDw7CSAaBUawSBYSGAMyoAgAoMw6VhEZDWCII1CLsQBLHCQKFQKAwMFISBwoDeCC+O/z7ohfJX5SPq2Ky1tLgZhvEk/kvBKmDwCQuBWiEIEs4hqGnCbRsQ7mBYCcZmePxcBOI59QerAIBnsjEBjkPw87b1VwzTHpime/i4PTySs9MwktdXl39m/s7rwviXfZ6Yxm25X6cc32uW37O3933CHwBQq5T4/3cJG8TccsHGFl1ediv2hl3btti5ZfcLAwzMoWOYmSOoiN2BtWHHpsnitqP0zJw/9Dn33vPccf6N6P8EoPbOxrmTDl3cuxsSY6IOfDWodQEad3HwzdELI03xkL5j3fwP+zT2R/dpv3p8F6i1rP7+LUOq8XhFGqhNOvx3oFtwtT1iBo3X9PYzmJKeq0Bj6+GuXkbnDLsAemYMKTIQv3dNoOeGa05DC94HesfccBiE11/bQe+LPxuXfQRwPFvXEMosBY6naxrUP9uAp7m/It/9JOBp6m5EykALsJ1ZIFnJHGBrG6wYjnMucI4IlOrpcuB8NN9gvKeAhuaLB8OHhx8/s0sDiHpbovIRoGHi6qnhw8PnX0jVAA4VGopzCqg1n+hT14HCkLDhsWogupY0vutAbfq8n2or+HJny/unUtTA4XwDUeaCyo197Kg2/7eFKiCiSJLC5aByeWdvVPs8d50KmK0Yx0Cgb+noQE2rHaDBNKcUyjGgnw9GTV1dMmkwxDCqWkjW8QWotdIxhgTvS/EAyOm5LtTa+/00ku0Xg7BvA+qO11DPWlkk6z8S1EslrSqLelbbTIGdgcYwAqhrSqG+zuEU2FjIzhEB1NMlqG/QCgrMNIRgoC6vgHorn1LgPXZXgDrKC/X2O0iBNgbg3EdZUwEZDqOk1mZWPp4yy4X6F6+gRDnkCwPijlLI0esEAeYy+wGIi/2RY9BGAvSUTokgWKsjz+ebCObSrILiCbEhyLNeKiHTKVtbIP6AXINtIrjEajAQ2yPXAQS4K9tJwjYfNjiCEJPPyLWJcAjZ+u8jHJLMbiZ0RL6lUkTQhVF1EFvK8MHuBGuIXFdBvNHBCMcSjjIaQ/gGGSv/F8ENuY4T+iDnsjZRnIPPXkIzTnibMF0qxy6R2c4KF4ugEZvmIL6ArIvjRSnFMjUG8QnknUvoz+Ye4TEvnCeC12XqTejDrCwhnM1YQj1mHQm/yzSJ0JQZbhZltuK6UpTuxawWIbwVPcib1VSR2cFtikjCLOQeI1JviVk9e/CdlgqLtaKLyP2yRF+xW6KdcMese7X12yKaz+66RI/Yfa3bi+f/DtIpTnSUXZhEN9h9zgLAPKWqLhbRHHZdJbrH7lMmAJDVRocE0Sx2HST6m904PgCrXtdsh2gGu78kGsRuJCeA8JoaRYrOsHsk0SR283lBxjVFk8WiXQq3ERIdYreJGcDMIi1GiSCEW7Zo902ue0V7uRVYRatvkvtP+GjO/h3awMZmGvQlhDGrYBXNR64jRNCKWRsQP0INi+oPPJysDlKfqGtDGM7sNxB/x+YKoRezHwjttHjR++4RsxqwPVTlkyaKzec1m9CezT+E+bxcm0S2/7RCRPugnSoAPnapwBUiaM8qL0mUVsTGf5fIUopVVRBno67FN7argNGKivcIC1k9APEi5HtKBN+yOkr4Th/EvEtpNBiiojkBqjEq2Urox+gnQoYPo5ZWwht6IdZdSYPfaXiWcEDh0xfE5pqM/OJF8B2jKSC+gAz9L9lI1h60PgS4zaZcAuE0cv6KkFqHTTsgPuCA2DadAullSXm7CTG1mLgOAvEfVgE2ESz3ZxK0hbDrKQ8M2EGB1fkU/J4AWU4eA4C4GHkfIcAPPFwngDgBudaOosBHpKfpBBiucPjTSmnILNRGsN1iMR6ICb5s8NlmClShYB8KTGTQMAWIJ5H7SAJYejDoD9SHyPh/Jso+f4ozmwLDvPT6MwWIiaXZ1cwggKWXXsonQF3rzwkrJRNgEAUrpVHgRJAurgFWoF5B/r0oYLvs0CUvHKiW+sj7GiUxhIJ9SRAdrEO5g0A+5JIAv6EALGmhQ+NIIL+L3GcRYBhJOU4CmFdKo5KbCUDeVhNl9IkiQfL3xRr5jrECeaEXu7xoQuozCj6PoEHK2LIa5N3YCvT4N1HO/8WQAEyPK2hQbnwC0C8+Rf7tCTCJhKU20QBsi3Nrkyr8NjsJVKb9grLWT6YBpMzs4ksK6TnNCip3lEYZpxKS7CQss0XFi9FTLueG3b1z79HX2VZQndoe5a2eqAIAbGtmfX+vw90/rn03MxPUb2uJUtawiOABDQPPqdM15WeUuX66Kn03t0BJRxDOqsCgLEZbKqHczaMYLQ1EWVtaRfCOCnR+YuOyqDzK/nwqm2H5KO8RwqdqENtsYZHc1wvlV3rHs9j+M8rclbBeHRZ8atZvQR00xtJH9LOMroBS+8eIoJY6xIqzrfpkN0DjbLRCp5MtUfYPCbe1QKwxKl4z26HWChrqP6esmqV89Q7K343wpTaIxWHzU7RY9bA2Gm+5fstsGqRNv/UUjbAgTRSlFSJ6v/be1EyLyLRs6J1SaNQ121/K2iOyRU97r40PGuVSkaVEu5fm125Stc1rlZr7oPEXvNXstTavNalTgob6qQje0umVvxehvWdTmTDIs7ETJnk2LqtormeD8aLJHs5W0SEPZ71okYezVXTIw9klmuzZuKyiuZ6NL4gneTb1CY89m56EHp7NZUJzzyZLZPX2aPzMokz0aNuAeI5nM5TQyaNx7iCEeDTdQRyJHu1MwniP5n9WQlOPZg6I16AnWzuNkOPefIzuJIiTy7u1gJ1hxvYzEIeiOw/NAMuPRua3kZBazp0FxAKAJczARgJxNLrx0Ax40fKjYfUEYlJpNxaaAS+3/GhQTRIpA9B9B8SC2HLbkGrvAGJkifsKzQCqpY4Blc8EanV02wGxQB6ExhuyD6jD0G0HxAJ5EBpvxWigRhS6rdAMIOeg8f6yG6jxZdBdh2YAOQcN1znBBlTbHXTXoRlAzkHDrbgE6DnorgNigTwIjbZwcArQx6G7Ds0Acg4abEnvaFD5heKuQjOAnIPG+vzBNlA71gvddGgGkHPQSP27T04B1e+iuw7NAHIOGqZ36JUT8aA+7S+Utly917qG3ZP47wwgn79nhA8eXR49f6MVNI3+F2XMf33A7FUJ8Co94ynyL9N/eiK8Yu+6qiD3otsHbfDKfbIccq8zMhVevc+9htzfGWmBV+/s217IPHC2DV65LfN/Qe7O39PhlfvC4LeRfcuz8IqdcepqRZTwSSK8OqdcPPbJkyZeKKPfSNDUdGDMlQ7dqzSRuHEE7WylJgbYvPRzB8pb/iyoTz/auw4aoD2CBOFOdO+l14Na68HbxWiQvudIcNTh1t7aAipTR5ZFA/U9R4KjDjdWMRbo5o/Lo7HaI0gQ7nRbzzYDfdFbaLi+50hw1OGmgvYBOeGJggZsjyBBuNMtORcDOaIOGrM9ggThTnf0HZC/9kajtkeQINzpfhpYSUNdaNy+50hw1OFuAncC9TEauj2CBOFON/MNUL9Fg7dHkGJbuJeGQB2Ghu97jpARim41fz3lhJfxoT1CEBuA7rU/EPcGoTu0R7wkJgDda7GJkFYZ3aPvOQDICEU3ewWIE9Bd2iMgJgDdbMk2wuZit4H2AwHobu8BsSt6sssIi9CTbWEjtPZovgXxasWTUTYSOqMnWwfE6YUezXXCKPRojxKCPRqXSZSY79GUBfF09Gh/JTz0bPoRXvNsxhBqeTYLRQmKZ5Mt+j96tpmi/R7OTtFJDydJ9LWHkyaa4+HEiU57OHtF0z2ctaJlHs4KUbSHM1Nk8/NshoggwLPpSPjDSPzLdLvX99GE/n06VX2mGJxf0/a5Nz9472ZuWKXn+rxBGGMUz+8MzbYANWHB98FOgwq5NycTyHuO9KmraOZjFUUagvft46mgpWlMI+Ox91tuAy03vV9DIzwjgnLyBQ4xgfbZT/INpe7wFND+8GvaTCT8LpvPd0mg78bOimG0mm0DfZcHa/EL4YxkHU2g/8q6xpD/XiroP+I/dX5mEbSUKXAGsEx95DCAemuAZVwHVXiEcEmiRnuA64Ga0uWageuwEjU9CIm+0lw3A9/oJnL5jwbGK+0q/GNE8J4sN4F1wmsy5R8D1pllafg5Id0ux3hQbYv4qHeV5q3srd5se/Pr7aogqYE8xYdBtTnrkyf/1ikX2KLSncHHd6mCbWVpzW0i+FKKR6B2+XU70t+ZsEUFJFaSxXkcVKadvFuMZOc/c9NVQOZ/JDxFsFWWoKONZjvVDDV0/nGBBjtrSzIM6EnjQlDDvId7aJBdQGpGgAve7OqlAjm7MWrs6p1BgghvKXKBfioENS74IY0Es0k4nQCjueVFAdXyyIna15xPgmEy1E0mxfVAHQPWkeAvUoCFAJ2ZzQGqqSrq6hpgo0BbfvlrgZrdCnUtmExKLkPBzyjxoayq2iib66DeHdMo0X7sHgP1gA/q7BpKgYMkn+0E2FmDkeMCELe8jfp3sRLgMre3EykHvFH/jynQhYKdKbCxFJ97QNzdEjnep6TUYjYHiNk+yFAZQdnooOBICmwqw8WxgWD7GXkOJ8BQXrXTCBmtkGXJagL8RCpYR4Gd9Zj8BMTxyLRwLSG5PKtRQLyLTGskENZ7UbBuMgUSbvNYQdhUyAUr20TwkJNPIuEUsu1LgG4kDLNRAIYXMngLiG2R70jCeoXRXyBOCuHjWEv4hoY5NFhXRb/LhFUKo9ppIqjGKIswDhl3ICQX0fBTGsDsQL0uEHog53mE9/g8tYjSQjh5RYqgswpllApInPRMlxAQ73Gwep1wlk9nEJ9E1g8Jo1Sg8okKgNQxlXR4QvgYWSsbRLYgNl8R7vJ6ZhVtUIP4wKYCAC4ObK5oNI5QlRdOEkFDNqtFZj9eeF4EpVRhh0RVALBn1vXgZxpkiZJKmP1M6MvFP1WUhcw/IVRRhxXXaPDS+Mgzh6eEk5NEi5F5ECEqnOlxEF/m1p3QWwMsnKuRnqO5oUkk4U/cahA+1gKx7WZmOeyWSFSfmzNNNFIbLBycwqonu5MS1eGGu0XHNEKseNrKqAu7ERLVYrdJNE0zxJYjLGx6sBspUSC7KNF+HRDLTtzKpBO7YxLVYLdTdFIXRK/W83Zx+J3dQonqcVNSRCN0QkRn48fTkvX6jF20RHe41QLxR/q96KzRLmf01MWrM027yTbRfG7FNlHKbqZxhMHcXiP046H1WVGsi1lVEA9Gpn5W0QxugwjdZBouggBmHxDacsH1ol1OZgcJLWS6SnjMbCUhhM03IviHV16yyOSSqSlhHa86IN6IbK8TvuLVE8ThKLOyVQTVWF0mfMinNCE9j1UWIVcqHEU4wul5OuFXPrhPBA85VQaxtZxcwQRbAKMPQGzyZzSAsKeA0QLCYZRbiRLBChebkETCD8j4mUUEn/LpAcROkuEgAvzFRZkKYltFTnickBbApSiaEOMnm08GIbkukytAPIasqxEgMo/JUSAOQOk/IMDa5ywamQm2JrxwGgEmu1hcAWJckXzPTQTI8mbwThwQjyLzxjYCDOXQ2Urpjwb4hAILCnR7cwcQ42txw68o8LGiW2czEC/6G4GyhAKrAnVqvQuoOcjeN4YCI0p0umIDahU0xNrpFDD9oofXYAtQF3nxw19tFLjQUo+8WUCehAbZgQTWMRU0a7ICyKZnKOM4EiT0dWjWfi+Qz+QbBU4iAZhyCjQp+5UFyOaGKGVJFglgbWcvTSovALqpFRqmayYNIPaHumoc7Y5agG7rhJI+vUgDiHz4TE3ekyxQmVAJDdR7oQoAWP95h7reLwn69/7RWFB9E6UtvVkFgPX8J91rOF9Qyr026GAyqDX/gobqfULVS3dHZ26PBy1tN1DikEg1L03bvSHTlAxaJvyCBuv/tSaap/ZEqQNXaaG9qRIarpJjYbPtX5Tcex6fM63QiIM3MZkaiPLnxjP5LB+NuWCYjUFcTwWNsNVCDheroHE326+XeZwdDVK5G6lXen9/NPRuC/VIHt0CDdTx10U9YgYUoeE3HROj0YXHvmiwyi8zk7SxHu7kh27R2fCzsxYV8QcHVkRD9rvzZZQa0+TccuhO8xr1HPLFzIP754ePetwlwIlG/l/r6+NnTzm48OTscf1+beFCHQEA) center/contain no-repeat}@media (max-width:1024px){selector .ak-dp-foto{position:relative;left:auto;width:100%;max-height:420px;overflow:hidden;order:-1}selector .ak-dp-foto img{max-width:560px;margin:0 auto}}",
+        "css_classes": "ak-dp-hero",
+        "jet_parallax_layout_list": []
+      },
+      "elements": [
+        {
+          "id": "1aa53ee5",
+          "settings": {
+            "image": {
+              "id": 93358,
+              "url": "https://grupogoberna.com/wp-content/uploads/2026/10/logo-goberna-1.webp",
+              "alt": "",
+              "source": "library",
+              "size": ""
+            },
+            "align": "left",
+            "image_size": "full",
+            "width": {
+              "unit": "px",
+              "size": 158,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "image",
+          "elType": "widget"
+        },
+        {
+          "id": "777bb89c",
+          "settings": {
+            "title": "DIANA",
+            "header_size": "h1",
+            "title_color": "#D6A752",
+            "typography_typography": "custom",
+            "typography_font_family": "Montserrat",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 55,
+              "sizes": []
+            },
+            "typography_font_weight": "800",
+            "typography_line_height": {
+              "unit": "px",
+              "size": 53,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 40,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "7cb82c1c",
+          "settings": {
+            "title": "PEREIRA",
+            "header_size": "h1",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_family": "Montserrat",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 74,
+              "sizes": []
+            },
+            "typography_font_weight": "800",
+            "typography_line_height": {
+              "unit": "px",
+              "size": 71,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 54,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "462a663b",
+          "settings": {
+            "editor": "<p>Profesional en Gobierno y Relaciones Internacionales, con experiencia en seguridad y liderazgo estratégico.</p>",
+            "text_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+              "unit": "px",
+              "size": 41,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 17,
+              "sizes": []
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "px",
+              "size": 700,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "ee4055c",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_wrap": "nowrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap": {
+              "column": "0",
+              "row": "18",
+              "isLinked": false,
+              "unit": "px"
+            },
+            "flex_align_items": "flex-start",
+            "flex_justify_content": "center",
+            "width": {
+              "unit": "px",
+              "size": 700,
+              "sizes": []
+            },
+            "padding": {
+              "unit": "px",
+              "top": "34",
+              "right": "14",
+              "bottom": "26",
+              "left": "14",
+              "isLinked": false
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "18",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "css_classes": "ak-dp-esp",
+            "jet_parallax_layout_list": []
+          },
+          "elements": [
+            {
+              "id": "1bf5172f",
+              "settings": {
+                "title": "Especialidades",
+                "header_size": "div",
+                "title_color": "#D6A752",
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "_css_classes": "ak-dp-esp-t"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "61427490",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "title_text": "Gobierno",
+                "description_text": "",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 8,
+                  "sizes": []
+                },
+                "image_width": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "title_color": "#FFFFFF",
+                "content_vertical_alignment": "middle",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Open Sans",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "400",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "text_align": "center",
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "_border_border": "solid",
+                "_border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_border_color": "rgba(255,255,255,0.25)",
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "6",
+                  "bottom": "0",
+                  "left": "6",
+                  "isLinked": false
+                },
+                "_css_classes": "ak-dp-ico-1"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-box",
+              "elType": "widget"
+            },
+            {
+              "id": "2a58060e",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "title_text": "Asuntos<br>Internacionales",
+                "description_text": "",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 8,
+                  "sizes": []
+                },
+                "image_width": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "title_color": "#FFFFFF",
+                "content_vertical_alignment": "middle",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Open Sans",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "400",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "text_align": "center",
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "_border_border": "solid",
+                "_border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "_border_color": "rgba(255,255,255,0.25)",
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "6",
+                  "bottom": "0",
+                  "left": "6",
+                  "isLinked": false
+                },
+                "_css_classes": "ak-dp-ico-2"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-box",
+              "elType": "widget"
+            },
+            {
+              "id": "4e7a04b6",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "title_text": "Defensa y<br>Seguridad",
+                "description_text": "",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 8,
+                  "sizes": []
+                },
+                "image_width": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "title_color": "#FFFFFF",
+                "content_vertical_alignment": "middle",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Open Sans",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "400",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "text_align": "center",
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "_border_border": "solid",
+                "_border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "_border_color": "rgba(255,255,255,0.25)",
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "6",
+                  "bottom": "0",
+                  "left": "6",
+                  "isLinked": false
+                },
+                "_css_classes": "ak-dp-ico-3"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-box",
+              "elType": "widget"
+            },
+            {
+              "id": "784493bb",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "title_text": "Liderazgo y<br>Gestión de Crisis",
+                "description_text": "",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 8,
+                  "sizes": []
+                },
+                "image_width": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "title_color": "#FFFFFF",
+                "content_vertical_alignment": "middle",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Open Sans",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "400",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "text_align": "center",
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "_border_border": "solid",
+                "_border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "_border_color": "rgba(255,255,255,0.25)",
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "6",
+                  "bottom": "0",
+                  "left": "6",
+                  "isLinked": false
+                },
+                "_css_classes": "ak-dp-ico-4"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-box",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "17128592",
+          "settings": {
+            "image": {
+              "id": 93356,
+              "url": "https://grupogoberna.com/wp-content/uploads/2026/10/diana-pereira.webp",
+              "alt": "",
+              "source": "library",
+              "size": ""
+            },
+            "align": "left",
+            "image_size": "full",
+            "_css_classes": "ak-dp-foto"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "image",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "58403dec",
+      "settings": {
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#F3F6FB",
+        "jet_parallax_layout_list": [],
+        "css_classes": "ak-dp-fondo",
+        "flex_direction": "column",
+        "flex_align_items": "center",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "16",
+          "bottom": "0",
+          "left": "16",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "7defa323",
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_tablet": "column",
+            "flex_gap": {
+              "column": "72",
+              "row": "24",
+              "isLinked": false,
+              "unit": "px"
+            },
+            "flex_align_items": "flex-start",
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "border_radius": {
+              "unit": "px",
+              "top": "20",
+              "right": "20",
+              "bottom": "20",
+              "left": "20",
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 3,
+              "blur": 16,
+              "spread": 0,
+              "color": "rgba(6,8,26,0.16)"
+            },
+            "padding": {
+              "unit": "px",
+              "top": "46",
+              "right": "69",
+              "bottom": "40",
+              "left": "69",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "26",
+              "right": "20",
+              "bottom": "26",
+              "left": "20",
+              "isLinked": false
+            },
+            "margin": {
+              "unit": "px",
+              "top": "64",
+              "right": "0",
+              "bottom": "64",
+              "left": "0",
+              "isLinked": false
+            },
+            "jet_parallax_layout_list": [],
+            "css_classes": "ak-dp-card",
+            "content_width": "full",
+            "width": {
+              "unit": "px",
+              "size": 1300,
+              "sizes": []
+            },
+            "width_laptop": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "width_tablet": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "custom_css": "selector{max-width:100%}"
+          },
+          "elements": [
+            {
+              "id": "63fb6000",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "width": {
+                  "unit": "%",
+                  "size": 72,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "jet_parallax_layout_list": []
+              },
+              "elements": [
+                {
+                  "id": "10c4917c",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "column": "16",
+                      "row": "16",
+                      "isLinked": true,
+                      "unit": "px"
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "26",
+                      "right": "0",
+                      "bottom": "28",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "1",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "border_color": "#D9DDE6",
+                    "jet_parallax_layout_list": [],
+                    "css_classes": "ak-dp-sec"
+                  },
+                  "elements": [
+                    {
+                      "id": "6efac446",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                          "column": "8",
+                          "row": "8",
+                          "isLinked": true,
+                          "unit": "px"
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "jet_parallax_layout_list": []
+                      },
+                      "elements": [
+                        {
+                          "id": "637f2cd",
+                          "settings": {
+                            "image": {
+                              "id": 93367,
+                              "url": "https://grupogoberna.com/wp-content/uploads/2026/10/resumen-ejecutivo.svg",
+                              "alt": "",
+                              "source": "library",
+                              "size": ""
+                            },
+                            "align": "left",
+                            "image_size": "full",
+                            "width": {
+                              "unit": "px",
+                              "size": 30,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "image",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "6c457f0d",
+                          "settings": {
+                            "title": "RESUMEN EJECUTIVO",
+                            "title_color": "#D6A752",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Montserrat",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 22,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "heading",
+                          "elType": "widget"
+                        }
+                      ],
+                      "isInner": true,
+                      "elType": "container"
+                    },
+                    {
+                      "id": "58d148f4",
+                      "settings": {
+                        "editor": "<p><strong>Profesional en Gobierno y Relaciones Internacionales</strong>, con formación en la Escuela de Asuntos Internacionales y Públicos de la Universidad de Columbia y <strong>quince años de experiencia en el sector público colombiano</strong>. Su trayectoria comprende la gestión de crisis y el liderazgo de equipos en entornos complejos. Ha sido <strong>directora de Estudios Estratégicos del Ministerio de Defensa Nacional</strong> y <strong>asesora de la Dirección para la Ejecución de Gobierno y Áreas Estratégicas</strong> de la Presidencia de la República de Colombia. Ha participado en publicaciones del Departamento Nacional de Planeación sobre seguridad y consolidación de la paz. Es <strong>creadora de la metodología Brújula de Mando Estratégico</strong>, orientada al fortalecimiento del liderazgo corporativo e inspirada en principios de las Fuerzas Especiales.</p>",
+                        "text_color": "#030A22",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Open Sans",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "px",
+                          "size": 29,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "5874e736",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "column": "16",
+                      "row": "16",
+                      "isLinked": true,
+                      "unit": "px"
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "26",
+                      "right": "0",
+                      "bottom": "28",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "1",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "border_color": "#D9DDE6",
+                    "jet_parallax_layout_list": [],
+                    "css_classes": "ak-dp-sec"
+                  },
+                  "elements": [
+                    {
+                      "id": "156a0343",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                          "column": "8",
+                          "row": "8",
+                          "isLinked": true,
+                          "unit": "px"
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "jet_parallax_layout_list": []
+                      },
+                      "elements": [
+                        {
+                          "id": "2db7c2ce",
+                          "settings": {
+                            "image": {
+                              "id": 93362,
+                              "url": "https://grupogoberna.com/wp-content/uploads/2026/10/cargos-trayectoria.svg",
+                              "alt": "",
+                              "source": "library",
+                              "size": ""
+                            },
+                            "align": "left",
+                            "image_size": "full",
+                            "width": {
+                              "unit": "px",
+                              "size": 30,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "image",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "30077853",
+                          "settings": {
+                            "title": "CARGOS PRINCIPALES Y TRAYECTORIA",
+                            "title_color": "#D6A752",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Montserrat",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 22,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "heading",
+                          "elType": "widget"
+                        }
+                      ],
+                      "isInner": true,
+                      "elType": "container"
+                    },
+                    {
+                      "id": "5148241e",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "Directora de Estudios Estratégicos – Ministerio de Defensa Nacional de Colombia.",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "8d116ec"
+                          },
+                          {
+                            "text": "Asesora de la Dirección para la Ejecución de Gobierno y Áreas Estratégicas – Presidencia de la República de Colombia.",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "6cad4a2"
+                          },
+                          {
+                            "text": "Creadora de la metodología Brújula de Mando Estratégico.",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "0f21ddb"
+                          }
+                        ],
+                        "space_between": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "icon_color": "#D6A752",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "text_color": "#030A22",
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Open Sans",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "px",
+                          "size": 24,
+                          "sizes": []
+                        },
+                        "icon_typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "_css_classes": "ak-dp-lista"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-list",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "66ca25e9",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "column": "16",
+                      "row": "16",
+                      "isLinked": true,
+                      "unit": "px"
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "26",
+                      "right": "0",
+                      "bottom": "28",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "1",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "border_color": "#D9DDE6",
+                    "jet_parallax_layout_list": [],
+                    "css_classes": "ak-dp-sec"
+                  },
+                  "elements": [
+                    {
+                      "id": "3e2a9ee0",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                          "column": "8",
+                          "row": "8",
+                          "isLinked": true,
+                          "unit": "px"
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "jet_parallax_layout_list": []
+                      },
+                      "elements": [
+                        {
+                          "id": "24ce6164",
+                          "settings": {
+                            "image": {
+                              "id": 93364,
+                              "url": "https://grupogoberna.com/wp-content/uploads/2026/10/formacion-academica.svg",
+                              "alt": "",
+                              "source": "library",
+                              "size": ""
+                            },
+                            "align": "left",
+                            "image_size": "full",
+                            "width": {
+                              "unit": "px",
+                              "size": 30,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "image",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "c8b18c8",
+                          "settings": {
+                            "title": "FORMACIÓN ACADÉMICA",
+                            "title_color": "#D6A752",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Montserrat",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 22,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "heading",
+                          "elType": "widget"
+                        }
+                      ],
+                      "isInner": true,
+                      "elType": "container"
+                    },
+                    {
+                      "id": "692b05",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "Estudios en la Escuela de Asuntos Internacionales y Públicos de la Universidad de Columbia (2010–2012).",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "90c192c"
+                          },
+                          {
+                            "text": "Diplomado en Gestión de Proyectos con énfasis en el Project Management Institute (PMI) – Universidad EAFIT (2022).",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "1fb17c2"
+                          },
+                          {
+                            "text": "Programa de Liderazgo de Alto Desempeño – Blum.",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "f28c105"
+                          }
+                        ],
+                        "space_between": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "icon_color": "#D6A752",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "text_color": "#030A22",
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Open Sans",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "px",
+                          "size": 24,
+                          "sizes": []
+                        },
+                        "icon_typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "_css_classes": "ak-dp-lista"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-list",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "7211cbba",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "column": "16",
+                      "row": "16",
+                      "isLinked": true,
+                      "unit": "px"
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "26",
+                      "right": "0",
+                      "bottom": "28",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "1",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "border_color": "#D9DDE6",
+                    "jet_parallax_layout_list": [],
+                    "css_classes": "ak-dp-sec"
+                  },
+                  "elements": [
+                    {
+                      "id": "3b907169",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                          "column": "8",
+                          "row": "8",
+                          "isLinked": true,
+                          "unit": "px"
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "jet_parallax_layout_list": []
+                      },
+                      "elements": [
+                        {
+                          "id": "2c7b173c",
+                          "settings": {
+                            "image": {
+                              "id": 93370,
+                              "url": "https://grupogoberna.com/wp-content/uploads/2026/10/aportes-destacados.svg",
+                              "alt": "",
+                              "source": "library",
+                              "size": ""
+                            },
+                            "align": "left",
+                            "image_size": "full",
+                            "width": {
+                              "unit": "px",
+                              "size": 30,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "image",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "778f6397",
+                          "settings": {
+                            "title": "APORTES DESTACADOS",
+                            "title_color": "#D6A752",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Montserrat",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 22,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "heading",
+                          "elType": "widget"
+                        }
+                      ],
+                      "isInner": true,
+                      "elType": "container"
+                    },
+                    {
+                      "id": "620a7458",
+                      "settings": {
+                        "icon_list": [
+                          {
+                            "text": "Desarrolló Brújula de Mando Estratégico, metodología para fortalecer el liderazgo corporativo y el funcionamiento de los equipos.",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "a170b33"
+                          },
+                          {
+                            "text": "Registra en su perfil la publicación \"Defense and Security Spending 1998–2013: Evolution and reflections on its sustainability\", vinculada al Boletín de Seguimiento a la Consolidación de la Paz del Departamento Nacional de Planeación.",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "a09f76b"
+                          },
+                          {
+                            "text": "Fue entrevistada como experta para una investigación sobre reincidencia en el hurto de dispositivos móviles en Bogotá, publicada en la revista Logos, Ciencia & Tecnología.",
+                            "selected_icon": {
+                              "value": "",
+                              "library": ""
+                            },
+                            "_id": "953f48f"
+                          }
+                        ],
+                        "space_between": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "icon_color": "#D6A752",
+                        "icon_size": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "text_indent": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "text_color": "#030A22",
+                        "icon_typography_typography": "custom",
+                        "icon_typography_font_family": "Open Sans",
+                        "icon_typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "icon_typography_font_weight": "400",
+                        "icon_typography_line_height": {
+                          "unit": "px",
+                          "size": 24,
+                          "sizes": []
+                        },
+                        "icon_typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "_css_classes": "ak-dp-lista"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-list",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "4a2183f8",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "width": {
+                  "unit": "px",
+                  "size": 300,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_gap": {
+                  "column": "33",
+                  "row": "33",
+                  "isLinked": true,
+                  "unit": "px"
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "border_color": "#D6A752",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "40",
+                  "isLinked": false
+                },
+                "padding_tablet": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "margin": {
+                  "unit": "px",
+                  "top": "34",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "sticky": "top",
+                "sticky_on": [
+                  "desktop",
+                  "laptop"
+                ],
+                "sticky_offset": 24,
+                "sticky_parent": "yes",
+                "jet_parallax_layout_list": [],
+                "css_classes": "ak-dp-side"
+              },
+              "elements": [
+                {
+                  "id": "2552cf12",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    },
+                    "jet_parallax_layout_list": [],
+                    "css_classes": "ak-dp-stat"
+                  },
+                  "elements": [
+                    {
+                      "id": "130a96f",
+                      "settings": {
+                        "title": "15 años",
+                        "header_size": "h3",
+                        "title_color": "#030A22",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Montserrat",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 32,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "800",
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 28,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "7a5d46e8",
+                      "settings": {
+                        "editor": "<p>Experiencia en el sector público</p>",
+                        "text_color": "#030A22",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Open Sans",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "5c4c0470",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    },
+                    "jet_parallax_layout_list": [],
+                    "css_classes": "ak-dp-stat"
+                  },
+                  "elements": [
+                    {
+                      "id": "3c28bbe8",
+                      "settings": {
+                        "title": "3",
+                        "header_size": "h3",
+                        "title_color": "#030A22",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Montserrat",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 32,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "800",
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 28,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "364d20d",
+                      "settings": {
+                        "editor": "<p>Cargos principales</p>",
+                        "text_color": "#030A22",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Open Sans",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "4042603c",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    },
+                    "jet_parallax_layout_list": [],
+                    "css_classes": "ak-dp-stat"
+                  },
+                  "elements": [
+                    {
+                      "id": "e2c62d0",
+                      "settings": {
+                        "title": "2010-2012",
+                        "header_size": "h3",
+                        "title_color": "#030A22",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Montserrat",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 32,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "800",
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 28,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "4d7487a2",
+                      "settings": {
+                        "editor": "<p>Columbia University</p>",
+                        "text_color": "#030A22",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Open Sans",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "7141a768",
+      "settings": {
+        "flex_direction": "column",
+        "flex_align_items": "center",
+        "background_background": "classic",
+        "background_color": "#1F1F1F",
+        "background_image": {
+          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/footer.jpg",
+          "id": 55,
+          "size": "",
+          "alt": "",
+          "source": "library"
+        },
+        "background_position": "center right",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "0",
+          "bottom": "20",
+          "left": "0",
+          "isLinked": false
+        },
+        "jet_parallax_layout_list": [],
+        "__globals__": {
+          "background_color": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "6691bc71",
+          "settings": {
+            "content_width": "full",
+            "jet_parallax_layout_list": [],
+            "e_display_conditions": [
+              "[[{\"condition\":\"page_title\",\"comparator\":\"is_not\",\"titles\":[{\"id\":69009,\"text\":\"Consultoría\"}]}]]"
+            ],
+            "width_tablet": {
+              "unit": "%",
+              "size": "",
+              "sizes": []
+            },
+            "width_mobile": {
+              "unit": "%",
+              "size": "",
+              "sizes": []
+            },
+            "margin": {
+              "unit": "px",
+              "top": "030",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "51001263",
+              "settings": {
+                "title": "Suscríbete a nuestro Newsletter",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": []
+                },
+                "typography_font_weight": "900",
+                "title_color": "rgba(255,255,255,0.9)",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "5",
+                  "isLinked": false
+                },
+                "_element_width": "auto",
+                "_element_vertical_align": "center",
+                "jet_tricks_widget_satellite_image": {
+                  "id": 42,
+                  "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-10.png"
+                },
+                "align_mobile": "center"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "3853bd10",
+              "settings": {
+                "form_name": "newsletter",
+                "form_fields": [
+                  {
+                    "custom_id": "nombres",
+                    "field_label": "Nombre",
+                    "placeholder": "Nombre",
+                    "width": "33",
+                    "dynamic": {
+                      "active": true
+                    },
+                    "_id": "ea1bfd9",
+                    "required": "true"
+                  },
+                  {
+                    "custom_id": "correo",
+                    "field_type": "email",
+                    "required": "true",
+                    "field_label": "Correo electrónico",
+                    "placeholder": "Correo electrónico",
+                    "width": "33",
+                    "_id": "cf9648d"
+                  },
+                  {
+                    "custom_id": "pais",
+                    "field_type": "select",
+                    "required": "true",
+                    "field_label": "Pais",
+                    "placeholder": "Correo electrónico",
+                    "width": "33",
+                    "field_options": "Argentina\nBolivia\nBrasil\nChile\nColombia\nCosta Rica\nCuba\nEcuador\nEl Salvador\nEspaña\nEstados Unidos\nGuatemala\nHonduras\nMéxico\nNicaragua\nPanamá\nParaguay\nPerú\nPuerto Rico\nRepública Dominicana\nUruguay\nVenezuela\nAlemania\nCanadá\nFrancia\nItalia\nReino Unido\nOtros",
+                    "_id": "183cbc0"
+                  },
+                  {
+                    "custom_id": "Aceptacion",
+                    "field_type": "acceptance",
+                    "required": "true",
+                    "field_label": "Aceptacion",
+                    "placeholder": "Correo electrónico",
+                    "acceptance_text": "Autorizo al Grupo Goberna el uso de mis datos para suscribirme al newsletter y recibir noticias, eventos y novedades, según la Ley N.° 29733.",
+                    "field_options": "Argentina\nBolivia\nBrasil\nChile\nColombia\nCosta Rica\nCuba\nEcuador\nEl Salvador\nEspaña\nEstados Unidos\nGuatemala\nHonduras\nMéxico\nNicaragua\nPanamá\nParaguay\nPerú\nPuerto Rico\nRepública Dominicana\nUruguay\nVenezuela\nAlemania\nCanadá\nFrancia\nItalia\nReino Unido\nOtros",
+                    "_id": "8516be5"
+                  }
+                ],
+                "show_labels": "",
+                "step_next_label": "Siguiente",
+                "step_previous_label": "Anterior",
+                "button_text": "Enviar",
+                "email_content": "[all-fields]",
+                "email_content_2": "[all-fields]",
+                "success_message": "Usted se ha registrado a nuestro Newsletter.",
+                "error_message": "Tu envío ha fallado debido a un error.",
+                "server_message": "Tu envío ha fallado debido a un error del servidor.",
+                "invalid_message": "Tu envío ha fallado porque el formulario no es válido.",
+                "required_field_message": "Este campo es obligatorio.",
+                "__globals__": {
+                  "button_background_color": "globals/colors?id=primary",
+                  "button_text_color": "globals/colors?id=accent",
+                  "button_background_hover_color": "globals/colors?id=accent",
+                  "success_message_color": "globals/colors?id=primary",
+                  "label_color": "globals/colors?id=2f4386a"
+                },
+                "submit_actions": [
+                  "save-to-database"
+                ],
+                "custom_messages": "yes",
+                "button_css_id": "boton-newsletter",
+                "label_typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "button_align": "center",
+                "button_content_align": "center",
+                "button_text_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "100",
+                  "bottom": "0",
+                  "left": "100",
+                  "isLinked": false
+                },
+                "_element_width": "inherit",
+                "_flex_align_self": "center",
+                "custom_css": "/* 1. CENTRAR EL BOTÓN CON TU ID EXACTO */\r\n#boton-newsletter {\r\n    margin: 0 auto !important;\r\n    display: block !important;\r\n}\r\n\r\n/* Si por alguna razón el contenedor del botón sigue rebelde, esto lo remata: */\r\n.elementor-field-type-submit {\r\n    text-align: center !important;\r\n}\r\n\r\n/* 2. ACHICAR Y CENTRAR EL TEXTO DE ACEPTACIÓN */\r\n.elementor-field-type-acceptance {\r\n    text-align: center !important;\r\n}\r\n\r\n.elementor-field-type-acceptance .elementor-field-subgroup {\r\n    display: flex;\r\n    justify-content: center;\r\n    align-items: flex-start;\r\n}\r\n\r\n.elementor-field-type-acceptance label {\r\n    font-size: 11px !important; /* Letra chiquita estilo legales */\r\n    line-height: 1.3 !important;\r\n    color: #cccccc !important; /* Un gris clarito para que no compita con el título */\r\n}"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "form",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "3bcf22b2",
+          "settings": {
+            "content_width": "full",
+            "container_type": "grid",
+            "width": {
+              "unit": "px",
+              "size": 1300,
+              "sizes": []
+            },
+            "grid_columns_grid": {
+              "unit": "fr",
+              "size": 6,
+              "sizes": []
+            },
+            "grid_rows_grid": {
+              "unit": "fr",
+              "size": 1,
+              "sizes": []
+            },
+            "grid_gaps": {
+              "column": "7",
+              "row": "7",
+              "isLinked": true,
+              "unit": "px"
+            },
+            "jet_sticky_section_min_height": {
+              "unit": "px",
+              "size": "",
+              "sizes": []
+            },
+            "jet_sticky_section_min_height_tablet": {
+              "unit": "px",
+              "size": "",
+              "sizes": []
+            },
+            "jet_sticky_section_min_height_mobile": {
+              "unit": "px",
+              "size": "",
+              "sizes": []
+            },
+            "jet_parallax_layout_list": [],
+            "presetTitle": "Grid",
+            "presetIcon": "eicon-container-grid"
+          },
+          "elements": [
+            {
+              "id": "2368bcb4",
+              "settings": {
+                "_column_size": 20,
+                "width": {
+                  "size": null,
+                  "unit": "%"
+                },
+                "width_tablet": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "flex_justify_content": "flex-start",
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "margin_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "width_mobile": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "content_width": "full",
+                "flex_direction": "column",
+                "jet_parallax_layout_list": [],
+                "min_height_tablet": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "flex_justify_content_tablet": "flex-start"
+              },
+              "elements": [
+                {
+                  "id": "5d317d6b",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_justify_content": "flex-start",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "jet_parallax_layout_list": []
+                  },
+                  "elements": [
+                    {
+                      "id": "716a4d7f",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": 40,
+                            "url": "https://grupogoberna.com/wp-content/uploads/2022/08/iconobanderaeeuu3_Mesa-de-trabajo-1.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "size": {
+                          "unit": "px",
+                          "size": 30,
+                          "sizes": []
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "__globals__": {
+                          "primary_color": ""
+                        },
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 41,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-9.png"
+                        },
+                        "content_width": "full",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "-8",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "26e50038",
+                      "settings": {
+                        "title": "Estados Unidos",
+                        "title_color": "rgba(255,255,255,0.9)",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "5",
+                          "isLinked": false
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 42,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-10.png"
+                        },
+                        "content_width": "full"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "5ffbb407",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "(+1) 786 4141971",
+                        "selected_icon": {
+                          "value": "fas fa-mobile-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "942e522",
+                        "__dynamic__": []
+                      },
+                      {
+                        "text": "informes@goberna.us",
+                        "selected_icon": {
+                          "value": "far fa-paper-plane",
+                          "library": "fa-regular"
+                        },
+                        "_id": "b469897",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"6b3d62d\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22email%22%2C%22mail_to%22%3A%22iformes%40goberna.us%22%2C%22mail_subject%22%3A%22%5BWEB%20GOBERNA%5D%20%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "goberna.us",
+                        "selected_icon": {
+                          "value": "fas fa-globe",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "goberna.us",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "1472a45"
+                      },
+                      {
+                        "text": "1900 N Bayshore Dr Suite 1A #136-2023 Miami, Florida, 33132 United States",
+                        "selected_icon": {
+                          "value": "fas fa-map-marker-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "705d9a5"
+                      }
+                    ],
+                    "space_between": {
+                      "unit": "px",
+                      "size": 7,
+                      "sizes": []
+                    },
+                    "text_color": "rgba(255,255,255,0.64)",
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "icon_typography_font_weight": "400",
+                    "icon_typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "view": "",
+                    "jet_tricks_widget_satellite_image": {
+                      "id": 43,
+                      "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-11.png"
+                    },
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "__globals__": {
+                      "icon_color": "globals/colors?id=c24f312"
+                    },
+                    "content_width": "full",
+                    "_padding_mobile": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "20",
+                      "isLinked": false
+                    },
+                    "_element_custom_width_tablet": {
+                      "unit": "px",
+                      "size": 271.969
+                    },
+                    "_flex_size": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-list",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "6c1b090b",
+              "settings": {
+                "_column_size": 20,
+                "width": {
+                  "size": null,
+                  "unit": "%"
+                },
+                "width_tablet": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "flex_justify_content": "flex-start",
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "width_mobile": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "margin_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "content_width": "full",
+                "flex_direction": "column",
+                "jet_parallax_layout_list": []
+              },
+              "elements": [
+                {
+                  "id": "285bf5fe",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_justify_content": "flex-start",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "jet_sticky_section_min_height": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_tablet": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_mobile": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_parallax_layout_list": []
+                  },
+                  "elements": [
+                    {
+                      "id": "7a999e65",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "url": "https://grupogoberna.com/wp-content/uploads/2022/08/Recurso-1100.svg",
+                            "id": 3253
+                          },
+                          "library": "svg"
+                        },
+                        "size": {
+                          "unit": "px",
+                          "size": 30,
+                          "sizes": []
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "__globals__": {
+                          "primary_color": ""
+                        },
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 41,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-9.png"
+                        },
+                        "content_width": "full",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "-8",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "2dc23dc2",
+                      "settings": {
+                        "title": "México",
+                        "title_color": "rgba(255,255,255,0.9)",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "5",
+                          "isLinked": false
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 50,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-16.png"
+                        },
+                        "content_width": "full"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "5ef3007f",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "(+52) 156 1058 4485",
+                        "selected_icon": {
+                          "value": "fas fa-mobile-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "942e522",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"954b4ee\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22whatsapp%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "mexico@grupogoberna.com",
+                        "selected_icon": {
+                          "value": "far fa-paper-plane",
+                          "library": "fa-regular"
+                        },
+                        "_id": "f792423",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"d640290\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22email%22%2C%22mail_to%22%3A%22informes%40goberna.pe%22%2C%22mail_subject%22%3A%22%5BWEB%20GOBERNA%5D%20%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "grupogoberna.com",
+                        "selected_icon": {
+                          "value": "fas fa-globe",
+                          "library": "fa-solid"
+                        },
+                        "__dynamic__": [],
+                        "link": {
+                          "url": "grupogoberna.com",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "6633869"
+                      },
+                      {
+                        "text": " Río Tiber 100 col. Cuauhtémoc Piso 6 - Ciudad de México",
+                        "selected_icon": {
+                          "value": "fas fa-map-marker-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "b469897"
+                      }
+                    ],
+                    "space_between": {
+                      "unit": "px",
+                      "size": 7,
+                      "sizes": []
+                    },
+                    "text_color": "rgba(255,255,255,0.64)",
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "icon_typography_font_weight": "400",
+                    "icon_typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "jet_tricks_widget_satellite_image": {
+                      "id": 43,
+                      "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-11.png"
+                    },
+                    "view": "",
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "__globals__": {
+                      "icon_color": "globals/colors?id=c24f312"
+                    },
+                    "content_width": "full",
+                    "_padding_mobile": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "20",
+                      "isLinked": false
+                    },
+                    "_element_custom_width_tablet": {
+                      "unit": "px",
+                      "size": 271.969
+                    },
+                    "_flex_size": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-list",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "50b7b7c7",
+              "settings": {
+                "_column_size": 20,
+                "width": {
+                  "size": null,
+                  "unit": "%"
+                },
+                "width_tablet": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "flex_justify_content": "flex-start",
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "width_mobile": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "margin_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "flex_direction": "column",
+                "jet_parallax_layout_list": [],
+                "content_width": "full"
+              },
+              "elements": [
+                {
+                  "id": "67c6507f",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_justify_content": "flex-start",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "jet_sticky_section_min_height": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_tablet": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_mobile": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_parallax_layout_list": []
+                  },
+                  "elements": [
+                    {
+                      "id": "2a945c83",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": 44,
+                            "url": "https://grupogoberna.com/wp-content/uploads/2022/08/iconobanderaperu_Mesa-de-trabajo-1.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "size": {
+                          "unit": "px",
+                          "size": 30,
+                          "sizes": []
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "__globals__": {
+                          "primary_color": ""
+                        },
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 41,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-9.png"
+                        },
+                        "content_width": "full",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "-8",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "6ff9c4ea",
+                      "settings": {
+                        "title": "Perú",
+                        "title_color": "rgba(255,255,255,0.9)",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "5",
+                          "isLinked": false
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 46,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-13.png"
+                        },
+                        "content_width": "full"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "faec828",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "(+51) 944 531 711",
+                        "selected_icon": {
+                          "value": "fas fa-mobile-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "942e522",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"aaba33d\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22whatsapp%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "informes@goberna.pe",
+                        "selected_icon": {
+                          "value": "far fa-paper-plane",
+                          "library": "fa-regular"
+                        },
+                        "_id": "f792423",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"d640290\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22email%22%2C%22mail_to%22%3A%22informes%40goberna.pe%22%2C%22mail_subject%22%3A%22%5BWEB%20GOBERNA%5D%20%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "grupogoberna.com",
+                        "selected_icon": {
+                          "value": "fas fa-globe",
+                          "library": "fa-solid"
+                        },
+                        "__dynamic__": [],
+                        "link": {
+                          "url": "goberna.pe",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "4a8aae7"
+                      },
+                      {
+                        "text": "Avenida Manuel Olguín 335 - of 608, Surco, Lima",
+                        "selected_icon": {
+                          "value": "fas fa-map-marker-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "b469897"
+                      }
+                    ],
+                    "space_between": {
+                      "unit": "px",
+                      "size": 7,
+                      "sizes": []
+                    },
+                    "text_color": "rgba(255,255,255,0.64)",
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "icon_typography_font_weight": "400",
+                    "icon_typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "jet_tricks_widget_satellite_image": {
+                      "id": 43,
+                      "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-11.png"
+                    },
+                    "view": "",
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "__globals__": {
+                      "icon_color": "globals/colors?id=c24f312"
+                    },
+                    "content_width": "full",
+                    "_padding_mobile": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "20",
+                      "isLinked": false
+                    },
+                    "_element_custom_width_tablet": {
+                      "unit": "px",
+                      "size": 271.969
+                    },
+                    "_flex_size": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-list",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "72d15944",
+              "settings": {
+                "_column_size": 20,
+                "width": {
+                  "size": null,
+                  "unit": "%"
+                },
+                "width_tablet": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "flex_justify_content": "flex-start",
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "width_mobile": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "margin_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "content_width": "full",
+                "flex_direction": "column",
+                "jet_parallax_layout_list": []
+              },
+              "elements": [
+                {
+                  "id": "75edd71d",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_justify_content": "flex-start",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "jet_sticky_section_min_height": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_tablet": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_mobile": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_parallax_layout_list": []
+                  },
+                  "elements": [
+                    {
+                      "id": "3146f8b2",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": 48,
+                            "url": "https://grupogoberna.com/wp-content/uploads/2022/08/iconobanderaecuador_Mesa-de-trabajo-1.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "size": {
+                          "unit": "px",
+                          "size": 30,
+                          "sizes": []
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "__globals__": {
+                          "primary_color": ""
+                        },
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 41,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-9.png"
+                        },
+                        "content_width": "full",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "-8",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "29368cec",
+                      "settings": {
+                        "title": "Ecuador",
+                        "title_color": "rgba(255,255,255,0.9)",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "5",
+                          "isLinked": false
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 50,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-16.png"
+                        },
+                        "content_width": "full"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "16cc33a7",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "(+593) 99 207 3457",
+                        "selected_icon": {
+                          "value": "fas fa-mobile-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "e683165",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"66f81ac\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22whatsapp%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "infoecuador@goberna.pe",
+                        "selected_icon": {
+                          "value": "far fa-paper-plane",
+                          "library": "fa-regular"
+                        },
+                        "_id": "f792423",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"d640290\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22email%22%2C%22mail_to%22%3A%22informes%40goberna.pe%22%2C%22mail_subject%22%3A%22%5BWEB%20GOBERNA%5D%20%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "grupogoberna.com",
+                        "selected_icon": {
+                          "value": "fas fa-globe",
+                          "library": "fa-solid"
+                        },
+                        "__dynamic__": [],
+                        "link": {
+                          "url": "goberna.pe",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "c1ed0cf"
+                      },
+                      {
+                        "_id": "86f16a4",
+                        "text": "Edificio The Point, Of. 2307, Ciudad del Río, Puerto Santa Ana - Guayaquil",
+                        "selected_icon": {
+                          "value": "fas fa-map-marker-alt",
+                          "library": "fa-solid"
+                        }
+                      }
+                    ],
+                    "space_between": {
+                      "unit": "px",
+                      "size": 7,
+                      "sizes": []
+                    },
+                    "text_color": "rgba(255,255,255,0.64)",
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "icon_typography_font_weight": "400",
+                    "icon_typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "jet_tricks_widget_satellite_image": {
+                      "id": 43,
+                      "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-11.png"
+                    },
+                    "view": "",
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "__globals__": {
+                      "icon_color": "globals/colors?id=c24f312"
+                    },
+                    "content_width": "full",
+                    "_padding_mobile": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "20",
+                      "isLinked": false
+                    },
+                    "_element_custom_width_tablet": {
+                      "unit": "px",
+                      "size": 271.969
+                    },
+                    "_flex_size": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-list",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "3c6c2918",
+              "settings": {
+                "_column_size": 20,
+                "width": {
+                  "size": null,
+                  "unit": "%"
+                },
+                "width_tablet": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "flex_justify_content": "flex-start",
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "width_mobile": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "margin_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "content_width": "full",
+                "flex_direction": "column",
+                "jet_parallax_layout_list": []
+              },
+              "elements": [
+                {
+                  "id": "2f02a5e3",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_justify_content": "flex-start",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "jet_sticky_section_min_height": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_tablet": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_mobile": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_parallax_layout_list": []
+                  },
+                  "elements": [
+                    {
+                      "id": "7b688a",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "url": "https://grupogoberna.com/wp-content/uploads/2022/08/ban-bolivia-05.svg",
+                            "id": 55499
+                          },
+                          "library": "svg"
+                        },
+                        "size": {
+                          "unit": "px",
+                          "size": 30,
+                          "sizes": []
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "__globals__": {
+                          "primary_color": ""
+                        },
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 41,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-9.png"
+                        },
+                        "content_width": "full",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "-8",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "4e29f611",
+                      "settings": {
+                        "title": "Bolivia",
+                        "title_color": "rgba(255,255,255,0.9)",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "5",
+                          "isLinked": false
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 50,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-16.png"
+                        },
+                        "content_width": "full"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "fcbe2d1",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "(+591) <span class=\"selectable-text copyable-text\" style=\"color: var(--link);\">78814740</span>",
+                        "selected_icon": {
+                          "value": "fas fa-mobile-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "942e522",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"22d8ee1\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22whatsapp%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "bolivia@grupogoberna.com",
+                        "selected_icon": {
+                          "value": "far fa-paper-plane",
+                          "library": "fa-regular"
+                        },
+                        "_id": "f792423",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"d640290\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22email%22%2C%22mail_to%22%3A%22informes%40goberna.pe%22%2C%22mail_subject%22%3A%22%5BWEB%20GOBERNA%5D%20%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "grupogoberna.com",
+                        "selected_icon": {
+                          "value": "fas fa-globe",
+                          "library": "fa-solid"
+                        },
+                        "__dynamic__": [],
+                        "link": {
+                          "url": "grupogoberna.com",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "6633869"
+                      },
+                      {
+                        "text": "Av. Beni Edificio Top Center, Piso 7 Of. 7C - Santa Cruz",
+                        "selected_icon": {
+                          "value": "fas fa-map-marker-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "b469897",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"aeb7661\" name=\"contact-url\" settings=\"%7B%7D\"]"
+                        }
+                      }
+                    ],
+                    "space_between": {
+                      "unit": "px",
+                      "size": 7,
+                      "sizes": []
+                    },
+                    "text_color": "rgba(255,255,255,0.64)",
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "icon_typography_font_weight": "400",
+                    "icon_typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "jet_tricks_widget_satellite_image": {
+                      "id": 43,
+                      "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-11.png"
+                    },
+                    "view": "",
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "__globals__": {
+                      "icon_color": "globals/colors?id=c24f312"
+                    },
+                    "content_width": "full",
+                    "_padding_mobile": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "20",
+                      "isLinked": false
+                    },
+                    "_element_custom_width_tablet": {
+                      "unit": "px",
+                      "size": 271.969
+                    },
+                    "_flex_size": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-list",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "30342182",
+              "settings": {
+                "_column_size": 20,
+                "width": {
+                  "size": null,
+                  "unit": "%"
+                },
+                "width_tablet": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "flex_justify_content": "flex-start",
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "width_mobile": {
+                  "size": 100,
+                  "unit": "%"
+                },
+                "margin_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "content_width": "full",
+                "flex_direction": "column",
+                "jet_parallax_layout_list": []
+              },
+              "elements": [
+                {
+                  "id": "2c81f1a9",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_justify_content": "flex-start",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "jet_sticky_section_min_height": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_tablet": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_sticky_section_min_height_mobile": {
+                      "unit": "px",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "jet_parallax_layout_list": []
+                  },
+                  "elements": [
+                    {
+                      "id": "fa9b0a9",
+                      "settings": {
+                        "image": {
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/bandera-brasil.png",
+                          "id": 56571,
+                          "size": "",
+                          "alt": "",
+                          "source": "library"
+                        },
+                        "align": "left",
+                        "width": {
+                          "unit": "px",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "px",
+                          "size": "",
+                          "sizes": []
+                        },
+                        "width_mobile": {
+                          "unit": "px",
+                          "size": "",
+                          "sizes": []
+                        },
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "5",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "_element_width": "auto",
+                        "content_width": "full"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "image",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "1f83fd8c",
+                      "settings": {
+                        "title": "Brasil",
+                        "title_color": "rgba(255,255,255,0.9)",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "5",
+                          "isLinked": false
+                        },
+                        "_element_width": "auto",
+                        "_element_vertical_align": "center",
+                        "jet_tricks_widget_satellite_image": {
+                          "id": 50,
+                          "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-16.png"
+                        },
+                        "content_width": "full"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "5de2c32",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "+55 21 98126-9882",
+                        "selected_icon": {
+                          "value": "fas fa-mobile-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "942e522",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"ffea737\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22whatsapp%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "brasil@grupogoberna.com",
+                        "selected_icon": {
+                          "value": "far fa-paper-plane",
+                          "library": "fa-regular"
+                        },
+                        "_id": "f792423",
+                        "__dynamic__": {
+                          "link": "[elementor-tag id=\"d640290\" name=\"contact-url\" settings=\"%7B%22link_type%22%3A%22email%22%2C%22mail_to%22%3A%22informes%40goberna.pe%22%2C%22mail_subject%22%3A%22%5BWEB%20GOBERNA%5D%20%22%7D\"]"
+                        }
+                      },
+                      {
+                        "text": "grupogoberna.com",
+                        "selected_icon": {
+                          "value": "fas fa-globe",
+                          "library": "fa-solid"
+                        },
+                        "__dynamic__": [],
+                        "link": {
+                          "url": "grupogoberna.com",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "6633869"
+                      },
+                      {
+                        "text": "Praia de Botafogo, 360 - 520 c - Botafogo, Rio de Janeiro",
+                        "selected_icon": {
+                          "value": "fas fa-map-marker-alt",
+                          "library": "fa-solid"
+                        },
+                        "_id": "b469897"
+                      }
+                    ],
+                    "space_between": {
+                      "unit": "px",
+                      "size": 7,
+                      "sizes": []
+                    },
+                    "text_color": "rgba(255,255,255,0.64)",
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "icon_typography_font_weight": "400",
+                    "icon_typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "jet_tricks_widget_satellite_image": {
+                      "id": 43,
+                      "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-11.png"
+                    },
+                    "view": "",
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6,
+                      "sizes": []
+                    },
+                    "__globals__": {
+                      "icon_color": "globals/colors?id=c24f312"
+                    },
+                    "content_width": "full",
+                    "_padding_mobile": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "20",
+                      "isLinked": false
+                    },
+                    "_element_custom_width_tablet": {
+                      "unit": "px",
+                      "size": 271.969
+                    },
+                    "_flex_size": "none"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-list",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "e38697c",
+          "settings": {
+            "_column_size": 100,
+            "width": {
+              "size": 1300,
+              "unit": "px"
+            },
+            "content_width": "full",
+            "jet_parallax_layout_list": []
+          },
+          "elements": [
+            {
+              "id": "7dbddde0",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "d3caaa5",
+                    "text": "Libro de Reclamaciones",
+                    "selected_icon": {
+                      "value": "far fa-address-book",
+                      "library": "fa-regular"
+                    },
+                    "link": {
+                      "url": "https://grupogoberna.com/libro-de-reclamaciones/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    }
+                  },
+                  {
+                    "text": "Política de Privacidad",
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    },
+                    "_id": "ddb1d32",
+                    "__dynamic__": {
+                      "link": "[elementor-tag id=\"755692e\" name=\"internal-url\" settings=\"%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%223%22%7D\"]"
+                    }
+                  },
+                  {
+                    "text": "Términos y condiciones",
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    },
+                    "_id": "b55a8f3",
+                    "__dynamic__": {
+                      "link": "[elementor-tag id=\"54b0e27\" name=\"internal-url\" settings=\"%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%222934%22%7D\"]"
+                    }
+                  }
+                ],
+                "space_between": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "icon_size": {
+                  "unit": "px",
+                  "size": 8,
+                  "sizes": []
+                },
+                "text_color": "#C9C9C9",
+                "text_indent": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "icon_typography_typography": "custom",
+                "icon_typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "icon_typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "icon_typography_font_weight": "400",
+                "view": "inline",
+                "icon_align": "right",
+                "icon_align_mobile": "center",
+                "divider": "yes",
+                "text_color_hover": "#CDC764",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "jet_tricks_widget_satellite_image": {
+                  "id": 52,
+                  "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-18.png"
+                },
+                "icon_typography_line_height": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "content_width": "full"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "icon-list",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "7bd3854b",
+      "settings": {
+        "min_height": {
+          "unit": "px",
+          "size": 50
+        },
+        "content_position": "middle",
+        "structure": "20",
+        "background_background": "classic",
+        "background_color": "#000000",
+        "border_width": {
+          "unit": "px",
+          "top": "1",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "border_color": "rgba(255,255,255,0.19)",
+        "padding_tablet": {
+          "unit": "px",
+          "top": "10",
+          "right": "20",
+          "bottom": "10",
+          "left": "20",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "20",
+          "right": "0",
+          "bottom": "10",
+          "left": "0",
+          "isLinked": false
+        },
+        "html_tag": "footer",
+        "_timestamp_": "v1a3NiZzJJZ3RhTEVnQ0diRUlsSTl0dz09",
+        "jet_parallax_layout_list": [],
+        "flex_direction": "row",
+        "flex_align_items": "stretch",
+        "flex_gap": {
+          "size": 10,
+          "column": "10",
+          "row": "10",
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "a72001e",
+          "settings": {
+            "_column_size": 50,
+            "width": {
+              "size": null,
+              "unit": "%"
+            },
+            "margin_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "align": "center",
+            "content_width": "full",
+            "jet_parallax_layout_list": []
+          },
+          "elements": [
+            {
+              "id": "1d5cad2a",
+              "settings": {
+                "title": "Pagado por \"Grupo Goberna\" © Todos los derechos reservados<br>México | Perú | Ecuador | Bolivia | Colombia | República Dominicana | Chile | Panamá | Costa Rica | Guatemala | Honduras | El Salvador | Uruguay",
+                "header_size": "p",
+                "title_color": "#adadad",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13
+                },
+                "typography_font_weight": "300",
+                "align": "left",
+                "align_mobile": "center",
+                "typography_font_family": "Pontano Sans",
+                "jet_tricks_widget_satellite_image": {
+                  "id": 53,
+                  "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-19.png"
+                },
+                "content_width": "full"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "790730bd",
+          "settings": {
+            "_column_size": 50,
+            "width": {
+              "size": null,
+              "unit": "%"
+            },
+            "content_width": "full",
+            "jet_parallax_layout_list": []
+          },
+          "elements": [
+            {
+              "id": "20f72f6b",
+              "settings": {
+                "social_icon_list": [
+                  {
+                    "social": "fa fa-facebook",
+                    "_id": "dbddc88",
+                    "link": {
+                      "url": "https://www.facebook.com/gobernacorp/",
+                      "is_external": "true",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "social_icon": {
+                      "value": "fab fa-facebook-f",
+                      "library": "fa-brands"
+                    },
+                    "__fa4_migrated": {
+                      "social_icon": true
+                    }
+                  },
+                  {
+                    "social": "fa fa-facebook",
+                    "link": {
+                      "url": "https://twitter.com/GobernaConsult",
+                      "is_external": "true",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "social_icon": {
+                      "value": "fab fa-twitter",
+                      "library": "fa-brands"
+                    },
+                    "__fa4_migrated": {
+                      "social_icon": true
+                    },
+                    "_id": "3ee73c9"
+                  },
+                  {
+                    "social": "fa fa-medium",
+                    "link": {
+                      "url": "https://www.instagram.com/gobernacorp",
+                      "is_external": "true",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "_id": "92c0998",
+                    "social_icon": {
+                      "value": "fab fa-instagram",
+                      "library": "fa-brands"
+                    },
+                    "__fa4_migrated": {
+                      "social_icon": true
+                    }
+                  },
+                  {
+                    "social": "fa fa-pinterest",
+                    "link": {
+                      "url": "https://www.linkedin.com/company/goberna-analytics",
+                      "is_external": "true",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "_id": "d2d5c50",
+                    "social_icon": {
+                      "value": "fab fa-linkedin",
+                      "library": "fa-brands"
+                    },
+                    "__fa4_migrated": {
+                      "social_icon": true
+                    }
+                  },
+                  {
+                    "social": "fa fa-youtube",
+                    "_id": "dbaeb71",
+                    "link": {
+                      "url": "https://www.youtube.com/GobernaSAC",
+                      "is_external": "true",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "social_icon": {
+                      "value": "fab fa-youtube",
+                      "library": "fa-brands"
+                    },
+                    "__fa4_migrated": {
+                      "social_icon": true
+                    }
+                  },
+                  {
+                    "_id": "cac46a6",
+                    "social_icon": {
+                      "value": "fab fa-vimeo",
+                      "library": "fa-brands"
+                    },
+                    "link": {
+                      "url": "https://vimeo.com/goberna",
+                      "is_external": "true",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    }
+                  },
+                  {
+                    "social_icon": {
+                      "value": "fab fa-telegram-plane",
+                      "library": "fa-brands"
+                    },
+                    "link": {
+                      "url": "t.me/GobernaCorp",
+                      "is_external": "true",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "_id": "758254e"
+                  }
+                ],
+                "icon_color": "custom",
+                "icon_primary_color": "rgba(255,255,255,0)",
+                "icon_secondary_color": "#ffffff",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "icon_padding": {
+                  "unit": "em",
+                  "size": 0.6
+                },
+                "icon_spacing": {
+                  "unit": "px",
+                  "size": 9
+                },
+                "align": "right",
+                "align_mobile": "center",
+                "icon_size_tablet": {
+                  "unit": "px",
+                  "size": 10
+                },
+                "shape": "circle",
+                "icon_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "jet_tricks_widget_satellite_image": {
+                  "id": 54,
+                  "url": "https://grupogoberna.com/wp-content/uploads/2022/08/placeholder-20.png"
+                },
+                "content_width": "full",
+                "__globals__": {
+                  "hover_secondary_color": "globals/colors?id=primary"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "social-icons",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "cv-ponentes",
+  "type": "page"
+}

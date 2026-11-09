@@ -1,0 +1,447 @@
+{
+ "figma": {
+  "desktop": "487:2",
+  "mobile": "492:2"
+ },
+ "desktop": {
+  "alto_total": 3230.14,
+  "titular_lineas": 3,
+  "barra_top": 536.0,
+  "esp_fila": [
+   42.54,
+   116.92
+  ],
+  "esp_iconos_d": [
+   {
+    "nodo": "489:2",
+    "nombre": "Contenedor Ícono Metodología de Inteligencia",
+    "ancho": 36.92,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "489:3",
+    "nombre": "Contenedor Ícono Inteligencia Estratégica",
+    "ancho": 37.82,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "489:4",
+    "nombre": "Contenedor Ícono Seguridad Nacional",
+    "ancho": 31.66,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "489:5",
+    "nombre": "Contenedor Ícono Ciberinteligencia",
+    "ancho": 33.1,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   }
+  ],
+  "esp_lineas_d": [
+   2,
+   2,
+   2,
+   1
+  ],
+  "esp_item_alto": 116.92,
+  "foto_capa_d": [
+   {
+    "nodo": "496:4",
+    "nombre": "Cocho 1",
+    "x": 1720.0,
+    "y": 101.0,
+    "w": 738.0,
+    "h": 749.0
+   }
+  ],
+  "tarjeta_alto": 2220.14,
+  "linea_dorada": [
+   81.0,
+   313.0
+  ],
+  "cifras_d": [
+   {
+    "top": 0.0,
+    "alto": 65.0,
+    "big_h": 45.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 279.0
+   },
+   {
+    "top": 104.0,
+    "alto": 87.0,
+    "big_h": 46.0,
+    "small_top": 43.0,
+    "small_h": 44.0,
+    "small_w": 382.0
+   },
+   {
+    "top": 230.0,
+    "alto": 68.0,
+    "big_h": 45.0,
+    "small_top": 40.0,
+    "small_h": 28.0,
+    "small_w": 152.0
+   }
+  ],
+  "cifras_frame": [
+   1052.0,
+   88.0,
+   372.0,
+   298.0
+  ],
+  "secciones_d": {
+   "res": {
+    "top": 54.0,
+    "x": 80.0,
+    "alto": 394.03,
+    "cuerpo_top": 88.03,
+    "cuerpo_x": 62.0,
+    "cuerpo_alto": 306.0,
+    "titulo_nodo": "487:148"
+   },
+   "car": {
+    "top": 498.03,
+    "x": 81.0,
+    "alto": 564.7,
+    "cuerpo_top": 88.7,
+    "cuerpo_x": 61.0,
+    "cuerpo_alto": 476.0,
+    "titulo_nodo": "487:105",
+    "estilo": "items",
+    "n": 8,
+    "item_tops": [
+     0.0,
+     76.0,
+     124.0,
+     172.0,
+     220.0,
+     268.0,
+     344.0,
+     420.0
+    ],
+    "item_altos": [
+     56.0,
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     56.0,
+     56.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "for": {
+    "top": 1112.74,
+    "x": 84.0,
+    "alto": 509.2,
+    "cuerpo_top": 89.2,
+    "cuerpo_x": 58.0,
+    "cuerpo_alto": 420.0,
+    "titulo_nodo": "487:142",
+    "estilo": "items",
+    "n": 8,
+    "item_tops": [
+     0.0,
+     48.0,
+     96.0,
+     144.0,
+     192.0,
+     240.0,
+     288.0,
+     336.0
+    ],
+    "item_altos": [
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     28.0,
+     84.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "apo": {
+    "top": 1671.94,
+    "x": 81.0,
+    "alto": 494.2,
+    "cuerpo_top": 86.2,
+    "cuerpo_x": 61.5,
+    "cuerpo_alto": 380.0,
+    "titulo_nodo": "487:184",
+    "estilo": "items",
+    "n": 6,
+    "item_tops": [
+     0.0,
+     48.0,
+     124.0,
+     200.0,
+     276.0,
+     324.0
+    ],
+    "item_altos": [
+     28.0,
+     56.0,
+     56.0,
+     56.0,
+     28.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   }
+  },
+  "divisores_d": [
+   473.03,
+   1087.74,
+   1646.94
+  ]
+ },
+ "movil": {
+  "alto_total": 5064.0,
+  "portada_alto": 931.0,
+  "titular_lineas": 3,
+  "titular_top": 181.0,
+  "nombre": [
+   198.0,
+   72.0
+  ],
+  "barra": [
+   24.0,
+   298.0,
+   382.0,
+   181.0
+  ],
+  "esp_iconos_m": [
+   {
+    "nodo": "492:162",
+    "x": 108.81,
+    "y": 329.0,
+    "w": 22.39,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "492:165",
+    "x": 304.53,
+    "y": 329.0,
+    "w": 22.94,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "492:168",
+    "x": 110.4,
+    "y": 406.5,
+    "w": 19.2,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "492:171",
+    "x": 305.96,
+    "y": 406.5,
+    "w": 20.07,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   }
+  ],
+  "esp_textos_m": [
+   {
+    "x": 76.5,
+    "y": 357.0,
+    "w": 87.0,
+    "lineas": 2
+   },
+   {
+    "x": 283.5,
+    "y": 357.0,
+    "w": 65.0,
+    "lineas": 2
+   },
+   {
+    "x": 91.5,
+    "y": 435.0,
+    "w": 57.0,
+    "lineas": 2
+   },
+   {
+    "x": 269.0,
+    "y": 435.0,
+    "w": 94.0,
+    "lineas": 1
+   }
+  ],
+  "foto_capa_m": [
+   {
+    "nodo": "496:14",
+    "nombre": "Cocho 1",
+    "x": 411.0,
+    "y": 542.0,
+    "w": 391.0,
+    "h": 390.0
+   }
+  ],
+  "tarjeta": [
+   951.0,
+   4093.0
+  ],
+  "interior": [
+   20.0,
+   51.0,
+   3991.0
+  ],
+  "resumen_m": {
+   "top": 0.0,
+   "alto": 1146.0,
+   "texto": [
+    66.0,
+    748.0
+   ],
+   "datos": [
+    20.0,
+    854.0,
+    312.0,
+    292.0
+   ],
+   "dato": [
+    {
+     "top": 0.0,
+     "alto": 69.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 22.0
+    },
+    {
+     "top": 97.0,
+     "alto": 92.0,
+     "big_h": 46.0,
+     "small_top": 48.0,
+     "small_h": 44.0
+    },
+    {
+     "top": 217.0,
+     "alto": 75.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 28.0
+    }
+   ]
+  },
+  "secciones_m": {
+   "car": {
+    "top": 1246.0,
+    "alto": 835.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 707.0,
+    "estilo": "items",
+    "n": 8,
+    "item_tops": [
+     0.0,
+     101.0,
+     174.0,
+     247.0,
+     320.0,
+     393.0,
+     522.0,
+     623.0
+    ],
+    "item_altos": [
+     84.0,
+     56.0,
+     56.0,
+     56.0,
+     56.0,
+     112.0,
+     84.0,
+     84.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "for": {
+    "top": 2181.0,
+    "alto": 749.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 98.0,
+    "lista_alto": 651.0,
+    "estilo": "items",
+    "n": 8,
+    "item_tops": [
+     0.0,
+     101.0,
+     174.0,
+     219.0,
+     264.0,
+     337.0,
+     410.0,
+     483.0
+    ],
+    "item_altos": [
+     84.0,
+     56.0,
+     28.0,
+     28.0,
+     56.0,
+     56.0,
+     56.0,
+     168.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "apo": {
+    "top": 3030.0,
+    "alto": 961.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 833.0,
+    "estilo": "items",
+    "n": 6,
+    "item_tops": [
+     0.0,
+     85.0,
+     238.0,
+     357.0,
+     544.0,
+     663.0
+    ],
+    "item_altos": [
+     68.0,
+     136.0,
+     102.0,
+     170.0,
+     102.0,
+     170.0
+    ],
+    "gap": [
+     17.0
+    ]
+   }
+  },
+  "divisores_m": [
+   1196.0,
+   2131.0,
+   2980.0
+  ]
+ }
+}

@@ -1,0 +1,389 @@
+{
+ "figma": {
+  "desktop": "283:2",
+  "mobile": "317:1046"
+ },
+ "desktop": {
+  "alto_total": 2736.14,
+  "titular_lineas": 2,
+  "barra_top": 536.0,
+  "esp_fila": [
+   54.54,
+   92.92
+  ],
+  "esp_iconos_d": [
+   {
+    "nodo": "283:29",
+    "nombre": "noun-security-8354638",
+    "ancho": 33.1,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "283:34",
+    "nombre": "noun_Pin_3698121",
+    "ancho": 28.79,
+    "contenedor_alto": 36.52,
+    "alto": 36.52
+   },
+   {
+    "nodo": "283:41",
+    "nombre": "noun_global_2559364",
+    "ancho": 37.82,
+    "contenedor_alto": 37.82,
+    "alto": 37.82
+   },
+   {
+    "nodo": "283:46",
+    "nombre": "noun_process_2021778",
+    "ancho": 36.92,
+    "contenedor_alto": 36.92,
+    "alto": 36.92
+   }
+  ],
+  "esp_lineas_d": [
+   1,
+   1,
+   1,
+   2
+  ],
+  "esp_item_alto": 92.92,
+  "foto_capa_d": [
+   {
+    "nodo": "277:8",
+    "nombre": "EduardoDeLaTorre 1",
+    "x": 1720.0,
+    "y": 101.0,
+    "w": 783.0,
+    "h": 749.0
+   }
+  ],
+  "tarjeta_alto": 1726.14,
+  "linea_dorada": [
+   81.0,
+   291.0
+  ],
+  "cifras_d": [
+   {
+    "top": 0.0,
+    "alto": 65.0,
+    "big_h": 45.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 361.0
+   },
+   {
+    "top": 104.0,
+    "alto": 65.0,
+    "big_h": 46.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 277.0
+   },
+   {
+    "top": 208.0,
+    "alto": 68.0,
+    "big_h": 45.0,
+    "small_top": 40.0,
+    "small_h": 28.0,
+    "small_w": 347.0
+   }
+  ],
+  "cifras_frame": [
+   1052.0,
+   88.0,
+   372.0,
+   276.0
+  ],
+  "secciones_d": {
+   "res": {
+    "top": 54.0,
+    "x": 80.0,
+    "alto": 428.03,
+    "cuerpo_top": 88.03,
+    "cuerpo_x": 62.0,
+    "cuerpo_alto": 340.0,
+    "titulo_nodo": "283:100"
+   },
+   "car": {
+    "top": 532.03,
+    "x": 81.0,
+    "alto": 368.7,
+    "cuerpo_top": 88.7,
+    "cuerpo_x": 61.0,
+    "cuerpo_alto": 280.0,
+    "titulo_nodo": "283:85",
+    "estilo": "texto+marcas",
+    "n": 4,
+    "marca_tops": [
+     8.0,
+     64.0,
+     120.0,
+     204.0
+    ],
+    "marca_tam": [
+     8.0,
+     8.0
+    ],
+    "texto_alto": 280.0
+   },
+   "for": {
+    "top": 950.74,
+    "x": 84.0,
+    "alto": 313.2,
+    "cuerpo_top": 89.2,
+    "cuerpo_x": 58.0,
+    "cuerpo_alto": 224.0,
+    "titulo_nodo": "283:94",
+    "estilo": "texto+marcas",
+    "n": 3,
+    "marca_tops": [
+     13.0,
+     97.0,
+     181.0
+    ],
+    "marca_tam": [
+     8.0,
+     8.0
+    ],
+    "texto_alto": 224.0
+   },
+   "apo": {
+    "top": 1313.94,
+    "x": 81.0,
+    "alto": 358.2,
+    "cuerpo_top": 86.2,
+    "cuerpo_x": 61.5,
+    "cuerpo_alto": 272.0,
+    "titulo_nodo": "283:111",
+    "estilo": "texto+marcas",
+    "n": 3,
+    "marca_tops": [
+     12.0,
+     114.0,
+     216.0
+    ],
+    "marca_tam": [
+     18.0,
+     18.0
+    ],
+    "texto_alto": 272.0
+   }
+  },
+  "divisores_d": [
+   507.03,
+   925.74,
+   1288.94
+  ]
+ },
+ "movil": {
+  "alto_total": 4106.0,
+  "portada_alto": 931.0,
+  "titular_lineas": 2,
+  "titular_top": 181.0,
+  "nombre": [
+   316.0,
+   72.0
+  ],
+  "barra": [
+   24.0,
+   298.0,
+   382.0,
+   181.0
+  ],
+  "esp_iconos_m": [
+   {
+    "nodo": "317:1158",
+    "x": 109.11,
+    "y": 329.32,
+    "w": 20.84,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "317:1160",
+    "x": 307.1,
+    "y": 329.32,
+    "w": 18.13,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "317:1164",
+    "x": 108.54,
+    "y": 406.54,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "317:1166",
+    "x": 304.25,
+    "y": 407.0,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   }
+  ],
+  "esp_textos_m": [
+   {
+    "x": 76.53,
+    "y": 357.0,
+    "w": 86.0,
+    "lineas": 1
+   },
+   {
+    "x": 278.66,
+    "y": 357.0,
+    "w": 75.0,
+    "lineas": 1
+   },
+   {
+    "x": 73.04,
+    "y": 434.98,
+    "w": 94.0,
+    "lineas": 1
+   },
+   {
+    "x": 270.25,
+    "y": 434.9,
+    "w": 91.0,
+    "lineas": 2
+   }
+  ],
+  "foto_capa_m": [
+   {
+    "nodo": "317:1058",
+    "nombre": "ChatGPT Image 23 jun 2026, 01_46_57 p.m 6",
+    "x": 12.0,
+    "y": 542.0,
+    "w": 406.0,
+    "h": 389.0
+   }
+  ],
+  "tarjeta": [
+   951.0,
+   3135.0
+  ],
+  "interior": [
+   20.0,
+   51.0,
+   3033.0
+  ],
+  "resumen_m": {
+   "top": 0.0,
+   "alto": 1174.0,
+   "texto": [
+    66.0,
+    748.0
+   ],
+   "datos": [
+    20.0,
+    854.0,
+    312.0,
+    320.0
+   ],
+   "dato": [
+    {
+     "top": 0.0,
+     "alto": 91.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 44.0
+    },
+    {
+     "top": 119.0,
+     "alto": 70.0,
+     "big_h": 46.0,
+     "small_top": 48.0,
+     "small_h": 22.0
+    },
+    {
+     "top": 217.0,
+     "alto": 103.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 56.0
+    }
+   ]
+  },
+  "secciones_m": {
+   "car": {
+    "top": 1274.0,
+    "alto": 599.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 471.0,
+    "estilo": "items",
+    "n": 4,
+    "item_tops": [
+     0.0,
+     73.0,
+     146.0,
+     275.0
+    ],
+    "item_altos": [
+     56.0,
+     56.0,
+     112.0,
+     196.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "for": {
+    "top": 1973.0,
+    "alto": 384.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 98.0,
+    "lista_alto": 286.0,
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     101.0,
+     202.0
+    ],
+    "item_altos": [
+     84.0,
+     84.0,
+     84.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "apo": {
+    "top": 2457.0,
+    "alto": 576.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 448.0,
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     156.0,
+     312.0
+    ],
+    "item_altos": [
+     136.0,
+     136.0,
+     136.0
+    ],
+    "gap": [
+     20.0
+    ]
+   }
+  },
+  "divisores_m": [
+   1224.0,
+   1923.0,
+   2407.0
+  ]
+ }
+}

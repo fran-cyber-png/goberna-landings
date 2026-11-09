@@ -1,0 +1,39 @@
+{
+ "nombre_completo": "Mauricio García Ramírez",
+ "nombre": {"d": ["MAURICIO", "GARCÍA"], "m": ["MAURICIO", "GARCÍA"]},
+ "titular": "Maestro en Gestión Pública Aplicada con enfoque en prospectiva estratégica",
+ "especialidades": {
+  "d": ["Gestión<br>Pública", "Prospectiva<br>Estratégica", "Innovación<br>Gubernamental", "Políticas<br>Públicas"],
+  "m": ["Gestión<br>Pública", "Prospectiva<br>Estratégica", "Innovación<br>Gubernamental", "Políticas<br>Públicas"]
+ },
+ "iconos_esp": ["escudo", "pin", "global", "proceso"],
+ "cifras": [
+  {"big": "u-GOB 2020", "small": "Premio Iberoamericano a la Innovación Pública"},
+  {"big": "BID", "small": "Primer lugar en Gestión por Resultados"},
+  {"big": "WFSF", "small": "World Futures Studies Federation"}
+ ],
+ "resumen": [
+  "<b>Mauricio García Ramírez</b> es especialista en gestión pública aplicada, prospectiva estratégica e innovación gubernamental. Cuenta con experiencia en el diseño, evaluación y mejora de políticas públicas, así como en la dirección de instituciones gubernamentales en México.",
+  "Ha ocupado cargos como <b>Secretario de Planeación y Evaluación de la Presidencia Municipal de Pachuca de Soto</b>, Director de Planeación y Prospectiva del Seguro Popular Hidalgo y Director de Planeación y Programación del Instituto Hidalguense de la Infraestructura Física Educativa. Su trayectoria combina gestión pública, pensamiento estratégico, diseño institucional y construcción de escenarios futuros para la toma de decisiones."
+ ],
+ "cargos": [
+  "<b>Director de Planeación y Programación</b> – Instituto Hidalguense de la Infraestructura Física Educativa (2023–2024).",
+  "<b>Secretario de Planeación y Evaluación</b> – Presidencia Municipal de Pachuca de Soto (2020–2023).",
+  "<b>Director de Planeación y Prospectiva</b> – Seguro Popular Hidalgo (2016–2020).",
+  "<b>CEO y Fundador</b> – Consultoría para el Alto Desempeño S.A.S. / <b>Profesor Investigador</b> – Universidad Autónoma del Estado de Hidalgo."
+ ],
+ "formacion": [
+  "<b>Maestro en Gestión Pública Aplicada con enfoque en Prospectiva Estratégica para el Desarrollo Regional</b> – Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM).",
+  "<b>Master on Business Administration</b> – Universidad Complutense de Madrid.",
+  "<b>Licenciatura en Administración Hotelera</b> – Universidad de las Américas-Puebla (UDLAP)."
+ ],
+ "aportes": [
+  "Ganador del Premio Iberoamericano u-GOB 2020 a la Innovación Pública por la propuesta <b>“Tamizaje Cardíaco Neonatal en Hidalgo”</b>.",
+  "Ganador del Primer Lugar del Concurso de Gestión por Resultados del Desarrollo organizado por el Banco Interamericano de Desarrollo (BID) por la Plataforma de evaluación del Seguro Popular Hidalgo.",
+  "Miembro de la World Futures Studies Federation (WFSF), ponente en congresos internacionales de prospectiva y autor colaborador en publicaciones sobre innovación gubernamental y políticas públicas."
+ ],
+ "titulo_aportes": "Aportes Destacados y Publicaciones",
+ "foto": {"archivo": "mauricio-garcia.webp", "d": [895, 101, 825, 749], "m": [0, 542, 430, 389]},
+ "figma": {"fileKey": "VDnG8Ey0gIPBtCqea1kya9", "desktop": "182:4", "laptop": "338:606", "mobile": "316:508",
+           "foto": {"desktop": "194:48", "mobile": "316:520"}, "hoja_gid": "70285859"}
+}

@@ -1,0 +1,407 @@
+{
+ "figma": {
+  "desktop": "450:2",
+  "mobile": "453:2"
+ },
+ "desktop": {
+  "alto_total": 2750.14,
+  "titular_lineas": 1,
+  "barra_top": 536.0,
+  "esp_fila": [
+   42.54,
+   116.92
+  ],
+  "esp_iconos_d": [
+   {
+    "nodo": "513:2",
+    "nombre": "Contenedor Ícono Investigación Criminal",
+    "ancho": 28.79,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "513:3",
+    "nombre": "Contenedor Ícono Inteligencia Digital",
+    "ancho": 37.82,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "513:4",
+    "nombre": "Contenedor Ícono Prevención del Ciberdelito",
+    "ancho": 33.1,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   },
+   {
+    "nodo": "513:5",
+    "nombre": "Contenedor Ícono OSINT y SOCMINT",
+    "ancho": 36.92,
+    "contenedor_alto": 37.93,
+    "alto": 37.93
+   }
+  ],
+  "esp_lineas_d": [
+   2,
+   1,
+   2,
+   1
+  ],
+  "esp_item_alto": 116.92,
+  "foto_capa_d": [
+   {
+    "nodo": "515:28",
+    "nombre": "DanielaGalvan 1",
+    "x": 999.0,
+    "y": 101.0,
+    "w": 721.0,
+    "h": 749.0
+   }
+  ],
+  "tarjeta_alto": 1740.14,
+  "linea_dorada": [
+   81.0,
+   291.0
+  ],
+  "cifras_d": [
+   {
+    "top": 0.0,
+    "alto": 65.0,
+    "big_h": 45.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 352.0
+   },
+   {
+    "top": 104.0,
+    "alto": 65.0,
+    "big_h": 46.0,
+    "small_top": 43.0,
+    "small_h": 22.0,
+    "small_w": 208.0
+   },
+   {
+    "top": 208.0,
+    "alto": 68.0,
+    "big_h": 45.0,
+    "small_top": 40.0,
+    "small_h": 28.0,
+    "small_w": 345.0
+   }
+  ],
+  "cifras_frame": [
+   1052.0,
+   88.0,
+   372.0,
+   276.0
+  ],
+  "secciones_d": {
+   "res": {
+    "top": 54.0,
+    "x": 80.0,
+    "alto": 394.03,
+    "cuerpo_top": 88.03,
+    "cuerpo_x": 62.0,
+    "cuerpo_alto": 306.0,
+    "titulo_nodo": "450:125"
+   },
+   "car": {
+    "top": 498.03,
+    "x": 81.0,
+    "alto": 420.7,
+    "cuerpo_top": 88.7,
+    "cuerpo_x": 61.0,
+    "cuerpo_alto": 332.0,
+    "titulo_nodo": "450:102",
+    "estilo": "items",
+    "n": 5,
+    "item_tops": [
+     0.0,
+     76.0,
+     152.0,
+     200.0,
+     276.0
+    ],
+    "item_altos": [
+     56.0,
+     56.0,
+     28.0,
+     56.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "for": {
+    "top": 968.73,
+    "x": 84.0,
+    "alto": 269.2,
+    "cuerpo_top": 89.2,
+    "cuerpo_x": 58.0,
+    "cuerpo_alto": 180.0,
+    "titulo_nodo": "450:119",
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     48.0,
+     124.0
+    ],
+    "item_altos": [
+     28.0,
+     56.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   },
+   "apo": {
+    "top": 1287.94,
+    "x": 81.0,
+    "alto": 398.2,
+    "cuerpo_top": 86.2,
+    "cuerpo_x": 61.5,
+    "cuerpo_alto": 284.0,
+    "titulo_nodo": "450:153",
+    "estilo": "items",
+    "n": 4,
+    "item_tops": [
+     0.0,
+     76.0,
+     152.0,
+     228.0
+    ],
+    "item_altos": [
+     56.0,
+     56.0,
+     56.0,
+     56.0
+    ],
+    "gap": [
+     20.0
+    ]
+   }
+  },
+  "divisores_d": [
+   473.03,
+   943.73,
+   1262.94
+  ]
+ },
+ "movil": {
+  "alto_total": 4360.0,
+  "portada_alto": 931.0,
+  "titular_lineas": 2,
+  "titular_top": 181.0,
+  "nombre": [
+   195.0,
+   72.0
+  ],
+  "barra": [
+   24.0,
+   298.0,
+   382.0,
+   181.0
+  ],
+  "esp_iconos_m": [
+   {
+    "nodo": "453:131",
+    "x": 110.93,
+    "y": 329.3,
+    "w": 18.13,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "453:135",
+    "x": 304.5,
+    "y": 329.3,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "453:33",
+    "x": 109.58,
+    "y": 406.5,
+    "w": 20.84,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   },
+   {
+    "nodo": "453:35",
+    "x": 304.5,
+    "y": 406.8,
+    "w": 23.0,
+    "contenedor_alto": 23.0,
+    "alto": 23.0
+   }
+  ],
+  "esp_textos_m": [
+   {
+    "x": 83.0,
+    "y": 357.0,
+    "w": 74.0,
+    "lineas": 2
+   },
+   {
+    "x": 265.0,
+    "y": 357.0,
+    "w": 102.0,
+    "lineas": 1
+   },
+   {
+    "x": 79.5,
+    "y": 434.98,
+    "w": 81.0,
+    "lineas": 2
+   },
+   {
+    "x": 267.0,
+    "y": 434.9,
+    "w": 98.0,
+    "lineas": 1
+   }
+  ],
+  "foto_capa_m": [
+   {
+    "nodo": "515:32",
+    "nombre": "DanielaGalvan 1",
+    "x": 28.0,
+    "y": 542.0,
+    "w": 375.0,
+    "h": 389.0
+   }
+  ],
+  "tarjeta": [
+   951.0,
+   3389.0
+  ],
+  "interior": [
+   20.0,
+   51.0,
+   3287.0
+  ],
+  "resumen_m": {
+   "top": 0.0,
+   "alto": 1140.0,
+   "texto": [
+    66.0,
+    714.0
+   ],
+   "datos": [
+    20.0,
+    820.0,
+    312.0,
+    320.0
+   ],
+   "dato": [
+    {
+     "top": 0.0,
+     "alto": 91.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 44.0
+    },
+    {
+     "top": 119.0,
+     "alto": 70.0,
+     "big_h": 46.0,
+     "small_top": 48.0,
+     "small_h": 22.0
+    },
+    {
+     "top": 217.0,
+     "alto": 103.0,
+     "big_h": 45.0,
+     "small_top": 47.0,
+     "small_h": 56.0
+    }
+   ]
+  },
+  "secciones_m": {
+   "car": {
+    "top": 1240.0,
+    "alto": 616.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 488.0,
+    "estilo": "items",
+    "n": 5,
+    "item_tops": [
+     0.0,
+     101.0,
+     202.0,
+     275.0,
+     376.0
+    ],
+    "item_altos": [
+     84.0,
+     84.0,
+     56.0,
+     84.0,
+     112.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "for": {
+    "top": 1956.0,
+    "alto": 440.0,
+    "titulo_alto": 66.0,
+    "titulo_lineas": 2,
+    "lista_top": 98.0,
+    "lista_alto": 342.0,
+    "estilo": "items",
+    "n": 3,
+    "item_tops": [
+     0.0,
+     101.0,
+     230.0
+    ],
+    "item_altos": [
+     84.0,
+     112.0,
+     112.0
+    ],
+    "gap": [
+     17.0
+    ]
+   },
+   "apo": {
+    "top": 2496.0,
+    "alto": 791.0,
+    "titulo_alto": 99.0,
+    "titulo_lineas": 3,
+    "lista_top": 128.0,
+    "lista_alto": 663.0,
+    "estilo": "items",
+    "n": 4,
+    "item_tops": [
+     0.0,
+     187.0,
+     374.0,
+     527.0
+    ],
+    "item_altos": [
+     170.0,
+     170.0,
+     136.0,
+     136.0
+    ],
+    "gap": [
+     17.0
+    ]
+   }
+  },
+  "divisores_m": [
+   1190.0,
+   1906.0,
+   2446.0
+  ]
+ }
+}

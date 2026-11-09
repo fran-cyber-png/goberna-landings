@@ -1,0 +1,980 @@
+{
+ "content": [
+  {
+   "id": "44b1343f",
+   "settings": {
+    "content_width": "full",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "flex_direction": "row",
+    "flex_direction_tablet": "column",
+    "flex_wrap": "nowrap",
+    "flex_align_items": "stretch",
+    "flex_gap": {
+     "unit": "px",
+     "column": "0",
+     "row": "0",
+     "isLinked": true,
+     "size": 0
+    },
+    "min_height": {
+     "unit": "px",
+     "size": 1022,
+     "sizes": []
+    },
+    "min_height_laptop": {
+     "unit": "px",
+     "size": 760,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#EBEFF2",
+    "_element_id": "certificacion",
+    "css_classes": "ak-cert",
+    "custom_css": "selector .ak-cert-in { --width: 100%; width: 100%; max-width: 619px; }\n/* color de acento plano */\nselector .ak-oro-text .elementor-heading-title, selector .ak-cert-title .ak-g { background-image: linear-gradient(#8C1A17, #8C1A17); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }\nselector .ak-card { border-color: transparent !important; background: linear-gradient(#EBEFF2, #EBEFF2) padding-box, linear-gradient(#8C1A17, #8C1A17) border-box !important; }\nselector .ak-cert-btn .elementor-button { border-image: linear-gradient(#8C1A17, #8C1A17) 1 !important; }\nselector .ak-cert-btn .elementor-button-text, selector .ak-cert-btn .elementor-button-icon i { background-image: linear-gradient(#8C1A17, #8C1A17); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }\nselector .ak-cert-btn .elementor-button:hover { background-image: linear-gradient(#8C1A17, #8C1A17) !important; }\nselector .ak-cert-btn .elementor-button:hover .elementor-button-text, selector .ak-cert-btn .elementor-button:hover .elementor-button-icon i { -webkit-text-fill-color: #060606; }\nselector .ak-medal img { display: block; width: 32px; height: auto; }\nselector .ak-cert-title .elementor-heading-title { white-space: nowrap; }\nselector .ak-card { --width: 100%; width: 100%; }\nselector .ak-card-body { --width: auto; width: auto; flex: 1 1 auto; min-width: 0; }\nselector .ak-cert-btn .elementor-button { width: auto; min-width: 340px; height: 68px; display: inline-flex; align-items: center; justify-content: center; gap: 16px; padding: 0 36px; }\nselector .elementor-widget-text-editor p { margin: 0; }\n@media (max-width: 1366px) {\n  selector .ak-cert-btn .elementor-button { min-width: 280px; height: 58px; padding: 0 30px; }\n}\nselector .ak-mb { display: none; }\n@media (max-width: 767px) {\n  selector .ak-mb { display: inline; }\n  selector .ak-dk { display: none; }\n  selector .ak-cert-title .elementor-heading-title { white-space: normal; }\n  selector .ak-cert-btn .elementor-button { min-width: 220px; height: 44px; padding: 0 22px; gap: 12px; }\n}\n/* Pantalla completa (desktop y laptop): la sección mide lo que queda bajo el header fijo y todo el bloque\n   de la derecha se escala en proporción con --u (1 px del diseño original). Mismos espacios y colores, solo más chico si la pantalla es baja. */\n@media (min-width: 1025px) {\n  selector { min-height: calc(100vh - 90px) !important; --u: min(1px, calc((100vh - 90px) / 960)); }\n  /* el panel de la imagen nunca es más ancho que 1.1 veces su alto: así el certificado no se recorta */\n  selector > .ak-cert-img { --width: 55%; width: 55% !important; background-position: 50% 52.5% !important; }\n  selector > .ak-cert-txt { --width: auto; width: auto !important; flex: 1 1 0 !important; align-items: flex-start !important; }\n  selector > .ak-cert-txt { padding: calc(var(--u) * 52) calc(var(--u) * 24) calc(var(--u) * 38) calc(max(50vw - var(--u) * 619, var(--u) * 120) / 4) !important; }\n  selector .ak-cert-in { max-width: calc(var(--u) * 619); }\n  selector .ak-oro-text .elementor-heading-title { font-size: calc(var(--u) * 20) !important; letter-spacing: calc(var(--u) * 2) !important; }\n  selector .ak-cert-title { margin-top: calc(var(--u) * 31) !important; }\n  selector .ak-cert-title .elementor-heading-title { font-size: calc(var(--u) * 50) !important; }\n  selector .ak-cert-p { margin-top: calc(var(--u) * 28) !important; }\n  selector .ak-cert-p, selector .ak-cert-p p { font-size: calc(var(--u) * 20) !important; }\n  selector .ak-card { padding: calc(var(--u) * 30) calc(var(--u) * 24) calc(var(--u) * 30) calc(var(--u) * 24) !important; gap: calc(var(--u) * 18) !important; }\n  selector .ak-cert-in > .ak-card:nth-of-type(1), selector .ak-cert-p + .ak-card { margin-top: calc(var(--u) * 32) !important; }\n  selector .ak-card + .ak-card { margin-top: calc(var(--u) * 21) !important; }\n  selector .ak-medal { padding-top: calc(var(--u) * 4) !important; }\n  selector .ak-medal img { width: calc(var(--u) * 32) !important; }\n  selector .ak-card-body { gap: calc(var(--u) * 6) !important; }\n  selector .ak-card-body .elementor-heading-title { font-size: calc(var(--u) * 20) !important; }\n  selector .ak-card-body .elementor-widget-text-editor, selector .ak-card-body .elementor-widget-text-editor p { font-size: calc(var(--u) * 20) !important; }\n  selector .ak-cert-btn { margin-top: calc(var(--u) * 28) !important; }\n  selector .ak-cert-btn .elementor-button { width: auto !important; min-width: calc(var(--u) * 340) !important; height: calc(var(--u) * 68) !important; padding: 0 calc(var(--u) * 36) !important; gap: calc(var(--u) * 16) !important; font-size: calc(var(--u) * 16) !important; letter-spacing: calc(var(--u) * 1.44) !important; }\n}\n@media (min-width: 1025px) and (max-width: 1366px) {\n  selector { min-height: calc(100vh - 80px) !important; --u: min(1px, calc((100vh - 80px) / 791)); }\n  selector > .ak-cert-img { --width: 55%; width: 55% !important; background-position: 50% 52.5% !important; }\n  selector > .ak-cert-txt { padding: calc(var(--u) * 56) calc(var(--u) * 24) calc(var(--u) * 56) calc(max(50vw - var(--u) * 619, var(--u) * 96) / 4) !important; }\n  selector .ak-cert-in { max-width: calc(var(--u) * 619); }\n  selector .ak-oro-text .elementor-heading-title { font-size: calc(var(--u) * 16) !important; letter-spacing: calc(var(--u) * 1.8) !important; }\n  selector .ak-cert-title { margin-top: calc(var(--u) * 24) !important; }\n  selector .ak-cert-title .elementor-heading-title { font-size: calc(var(--u) * 42) !important; }\n  selector .ak-cert-p { margin-top: calc(var(--u) * 22) !important; }\n  selector .ak-cert-p, selector .ak-cert-p p { font-size: calc(var(--u) * 17) !important; }\n  selector .ak-card { padding: calc(var(--u) * 26) calc(var(--u) * 20) calc(var(--u) * 24) calc(var(--u) * 20) !important; gap: calc(var(--u) * 18) !important; }\n  selector .ak-cert-in > .ak-card:nth-of-type(1), selector .ak-cert-p + .ak-card { margin-top: calc(var(--u) * 26) !important; }\n  selector .ak-card + .ak-card { margin-top: calc(var(--u) * 18) !important; }\n  selector .ak-medal { padding-top: calc(var(--u) * 4) !important; }\n  selector .ak-medal img { width: calc(var(--u) * 32) !important; }\n  selector .ak-card-body { gap: calc(var(--u) * 6) !important; }\n  selector .ak-card-body .elementor-heading-title { font-size: calc(var(--u) * 17) !important; }\n  selector .ak-card-body .elementor-widget-text-editor, selector .ak-card-body .elementor-widget-text-editor p { font-size: calc(var(--u) * 17) !important; }\n  selector .ak-cert-btn { margin-top: calc(var(--u) * 22) !important; }\n  selector .ak-cert-btn .elementor-button { width: auto !important; min-width: calc(var(--u) * 280) !important; height: calc(var(--u) * 58) !important; padding: 0 calc(var(--u) * 30) !important; gap: calc(var(--u) * 14) !important; font-size: calc(var(--u) * 14) !important; letter-spacing: calc(var(--u) * 1.44) !important; }\n}\nselector .ak-cert-btn .elementor-button-text { white-space: nowrap; }",
+    "jet_parallax_layout_list": []
+   },
+   "elements": [
+    {
+     "id": "775bbd7a",
+     "settings": {
+      "content_width": "full",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "width": {
+       "unit": "%",
+       "size": 55,
+       "sizes": []
+      },
+      "width_laptop": {
+       "unit": "%",
+       "size": 55,
+       "sizes": []
+      },
+      "width_tablet": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "width_mobile": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "_flex_size": "none",
+      "min_height_tablet": {
+       "unit": "px",
+       "size": 420,
+       "sizes": []
+      },
+      "min_height_mobile": {
+       "unit": "px",
+       "size": 440,
+       "sizes": []
+      },
+      "background_background": "classic",
+      "background_color": "#0B1220",
+      "background_image": {
+       "id": 93333,
+       "url": "https://grupogoberna.com/wp-content/uploads/2026/10/Gemini_Generated_Image_t3fw25t3fw25t3fw-1.webp",
+       "alt": "",
+       "source": "library",
+       "size": ""
+      },
+      "background_position": "initial",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "css_classes": "ak-cert-img",
+      "jet_parallax_layout_list": [],
+      "background_xpos": {
+       "unit": "%",
+       "size": 50,
+       "sizes": []
+      },
+      "background_ypos": {
+       "unit": "%",
+       "size": 52.5,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "2a2282ff",
+     "settings": {
+      "content_width": "full",
+      "padding": {
+       "unit": "px",
+       "top": "52",
+       "right": "24",
+       "bottom": "38",
+       "left": "33",
+       "isLinked": false
+      },
+      "width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "width_laptop": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "width_tablet": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "width_mobile": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "_flex_size": "none",
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "flex_align_items": "flex-start",
+      "padding_laptop": {
+       "unit": "px",
+       "top": "56",
+       "right": "24",
+       "bottom": "56",
+       "left": "24",
+       "isLinked": false
+      },
+      "padding_tablet": {
+       "unit": "px",
+       "top": "56",
+       "right": "32",
+       "bottom": "56",
+       "left": "32",
+       "isLinked": false
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "44",
+       "right": "24",
+       "bottom": "48",
+       "left": "24",
+       "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#EBEFF2",
+      "css_classes": "ak-cert-txt",
+      "jet_parallax_layout_list": [],
+      "flex_align_items_tablet": "center"
+     },
+     "elements": [
+      {
+       "id": "108883f5",
+       "settings": {
+        "content_width": "full",
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "flex_direction": "column",
+        "flex_align_items": "flex-start",
+        "flex_gap": {
+         "unit": "px",
+         "column": "0",
+         "row": "0",
+         "isLinked": true,
+         "size": 0
+        },
+        "css_classes": "ak-cert-in",
+        "jet_parallax_layout_list": [],
+        "margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "37168914",
+         "settings": {
+          "title": "Certificación",
+          "header_size": "p",
+          "title_color": "#8C1A17",
+          "_css_classes": "ak-oro-text",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "typography_font_size_laptop": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 12,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.2,
+           "sizes": []
+          },
+          "typography_text_transform": "uppercase",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2,
+           "sizes": []
+          },
+          "typography_letter_spacing_laptop": {
+           "unit": "px",
+           "size": 1.8,
+           "sizes": []
+          },
+          "typography_letter_spacing_mobile": {
+           "unit": "px",
+           "size": 1.6,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "34fefe0c",
+         "settings": {
+          "title": "Una formación<br class=\"ak-mb\"> <span class=\"ak-g\">Dos<br class=\"ak-dk\"> formas de acreditarla</span>",
+          "title_color": "#070908",
+          "_margin": {
+           "unit": "px",
+           "top": "31",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_margin_laptop": {
+           "unit": "px",
+           "top": "24",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_margin_mobile": {
+           "unit": "px",
+           "top": "18",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_css_classes": "ak-cert-title",
+          "typography_typography": "custom",
+          "typography_font_family": "Oswald",
+          "typography_font_weight": "700",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 50,
+           "sizes": []
+          },
+          "typography_font_size_laptop": {
+           "unit": "px",
+           "size": 42,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 23,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.14,
+           "sizes": []
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "c217cae",
+         "settings": {
+          "editor": "<p>Al culminar satisfactoriamente el programa recibirás la certificación Internacional de estrategias contra el crimen organizado y contraterrorismo. Además, podrás solicitar una certificación adicional gracias a nuestra alianza académica.</p>",
+          "text_color": "#070908",
+          "_margin": {
+           "unit": "px",
+           "top": "28",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_margin_laptop": {
+           "unit": "px",
+           "top": "22",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_margin_mobile": {
+           "unit": "px",
+           "top": "16",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_css_classes": "ak-cert-p",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "typography_font_size_laptop": {
+           "unit": "px",
+           "size": 17,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 14,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.6,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        },
+        {
+         "id": "19e41dac",
+         "settings": {
+          "content_width": "full",
+          "padding": {
+           "unit": "px",
+           "top": "30",
+           "right": "24",
+           "bottom": "30",
+           "left": "24",
+           "isLinked": false
+          },
+          "flex_direction": "row",
+          "flex_wrap": "nowrap",
+          "flex_align_items": "flex-start",
+          "flex_gap": {
+           "unit": "px",
+           "column": "18",
+           "row": "18",
+           "isLinked": true,
+           "size": 18
+          },
+          "padding_laptop": {
+           "unit": "px",
+           "top": "26",
+           "right": "20",
+           "bottom": "24",
+           "left": "20",
+           "isLinked": false
+          },
+          "padding_mobile": {
+           "unit": "px",
+           "top": "22",
+           "right": "18",
+           "bottom": "22",
+           "left": "18",
+           "isLinked": false
+          },
+          "margin": {
+           "unit": "px",
+           "top": "32",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "margin_laptop": {
+           "unit": "px",
+           "top": "26",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "margin_mobile": {
+           "unit": "px",
+           "top": "24",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "border_border": "solid",
+          "border_width": {
+           "unit": "px",
+           "top": "1",
+           "right": "1",
+           "bottom": "1",
+           "left": "1",
+           "isLinked": false
+          },
+          "border_color": "#8C1A17",
+          "border_radius": {
+           "unit": "px",
+           "top": "15",
+           "right": "15",
+           "bottom": "15",
+           "left": "15",
+           "isLinked": false
+          },
+          "css_classes": "ak-card",
+          "jet_parallax_layout_list": []
+         },
+         "elements": [
+          {
+           "id": "d9b32e4",
+           "settings": {
+            "selected_icon": {
+             "value": {
+              "url": "https://grupogoberna.com/wp-content/uploads/2026/09/certificacion-medalla.svg",
+              "id": 92681
+             },
+             "library": "svg"
+            },
+            "align": "left",
+            "primary_color": "#EBEFF2",
+            "size": {
+             "unit": "px",
+             "size": 30,
+             "sizes": []
+            },
+            "size_laptop": {
+             "unit": "px",
+             "size": 25,
+             "sizes": []
+            },
+            "size_mobile": {
+             "unit": "px",
+             "size": 22,
+             "sizes": []
+            },
+            "_element_width": "auto",
+            "_padding": {
+             "unit": "px",
+             "top": "2",
+             "right": "0",
+             "bottom": "0",
+             "left": "0",
+             "isLinked": false
+            },
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "20",
+             "bottom": "0",
+             "left": "0",
+             "isLinked": false
+            }
+           },
+           "elements": [],
+           "isInner": false,
+           "widgetType": "icon",
+           "elType": "widget"
+          },
+          {
+           "id": "6afdeed8",
+           "settings": {
+            "content_width": "full",
+            "padding": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "0",
+             "left": "0",
+             "isLinked": false
+            },
+            "flex_direction": "column",
+            "flex_align_items": "flex-start",
+            "flex_gap": {
+             "unit": "px",
+             "column": "6",
+             "row": "6",
+             "isLinked": true,
+             "size": 6
+            },
+            "css_classes": "ak-card-body",
+            "jet_parallax_layout_list": []
+           },
+           "elements": [
+            {
+             "id": "47d4b84f",
+             "settings": {
+              "title": "Certificación internacional de",
+              "header_size": "h3",
+              "title_color": "#070908",
+              "typography_typography": "custom",
+              "typography_font_family": "Oswald",
+              "typography_font_weight": "600",
+              "typography_font_size": {
+               "unit": "px",
+               "size": 20,
+               "sizes": []
+              },
+              "typography_font_size_laptop": {
+               "unit": "px",
+               "size": 17,
+               "sizes": []
+              },
+              "typography_font_size_mobile": {
+               "unit": "px",
+               "size": 13,
+               "sizes": []
+              },
+              "typography_line_height": {
+               "unit": "em",
+               "size": 1.3,
+               "sizes": []
+              },
+              "typography_text_transform": "uppercase"
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "heading",
+             "elType": "widget"
+            },
+            {
+             "id": "a3c6236",
+             "settings": {
+              "editor": "<p>Estrategias contra el crimen organizado y contraterrorismo</p>",
+              "text_color": "#070908",
+              "typography_typography": "custom",
+              "typography_font_family": "Inter",
+              "typography_font_weight": "400",
+              "typography_font_size": {
+               "unit": "px",
+               "size": 20,
+               "sizes": []
+              },
+              "typography_font_size_laptop": {
+               "unit": "px",
+               "size": 17,
+               "sizes": []
+              },
+              "typography_font_size_mobile": {
+               "unit": "px",
+               "size": 13,
+               "sizes": []
+              },
+              "typography_line_height": {
+               "unit": "em",
+               "size": 1.35,
+               "sizes": []
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "text-editor",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container"
+        },
+        {
+         "id": "11aad87f",
+         "settings": {
+          "content_width": "full",
+          "padding": {
+           "unit": "px",
+           "top": "30",
+           "right": "24",
+           "bottom": "30",
+           "left": "24",
+           "isLinked": false
+          },
+          "flex_direction": "row",
+          "flex_wrap": "nowrap",
+          "flex_align_items": "flex-start",
+          "flex_gap": {
+           "unit": "px",
+           "column": "18",
+           "row": "18",
+           "isLinked": true,
+           "size": 18
+          },
+          "padding_laptop": {
+           "unit": "px",
+           "top": "26",
+           "right": "20",
+           "bottom": "24",
+           "left": "20",
+           "isLinked": false
+          },
+          "padding_mobile": {
+           "unit": "px",
+           "top": "22",
+           "right": "18",
+           "bottom": "22",
+           "left": "18",
+           "isLinked": false
+          },
+          "margin": {
+           "unit": "px",
+           "top": "21",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "margin_laptop": {
+           "unit": "px",
+           "top": "18",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "margin_mobile": {
+           "unit": "px",
+           "top": "14",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "border_border": "solid",
+          "border_width": {
+           "unit": "px",
+           "top": "1",
+           "right": "1",
+           "bottom": "1",
+           "left": "1",
+           "isLinked": false
+          },
+          "border_color": "#8C1A17",
+          "border_radius": {
+           "unit": "px",
+           "top": "15",
+           "right": "15",
+           "bottom": "15",
+           "left": "15",
+           "isLinked": false
+          },
+          "css_classes": "ak-card",
+          "jet_parallax_layout_list": []
+         },
+         "elements": [
+          {
+           "id": "544d2aa0",
+           "settings": {
+            "selected_icon": {
+             "value": {
+              "url": "https://grupogoberna.com/wp-content/uploads/2026/09/certificacion-medalla.svg",
+              "id": 92681
+             },
+             "library": "svg"
+            },
+            "align": "left",
+            "primary_color": "#EBEFF2",
+            "size": {
+             "unit": "px",
+             "size": 30,
+             "sizes": []
+            },
+            "size_laptop": {
+             "unit": "px",
+             "size": 25,
+             "sizes": []
+            },
+            "size_mobile": {
+             "unit": "px",
+             "size": 22,
+             "sizes": []
+            },
+            "_element_width": "auto",
+            "_padding": {
+             "unit": "px",
+             "top": "2",
+             "right": "0",
+             "bottom": "0",
+             "left": "0",
+             "isLinked": false
+            },
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "20",
+             "bottom": "0",
+             "left": "0",
+             "isLinked": false
+            }
+           },
+           "elements": [],
+           "isInner": false,
+           "widgetType": "icon",
+           "elType": "widget"
+          },
+          {
+           "id": "6d3c6baa",
+           "settings": {
+            "content_width": "full",
+            "padding": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "0",
+             "left": "0",
+             "isLinked": false
+            },
+            "flex_direction": "column",
+            "flex_align_items": "flex-start",
+            "flex_gap": {
+             "unit": "px",
+             "column": "6",
+             "row": "6",
+             "isLinked": true,
+             "size": 6
+            },
+            "css_classes": "ak-card-body",
+            "jet_parallax_layout_list": []
+           },
+           "elements": [
+            {
+             "id": "74bbe0c0",
+             "settings": {
+              "title": "Eleva tu formación con una doble certificación",
+              "header_size": "h3",
+              "title_color": "#070908",
+              "typography_typography": "custom",
+              "typography_font_family": "Oswald",
+              "typography_font_weight": "600",
+              "typography_font_size": {
+               "unit": "px",
+               "size": 20,
+               "sizes": []
+              },
+              "typography_font_size_laptop": {
+               "unit": "px",
+               "size": 17,
+               "sizes": []
+              },
+              "typography_font_size_mobile": {
+               "unit": "px",
+               "size": 13,
+               "sizes": []
+              },
+              "typography_line_height": {
+               "unit": "em",
+               "size": 1.3,
+               "sizes": []
+              },
+              "typography_text_transform": "uppercase"
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "heading",
+             "elType": "widget"
+            },
+            {
+             "id": "51d810e8",
+             "settings": {
+              "editor": "<p>Complementa tu formación con una certificación adicional respaldada por Fundación San Marcos.<br /><strong style=\"color: #8c1a17;\">Doble certificación · Adicional: US$35</strong></p>",
+              "text_color": "#070908",
+              "typography_typography": "custom",
+              "typography_font_family": "Inter",
+              "typography_font_weight": "400",
+              "typography_font_size": {
+               "unit": "px",
+               "size": 20,
+               "sizes": []
+              },
+              "typography_font_size_laptop": {
+               "unit": "px",
+               "size": 17,
+               "sizes": []
+              },
+              "typography_font_size_mobile": {
+               "unit": "px",
+               "size": 13,
+               "sizes": []
+              },
+              "typography_line_height": {
+               "unit": "em",
+               "size": 1.35,
+               "sizes": []
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "text-editor",
+             "elType": "widget"
+            },
+            {
+             "id": "71e40651",
+             "settings": {
+              "text": "Quiero la doble certificación",
+              "link": {
+               "url": "#doble",
+               "is_external": "",
+               "nofollow": ""
+              },
+              "selected_icon": {
+               "value": "fas fa-arrow-right",
+               "library": "fa-solid"
+              },
+              "icon_align": "right",
+              "icon_indent": {
+               "unit": "px",
+               "size": 16,
+               "sizes": []
+              },
+              "button_text_color": "#8C1A17",
+              "background_color": "#FFFFFF00",
+              "hover_color": "#0A132F",
+              "button_background_hover_color": "#8C1A17",
+              "border_border": "solid",
+              "border_width": {
+               "unit": "px",
+               "top": "1",
+               "right": "1",
+               "bottom": "1",
+               "left": "1",
+               "isLinked": false
+              },
+              "border_color": "#8C1A17",
+              "border_radius": {
+               "unit": "px",
+               "top": "0",
+               "right": "0",
+               "bottom": "0",
+               "left": "0",
+               "isLinked": false
+              },
+              "_margin": {
+               "unit": "px",
+               "top": "28",
+               "right": "0",
+               "bottom": "0",
+               "left": "0",
+               "isLinked": false
+              },
+              "_margin_laptop": {
+               "unit": "px",
+               "top": "22",
+               "right": "0",
+               "bottom": "0",
+               "left": "0",
+               "isLinked": false
+              },
+              "_margin_mobile": {
+               "unit": "px",
+               "top": "18",
+               "right": "0",
+               "bottom": "0",
+               "left": "0",
+               "isLinked": false
+              },
+              "_element_width": "auto",
+              "_css_classes": "ak-cert-btn",
+              "typography_typography": "custom",
+              "typography_font_family": "Inter",
+              "typography_font_weight": "600",
+              "typography_font_size": {
+               "unit": "px",
+               "size": 16,
+               "sizes": []
+              },
+              "typography_font_size_laptop": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "typography_font_size_mobile": {
+               "unit": "px",
+               "size": 11,
+               "sizes": []
+              },
+              "typography_line_height": {
+               "unit": "em",
+               "size": 1,
+               "sizes": []
+              },
+              "typography_text_transform": "uppercase",
+              "typography_letter_spacing": {
+               "unit": "px",
+               "size": 1.44,
+               "sizes": []
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "button",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "plantilla-diploma-adaptada",
+ "type": "container"
+}
