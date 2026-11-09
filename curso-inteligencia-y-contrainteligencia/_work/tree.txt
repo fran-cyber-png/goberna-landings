@@ -1,0 +1,400 @@
+13bd66b9 container [ak-hd]  CSS
+  6f15f2f9 image [ak-hd-logo] 
+  2093b739 nav-menu [ak-hd-nav] 
+  4aa3f0b1 button [ak-hd-cta] text=Inscríbete ahora
+2742d6b5 container [ak-hero]  CSS
+  17c98689 heading [ak-sr] title=Diploma de Élite Internacional Director de Seguridad
+  1916fb3 image [] 
+  6b6388d heading [ak-hero-sub] title=Prepárate para dirigir la seguridad con visión, criterio y capacidad d
+  571a5de0 container [] 
+    4be49e01 button [ak-hero-btn] text=Reserva tu vacante
+    9c2fe2d button [ak-hero-btn] text=Hablar con un asesor
+  263d369c button [ak-hero-dl] text=Descargar brochure del programa
+58716df6 container [ak-bar]  CSS
+  3cf4c36f container [] 
+    4e571a4a container [ak-bar-item] 
+      3e247b14 icon [] 
+      7094f679 heading [] title=Modalidad
+      5d6fff46 heading [] title=Online
+    1e9c4dab container [ak-bar-item] 
+      1466ad22 icon [] 
+      38e6f601 heading [] title=Inicio
+      6919d0e7 heading [] title=30 de noviembre
+    21c26060 container [ak-bar-item] 
+      54ba9d28 icon [] 
+      78e96140 heading [] title=Hora
+      2fda4138 heading [] title=19:00 hrs. GMT-5
+    452ae72f container [ak-bar-item] 
+      37b97c47 icon [] 
+      6f2e556d heading [] title=Duración
+      4209211c heading [] title=10 módulos
+    7ba04a7 container [] 
+      12c0a15 heading [] title=Inversión
+      4c8ed0ee heading [] title=USD $199
+3f83c2c container [ak-met]  CSS
+  161b8b64 container [ak-met-left] 
+    77542da8 heading [ak-oro-text] title=Metodología
+    b86c8ae heading [ak-met-title] title=De gestionar la seguridad<br> a dirigirla estratégicamente
+    390db8e4 text-editor [] editor=<p>Desarrolla una visión integral para proteger personas, información,
+    4728f10c container [ak-met-bar] 
+      235dd9ee container [ak-met-row] 
+        221112d1 heading [ak-met-num ak-oro-text] title=<span style="font-weight:400;font-size:1.39em">+</span> 10,000
+        6bed2539 text-editor [] editor=<p>Profesionales formados</p>
+      f592749 container [ak-met-row] 
+        37c52840 heading [ak-met-num ak-oro-text] title=<span style="font-weight:400;font-size:1.39em">+</span> 15
+        1b3f3500 text-editor [] editor=<p>Países en Latinoamérica</p>
+      4b3e2e16 container [ak-met-row] 
+        1c863a03 heading [ak-met-num ak-oro-text] title=<span style="font-weight:400;font-size:1.39em">+</span> 20
+        5ef48ac1 text-editor [] editor=<p>Docentes Internacionales en ejercicio</p>
+  74f3d431 container [ak-met-right] 
+    40d9161c image [ak-met-img] 
+    4510a4fd text-editor [ak-tags] editor=<p>Inteligencia <span>•</span> Ciberseguridad <span>•</span> Liderazgo
+56bf8b99 container [ak-prog]  CSS
+  37b76e9a container [ak-dip-intro] 
+    80fac6b heading [] title=El DIPLOMA
+    37799678 heading [ak-gold-span] title=Formar directores capaces<br class="ak-dk"> de diseñar, conducir y<br 
+  4e1aa122 nested-tabs [ak-dip-tabs] 
+    25702389 container [] 
+      1c48576d container [ak-dip-ic ak-dip-ic-1] 
+      5a5d4853 heading [ak-oro-text] title=Objetivo del diploma
+      1e2e258a text-editor [ak-dip-dots] editor=<p>Formar directores capaces de diseñar, conducir y evaluar sistemas i
+    7d37a03e container [] 
+      1308b181 container [ak-dip-ic ak-dip-ic-2] 
+      3dff5c49 heading [ak-oro-text] title=¿Para quién es este diploma?
+      2d2f5c00 text-editor [ak-dip-list] editor=<p>Dirigido a:</p><ul><li>Directores, gerentes, jefes, coordinadores y
+    30a07d6d container [] 
+      683c8176 container [ak-dip-ic ak-dip-ic-3] 
+      36ba7119 heading [ak-oro-text] title=Qué lograrás
+      73081eaa text-editor [] editor=<p>Al finalizar el diploma estarás preparado para dirigir la función d
+3028d48c container [ak-war]  CSS
+  5b22c8d6 container [] 
+    24484833 heading [] title=Experiencia estratégica
+    a50a77b heading [ak-war-title] title=Aquí no solo<br> estudias seguridad.<br> <span class="ak-g">Aprendes a
+    3079ff74 text-editor [] editor=<p>La metodología está conectada con el ejercicio profesional de la di
+  6bb85ab9 container [ak-war-steps] 
+    187af424 container [ak-war-step] 
+      15766917 heading [] title=Etapa 1
+      7a82957e heading [] title=Diagnostica
+      71560803 text-editor [] editor=<p>Identifica amenazas, vulnerabilidades y riesgos que pueden comprome
+    1fe5f3ba container [ak-war-step] 
+      2f41c276 heading [] title=Etapa 2
+      245ad6bc heading [] title=Prioriza
+      746d9382 text-editor [] editor=<p>Convierte el análisis en decisiones sobre recursos, controles y med
+    421e5c33 container [ak-war-step] 
+      79cc909c heading [] title=Etapa 3
+      544064c5 heading [] title=Dirige
+      6d95755b text-editor [] editor=<p>Coordina personas, proveedores, tecnología y capacidades de segurid
+    76ebc950 container [ak-war-step] 
+      6ac16e5a heading [] title=Etapa 4
+      1f78edf1 heading [] title=Responde
+      5f510898 text-editor [] editor=<p>Enfrenta crisis y escenarios complejos protegiendo la continuidad d
+7c39e8aa container [ak-plan]  CSS
+  6517c0d8 container [ak-plan-left] 
+    29a6849b heading [ak-oro-text] title=Plan de estudios
+    48da84d4 heading [] title=Una formación para<br class="ak-dk"> dirigir la seguridad<br class="ak
+    e42cc9c container [ak-stats-row] 
+      32acee9f container [ak-stat] 
+        38e590e4 icon [ak-oro-box] 
+        5d85f006 heading [] title=10
+        6b4c14ba heading [ak-nowrap] title=Módulos
+        1f049f70 heading [] title=Especializados
+      643a8d43 container [ak-stat] 
+        9081977 icon [ak-oro-box] 
+        1db9c1b2 heading [] title=200
+        54ee35e9 heading [ak-nowrap] title=Horas
+        50bb001c heading [] title=Académicas
+      62f44617 container [ak-stat] 
+        2d10cc66 icon [ak-oro-box] 
+        3121b088 heading [] title=100 %
+        4475c46 heading [ak-nowrap] title=Metodología práctica
+        31fa5315 heading [] title=Aprende haciendo
+    3954484a button [ak-plan-dl] text=Descargar brochure
+  16e0013c container [ak-plan-right] 
+    5b410621 nested-accordion [ak-plan-acc] items=10 CSS
+      3b47e2e5 container [ak-mod-body] 
+        5d74db4b text-editor [] editor=<p>Comprende cómo se organiza y dirige la función de seguridad dentro 
+        67f4e3ee container [] 
+          1b4bdcc6 container [] 
+            63e4e4c9 heading [] title=Aprenderás
+            c1f5d31 text-editor [] editor=<p>Gobierno de seguridad, estructuras, atribuciones, políticas, respon
+          10f50b90 container [] 
+            56156ae1 heading [] title=Aplicarás
+            6f879d74 text-editor [] editor=<p>Definición de la estructura, responsabilidades y criterios de condu
+      63bf7155 container [ak-mod-body] 
+        49c546a1 text-editor [] editor=<p>Identifica amenazas, vulnerabilidades y escenarios para priorizar r
+        6cfc340b container [] 
+          31171fbc container [] 
+            3ee2f200 heading [] title=Aprenderás
+            81cba67 text-editor [] editor=<p>OSINT, verificación de información, indicadores, alertas tempranas 
+          3fe9a21f container [] 
+            176ffbfa heading [] title=Aplicarás
+            68009d75 text-editor [] editor=<p>Construcción de escenarios de riesgo y priorización de medidas de t
+      73b33023 container [ak-mod-body] 
+        469cdd65 text-editor [] editor=<p>Aprende a conducir equipos y administrar los recursos necesarios pa
+        354ecd36 container [] 
+          5efc6106 container [] 
+            55421832 heading [] title=Aprenderás
+            41d4be4 text-editor [] editor=<p>Liderazgo, organización operativa, presupuestos, costos, proveedore
+          404b1815 container [] 
+            56f51414 heading [] title=Aplicarás
+            7978bd1e text-editor [] editor=<p>Diseño de responsabilidades, recursos, indicadores y criterios de s
+      786597d6 container [ak-mod-body] 
+        7db09e77 text-editor [] editor=<p>Diseña sistemas de protección capaces de integrar infraestructura, 
+        60230c1d container [] 
+          5dd732f2 container [] 
+            4073ab5f heading [] title=Aprenderás
+            4a920535 text-editor [] editor=<p>Defensa en profundidad, accesos, videovigilancia, detección, vigila
+          64670950 container [] 
+            5664f6ea heading [] title=Aplicarás
+            4ffc4f95 text-editor [] editor=<p>Diseño de un esquema de protección física por capas según las vulne
+      17c9860e container [ak-mod-body] 
+        699c575d text-editor [] editor=<p>Comprende los riesgos digitales que pueden comprometer información,
+        4f16ef4b container [] 
+          37b75b25 container [] 
+            652cfdb9 heading [] title=Aprenderás
+            17cb4758 text-editor [] editor=<p>ISO 27001, marco NIST, protección de datos, riesgos de terceros y r
+          4cd77261 container [] 
+            7fe3fdb7 heading [] title=Aplicarás
+            5e2bf5f6 text-editor [] editor=<p>Articulación de controles físicos y digitales y definición de respo
+      44d393af container [ak-mod-body] 
+        223f8014 text-editor [] editor=<p>Identifica riesgos de espionaje, obtención de información y vigilan
+        f76c039 container [] 
+          2d853cd7 container [] 
+            46752146 heading [] title=Aprenderás
+            6188c58 text-editor [] editor=<p>Contrainteligencia, espionaje, vulnerabilidades de información y fu
+          124a1c75 container [] 
+            4e88b0cd heading [] title=Aplicarás
+            793b23f7 text-editor [] editor=<p>Definición de medidas de protección y criterios para implementar co
+      8eef1fb container [ak-mod-body] 
+        33223d82 text-editor [] editor=<p>Aprende a abordar irregularidades internas y evaluar riesgos de int
+        78c32649 container [] 
+          e1450c1 container [] 
+            1a41e127 heading [] title=Aprenderás
+            380b0797 text-editor [] editor=<p>Fraude, corrupción, hipótesis investigativas, entrevistas, evidenci
+          2d1a22df container [] 
+            7df672e4 heading [] title=Aplicarás
+            70c06fcf text-editor [] editor=<p>Estructuración de una investigación y evaluación de riesgos de inte
+      34ab71a container [ak-mod-body] 
+        13441162 text-editor [] editor=<p>Gestiona los riesgos que pueden afectar a directivos, autoridades, 
+        3eceb8ed container [] 
+          28ff18d0 container [] 
+            5ca9aba7 heading [] title=Aprenderás
+            20691ff8 text-editor [] editor=<p>Protección ejecutiva, viajes, antecedentes, amenazas internas, viol
+          775368de container [] 
+            5ada9e0d heading [] title=Aplicarás
+            4a526006 text-editor [] editor=<p>Evaluación de riesgos y coordinación de medidas de protección adapt
+      6fc26204 container [ak-mod-body] 
+        62ebcc5b text-editor [] editor=<p>Prepárate para conducir la respuesta cuando un incidente amenaza op
+        4913d4c1 container [] 
+          37e481d3 container [] 
+            4b6cfde9 heading [] title=Aprenderás
+            8573c6f text-editor [] editor=<p>Comités de crisis, activación, contingencias, evacuación, comunicac
+          4ea2369f container [] 
+            3fba8ec heading [] title=Aplicarás
+            6cb5a4d7 text-editor [] editor=<p>Diseño de prioridades de respuesta, continuidad y recuperación fren
+      735e54f1 container [ak-mod-body] 
+        1bb8a42e text-editor [] editor=<p>Integra todas las capacidades del programa en un sistema de segurid
+        5eea5e08 container [] 
+          38a94422 container [] 
+            449be0a6 heading [] title=Aprenderás
+            4adc1393 text-editor [] editor=<p>Integración estratégica, definición de prioridades, responsables, p
+          65bab7fd container [] 
+            69948aa3 heading [] title=Aplicarás
+            265ddc79 text-editor [] editor=<p>Construcción y sustentación de un Plan Director de Seguridad ante u
+66c6bdeb container [ak-cta]  CSS
+  4d64e131 container [ak-cta-card] 
+    3dbab7b0 heading [ak-title] title=¿Quieres vivir esta experiencia<br> en la próxima edición?
+    1251cd12 text-editor [ak-meta] editor=<p>Inicio: 30 de noviembre | Online en vivo | 10 Módulos</p>
+    5c1d16fb container [ak-btn-row] 
+      5a7371c6 button [ak-btn ak-oro] text=Reserva tu vacante
+      16c985f5 button [ak-btn] text=Hablar con un asesor
+613c44c5 container [ak-doc]  CSS
+  53717cd heading [ak-doc-title] title=Aprende de especialistas en seguridad,<br> inteligencia y gestión de r
+  79feacd4 nested-carousel [ak-doc-carousel] slides=6
+    195a4326 container [] 
+      dba40cc container [ak-doc-card] 
+        1e281f1a container [] 
+          5db27ba1 image [ak-doc-flag] 
+          58cade9f heading [] title=España
+        3b0c5273 container [ak-doc-body] 
+          6680ceb3 heading [] title=Francisco López
+          79769873 heading [ak-doc-es] title=Especialista en dirección de seguridad, criminología y prevención del 
+          75a74c29 button [ak-doc-link] text=Ver trayectoria
+    4bd7554a container [] 
+      18cff345 container [ak-doc-card] 
+        53bfaa77 container [] 
+          116184f6 image [ak-doc-flag] 
+          1b384167 heading [] title=Argentina
+        167969a7 container [ak-doc-body] 
+          128f09a4 heading [] title=Gonzalo Catanzariti
+          57b5f444 heading [ak-doc-es] title=Especialista en ciberinteligencia e investigación digital
+          53554299 button [ak-doc-link] text=Ver trayectoria
+    250d1da1 container [] 
+      29864fdc container [ak-doc-card] 
+        78656ec1 container [] 
+          4294c9f image [ak-doc-flag] 
+          66c8b733 heading [] title=Colombia
+        7137d8e9 container [ak-doc-body] 
+          322fbe2f heading [] title=Eduardo Velandia Becerra
+          1f57d183 heading [ak-doc-es] title=Especialista en inteligencia, seguridad y conducción de equipos
+          5b0fe0df button [ak-doc-link] text=Ver trayectoria
+    183f21cd container [] 
+      25393af0 container [ak-doc-card] 
+        248542ea container [] 
+          2e2bb6e9 image [ak-doc-flag] 
+          2a7b35b3 heading [] title=Colombia
+        5f045aa6 container [ak-doc-body] 
+          4d05e8e4 heading [] title=Andrés Peñaranda
+          74b539d4 heading [ak-doc-es] title=Especialista en operaciones de información y seguridad estratégica
+          2ea3bff button [ak-doc-link] text=Ver trayectoria
+    336d9ea6 container [] 
+      4258bba5 container [ak-doc-card] 
+        2046de30 container [] 
+          6f906d2b image [ak-doc-flag] 
+          2177322f heading [] title=Colombia
+        32dce22 container [ak-doc-body] 
+          77221cd heading [] title=Mg. Eduardo de la Torre
+          763d9ecb heading [ak-doc-es] title=Especialista en ciberseguridad, ciberdefensa y análisis digital
+          2589e64c button [ak-doc-link] text=Ver trayectoria
+    334907ee container [] 
+      64454e7c container [ak-doc-card] 
+        4fa72079 container [] 
+          258a0cd7 image [ak-doc-flag] 
+          cb1efed heading [] title=Argentina
+        78000277 container [ak-doc-body] 
+          18be2462 heading [] title=Daniela Galván
+          ab4fe3f heading [ak-doc-es] title=Especialista en investigación criminal e inteligencia digital
+          2d6c4dbc button [ak-doc-link] text=Ver trayectoria
+63b5ee4a container [ak-pres]  CSS
+  6d3759be container [ak-pres-left] 
+    75122411 heading [] title=Presencia internacional
+    23841199 heading [ak-pres-title] title=Una red que habla el<br> idioma <span class="ak-g">político de<br> Lat
+    389c79fe text-editor [] editor=<p>Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos
+    78c22442 divider [] text=Separador
+    1d2b7c01 container [ak-pstat-row] 
+      67a7a2fb container [ak-pstat] 
+        151ee21e heading [ak-oro-text] title=<span style="font-weight:400;font-size:1.18em">+</span>15
+        17fe3c03 heading [] title=Países
+      3b0cc897 container [ak-pstat] 
+        61338992 heading [ak-oro-text] title=<span style="font-weight:400;font-size:1.18em">+</span>10<span style="
+        1bdbba21 heading [] title=Egresados
+      5255b723 container [ak-pstat] 
+        1d0e6775 heading [ak-oro-text] title=<span style="font-weight:400;font-size:1.18em">+</span>300
+        73c91642 heading [] title=Campañas
+  6165612 container [ak-pres-right] 
+    bd987de image [ak-pres-map] 
+    c43e5a5 image [ak-pres-map ak-pres-anim] 
+54c4c5af container [ak-cert]  CSS
+  28c43ad5 container [ak-cert-img] 
+  2cd97d01 container [ak-cert-txt] 
+    2f408f57 container [ak-cert-in] 
+      1b9af742 heading [ak-oro-text] title=Certificación
+      2c9c857c heading [ak-cert-title] title=Una certificación para<br> <span class="ak-g">quienes dirigen<br> la s
+      3f88c4d3 text-editor [ak-cert-p] editor=<p>Al culminar satisfactoriamente el programa recibirás la certificaci
+      7f54383e container [ak-card] 
+        940608c icon [] 
+        2575bf0a container [ak-card-body] 
+          1b6533dd heading [] title=Certificación internacional
+          334be732 text-editor [] editor=<p>Diploma emitido por Grupo Goberna, que acredita la culminación sati
+      4194afb container [ak-card] 
+        1adb523 icon [] 
+        5a80e479 container [ak-card-body] 
+          4351992b heading [] title=Verificación digital
+          3f0fb31c text-editor [] editor=<p>Credencial digital verificable que facilita la validación de tu cer
+          2b7efae9 button [ak-cert-btn] text=Hablar con un asesor
+7a49a06a container [ak-inv]  CSS
+  298fa0cb container [ak-inv-left] 
+    125455a4 heading [ak-oro-text] title=Inversión
+    2d4237ac heading [] title=Lidera la seguridad<br> con visión estratégica
+    60f25b0f heading [ak-inv-price] title=<span class="ak-cur">$</span>199<span class="ak-usd">USD</span>
+    2d183dc1 divider [] text=Separador
+    47c0a6f1 container [] 
+      2302294b container [ak-inv-fact] 
+        6ff88f9a heading [] title=Inicio
+        9030ca2 heading [] title=30 de noviembre
+      11271bde container [ak-inv-fact] 
+        609843a9 heading [] title=DURACIÓN
+        73517676 heading [] title=10 MÓDULOS
+    79c591de button [ak-inv-buy] text=Pagar ahora
+    12c8534c text-editor [ak-inv-note] editor=<p>Vacantes limitadas para garantizar una formación especializada.</p>
+  79a4768d container [ak-inv-right] 
+    5c314a2a heading [ak-oro-text] title=Admisión
+    dc295fa heading [] title=¿Listo para liderar la seguridad de una organización?
+    2a8cefb0 heading [] title=Déjanos tus datos y te ayudaremos con tu inscripción.
+    7d4e2b0 form [ak-inv-form] 
+    3e72a9d text-editor [ak-inv-priv] editor=<p>Tus datos se usan solo para contactarte sobre el diploma.</p>
+6a12cc55 container [ak-vsec]  CSS
+  5fe95b15 container [ak-vp] 
+    76cef54d html [] 
+  1b13e5f3 container [ak-vr] 
+    11acca34 heading [ak-veye] title=Experiencia Goberna
+    7d8995c7 heading [ak-vh2] title=Más que un aula:<br><span class="ak-g">Una comunidad<br class="ak-dk">
+    63b3d02a text-editor [ak-vtxt] editor=<p>Amplía tu red de contactos, intercambia experiencias con profesiona
+521f33e5 container [ak-faq]  CSS
+  1fd97c03 container [ak-faq-left] 
+    2e54988f heading [ak-oro-text] title=Preguntas frecuentes
+    36d376ec heading [ak-faq-title] title=Resolvemos tus<br class="ak-dk"> dudas<br class="ak-mb"> <span class="
+    4fe96a54 text-editor [] editor=<p>Aquí encontrarás respuestas claras sobre el programa, la metodologí
+  821fc48 container [ak-faq-right] 
+    266b2296 nested-accordion [ak-faq-acc] items=5 CSS
+      3e80e6e1 container [] 
+        ea24eba text-editor [] editor=<p>Las sesiones se desarrollan 100% online y en vivo vía Zoom, combina
+      3c318452 container [] 
+        77b34c1f text-editor [] editor=<p>El diploma contempla 200 horas académicas, desarrolladas de acuerdo
+      6feda045 container [] 
+        3a6adec1 text-editor [] editor=<p>Tu inscripción incluye acceso al programa, materiales académicos, a
+      26b2ffbc container [] 
+        584613f6 text-editor [] editor=<p>GOBERNA cuenta con diferentes alternativas de pago para sus partici
+      2a25fc11 container [] 
+        38271e76 text-editor [] editor=<p>Completa tus datos en el formulario y un asesor de GOBERNA se pondr
+5b1123a8 container [] 
+  4910e412 container [] 
+    7a5d8ad8 container [] 
+      c156348 image [] 
+    234056e8 container [] 
+      79b93b1b container [] 
+        746d6b6c heading [] title=La Alianza Estratégica:
+        1a7b4788 image [] 
+      3a0e3a1d container [] 
+        44412406 heading [] title=En convenio con:
+        17b98aed container [] 
+          757d71cf image [] 
+          47c63207 image [] 
+  4d8e8e9f container [] 
+    4e899042 container [] 
+      30658a6d container [] 
+        52a71c86 icon [] 
+        798ab93c heading [] title=Estados Unidos
+      3e5309a9 icon-list [] 
+    14252b4b container [] 
+      192312a1 container [] 
+        5d6b63bf icon [] 
+        df5092f heading [] title=México
+      47c99c5 icon-list [] 
+    34a4ca52 container [] 
+      10e34d97 container [] 
+        2de8b7a8 icon [] 
+        3f0e3800 heading [] title=Perú
+      1fa4d317 icon-list [] 
+    6ab6ed4f container [] 
+      78eedb11 container [] 
+        67ec30c4 icon [] 
+        561f8a39 heading [] title=Ecuador
+      471d3bdb icon-list [] 
+    5a4d42ad container [] 
+      2dbde696 container [] 
+        62caf72e icon [] 
+        741a9ea2 heading [] title=Bolivia
+      601e59d1 icon-list [] 
+    7755d501 container [] 
+      566a0b2f container [] 
+        57d38ec image [] 
+        31ba6779 heading [] title=Brasil
+      77602470 icon-list [] 
+  2b717ba7 container [] 
+    1c4af563 icon-list [] 
+1222dd86 container [] 
+  29fa6c1c container [] 
+    2fe76076 heading [] title=Pagado por "Grupo Goberna" © Todos los derechos reservados<br>México |
+  5bdee133 container [] 
+    5b68fd3 social-icons [] 

@@ -1,0 +1,408 @@
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - link [ref=e7] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=e9]:
+      - navigation "Menú" [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "METODOLOGÍA" [ref=e13] [cursor=pointer]:
+              - /url: "#metodologia"
+          - listitem [ref=e14]:
+            - link "DIPLOMA" [ref=e15] [cursor=pointer]:
+              - /url: "#diploma"
+          - listitem [ref=e16]:
+            - link "MÓDULOS" [ref=e17] [cursor=pointer]:
+              - /url: "#modulos"
+          - listitem [ref=e18]:
+            - link "DOCENTES" [ref=e19] [cursor=pointer]:
+              - /url: "#docentes"
+          - listitem [ref=e20]:
+            - link "CERTIFICACIÓN" [ref=e21] [cursor=pointer]:
+              - /url: "#certificacion"
+          - listitem [ref=e22]:
+            - link "INVERSIÓN" [ref=e23] [cursor=pointer]:
+              - /url: "#inversion"
+      - text:  
+    - link "Inscríbete ahora" [ref=e27] [cursor=pointer]:
+      - /url: "#inscripcion"
+  - generic [ref=e31]:
+    - heading "Diploma Internacional de Inteligencia y Contrainteligencia" [level=1] [ref=e34]
+    - generic [ref=e37]:
+      - link "Reserva tu vacante" [ref=e41] [cursor=pointer]:
+        - /url: "#doble"
+        - generic [ref=e42]:
+          - generic [aria-hidden] [ref=e44]: 
+          - generic [ref=e45]: Reserva tu vacante
+      - link "Hablar con un asesor" [ref=e49] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+Internacional+de+Inteligencia+y+Contrainteligencia
+        - generic [ref=e50]:
+          - generic [aria-hidden] [ref=e52]: 
+          - generic [ref=e53]: Hablar con un asesor
+    - link "Descargar brochure del programa" [ref=e57] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e58]:
+        - generic [aria-hidden] [ref=e60]: 
+        - generic [ref=e61]: Descargar brochure del programa
+  - generic [ref=e64]:
+    - generic [ref=e65]:
+      - paragraph [ref=e97]: Modalidad
+      - paragraph [ref=e100]: Online
+    - generic [ref=e101]:
+      - paragraph [ref=e133]: Inicio
+      - paragraph [ref=e136]: 09 de diciembre
+    - generic [ref=e137]:
+      - paragraph [ref=e156]: Hora
+      - paragraph [ref=e159]: 19:00 hrs. GMT-5
+    - generic [ref=e160]:
+      - paragraph [ref=e177]: Duración
+      - paragraph [ref=e180]: 8 módulos · 4 semanas
+    - generic [ref=e181]:
+      - paragraph [ref=e184]: Inversión
+      - paragraph [ref=e187]: USD $199
+  - generic [ref=e189]:
+    - generic [ref=e190]:
+      - paragraph [ref=e193]: Metodología
+      - heading "De la información a la acción estratégica" [level=2] [ref=e196]
+      - paragraph [ref=e199]: Anticipa amenazas, protege información estratégica y convierte datos en decisiones.
+      - generic [ref=e200]:
+        - generic [ref=e201]:
+          - paragraph [ref=e204]: + 10,000
+          - paragraph [ref=e207]: Profesionales formados
+        - generic [ref=e208]:
+          - paragraph [ref=e211]: + 15
+          - paragraph [ref=e214]: Países en Latinoamérica
+        - generic [ref=e215]:
+          - paragraph [ref=e218]: + 20
+          - paragraph [ref=e221]: Docentes Internacionales en ejercicio
+    - paragraph [ref=e227]: Analiza • Anticipa • Protege • Decide
+  - generic [ref=e228]:
+    - generic [ref=e229]:
+      - paragraph [ref=e232]: El programa
+      - heading [level=2] [ref=e235]:
+        - text: Analiza escenarios, anticipa riesgos y aplica inteligencia y contrainteligencia para
+        - generic [ref=e236]: proteger organizaciones, proyectos y decisiones estratégicas.
+    - generic "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas." [ref=e239]:
+      - tablist [ref=e240]:
+        - tab "¿Cuál es el objetivo?" [selected] [ref=e241] [cursor=pointer]
+        - tab "¿A quiénes está dirigido?" [ref=e243] [cursor=pointer]
+        - tab "Perfil del egresado" [ref=e245] [cursor=pointer]
+      - tabpanel "¿Cuál es el objetivo?" [ref=e248]:
+        - heading "Objetivo del diploma" [level=3] [ref=e252]
+        - generic [ref=e254]:
+          - paragraph [ref=e255]:
+            - text: Formarte para
+            - strong [ref=e256]: analizar escenarios, anticipar riesgos y aplicar herramientas de inteligencia y contrainteligencia que permitan proteger organizaciones, proyectos y decisiones estratégicas.
+          - paragraph [ref=e257]: Durante el diploma desarrollarás capacidades para identificar amenazas, gestionar información crítica y fortalecer la seguridad operativa en contextos de alta complejidad.
+  - generic [ref=e259]:
+    - generic [ref=e260]:
+      - paragraph [ref=e263]: Metodología de aprendizaje
+      - heading [level=2] [ref=e266]:
+        - text: Aquí la información se convierte en
+        - generic [ref=e267]: acción estratégica
+      - paragraph [ref=e270]: El diploma combina fundamentos de inteligencia con aplicación práctica mediante la metodología Cuarteles War Room, donde los participantes desarrollan capacidades para analizar amenazas y responder ante escenarios complejos.
+    - generic [ref=e271]:
+      - generic [ref=e272]:
+        - paragraph [ref=e275]: Etapa 1
+        - heading "Aprende" [level=3] [ref=e278]
+        - paragraph [ref=e281]: Comprende los principios, ciclos y metodologías de inteligencia y contrainteligencia.
+      - generic [ref=e282]:
+        - paragraph [ref=e285]: Etapa 2
+        - heading "Analiza" [level=3] [ref=e288]
+        - paragraph [ref=e291]: Aplica herramientas de análisis para identificar riesgos, amenazas y oportunidades.
+      - generic [ref=e292]:
+        - paragraph [ref=e295]: Etapa 3
+        - heading "Trabaja" [level=3] [ref=e298]
+        - paragraph [ref=e301]: Desarrolla ejercicios prácticos orientados a la toma de decisiones estratégicas.
+      - generic [ref=e302]:
+        - paragraph [ref=e305]: Etapa 4
+        - heading "Protege" [level=3] [ref=e308]
+        - paragraph [ref=e311]: Fortalece capacidades para prevenir filtraciones y reducir vulnerabilidades.
+  - generic [ref=e314]:
+    - generic [ref=e315]:
+      - paragraph [ref=e318]: Plan de estudios
+      - heading "Una formación para entender, anticipar y proteger" [level=2] [ref=e321]
+      - generic [ref=e322]:
+        - generic [ref=e323]:
+          - paragraph [ref=e335]: "8"
+          - paragraph [ref=e338]: Módulos
+          - paragraph [ref=e341]: Especializados
+        - generic [ref=e342]:
+          - paragraph [ref=e356]: "120"
+          - paragraph [ref=e359]: Horas
+          - paragraph [ref=e362]: Académicas
+        - generic [ref=e363]:
+          - paragraph [ref=e377]: 100 %
+          - paragraph [ref=e380]: Metodología práctica
+          - paragraph [ref=e383]: Aprende haciendo
+      - link "Descargar brochure" [ref=e387] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e388]:
+          - generic [aria-hidden] [ref=e390]: 
+          - generic [ref=e391]: Descargar brochure
+    - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e395]:
+      - group [ref=e396]:
+        - generic "Módulo Fundamentos de Inteligencia y Contrainteligencia Ocultar" [ref=e397] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e398]: Fundamentos de Inteligencia y Contrainteligencia
+          - generic [ref=e400]: Ocultar 
+        - region [ref=e402]:
+          - paragraph [ref=e405]: Comprende cómo funciona la inteligencia y cuál es el papel de la contrainteligencia en la protección de una organización.
+          - region [ref=e406]:
+            - region "Módulo Fundamentos de Inteligencia y Contrainteligencia Ocultar Comprende cómo funciona la inteligencia y cuál es el papel de la contrainteligencia en la protección de una organización. Aprenderás Principios de inteligencia, ciclo de inteligencia, fundamentos y procesos de contrainteligencia. Aplicarás Análisis del ciclo de inteligencia e identificación de medidas para proteger información y capacidades críticas." [ref=e407]:
+              - heading "Aprenderás" [level=4] [ref=e410]
+              - paragraph [ref=e413]: Principios de inteligencia, ciclo de inteligencia, fundamentos y procesos de contrainteligencia.
+            - region "Módulo Fundamentos de Inteligencia y Contrainteligencia Ocultar Comprende cómo funciona la inteligencia y cuál es el papel de la contrainteligencia en la protección de una organización. Aprenderás Principios de inteligencia, ciclo de inteligencia, fundamentos y procesos de contrainteligencia. Aplicarás Análisis del ciclo de inteligencia e identificación de medidas para proteger información y capacidades críticas." [ref=e414]:
+              - heading "Aplicarás" [level=4] [ref=e417]
+              - paragraph [ref=e420]: Análisis del ciclo de inteligencia e identificación de medidas para proteger información y capacidades críticas.
+      - group [ref=e421]:
+        - generic "Módulo Inteligencia Estratégica Ver contenido" [ref=e422] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e423]: Inteligencia Estratégica
+          - generic [ref=e425]: Ver contenido 
+      - group [ref=e427]:
+        - 'generic "Módulo OSINT: Inteligencia de Fuentes Abiertas Ver contenido" [ref=e428] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=e429]: "OSINT: Inteligencia de Fuentes Abiertas"
+          - generic [ref=e431]: Ver contenido 
+      - group [ref=e433]:
+        - generic "Módulo SOCMINT, Ciberinteligencia y Ciberseguridad Ver contenido" [ref=e434] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e435]: SOCMINT, Ciberinteligencia y Ciberseguridad
+          - generic [ref=e437]: Ver contenido 
+      - group [ref=e439]:
+        - 'generic "Módulo COMINT: Inteligencia de Comunicaciones Ver contenido" [ref=e440] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=e441]: "COMINT: Inteligencia de Comunicaciones"
+          - generic [ref=e443]: Ver contenido 
+      - group [ref=e445]:
+        - 'generic "Módulo HUMINT: Inteligencia de Fuentes Humanas Ver contenido" [ref=e446] [cursor=pointer]':
+          - text: Módulo
+          - generic [ref=e447]: "HUMINT: Inteligencia de Fuentes Humanas"
+          - generic [ref=e449]: Ver contenido 
+      - group [ref=e451]:
+        - generic "Módulo Operaciones Psicológicas y Psicosociales Ver contenido" [ref=e452] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e453]: Operaciones Psicológicas y Psicosociales
+          - generic [ref=e455]: Ver contenido 
+      - group [ref=e457]:
+        - generic "Módulo Inteligencia aplicada a conflictos sociales y crimen organizado Ver contenido" [ref=e458] [cursor=pointer]:
+          - text: Módulo
+          - generic [ref=e459]: Inteligencia aplicada a conflictos sociales y crimen organizado
+          - generic [ref=e461]: Ver contenido 
+  - generic [ref=e465]:
+    - heading "¿Quieres vivir esta experiencia en la próxima edición?" [level=2] [ref=e468]
+    - paragraph [ref=e471]: "Inicio: 09 de diciembre | Online vía Zoom | 8 Módulos"
+    - generic [ref=e472]:
+      - link "Reserva tu vacante" [ref=e476] [cursor=pointer]:
+        - /url: "#doble"
+        - generic [ref=e477]:
+          - generic [aria-hidden] [ref=e479]: 
+          - generic [ref=e480]: Reserva tu vacante
+      - link "Hablar con un asesor" [ref=e484] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+Internacional+de+Inteligencia+y+Contrainteligencia
+        - generic [ref=e485]:
+          - generic [aria-hidden] [ref=e487]: 
+          - generic [ref=e488]: Hablar con un asesor
+  - generic [ref=e490]:
+    - heading "Aprende de especialistas en inteligencia, seguridad y estrategia" [level=2] [ref=e493]
+    - generic [ref=e495]:
+      - region "Docentes" [ref=e496]:
+        - generic [ref=e497]:
+          - group [aria-hidden] [ref=e498]:
+            - generic [ref=e500]:
+              - paragraph [ref=e506]: Colombia
+              - generic [ref=e507]:
+                - heading [level=3] [ref=e510]: Eduardo de la Torre Díaz
+                - paragraph [ref=e513]: Especialista en ciberseguridad e inteligencia
+                - link [ref=e517] [cursor=pointer]:
+                  - /url: https://grupogoberna.com/eduardo-de-la-torre/
+                  - generic [ref=e518]:
+                    - generic [aria-hidden] [ref=e520]: 
+                    - generic [ref=e521]: Ver trayectoria
+          - group "2 / 3" [ref=e522]:
+            - generic [ref=e524]:
+              - paragraph [ref=e530]: Argentina
+              - generic [ref=e531]:
+                - heading "Gonzalo Catanzariti" [level=3] [ref=e534]
+                - paragraph [ref=e537]: Especialista en ciberinteligencia e investigación digital
+                - link "Ver trayectoria" [ref=e541] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e542]:
+                    - generic [aria-hidden] [ref=e544]: 
+                    - generic [ref=e545]: Ver trayectoria
+          - group "3 / 3" [ref=e546]:
+            - generic [ref=e548]:
+              - paragraph [ref=e554]: Estados Unidos
+              - generic [ref=e555]:
+                - heading "Roniel Aledo" [level=3] [ref=e558]
+                - paragraph [ref=e561]: Especialista en inteligencia y seguridad internacional
+                - link "Ver trayectoria" [ref=e565] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e566]:
+                    - generic [aria-hidden] [ref=e568]: 
+                    - generic [ref=e569]: Ver trayectoria
+      - button "Previous slide" [disabled] [ref=e570] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e571]: 
+      - button "Next slide" [disabled] [ref=e572] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e573]: 
+  - generic [ref=e577]:
+    - paragraph [ref=e580]: Presencia internacional
+    - heading [level=2] [ref=e583]:
+      - text: Una red que habla el idioma
+      - generic [ref=e584]: político de Latinoamérica.
+    - paragraph [ref=e587]: Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+    - generic [ref=e592]:
+      - generic [ref=e593]:
+        - paragraph [ref=e596]: "+15"
+        - paragraph [ref=e599]: Países
+      - generic [ref=e600]:
+        - paragraph [ref=e603]: +10K
+        - paragraph [ref=e606]: Profesionales
+      - generic [ref=e607]:
+        - paragraph [ref=e610]: "+20"
+        - paragraph [ref=e613]: Docentes
+  - generic [ref=e620]:
+    - paragraph [ref=e623]: Certificación
+    - heading [level=2] [ref=e626]:
+      - text: Una certificación que
+      - generic [ref=e627]: fortalece tu perfil estratégico
+    - paragraph [ref=e630]: Al culminar satisfactoriamente el programa, recibirás la certificación de Asesor Estratégico Internacional en Inteligencia y Contrainteligencia, que acredita tus competencias para analizar escenarios, identificar amenazas y aplicar herramientas de inteligencia estratégica.
+    - generic [ref=e639]:
+      - heading "Certificación internacional" [level=3] [ref=e642]
+      - paragraph [ref=e645]: Diploma emitido por Grupo Goberna, que acredita la culminación satisfactoria del programa.
+    - generic [ref=e654]:
+      - heading "Verificación digital" [level=3] [ref=e657]
+      - paragraph [ref=e660]: Credencial digital verificable para validar tu formación profesional.
+      - link "Hablar con un asesor" [ref=e664] [cursor=pointer]:
+        - /url: https://wa.me/51970356062?text=Hola+Goberna%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+Diploma+Internacional+de+Inteligencia+y+Contrainteligencia
+        - generic [ref=e665]:
+          - generic [aria-hidden] [ref=e667]: 
+          - generic [ref=e668]: Hablar con un asesor
+  - generic [ref=e670]:
+    - generic [ref=e671]:
+      - paragraph [ref=e674]: Inversión
+      - heading "ANTICÍPATE A LAS AMENAZAS. DECIDE CON INTELIGENCIA." [level=2] [ref=e677]
+      - paragraph [ref=e680]:
+        - generic [ref=e681]: $
+        - text: "199"
+        - generic [ref=e682]: USD
+      - generic [ref=e687]:
+        - generic [ref=e688]:
+          - paragraph [ref=e691]: Inicio
+          - paragraph [ref=e694]: 09 de diciembre
+        - generic [ref=e695]:
+          - paragraph [ref=e698]: DURACIÓN
+          - paragraph [ref=e701]: 8 MÓDULOS
+      - link "Pagar ahora" [ref=e705] [cursor=pointer]:
+        - /url: "#"
+      - paragraph [ref=e710]: Vacantes limitadas para garantizar una formación especializada.
+    - generic [ref=e711]:
+      - paragraph [ref=e714]: Admisión
+      - heading "¿Listo para dar el siguiente paso?" [level=2] [ref=e717]
+      - paragraph [ref=e720]: Déjanos tus datos y te ayudaremos con tu inscripción.
+      - form "Director de Seguridad — Habla con un asesor" [ref=e723]:
+        - generic [ref=e724]:
+          - generic [ref=e725]:
+            - generic [ref=e726] [cursor=pointer]: Nombre completo
+            - textbox "Nombre completo" [ref=e727]:
+              - /placeholder: Ej. María Pérez
+          - generic [ref=e728]:
+            - generic [ref=e729] [cursor=pointer]: País
+            - generic [ref=e730]:
+              - generic:
+                - generic [aria-hidden]: 
+              - combobox "País" [ref=e731] [cursor=pointer]:
+                - option "Selecciona tu país" [selected]
+                - option "Argentina"
+                - option "Bolivia"
+                - option "Brasil"
+                - option "Chile"
+                - option "Colombia"
+                - option "Costa Rica"
+                - option "Cuba"
+                - option "Ecuador"
+                - option "El Salvador"
+                - option "España"
+                - option "Guatemala"
+                - option "Honduras"
+                - option "México"
+                - option "Nicaragua"
+                - option "Panamá"
+                - option "Paraguay"
+                - option "Perú"
+                - option "Puerto Rico"
+                - option "República Dominicana"
+                - option "Uruguay"
+                - option "Venezuela"
+                - option "Otro"
+          - generic [ref=e732]:
+            - generic [ref=e733] [cursor=pointer]: Teléfono
+            - textbox "Teléfono" [ref=e734]:
+              - /placeholder: Ej. +51 999 999 999
+          - generic [ref=e735]:
+            - generic [ref=e736] [cursor=pointer]: Cargo
+            - textbox "Cargo" [ref=e737]:
+              - /placeholder: Ej. Analista de inteligencia
+          - generic [ref=e738]:
+            - generic [ref=e739] [cursor=pointer]: Correo electrónico
+            - textbox "Correo electrónico" [ref=e740]:
+              - /placeholder: nombre@correo.com
+          - button "Enviar" [ref=e742] [cursor=pointer]
+      - paragraph [ref=e747]: Tus datos se usan solo para contactarte sobre el diploma.
+  - generic [ref=e749]:
+    - button "Reproducir video" [ref=e751] [cursor=pointer]
+    - generic [ref=e754]:
+      - paragraph [ref=e757]: Experiencia Goberna
+      - heading [level=2] [ref=e760]:
+        - text: "Más que un aula:"
+        - generic [ref=e761]: Una comunidad que actúa
+      - paragraph [ref=e764]: Amplía tu red de contactos, intercambia experiencias con profesionales internacionales y genera oportunidades de colaboración y crecimiento profesional.
+      - paragraph [ref=e767]:
+        - generic [ref=e768]: Voces
+      - generic [ref=e769]:
+        - generic [ref=e776] [cursor=pointer]:
+          - paragraph [ref=e779]: Alina Martínez
+          - paragraph [ref=e782]: Colombia
+        - generic [ref=e789] [cursor=pointer]:
+          - paragraph [ref=e792]: Lorena Coria
+          - paragraph [ref=e795]: Bolivia
+        - generic [ref=e802] [cursor=pointer]:
+          - paragraph [ref=e805]: Miguel Figueroa
+          - paragraph [ref=e808]: México
+  - generic [ref=e810]:
+    - generic [ref=e811]:
+      - paragraph [ref=e814]: Preguntas frecuentes
+      - heading [level=2] [ref=e817]:
+        - text: Resolvemos tus dudas
+        - generic [ref=e818]: antes de que decidas.
+      - paragraph [ref=e821]: Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+    - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e825]:
+      - group [ref=e826]:
+        - generic "¿Cómo se realizan las clases?" [ref=e827] [cursor=pointer]:
+          - generic [ref=e830]:
+            - generic [aria-hidden] [ref=e832]: 
+            - text: 
+        - region "¿Cómo se realizan las clases? Las sesiones se desarrollan en modalidad online vía Zoom, permitiendo la interacción con docentes y participantes." [ref=e833]:
+          - paragraph [ref=e836]: Las sesiones se desarrollan en modalidad online vía Zoom, permitiendo la interacción con docentes y participantes.
+      - group [ref=e837]:
+        - generic "¿Cuánto dura el programa?" [ref=e838] [cursor=pointer]:
+          - generic [ref=e841]:
+            - text: 
+            - generic [aria-hidden] [ref=e843]: 
+      - group [ref=e844]:
+        - generic "¿Qué incluye mi inscripción?" [ref=e845] [cursor=pointer]:
+          - generic [ref=e848]:
+            - text: 
+            - generic [aria-hidden] [ref=e850]: 
+      - group [ref=e851]:
+        - generic "¿Necesito experiencia previa en inteligencia?" [ref=e852] [cursor=pointer]:
+          - generic [ref=e855]:
+            - text: 
+            - generic [aria-hidden] [ref=e857]: 
+      - group [ref=e858]:
+        - generic "¿Cómo puedo inscribirme?" [ref=e859] [cursor=pointer]:
+          - generic [ref=e862]:
+            - text: 
+            - generic [aria-hidden] [ref=e864]: 
+  - text:       
