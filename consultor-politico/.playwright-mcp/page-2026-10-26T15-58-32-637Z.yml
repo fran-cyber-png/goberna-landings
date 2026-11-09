@@ -1,0 +1,781 @@
+- generic [active] [ref=f22e1]:
+  - banner [ref=f22e2]:
+    - banner [ref=f22e3]:
+      - button "Toggle Panel" [ref=f22e8] [cursor=pointer]:
+        - generic [ref=f22e9]:
+          - generic [aria-hidden] [ref=f22e11]: 
+          - text: 
+  - generic [ref=f22e13]:
+    - generic [ref=f22e15]:
+      - link [ref=f22e18] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f22e20]:
+        - navigation "Menú" [ref=f22e21]:
+          - list [ref=f22e22]:
+            - listitem [ref=f22e23]:
+              - link "METODOLOGÍA" [ref=f22e24] [cursor=pointer]:
+                - /url: "#metodologia"
+            - listitem [ref=f22e25]:
+              - link "DIPLOMA" [ref=f22e26] [cursor=pointer]:
+                - /url: "#diploma"
+            - listitem [ref=f22e27]:
+              - link "MÓDULOS" [ref=f22e28] [cursor=pointer]:
+                - /url: "#modulos"
+            - listitem [ref=f22e29]:
+              - link "DOCENTES" [ref=f22e30] [cursor=pointer]:
+                - /url: "#docentes"
+            - listitem [ref=f22e31]:
+              - link "CERTIFICACIÓN" [ref=f22e32] [cursor=pointer]:
+                - /url: "#certificacion"
+            - listitem [ref=f22e33]:
+              - link "INVERSIÓN" [ref=f22e34] [cursor=pointer]:
+                - /url: "#inversion"
+        - text:  
+      - link "Inscríbete ahora" [ref=f22e38] [cursor=pointer]:
+        - /url: "#inscripcion"
+    - generic [ref=f22e42]:
+      - heading "Diploma internacional Consultor Político" [level=1] [ref=f22e45]:
+        - generic [ref=f22e46]: Diploma internacional
+        - generic [ref=f22e47]: Consultor
+        - generic [ref=f22e48]: Político
+      - paragraph [ref=f22e51]: "-Metodología Political Management de GOBERNA-"
+      - generic [ref=f22e52]:
+        - link "Reserva tu vacante" [ref=f22e56] [cursor=pointer]:
+          - /url: "#inscripcion"
+          - generic [ref=f22e57]:
+            - generic [aria-hidden] [ref=f22e59]: 
+            - generic [ref=f22e60]: Reserva tu vacante
+        - link "Hablar con un asesor" [ref=f22e64] [cursor=pointer]:
+          - /url: https://wa.link/y4ww8t
+          - generic [ref=f22e65]:
+            - generic [aria-hidden] [ref=f22e67]: 
+            - generic [ref=f22e68]: Hablar con un asesor
+      - link "Descargar brochure del programa" [ref=f22e72] [cursor=pointer]:
+        - /url: https://grupogoberna.com/wp-content/uploads/2026/09/BROCHURE-CONSULTOR-POLITICO-31-de-octubre.pdf
+        - generic [ref=f22e73]:
+          - generic [aria-hidden] [ref=f22e75]: 
+          - generic [ref=f22e76]: Descargar brochure del programa
+    - generic [ref=f22e79]:
+      - generic [ref=f22e80]:
+        - paragraph [ref=f22e112]: Modalidad
+        - paragraph [ref=f22e115]: Online en vivo
+      - generic [ref=f22e116]:
+        - paragraph [ref=f22e148]: Inicio
+        - paragraph [ref=f22e151]: 31 de octubre, 2026
+      - generic [ref=f22e152]:
+        - paragraph [ref=f22e171]: Horario
+        - paragraph [ref=f22e174]: 19:00 UTC-5
+      - generic [ref=f22e175]:
+        - paragraph [ref=f22e192]: Duración
+        - paragraph [ref=f22e195]: 4 meses - 10 sesiones
+      - generic [ref=f22e196]:
+        - paragraph [ref=f22e199]: Inversión
+        - paragraph [ref=f22e202]: USD $199
+    - generic [ref=f22e204]:
+      - generic [ref=f22e205]:
+        - paragraph [ref=f22e208]: Metodología
+        - heading "De la teoría a la dirección de una campaña" [level=2] [ref=f22e211]
+        - paragraph [ref=f22e214]: Aprende a analizar el escenario, construir estrategia, dirigir un War Room, organizar territorio, gestionar crisis y tomar decisiones dentro de una campaña electoral simulada.
+        - generic [ref=f22e215]:
+          - generic [ref=f22e216]:
+            - paragraph [ref=f22e219]: + 10,000
+            - paragraph [ref=f22e222]: Profesionales formados
+          - generic [ref=f22e223]:
+            - paragraph [ref=f22e226]: + 15
+            - paragraph [ref=f22e229]: Países de Latinoamérica
+          - generic [ref=f22e230]:
+            - paragraph [ref=f22e233]: + 20
+            - paragraph [ref=f22e236]: Docentes Internacionales en ejercicio
+          - generic [ref=f22e237]:
+            - paragraph [ref=f22e240]: 100%
+            - paragraph [ref=f22e243]: Metodología Political Management
+      - generic [ref=f22e244]:
+        - iframe [ref=f22e248]:
+          - generic [ref=f23e5]:
+            - generic [ref=f23e6] [cursor=pointer]
+            - generic [ref=f23e8] [cursor=pointer]:
+              - img "Logo" [ref=f23e10]
+              - generic [ref=f23e11]: GOBERNA
+              - generic [ref=f23e12]: ESCUELA
+            - generic [ref=f23e14]:
+              - slider "Barra de progreso del video" [ref=f23e15] [cursor=pointer]
+              - generic [ref=f23e17]:
+                - generic [ref=f23e18]:
+                  - button "Pausar" [ref=f23e19] [cursor=pointer]
+                  - button "Retroceder 10 segundos" [ref=f23e22] [cursor=pointer]:
+                    - generic [ref=f23e25]: "10"
+                  - button "Adelantar 10 segundos" [ref=f23e26] [cursor=pointer]:
+                    - generic [ref=f23e29]: "10"
+                  - generic [ref=f23e30]:
+                    - button "Activar sonido" [ref=f23e31] [cursor=pointer]
+                    - generic [ref=f23e34] [cursor=pointer]
+                  - generic [ref=f23e35]:
+                    - text: 0:00
+                    - generic [ref=f23e36]: / 0:00
+                - generic [ref=f23e37]:
+                  - 'button "Velocidad de reproducción: 1x" [ref=f23e39] [cursor=pointer]':
+                    - generic [ref=f23e40]: 1x
+                  - button "Ver en ventana flotante (Picture-in-Picture)" [ref=f23e41] [cursor=pointer]
+                  - button "Pantalla completa" [ref=f23e44] [cursor=pointer]
+        - paragraph [ref=f22e251]: Zoom • Comandos • Mapas electorales • Liderazgo • Crisis • Tecnología
+    - generic [ref=f22e252]:
+      - generic [ref=f22e253]:
+        - paragraph [ref=f22e256]: diploma
+        - heading "Formar consultores capaces de dirigir la Estrategia completa de una campaña." [level=2] [ref=f22e259]
+      - generic "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas." [ref=f22e262]:
+        - tablist [ref=f22e263]:
+          - tab "Objetivo del diploma" [selected] [ref=f22e264] [cursor=pointer]
+          - tab "¿A quiénes está dirigido?" [ref=f22e266] [cursor=pointer]
+          - tab "Perfil del egresado" [ref=f22e268] [cursor=pointer]
+        - tabpanel "Objetivo del diploma" [ref=f22e271]:
+          - heading "Objetivo del diploma" [level=3] [ref=f22e275]
+          - generic [ref=f22e277]:
+            - paragraph [ref=f22e278]:
+              - strong [ref=f22e279]: Formar consultores capaces de diseñar y dirigir estrategias
+              - text: de campaña electoral, analizar escenarios políticos y tomar decisiones utilizando herramientas de territorio, inteligencia, comunicación, tecnología, liderazgo y gestión de crisis.
+            - paragraph [ref=f22e280]:
+              - strong [ref=f22e281]: A lo largo del diploma,
+              - text: el participante llevará estos conocimientos a la práctica mediante una simulación electoral competitiva.
+    - generic [ref=f22e283]:
+      - generic [ref=f22e284]:
+        - paragraph [ref=f22e287]: Simulador exclusivo
+        - heading "War Room" [level=2] [ref=f22e290]
+        - heading "Aquí no solo estudias una campaña. La vives." [level=3] [ref=f22e293]: Aquí no solo estudiasuna campaña. La vives.
+        - paragraph [ref=f22e296]: Desde la primera semana formarás parte de un comando que competirá dentro de una simulación electoral.
+      - generic "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas." [ref=f22e299]:
+        - tablist [ref=f22e300]:
+          - tab "Diagnóstico" [selected] [ref=f22e301] [cursor=pointer]
+          - tab "Construye tu estrategia" [ref=f22e303] [cursor=pointer]
+          - tab "Responde bajo presión" [ref=f22e305] [cursor=pointer]
+          - tab "Defiende tu campaña" [ref=f22e307] [cursor=pointer]
+        - tabpanel "Diagnóstico" [ref=f22e310]
+      - generic [ref=f22e313]:
+        - paragraph [ref=f22e316]: Integra un equipo con funciones reales de una campaña electoral.
+        - paragraph [ref=f22e319]: Analiza territorio, públicos, mensaje, escenarios y plan de acción.
+        - paragraph [ref=f22e322]: Enfrenta cambios de escenario, crisis, ataques, riesgos y decisiones estratégicas.
+        - paragraph [ref=f22e325]: Presenta la estrategia integral de tu comando ante un jurado especializado.
+    - generic [ref=f22e327]:
+      - generic [ref=f22e328]:
+        - paragraph [ref=f22e331]: Plan de estudios
+        - heading [level=2] [ref=f22e334]:
+          - text: Una formación integral
+          - generic [ref=f22e335]: para dirigir campañas.
+        - paragraph [ref=f22e338]: Cada módulo alimenta el siguiente hasta culminar en el War Room.
+        - generic [ref=f22e339]:
+          - generic [ref=f22e340]:
+            - paragraph [ref=f22e351]: "10"
+            - paragraph [ref=f22e354]: Módulos
+            - paragraph [ref=f22e357]: Especializados
+          - generic [ref=f22e358]:
+            - paragraph [ref=f22e374]: "4"
+            - paragraph [ref=f22e377]: Semanas
+            - paragraph [ref=f22e380]: Intensivas
+          - generic [ref=f22e381]:
+            - paragraph [ref=f22e396]: 100 %
+            - paragraph [ref=f22e399]: Metodología práctica
+            - paragraph [ref=f22e402]: Aprende haciendo
+        - link "Descargar plan de estudios" [ref=f22e406] [cursor=pointer]:
+          - /url: https://grupogoberna.com/wp-content/uploads/2026/09/BROCHURE-CONSULTOR-POLITICO-31-de-octubre.pdf
+          - generic [ref=f22e407]:
+            - generic [aria-hidden] [ref=f22e409]: 
+            - generic [ref=f22e410]: Descargar plan de estudios
+      - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f22e414]:
+        - group [ref=f22e415]:
+          - generic "Módulo Consultoría Política y Political Management Ocultar" [ref=f22e416] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e417]: Consultoría Política y Political Management
+            - generic [ref=f22e419]:
+              - generic [ref=f22e420]:
+                - text: Ocultar
+                - generic [aria-hidden] [ref=f22e421]: 
+              - text: Ver contenido 
+          - region [ref=f22e422]:
+            - paragraph [ref=f22e425]: Conoce el rol del consultor, forma tu comando y aprende cómo se organiza una campaña desde la estrategia.
+            - region [ref=f22e426]:
+              - region "Módulo Consultoría Política y Political Management Ocultar Conoce el rol del consultor, forma tu comando y aprende cómo se organiza una campaña desde la estrategia. Aprenderás Rol del consultor, estructura del comando y bases del Political Management. Aplicarás en tu campaña Conformación del comando, asignación de roles y lectura inicial del escenario electoral." [ref=f22e427]:
+                - heading "Aprenderás" [level=4] [ref=f22e430]
+                - paragraph [ref=f22e433]: Rol del consultor, estructura del comando y bases del Political Management.
+              - region "Módulo Consultoría Política y Political Management Ocultar Conoce el rol del consultor, forma tu comando y aprende cómo se organiza una campaña desde la estrategia. Aprenderás Rol del consultor, estructura del comando y bases del Political Management. Aplicarás en tu campaña Conformación del comando, asignación de roles y lectura inicial del escenario electoral." [ref=f22e434]:
+                - heading "Aplicarás en tu campaña" [level=4] [ref=f22e437]
+                - paragraph [ref=f22e440]: Conformación del comando, asignación de roles y lectura inicial del escenario electoral.
+        - group [ref=f22e441]:
+          - generic "Módulo Inteligencia Artificial aplicada a campañas Ver contenido" [ref=f22e442] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e443]: Inteligencia Artificial aplicada a campañas
+            - generic [ref=f22e445]:
+              - text: Ocultar 
+              - generic [ref=f22e446]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e447]: 
+        - group [ref=f22e448]:
+          - generic "Módulo Cartografía y Estrategia Electoral Ver contenido" [ref=f22e449] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e450]: Cartografía y Estrategia Electoral
+            - generic [ref=f22e452]:
+              - text: Ocultar 
+              - generic [ref=f22e453]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e454]: 
+        - group [ref=f22e455]:
+          - generic "Módulo Inteligencia Política Ver contenido" [ref=f22e456] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e457]: Inteligencia Política
+            - generic [ref=f22e459]:
+              - text: Ocultar 
+              - generic [ref=f22e460]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e461]: 
+        - group [ref=f22e462]:
+          - generic "Módulo Dirección de War Room Ver contenido" [ref=f22e463] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e464]: Dirección de War Room
+            - generic [ref=f22e466]:
+              - text: Ocultar 
+              - generic [ref=f22e467]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e468]: 
+        - group [ref=f22e469]:
+          - generic "Módulo Desinformación y Defensa Estratégica Ver contenido" [ref=f22e470] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e471]: Desinformación y Defensa Estratégica
+            - generic [ref=f22e473]:
+              - text: Ocultar 
+              - generic [ref=f22e474]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e475]: 
+        - group [ref=f22e476]:
+          - generic "Módulo Lawfare y Riesgo Político Ver contenido" [ref=f22e477] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e478]: Lawfare y Riesgo Político
+            - generic [ref=f22e480]:
+              - text: Ocultar 
+              - generic [ref=f22e481]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e482]: 
+        - group [ref=f22e483]:
+          - generic "Módulo Activismo Político Ver contenido" [ref=f22e484] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e485]: Activismo Político
+            - generic [ref=f22e487]:
+              - text: Ocultar 
+              - generic [ref=f22e488]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e489]: 
+        - group [ref=f22e490]:
+          - generic "Módulo Liderazgo y Comunicación Política Ver contenido" [ref=f22e491] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e492]: Liderazgo y Comunicación Política
+            - generic [ref=f22e494]:
+              - text: Ocultar 
+              - generic [ref=f22e495]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e496]: 
+        - group [ref=f22e497]:
+          - generic "Módulo Proyecto Integral de Campaña Ver contenido" [ref=f22e498] [cursor=pointer]:
+            - text: Módulo
+            - generic [ref=f22e499]: Proyecto Integral de Campaña
+            - generic [ref=f22e501]:
+              - text: Ocultar 
+              - generic [ref=f22e502]:
+                - text: Ver contenido
+                - generic [aria-hidden] [ref=f22e503]: 
+    - generic [ref=f22e506]:
+      - heading "¿Quieres vivir esta experiencia en la próxima edición?" [level=2] [ref=f22e509]
+      - paragraph [ref=f22e512]: "Inicio: 31 de octubre | Online en vivo | 4 semanas"
+      - generic [ref=f22e513]:
+        - link "Reserva tu vacante" [ref=f22e517] [cursor=pointer]:
+          - /url: "#inscripcion"
+          - generic [ref=f22e518]:
+            - generic [aria-hidden] [ref=f22e520]: 
+            - generic [ref=f22e521]: Reserva tu vacante
+        - link "Hablar con un asesor" [ref=f22e525] [cursor=pointer]:
+          - /url: https://wa.link/y4ww8t
+          - generic [ref=f22e526]:
+            - generic [aria-hidden] [ref=f22e528]: 
+            - generic [ref=f22e529]: Hablar con un asesor
+    - generic [ref=f22e531]:
+      - heading "Aprende de especialistas en estrategia, campañas e inteligencia." [level=2] [ref=f22e534]
+      - generic [ref=f22e536]:
+        - region "Docentes" [ref=f22e537]:
+          - generic [ref=f22e538]:
+            - group [aria-hidden] [ref=f22e539]:
+              - generic [ref=f22e541]:
+                - paragraph [ref=f22e547]: Perú
+                - generic [ref=f22e548]:
+                  - heading [level=3] [ref=f22e551]: Roberto J. Bazán
+                  - paragraph [ref=f22e554]: Estrategia e inteligencia política
+                  - paragraph [ref=f22e557]: Magíster en Inteligencia Estratégica (CAEN), abogado y politólogo. Estratega político senior y CEO de GOBERNA.
+                  - link [ref=f22e561] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/roberto-bazan/
+                    - generic [ref=f22e562]:
+                      - generic [aria-hidden] [ref=f22e564]: 
+                      - generic [ref=f22e565]: Ver trayectoria
+            - group [aria-hidden] [ref=f22e566]:
+              - generic [ref=f22e568]:
+                - paragraph [ref=f22e574]: México
+                - generic [ref=f22e575]:
+                  - heading [level=3] [ref=f22e578]: Juan de Dios Páramo
+                  - paragraph [ref=f22e581]: Territorio y geografía electoral
+                  - paragraph [ref=f22e584]: Doctor en Geografía Económica por la UNAM y consultor especializado en análisis territorial y estrategia electoral.
+                  - link [ref=f22e588] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/juan-de-dios-paramo/
+                    - generic [ref=f22e589]:
+                      - generic [aria-hidden] [ref=f22e591]: 
+                      - generic [ref=f22e592]: Ver trayectoria
+            - group [aria-hidden] [ref=f22e593]:
+              - generic [ref=f22e595]:
+                - paragraph [ref=f22e601]: México
+                - generic [ref=f22e602]:
+                  - heading [level=3] [ref=f22e605]: Job Antonio Meneses
+                  - paragraph [ref=f22e608]: Estrategia electoral y campañas 360
+                  - paragraph [ref=f22e611]: Consultor senior internacional con más de 30 años en campañas de México y Perú. Especialista en war rooms y operación territorial.
+                  - link [ref=f22e615] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/job-meneses/
+                    - generic [ref=f22e616]:
+                      - generic [aria-hidden] [ref=f22e618]: 
+                      - generic [ref=f22e619]: Ver trayectoria
+            - group [aria-hidden] [ref=f22e620]:
+              - generic [ref=f22e622]:
+                - paragraph [ref=f22e628]: Perú
+                - generic [ref=f22e629]:
+                  - heading [level=3] [ref=f22e632]: Roberto J. Bazán
+                  - paragraph [ref=f22e635]: Estrategia e inteligencia política
+                  - paragraph [ref=f22e638]: Magíster en Inteligencia Estratégica (CAEN), abogado y politólogo. Estratega político senior y CEO de GOBERNA.
+                  - link [ref=f22e642] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/roberto-bazan/
+                    - generic [ref=f22e643]:
+                      - generic [aria-hidden] [ref=f22e645]: 
+                      - generic [ref=f22e646]: Ver trayectoria
+            - group "2 / 3" [ref=f22e647]:
+              - generic [ref=f22e649]:
+                - paragraph [ref=f22e655]: México
+                - generic [ref=f22e656]:
+                  - heading "Juan de Dios Páramo" [level=3] [ref=f22e659]
+                  - paragraph [ref=f22e662]: Territorio y geografía electoral
+                  - paragraph [ref=f22e665]: Doctor en Geografía Económica por la UNAM y consultor especializado en análisis territorial y estrategia electoral.
+                  - link "Ver trayectoria" [ref=f22e669] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/juan-de-dios-paramo/
+                    - generic [ref=f22e670]:
+                      - generic [aria-hidden] [ref=f22e672]: 
+                      - generic [ref=f22e673]: Ver trayectoria
+            - group "3 / 3" [ref=f22e674]:
+              - generic [ref=f22e676]:
+                - paragraph [ref=f22e682]: México
+                - generic [ref=f22e683]:
+                  - heading "Job Antonio Meneses" [level=3] [ref=f22e686]
+                  - paragraph [ref=f22e689]: Estrategia electoral y campañas 360
+                  - paragraph [ref=f22e692]: Consultor senior internacional con más de 30 años en campañas de México y Perú. Especialista en war rooms y operación territorial.
+                  - link "Ver trayectoria" [ref=f22e696] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/job-meneses/
+                    - generic [ref=f22e697]:
+                      - generic [aria-hidden] [ref=f22e699]: 
+                      - generic [ref=f22e700]: Ver trayectoria
+            - group "1 / 3" [ref=f22e701]:
+              - generic [ref=f22e703]:
+                - paragraph [ref=f22e709]: Perú
+                - generic [ref=f22e710]:
+                  - heading "Roberto J. Bazán" [level=3] [ref=f22e713]
+                  - paragraph [ref=f22e716]: Estrategia e inteligencia política
+                  - paragraph [ref=f22e719]: Magíster en Inteligencia Estratégica (CAEN), abogado y politólogo. Estratega político senior y CEO de GOBERNA.
+                  - link "Ver trayectoria" [ref=f22e723] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/roberto-bazan/
+                    - generic [ref=f22e724]:
+                      - generic [aria-hidden] [ref=f22e726]: 
+                      - generic [ref=f22e727]: Ver trayectoria
+            - group [aria-hidden] [ref=f22e728]:
+              - generic [ref=f22e730]:
+                - paragraph [ref=f22e736]: México
+                - generic [ref=f22e737]:
+                  - heading [level=3] [ref=f22e740]: Juan de Dios Páramo
+                  - paragraph [ref=f22e743]: Territorio y geografía electoral
+                  - paragraph [ref=f22e746]: Doctor en Geografía Económica por la UNAM y consultor especializado en análisis territorial y estrategia electoral.
+                  - link [ref=f22e750] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/juan-de-dios-paramo/
+                    - generic [ref=f22e751]:
+                      - generic [aria-hidden] [ref=f22e753]: 
+                      - generic [ref=f22e754]: Ver trayectoria
+            - group [aria-hidden] [ref=f22e755]:
+              - generic [ref=f22e757]:
+                - paragraph [ref=f22e763]: México
+                - generic [ref=f22e764]:
+                  - heading [level=3] [ref=f22e767]: Job Antonio Meneses
+                  - paragraph [ref=f22e770]: Estrategia electoral y campañas 360
+                  - paragraph [ref=f22e773]: Consultor senior internacional con más de 30 años en campañas de México y Perú. Especialista en war rooms y operación territorial.
+                  - link [ref=f22e777] [cursor=pointer]:
+                    - /url: https://grupogoberna.com/job-meneses/
+                    - generic [ref=f22e778]:
+                      - generic [aria-hidden] [ref=f22e780]: 
+                      - generic [ref=f22e781]: Ver trayectoria
+        - button "Diapositiva anterior" [ref=f22e782] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f22e783]: 
+        - button "Diapositiva siguiente" [ref=f22e784] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f22e785]: 
+        - generic [ref=f22e786]:
+          - button "Ir a la diapositiva 1" [ref=f22e787] [cursor=pointer]
+          - button "Ir a la diapositiva 2" [ref=f22e788] [cursor=pointer]
+          - button "Ir a la diapositiva 3" [ref=f22e789] [cursor=pointer]
+    - generic [ref=f22e792]:
+      - paragraph [ref=f22e795]: Presencia internacional
+      - heading "Una red que habla el idioma político de Latinoamérica." [level=2] [ref=f22e798]
+      - paragraph [ref=f22e801]: Egresados en 18 países que hoy dirigen campañas, asesoran gobiernos y lideran equipos de comunicación.
+      - generic [ref=f22e806]:
+        - generic [ref=f22e807]:
+          - paragraph [ref=f22e810]: "+15"
+          - paragraph [ref=f22e813]: Países
+        - generic [ref=f22e814]:
+          - paragraph [ref=f22e817]: +10K
+          - paragraph [ref=f22e820]: Egresados
+        - generic [ref=f22e821]:
+          - paragraph [ref=f22e824]: "+300"
+          - paragraph [ref=f22e827]: Campañas
+    - generic [ref=f22e834]:
+      - paragraph [ref=f22e837]: Certificación
+      - heading [level=2] [ref=f22e840]:
+        - text: Una formación
+        - generic [ref=f22e841]: Dos formas de acreditarla.
+      - paragraph [ref=f22e844]:
+        - text: Al culminar satisfactoriamente el programa recibirás la certificación de
+        - strong [ref=f22e845]: Goberna Political Management.
+        - text: Además, podrás solicitar una certificación adicional gracias a nuestra alianza académica.
+      - generic [ref=f22e854]:
+        - heading "GOBERNA Political Management" [level=3] [ref=f22e857]
+        - paragraph [ref=f22e860]: Diploma Internacional del Consultor Político
+      - generic [ref=f22e869]:
+        - heading "Institución académica aliada" [level=3] [ref=f22e872]
+        - paragraph [ref=f22e875]: Certificado de especialización universitaria
+        - link "Hablar con un asesor" [ref=f22e879] [cursor=pointer]:
+          - /url: https://wa.link/y4ww8t
+          - generic [ref=f22e880]:
+            - generic [aria-hidden] [ref=f22e882]: 
+            - generic [ref=f22e883]: Hablar con un asesor
+    - generic [ref=f22e885]:
+      - generic [ref=f22e886]:
+        - paragraph [ref=f22e889]: Inversión
+        - heading "Tu próxima campaña empieza aquí" [level=2] [ref=f22e892]: Tu próxima campañaempieza aquí
+        - paragraph [ref=f22e895]:
+          - generic [ref=f22e896]: $
+          - text: "200"
+          - generic [ref=f22e897]: USD
+        - generic [ref=f22e902]:
+          - generic [ref=f22e903]:
+            - paragraph [ref=f22e906]: Inicio
+            - paragraph [ref=f22e909]: 31 de octubre
+          - generic [ref=f22e910]:
+            - paragraph [ref=f22e913]: Facilidades
+            - paragraph [ref=f22e916]: Hasta en 4 cuotas
+        - link "Quiero inscribirme" [ref=f22e920] [cursor=pointer]:
+          - /url: https://grupogoberna.com/checkout/?add-to-cart=90894&quantity=1
+        - paragraph [ref=f22e925]: Vacantes limitadas para garantizar la dinámica del War Room.
+      - generic [ref=f22e926]:
+        - paragraph [ref=f22e929]: Admisión
+        - heading "Habla con un asesor" [level=2] [ref=f22e932]
+        - paragraph [ref=f22e935]: Déjanos tus datos y un asesor de GOBERNA te contactará.
+        - form "Consultor Político · Habla con un asesor" [ref=f22e938]:
+          - generic [ref=f22e939]:
+            - generic [ref=f22e940]:
+              - generic [ref=f22e941] [cursor=pointer]: Nombre completo
+              - textbox "Nombre completo" [ref=f22e942]:
+                - /placeholder: Ej. María Pérez
+            - generic [ref=f22e943]:
+              - generic [ref=f22e944] [cursor=pointer]: País
+              - generic [ref=f22e945]:
+                - generic:
+                  - generic [aria-hidden]: 
+                - combobox "País Pais" [ref=f22e946] [cursor=pointer]:
+                  - option "Selecciona tu país" [selected]
+                  - option "Argentina"
+                  - option "Bolivia"
+                  - option "Brasil"
+                  - option "Chile"
+                  - option "Colombia"
+                  - option "Costa Rica"
+                  - option "Cuba"
+                  - option "Ecuador"
+                  - option "El Salvador"
+                  - option "España"
+                  - option "Guatemala"
+                  - option "Honduras"
+                  - option "México"
+                  - option "Nicaragua"
+                  - option "Panamá"
+                  - option "Paraguay"
+                  - option "Perú"
+                  - option "Puerto Rico"
+                  - option "República Dominicana"
+                  - option "Uruguay"
+                  - option "Venezuela"
+                  - option "Otro"
+            - generic [ref=f22e947]:
+              - generic [ref=f22e948] [cursor=pointer]: Teléfono
+              - textbox "Teléfono" [ref=f22e949]:
+                - /placeholder: Ej. +51 999 999 999
+            - generic [ref=f22e950]:
+              - generic [ref=f22e951] [cursor=pointer]: Cargo
+              - textbox "Cargo" [ref=f22e952]:
+                - /placeholder: Ej. Jefe de campaña
+            - generic [ref=f22e953]:
+              - generic [ref=f22e954] [cursor=pointer]: Correo electrónico
+              - textbox "Correo electrónico Correo electrónico" [ref=f22e955]:
+                - /placeholder: nombre@correo.com
+            - button "Quiero que me contacten" [ref=f22e957] [cursor=pointer]
+        - paragraph [ref=f22e962]: Tus datos se usan solo para contactarte sobre el diploma.
+    - generic [ref=f22e966]:
+      - paragraph [ref=f22e969]: Experiencia Goberna
+      - heading [level=2] [ref=f22e972]:
+        - text: "Más que un aula:"
+        - generic [ref=f22e973]: Una comunidad que actúa
+      - paragraph [ref=f22e976]: Amplía tu red de contactos, intercambia experiencias con profesionales internacionales y genera oportunidades de colaboración y crecimiento profesional.
+      - paragraph [ref=f22e979]:
+        - generic [ref=f22e980]: Voces
+      - generic [ref=f22e981]:
+        - button "Alina Martínez Colombia" [ref=f22e982] [cursor=pointer]:
+          - generic [ref=f22e989]:
+            - paragraph [ref=f22e992]: Alina Martínez
+            - paragraph [ref=f22e995]: Colombia
+        - button "Lorena Coria Bolivia" [ref=f22e996] [cursor=pointer]:
+          - generic [ref=f22e1003]:
+            - paragraph [ref=f22e1006]: Lorena Coria
+            - paragraph [ref=f22e1009]: Bolivia
+        - button "Miguel Figueroa México" [ref=f22e1010] [cursor=pointer]:
+          - generic [ref=f22e1017]:
+            - paragraph [ref=f22e1020]: Miguel Figueroa
+            - paragraph [ref=f22e1023]: México
+    - generic [ref=f22e1025]:
+      - generic [ref=f22e1026]:
+        - paragraph [ref=f22e1029]: Preguntas frecuentes
+        - heading [level=2] [ref=f22e1032]:
+          - text: Resolvemos tus dudas
+          - generic [ref=f22e1033]: antes de que decidas.
+        - paragraph [ref=f22e1036]: Aquí encontrarás respuestas claras sobre el programa, la metodología y tu certificación.
+      - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f22e1040]:
+        - group [ref=f22e1041]:
+          - generic "¿Cómo se realizan las clases?" [ref=f22e1042] [cursor=pointer]:
+            - generic [ref=f22e1045]:
+              - generic [aria-hidden] [ref=f22e1047]: 
+              - text: 
+          - region "¿Cómo se realizan las clases? Las sesiones se desarrollan 100% online y en vivo vía Zoom, permitiendo la interacción con el docente y los demás participantes durante el programa." [ref=f22e1048]:
+            - paragraph [ref=f22e1051]: Las sesiones se desarrollan 100% online y en vivo vía Zoom, permitiendo la interacción con el docente y los demás participantes durante el programa.
+        - group [ref=f22e1052]:
+          - generic "¿Cuánto dura el programa?" [ref=f22e1053] [cursor=pointer]:
+            - generic [ref=f22e1056]:
+              - text: 
+              - generic [aria-hidden] [ref=f22e1058]: 
+        - group [ref=f22e1059]:
+          - generic "¿Qué incluye mi inscripción?" [ref=f22e1060] [cursor=pointer]:
+            - generic [ref=f22e1063]:
+              - text: 
+              - generic [aria-hidden] [ref=f22e1065]: 
+        - group [ref=f22e1066]:
+          - generic "¿Cuáles son los medios de pago disponibles?" [ref=f22e1067] [cursor=pointer]:
+            - generic [ref=f22e1070]:
+              - text: 
+              - generic [aria-hidden] [ref=f22e1072]: 
+        - group [ref=f22e1073]:
+          - generic "¿Cómo puedo inscribirme?" [ref=f22e1074] [cursor=pointer]:
+            - generic [ref=f22e1077]:
+              - text: 
+              - generic [aria-hidden] [ref=f22e1079]: 
+    - generic [ref=f22e1081]:
+      - generic [ref=f22e1082]:
+        - heading "Suscríbete a nuestro Newsletter" [level=2] [ref=f22e1085]
+        - form "newsletter" [ref=f22e1088]:
+          - generic [ref=f22e1089]:
+            - generic [ref=f22e1090]:
+              - generic [ref=f22e1091] [cursor=pointer]: Nombre
+              - textbox "Nombre" [ref=f22e1092]
+            - generic [ref=f22e1093]:
+              - generic [ref=f22e1094] [cursor=pointer]: Correo electrónico
+              - textbox "Correo electrónico" [ref=f22e1095]
+            - generic [ref=f22e1096]:
+              - generic [ref=f22e1097] [cursor=pointer]: Pais
+              - generic [ref=f22e1098]:
+                - generic:
+                  - generic [aria-hidden]: 
+                - combobox [ref=f22e1099]:
+                  - option "Argentina" [selected]
+                  - option "Bolivia"
+                  - option "Brasil"
+                  - option "Chile"
+                  - option "Colombia"
+                  - option "Costa Rica"
+                  - option "Cuba"
+                  - option "Ecuador"
+                  - option "El Salvador"
+                  - option "España"
+                  - option "Estados Unidos"
+                  - option "Guatemala"
+                  - option "Honduras"
+                  - option "México"
+                  - option "Nicaragua"
+                  - option "Panamá"
+                  - option "Paraguay"
+                  - option "Perú"
+                  - option "Puerto Rico"
+                  - option "República Dominicana"
+                  - option "Uruguay"
+                  - option "Venezuela"
+                  - option "Alemania"
+                  - option "Canadá"
+                  - option "Francia"
+                  - option "Italia"
+                  - option "Reino Unido"
+                  - option "Otros"
+            - generic [ref=f22e1100]:
+              - generic [ref=f22e1101] [cursor=pointer]: Aceptacion
+              - generic [ref=f22e1103]:
+                - checkbox "Aceptacion Autorizo al Grupo Goberna el uso de mis datos para suscribirme al newsletter y recibir noticias, eventos y novedades, según la Ley N.° 29733." [ref=f22e1104]
+                - text: Autorizo al Grupo Goberna el uso de mis datos para suscribirme al newsletter y recibir noticias, eventos y novedades, según la Ley N.° 29733.
+            - button "Enviar" [ref=f22e1106] [cursor=pointer]
+      - generic [ref=f22e1109]:
+        - generic [ref=f22e1110]:
+          - heading "Estados Unidos" [level=2] [ref=f22e1120]
+          - list [ref=f22e1123]:
+            - listitem [ref=f22e1124]:
+              - generic [aria-hidden] [ref=f22e1126]: 
+              - generic [ref=f22e1127]: (+1) 786 4141971
+            - listitem [ref=f22e1128]:
+              - link "informes@goberna.us" [ref=f22e1129] [cursor=pointer]:
+                - /url: mailto:iformes@goberna.us?subject=%5BWEB%20GOBERNA%5D%20
+                - generic [aria-hidden] [ref=f22e1131]: 
+            - listitem [ref=f22e1133]:
+              - link "goberna.us" [ref=f22e1134] [cursor=pointer]:
+                - /url: http://goberna.us
+                - generic [aria-hidden] [ref=f22e1136]: 
+            - listitem [ref=f22e1138]:
+              - generic [aria-hidden] [ref=f22e1140]: 
+              - generic [ref=f22e1141]: "1900 N Bayshore Dr Suite 1A #136-2023 Miami, Florida, 33132 United States"
+        - generic [ref=f22e1142]:
+          - heading "México" [level=2] [ref=f22e1155]
+          - list [ref=f22e1158]:
+            - listitem [ref=f22e1159]:
+              - generic [aria-hidden] [ref=f22e1161]: 
+              - generic [ref=f22e1162]: (+52) 156 1058 4485
+            - listitem [ref=f22e1163]:
+              - link "mexico@grupogoberna.com" [ref=f22e1164] [cursor=pointer]:
+                - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                - generic [aria-hidden] [ref=f22e1166]: 
+            - listitem [ref=f22e1168]:
+              - link "grupogoberna.com" [ref=f22e1169] [cursor=pointer]:
+                - /url: http://grupogoberna.com
+                - generic [aria-hidden] [ref=f22e1171]: 
+            - listitem [ref=f22e1173]:
+              - generic [aria-hidden] [ref=f22e1175]: 
+              - generic [ref=f22e1176]: Río Tiber 100 col. Cuauhtémoc Piso 6 - Ciudad de México
+        - generic [ref=f22e1177]:
+          - heading "Perú" [level=2] [ref=f22e1187]
+          - list [ref=f22e1190]:
+            - listitem [ref=f22e1191]:
+              - generic [aria-hidden] [ref=f22e1193]: 
+              - generic [ref=f22e1194]: (+51) 944 531 711
+            - listitem [ref=f22e1195]:
+              - link "informes@goberna.pe" [ref=f22e1196] [cursor=pointer]:
+                - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                - generic [aria-hidden] [ref=f22e1198]: 
+            - listitem [ref=f22e1200]:
+              - link "grupogoberna.com" [ref=f22e1201] [cursor=pointer]:
+                - /url: http://goberna.pe
+                - generic [aria-hidden] [ref=f22e1203]: 
+            - listitem [ref=f22e1205]:
+              - generic [aria-hidden] [ref=f22e1207]: 
+              - generic [ref=f22e1208]: Avenida Manuel Olguín 335 - of 608, Surco, Lima
+        - generic [ref=f22e1209]:
+          - heading "Ecuador" [level=2] [ref=f22e1219]
+          - list [ref=f22e1222]:
+            - listitem [ref=f22e1223]:
+              - generic [aria-hidden] [ref=f22e1225]: 
+              - generic [ref=f22e1226]: (+593) 99 207 3457
+            - listitem [ref=f22e1227]:
+              - link "infoecuador@goberna.pe" [ref=f22e1228] [cursor=pointer]:
+                - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                - generic [aria-hidden] [ref=f22e1230]: 
+            - listitem [ref=f22e1232]:
+              - link "grupogoberna.com" [ref=f22e1233] [cursor=pointer]:
+                - /url: http://goberna.pe
+                - generic [aria-hidden] [ref=f22e1235]: 
+            - listitem [ref=f22e1237]:
+              - generic [aria-hidden] [ref=f22e1239]: 
+              - generic [ref=f22e1240]: Edificio The Point, Of. 2307, Ciudad del Río, Puerto Santa Ana - Guayaquil
+        - generic [ref=f22e1241]:
+          - heading "Bolivia" [level=2] [ref=f22e1254]
+          - list [ref=f22e1257]:
+            - listitem [ref=f22e1258]:
+              - generic [aria-hidden] [ref=f22e1260]: 
+              - generic [ref=f22e1261]: (+591) 78814740
+            - listitem [ref=f22e1262]:
+              - link "bolivia@grupogoberna.com" [ref=f22e1263] [cursor=pointer]:
+                - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                - generic [aria-hidden] [ref=f22e1265]: 
+            - listitem [ref=f22e1267]:
+              - link "grupogoberna.com" [ref=f22e1268] [cursor=pointer]:
+                - /url: http://grupogoberna.com
+                - generic [aria-hidden] [ref=f22e1270]: 
+            - listitem [ref=f22e1272]:
+              - generic [aria-hidden] [ref=f22e1274]: 
+              - generic [ref=f22e1275]: Av. Beni Edificio Top Center, Piso 7 Of. 7C - Santa Cruz
+        - generic [ref=f22e1276]:
+          - heading "Brasil" [level=2] [ref=f22e1282]
+          - list [ref=f22e1285]:
+            - listitem [ref=f22e1286]:
+              - generic [aria-hidden] [ref=f22e1288]: 
+              - generic [ref=f22e1289]: +55 21 98126-9882
+            - listitem [ref=f22e1290]:
+              - link "brasil@grupogoberna.com" [ref=f22e1291] [cursor=pointer]:
+                - /url: mailto:informes@goberna.pe?subject=%5BWEB%20GOBERNA%5D%20
+                - generic [aria-hidden] [ref=f22e1293]: 
+            - listitem [ref=f22e1295]:
+              - link "grupogoberna.com" [ref=f22e1296] [cursor=pointer]:
+                - /url: http://grupogoberna.com
+                - generic [aria-hidden] [ref=f22e1298]: 
+            - listitem [ref=f22e1300]:
+              - generic [aria-hidden] [ref=f22e1302]: 
+              - generic [ref=f22e1303]: Praia de Botafogo, 360 - 520 c - Botafogo, Rio de Janeiro
+      - list [ref=f22e1307]:
+        - listitem [ref=f22e1308]:
+          - link "Libro de Reclamaciones" [ref=f22e1309] [cursor=pointer]:
+            - /url: https://grupogoberna.com/libro-de-reclamaciones/
+            - generic [aria-hidden] [ref=f22e1311]: 
+        - listitem [ref=f22e1313]:
+          - link "Política de Privacidad" [ref=f22e1314] [cursor=pointer]:
+            - /url: https://grupogoberna.com/politica-de-privacidad/
+        - listitem [ref=f22e1316]:
+          - link "Términos y condiciones" [ref=f22e1317] [cursor=pointer]:
+            - /url: https://grupogoberna.com/terminos-y-condiciones/
+    - contentinfo [ref=f22e1319]:
+      - generic [ref=f22e1320]:
+        - paragraph [ref=f22e1324]: Pagado por "Grupo Goberna" © Todos los derechos reservadosMéxico | Perú | Ecuador | Bolivia | Colombia | República Dominicana | Chile | Panamá | Costa Rica | Guatemala | Honduras | El Salvador | Uruguay
+        - list [ref=f22e1328]:
+          - listitem [ref=f22e1329]:
+            - link "Facebook-f" [ref=f22e1330] [cursor=pointer]:
+              - /url: https://www.facebook.com/gobernacorp/
+              - generic [aria-hidden] [ref=f22e1332]: 
+          - listitem [ref=f22e1333]:
+            - link "Twitter" [ref=f22e1334] [cursor=pointer]:
+              - /url: https://twitter.com/GobernaConsult
+              - generic [aria-hidden] [ref=f22e1336]: 
+          - listitem [ref=f22e1337]:
+            - link "Instagram" [ref=f22e1338] [cursor=pointer]:
+              - /url: https://www.instagram.com/gobernacorp
+              - generic [aria-hidden] [ref=f22e1340]: 
+          - listitem [ref=f22e1341]:
+            - link "Linkedin" [ref=f22e1342] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/goberna-analytics
+              - generic [aria-hidden] [ref=f22e1344]: 
+          - listitem [ref=f22e1345]:
+            - link "Youtube" [ref=f22e1346] [cursor=pointer]:
+              - /url: https://www.youtube.com/GobernaSAC
+              - generic [aria-hidden] [ref=f22e1348]: 
+          - listitem [ref=f22e1349]:
+            - link "Vimeo" [ref=f22e1350] [cursor=pointer]:
+              - /url: https://vimeo.com/goberna
+              - generic [aria-hidden] [ref=f22e1352]: 
+          - listitem [ref=f22e1353]:
+            - link "Telegram-plane" [ref=f22e1354] [cursor=pointer]:
+              - /url: http://t.me/GobernaCorp
+              - generic [aria-hidden] [ref=f22e1356]: 
+  - generic:
+    - button "Abrir chat" [ref=f22e1357] [cursor=pointer]
+    - dialog "WhatsApp"
+  - generic [ref=f22e1358]: desktop
+  - status [ref=f22e1359]
+  - iframe [ref=f22e1360]: <img src="https://api.openpay.pe/logo.gif?m=203000&amp;s=kmbEITdtQZy90E4fRaR2SubNZpY3i6Sn" width="1" height="1">
+  - iframe [ref=f22e1361]: <img src="https://api.openpay.pe/oa/logo.gif?m=mgd5sttixaxqvwbi0vvl&amp;s=kmbEITdtQZy90E4fRaR2SubNZpY3i6Sn" width="1" height="1">

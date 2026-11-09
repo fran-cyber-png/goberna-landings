@@ -1,0 +1,14 @@
+[     348ms] [LOG] PixelYourSite Free version 11.4.4 @ https://grupogoberna.com/diploma-internacional-del-consultor-politico/:58
+[   20033ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://grupogoberna.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[   20041ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://grupogoberna.com/diploma-internacional-del-consultor-politico/:630
+[   32920ms] [LOG] executing sift mode @ https://grupogoberna.com/wp-content/cache/min/1/ae76a8b9a585/openpay-data.v1.min.js?ver=1792775183:1
+[   33506ms] [ERROR] Failed to load resource: the server responded with a status of 412 () @ https://api.openpay.pe/v1/mgd5sttixaxqvwbi0vvl/antifraudkeys:0
+[   33881ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[   33881ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ :0
+[   33881ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[   33881ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ :0
+[   33881ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ :0
+[   33881ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ :0
+[   34251ms] [LOG] jQuery Migrate v3.4.1 @ https://grupogoberna.com/wp-content/cache/min/1/4e282b87a7c1/wp-content/plugins/openpay-cards/assets/js/openpay.js?ver=1792775183:0
+[   34251ms] [LOG] jQuery v3.7.1 @ https://grupogoberna.com/wp-content/cache/min/1/4e282b87a7c1/wp-content/plugins/openpay-cards/assets/js/openpay.js?ver=1792775183:0
+[   37071ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3566

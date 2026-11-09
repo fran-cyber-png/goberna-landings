@@ -1,0 +1,528 @@
+- generic [active] [ref=f9e1]:
+  - banner [ref=f9e2]:
+    - generic [ref=f9e3]:
+      - link [ref=f9e4] [cursor=pointer]:
+        - /url: "#hero"
+        - img "GOBERNA" [ref=f9e5]
+      - generic [ref=f9e6]:
+        - navigation [ref=f9e7]:
+          - link "INICIO" [ref=f9e8] [cursor=pointer]:
+            - /url: "#hero"
+          - link "SOBRE EL DIPLOMA" [ref=f9e9] [cursor=pointer]:
+            - /url: "#sobre"
+          - link "PROGRAMA" [ref=f9e10] [cursor=pointer]:
+            - /url: "#programa"
+          - link "DOCENTES" [ref=f9e11] [cursor=pointer]:
+            - /url: "#docentes"
+          - link "CERTIFICACIÓN" [ref=f9e12] [cursor=pointer]:
+            - /url: "#certificacion"
+          - link "CONTACTO" [ref=f9e13] [cursor=pointer]:
+            - /url: "#contacto"
+        - generic [aria-hidden]:
+          - generic:
+            - generic:
+              - generic: Modalidad
+              - generic: Online
+          - generic:
+            - generic:
+              - generic: Fecha
+              - generic: Lunes 31 de Agosto
+          - generic:
+            - generic:
+              - generic: Hora
+              - generic: 19:00–21:00 (UTC-5)
+          - generic:
+            - generic:
+              - generic: Duración
+              - generic: 10 módulos · 4 semanas
+      - link "Inscribirme ahora" [ref=f9e14] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=f9e15]:
+    - generic [ref=f9e17]:
+      - generic [ref=f9e18]:
+        - generic [ref=f9e19]:
+          - paragraph [ref=f9e20]: Diploma Internacional
+          - heading "Consultor Político" [level=1] [ref=f9e21]: ConsultorPolítico
+        - generic [ref=f9e22]:
+          - link "Inscribirme ahora" [ref=f9e23] [cursor=pointer]:
+            - /url: "#"
+          - link "Descargar Brochure" [ref=f9e26] [cursor=pointer]:
+            - /url: assets/brochure-consultor-politico-agosto.pdf?v=ago26b
+      - generic [ref=f9e29]:
+        - generic [ref=f9e31]:
+          - generic [ref=f9e32]: Modalidad
+          - generic [ref=f9e33]: Online
+        - generic [ref=f9e35]:
+          - generic [ref=f9e36]: Fecha
+          - generic [ref=f9e37]: Lunes 31 de Agosto
+        - generic [ref=f9e39]:
+          - generic [ref=f9e40]: Hora
+          - generic [ref=f9e41]: 19:00–21:00 (UTC-5)
+        - generic [ref=f9e43]:
+          - generic [ref=f9e44]: Duración
+          - generic [ref=f9e45]: 10 módulos · 4 semanas
+    - link "WhatsApp" [ref=f9e46] [cursor=pointer]:
+      - /url: https://wa.me/51944531711?text=Hola%20Goberna%2C%20quiero%20m%C3%A1s%20informaci%C3%B3n%20del%20Diploma%20Internacional%20del%20Consultor%20Pol%C3%ADtico
+  - generic [ref=f9e50]:
+    - img "Mg. Roberto Bazán — CEO de GOBERNA" [ref=f9e52]
+    - generic [ref=f9e54]:
+      - paragraph [ref=f9e55]: ¿SABÍAS QUÉ?
+      - paragraph [ref=f9e56]: La gestión política surgió como una profesión antes que como una carrera universitaria. Nació en las campañas electorales y décadas después se incorporó a las principales escuelas de formación política del mundo.
+      - paragraph [ref=f9e58]: Roberto Bazán
+      - paragraph [ref=f9e59]: CEO GOBERNA
+    - link "Explorar historia Ver más >" [ref=f9e60] [cursor=pointer]:
+      - /url: "#sobre"
+      - generic [ref=f9e64]: Explorar historia
+      - generic [ref=f9e65]: Ver más >
+  - generic [ref=f9e67]:
+    - generic [ref=f9e68]:
+      - paragraph [ref=f9e69]: EL DESAFÍO DEL CONSULTOR POLÍTICO MODERNO
+      - heading "Political Management para Hispanoamérica" [level=2] [ref=f9e70]:
+        - generic [ref=f9e71]: Political Management
+        - strong [ref=f9e72]: para Hispanoamérica
+      - paragraph [ref=f9e73]: La gestión política moderna cambió la forma de ganar elecciones, construir liderazgo y ejercer el poder. Frente a metodologías ajenas a la realidad hispanoamericana, GOBERNA propone un modelo propio, adaptado a los desafíos políticos de América Latina.
+      - paragraph [ref=f9e74]: Así nace la primera metodología integral de Gestión Política de 4.ª Generación en español, que combina estrategia, inteligencia política, análisis territorial, comunicación, inteligencia artificial y gestión basada en datos para formar consultores, estrategas y directores de campaña capaces de competir y ganar en el siglo XXI.
+    - iframe [ref=f9e76]:
+      - generic [ref=f10e5]:
+        - generic [ref=f10e6] [cursor=pointer]
+        - generic [ref=f10e8]:
+          - slider "Barra de progreso del video" [ref=f10e9] [cursor=pointer]
+          - generic [ref=f10e11]:
+            - generic [ref=f10e12]:
+              - button "Pausar" [ref=f10e13] [cursor=pointer]
+              - button "Retroceder 10 segundos" [ref=f10e16] [cursor=pointer]
+              - button "Adelantar 10 segundos" [ref=f10e19] [cursor=pointer]
+              - generic [ref=f10e22]:
+                - button "Activar sonido" [ref=f10e23] [cursor=pointer]
+                - generic [ref=f10e26] [cursor=pointer]
+              - generic [ref=f10e27]:
+                - text: 0:00
+                - generic [ref=f10e28]: / 1:32
+            - generic [ref=f10e29]:
+              - 'button "Calidad de video: Auto" [ref=f10e31] [cursor=pointer]':
+                - generic [ref=f10e34]: Auto
+              - button "Pantalla completa" [ref=f10e35] [cursor=pointer]
+  - generic [ref=f9e79]:
+    - generic [ref=f9e80]:
+      - paragraph [ref=f9e81]: // EL PERFIL DEL ESTRATEGA POLÍTICO
+      - heading "El perfil del estratega político" [level=2] [ref=f9e82]
+      - paragraph [ref=f9e83]: Las capacidades detrás de quienes diseñan campañas y ganan elecciones.
+      - paragraph [ref=f9e84]: Pasa el cursor sobre cada capacidad para activarla y leer su descripción.
+      - generic:
+        - generic:
+          - paragraph [ref=f9e85]:
+            - generic [ref=f9e86]: ✓
+            - text: Perfil completo
+          - button "Inscríbete ahora" [ref=f9e87] [cursor=pointer]
+    - generic [ref=f9e90]:
+      - img "Estratega político" [ref=f9e101]
+      - list [ref=f9e102]:
+        - listitem [ref=f9e103]:
+          - button "Diseñar estrategias ganadoras" [ref=f9e104] [cursor=pointer]
+        - listitem [ref=f9e112]:
+          - button "Interpretar terreno electoral" [ref=f9e113] [cursor=pointer]
+        - listitem [ref=f9e120]:
+          - button "Dirigir campañas bajo presión" [ref=f9e121] [cursor=pointer]
+        - listitem [ref=f9e128]:
+          - button "Asesorar líderes y organizaciones" [ref=f9e129] [cursor=pointer]
+  - generic [ref=f9e139]:
+    - paragraph [ref=f9e140]: // LA NUEVA RUTA DEL ESTRATEGA ELECTORAL
+    - heading "De participante a estratega electoral" [level=2] [ref=f9e141]
+    - paragraph [ref=f9e142]: Un programa diseñado para desarrollar las capacidades analíticas, estratégicas y comunicacionales que distinguen a los profesionales capaces de construir liderazgo, diseñar estrategia y generar gobernabilidad.
+    - generic [ref=f9e143]:
+      - button "Anterior" [ref=f9e144] [cursor=pointer]
+      - generic [ref=f9e147]:
+        - article [ref=f9e148]:
+          - generic [ref=f9e149]:
+            - generic [ref=f9e150]: "01"
+            - generic [ref=f9e151]: Tu rol
+          - paragraph [ref=f9e152]: Asume tu lugar dentro de un comando electoral
+          - generic [ref=f9e153]:
+            - img "Comando electoral" [ref=f9e154]
+            - paragraph [ref=f9e155]: Identifica tus fortalezas y asume una función dentro de un comando electoral profesional.
+        - article [ref=f9e156]:
+          - generic [ref=f9e157]:
+            - generic [ref=f9e158]: "02"
+            - generic [ref=f9e159]: Tu entrenamiento
+          - paragraph [ref=f9e160]: Domina el método del consultor político
+          - generic [ref=f9e161]:
+            - img "Entrenamiento estratégico" [ref=f9e162]
+            - paragraph [ref=f9e163]: Aprende inteligencia política, estrategia, territorio, liderazgo, comunicación y dirección de campañas.
+        - article [ref=f9e164]:
+          - generic [ref=f9e165]:
+            - generic [ref=f9e166]: "03"
+            - generic [ref=f9e167]: Tu transformación
+          - paragraph [ref=f9e168]: Compite en escenarios reales de poder
+          - generic [ref=f9e169]:
+            - img "Estratega frente al Capitolio" [ref=f9e170]
+            - paragraph [ref=f9e171]: Diseña, defiende y ejecuta una campaña integral capaz de competir en escenarios reales de poder.
+      - button "Siguiente" [ref=f9e172] [cursor=pointer]
+  - generic [ref=f9e176]:
+    - heading "Ruta del estudiante" [level=2] [ref=f9e177]
+    - generic [ref=f9e178]:
+      - generic [ref=f9e179]:
+        - button "Perfil del egresado" [expanded] [ref=f9e180] [cursor=pointer]
+        - generic [ref=f9e182]:
+          - img "Profesional estratégico de alto impacto" [ref=f9e183]
+          - generic [ref=f9e185]:
+            - heading "El egresado del Diploma Internacional del Consultor Político" [level=3] [ref=f9e186]
+            - paragraph [ref=f9e187]: Será un profesional capacitado para diseñar y ejecutar campañas electorales ganadoras, aplicar estrategias políticas avanzadas, gestionar crisis y utilizar técnicas de inteligencia estratégica en el ámbito político. Con habilidades en oratoria, liderazgo, análisis territorial y prevención de ataques jurídicos, estará preparado para ofrecer servicios de asesoramiento en campañas electorales y gubernamentales a nivel internacional, contribuyendo con candidatos, organizaciones políticas y autoridades en la toma de decisiones efectivas y estratégicas.
+      - button "Campo laboral" [ref=f9e189] [cursor=pointer]
+      - button "Competencia del egresado" [ref=f9e192] [cursor=pointer]
+      - button "Bolsa de trabajo" [ref=f9e195] [cursor=pointer]
+  - generic [ref=f9e198]:
+    - paragraph [ref=f9e199]: // PERFIL DE INGRESO
+    - heading "¿Para quién es este diploma?" [level=2] [ref=f9e200]
+    - paragraph [ref=f9e201]: Diseñado para profesionales que buscan intervenir con solvencia técnica en campañas electorales, comunicación política, asesoramiento estratégico y gestión del poder.
+    - generic [ref=f9e202]:
+      - article [ref=f9e203]:
+        - generic [ref=f9e209]:
+          - heading "Asesores y equipos de campaña" [level=3] [ref=f9e210]
+          - paragraph [ref=f9e211]: Estrategia táctica
+      - article [ref=f9e212]:
+        - generic [ref=f9e216]:
+          - heading "Candidatos, militantes y dirigentes" [level=3] [ref=f9e217]
+          - paragraph [ref=f9e218]: Liderazgo electoral
+      - article [ref=f9e219]:
+        - generic [ref=f9e223]:
+          - heading "Publicistas y politólogos" [level=3] [ref=f9e224]
+          - paragraph [ref=f9e225]: Mensaje y datos
+      - article [ref=f9e226]:
+        - generic [ref=f9e232]:
+          - heading "Consultores de marketing político" [level=3] [ref=f9e233]
+          - paragraph [ref=f9e234]: Marca política
+      - article [ref=f9e235]:
+        - generic [ref=f9e240]:
+          - heading "Ejecutivos de relaciones institucionales" [level=3] [ref=f9e241]
+          - paragraph [ref=f9e242]: Vínculos y poder
+      - article [ref=f9e243]:
+        - generic [ref=f9e248]:
+          - heading "Periodistas e investigadores" [level=3] [ref=f9e249]
+          - paragraph [ref=f9e250]: Investigación
+      - article [ref=f9e251]:
+        - generic [ref=f9e257]:
+          - heading "Comunicadores y líderes de opinión" [level=3] [ref=f9e258]
+          - paragraph [ref=f9e259]: Vocería pública
+      - article [ref=f9e260]:
+        - generic [ref=f9e265]:
+          - heading "Estudiantes avanzados de política" [level=3] [ref=f9e266]
+          - paragraph [ref=f9e267]: Formación avanzada
+    - paragraph [ref=f9e268]:
+      - text: Al finalizar, estarás en capacidad de
+      - strong [ref=f9e269]: diseñar, dirigir y defender
+      - text: una campaña electoral integral bajo el modelo estratégico de la
+      - strong [ref=f9e270]: Máquina Electoral GOBERNA
+      - text: .
+  - generic [ref=f9e272]:
+    - heading "Aprende de quienes han estado en la sala donde se decide" [level=2] [ref=f9e273]: Aprende de quienes han estadoen la sala donde se decide
+    - generic [ref=f9e274]:
+      - button "Docente anterior" [ref=f9e275] [cursor=pointer]
+      - generic [ref=f9e278]:
+        - article [ref=f9e279] [cursor=pointer]:
+          - img "Juan de Dios Páramo" [ref=f9e280]
+          - generic [ref=f9e281]:
+            - generic [ref=f9e282]:
+              - generic [ref=f9e283]: MÉXICO
+              - paragraph [ref=f9e284]: Mg. Juan de Dios Páramo
+              - paragraph [ref=f9e285]: Geografía estratégica electoral
+            - paragraph [ref=f9e287]: Doctor en Geografía Económica y Maestro en Geografía (Sociedad y Territorio) por la UNAM. Consultor político y catedrático internacional, referente en geografía estratégica aplicada a la política. Experto en modelos de análisis espacial y sistemas de soporte para la toma de decisiones, especializado en despliegue territorial, focalización demográfica y estrategia operativa en campañas.
+        - article [ref=f9e288] [cursor=pointer]:
+          - img "Roberto Bazán" [ref=f9e289]
+          - generic [ref=f9e290]:
+            - generic [ref=f9e291]:
+              - generic [ref=f9e292]: PERÚ
+              - paragraph [ref=f9e293]: Mg. Roberto Bazán
+              - paragraph [ref=f9e294]: Director Académico – Inteligencia Estratégica | CEO de GOBERNA
+            - paragraph [ref=f9e296]: Magíster en Inteligencia Estratégica (CAEN), abogado (Universidad de Lima) y politólogo (UNMSM). Estratega político senior con amplia experiencia internacional asesorando a gobiernos, autoridades parlamentarias y líderes regionales de América Latina. Especialista en inteligencia y operaciones psicológicas aplicadas a campañas y gestión pública. Autor de obras de referencia en estrategia política.
+        - article [ref=f9e297] [cursor=pointer]:
+          - img "Eduardo Velandia" [ref=f9e298]
+          - generic [ref=f9e299]:
+            - generic [ref=f9e300]:
+              - generic [ref=f9e301]: COLOMBIA
+              - paragraph [ref=f9e302]: Mg. Eduardo Velandia
+              - paragraph [ref=f9e303]: Inteligencia y ciberseguridad
+            - paragraph [ref=f9e305]: Magíster en Ciberseguridad y profesional en Ciencias Militares. Teniente Coronel (r) de Inteligencia del Ejército de Colombia, con más de 24 años liderando equipos en escenarios de alta complejidad —destacando su participación en la Operación Jaque (2008)— y servicio en la Presidencia de la República. Conferencista internacional convocado por entidades como la CIA, el Ministerio de Defensa de España y la DIRANDRO.
+        - article [ref=f9e306] [cursor=pointer]:
+          - img "Herbert Dávila Ramírez" [ref=f9e307]
+          - generic [ref=f9e308]:
+            - generic [ref=f9e309]:
+              - generic [ref=f9e310]: PERÚ
+              - paragraph [ref=f9e311]: Mg. Herbert Dávila Ramírez
+              - paragraph [ref=f9e312]: Inteligencia estratégica, seguridad y defensa
+            - paragraph [ref=f9e314]: General de Brigada EP (r), Magíster en Gestión Pública por ESAN y Magíster en Gestión Empresarial. Especialista en inteligencia estratégica, seguridad, defensa y gestión pública, con experiencia en el Servicio de Inteligencia Nacional, el Servicio de Inteligencia del Ejército y como Agregado de Defensa y Militar del Perú en Brasil.
+      - button "Docente siguiente" [disabled]
+    - generic [ref=f9e315]:
+      - button "Ver docente 1" [ref=f9e316] [cursor=pointer]
+      - button "Ver docente 2" [ref=f9e317] [cursor=pointer]
+      - button "Ver docente 3" [ref=f9e318] [cursor=pointer]
+      - button "Ver docente 4" [ref=f9e319] [cursor=pointer]
+  - generic [ref=f9e321]:
+    - heading "Programa académico" [level=2] [ref=f9e322]
+    - generic [ref=f9e323]:
+      - generic [ref=f9e324]:
+        - button "MÓDULO 1 Fundamentos de la consultoría política y el political management Political Management y Estrategia Electoral −" [ref=f9e325] [cursor=pointer]:
+          - generic [ref=f9e326]:
+            - generic [ref=f9e327]: MÓDULO 1
+            - generic [ref=f9e328]: Fundamentos de la consultoría política y el political management
+            - generic [ref=f9e329]: Political Management y Estrategia Electoral
+          - generic [ref=f9e330]: −
+        - paragraph [ref=f9e332]: Iniciarás la simulación desde el primer día. Conformarás tu comando internacional, recibirás un candidato presidencial real y definirás el escenario competitivo que enfrentarás durante todo el diploma. El módulo introduce el campo profesional de la consultoría política, el rol del consultor, las funciones del estratega, la lógica del political management y el modelo de Máquina Electoral GOBERNA. Comprenderás los tres frentes de campaña (oficial, alternativo e indirecto) y cómo estos articulan territorio, comunicación, datos, liderazgo, crisis y movilización. Al finalizar, tu comando tendrá una candidatura definida, roles asignados y una primera lectura estratégica de la competencia.
+      - generic [ref=f9e333]:
+        - button "MÓDULO 2 Consultoría política con inteligencia artificial aplicada Herramientas, análisis y automatización estratégica +" [ref=f9e334] [cursor=pointer]:
+          - generic [ref=f9e335]:
+            - generic [ref=f9e336]: MÓDULO 2
+            - generic [ref=f9e337]: Consultoría política con inteligencia artificial aplicada
+            - generic [ref=f9e338]: Herramientas, análisis y automatización estratégica
+          - generic [ref=f9e339]: +
+        - paragraph [ref=f9e341]: Montarás el arsenal tecnológico de tu campaña. Aprenderás a utilizar herramientas de inteligencia artificial como ChatGPT, Claude y Gemini con criterio profesional, evitando improvisaciones, datos no verificables o diagnósticos superficiales. Diseñarás prompts maestros GOBERNA para analizar escenarios, perfilar votantes, segmentar audiencias, construir mensajes, leer territorios y acelerar la toma de decisiones. También configurarás dashboards de operación para organizar información, monitorear avances y apoyar el trabajo del comando. El módulo introduce el enfoque de Expanding Targets, orientado a identificar, ampliar y activar audiencias estratégicas para la campaña.
+      - generic [ref=f9e342]:
+        - button "MÓDULO 3 Cartografía electoral, estrategia de territorio y grassroots Organización, movilización y grassroots campaigns +" [ref=f9e343] [cursor=pointer]:
+          - generic [ref=f9e344]:
+            - generic [ref=f9e345]: MÓDULO 3
+            - generic [ref=f9e346]: Cartografía electoral, estrategia de territorio y grassroots
+            - generic [ref=f9e347]: Organización, movilización y grassroots campaigns
+          - generic [ref=f9e348]: +
+        - paragraph [ref=f9e350]: "Elaborarás el mapa estratégico de tu campaña. Aprenderás a leer el territorio, identificar zonas de oportunidad, analizar comportamiento electoral, ubicar segmentos prioritarios y calcular el vote goal: cuántos votos necesitas, dónde están y cómo alcanzarlos. Trabajarás con el barómetro territorial GOBERNA para clasificar zonas fuertes, débiles, competitivas y adversas. A partir de ello, diseñarás una estructura de tierra basada en líderes locales, promotores, voluntarios, redes comunitarias y equipos de movilización. El módulo conecta cartografía, territorio y grassroots para que la campaña no dependa solo del discurso, sino de una operación organizada donde realmente se disputa el voto."
+      - generic [ref=f9e351]:
+        - button "MÓDULO 4 Inteligencia estratégica y táctica aplicada a campañas electorales y gobierno Análisis, información y ventaja competitiva en campaña y gobierno +" [ref=f9e352] [cursor=pointer]:
+          - generic [ref=f9e353]:
+            - generic [ref=f9e354]: MÓDULO 4
+            - generic [ref=f9e355]: Inteligencia estratégica y táctica aplicada a campañas electorales y gobierno
+            - generic [ref=f9e356]: Análisis, información y ventaja competitiva en campaña y gobierno
+          - generic [ref=f9e357]: +
+        - paragraph [ref=f9e359]: Aprenderás a observar la campaña como un escenario de inteligencia. Construirás un dossier de adversarios con información abierta, verificable y estratégicamente útil, aplicando criterios de OSINT y SOCMINT sin vulnerar límites legales ni éticos. Mapearás actores políticos, aliados, adversarios, grupos de presión, medios, influenciadores, riesgos y oportunidades. También desarrollarás una autoauditoría de vulnerabilidades para identificar los puntos débiles de tu propia candidatura antes de que sean explotados por la competencia.
+      - generic [ref=f9e360]:
+        - 'button "MÓDULO 5 War Room: dirección estratégica, finanzas y fundraising War Room, financiamiento y fundraising político +" [ref=f9e361] [cursor=pointer]':
+          - generic [ref=f9e362]:
+            - generic [ref=f9e363]: MÓDULO 5
+            - generic [ref=f9e364]: "War Room: dirección estratégica, finanzas y fundraising"
+            - generic [ref=f9e365]: War Room, financiamiento y fundraising político
+          - generic [ref=f9e366]: +
+        - paragraph [ref=f9e368]: Construirás y dirigirás el centro de comando de tu campaña. Aprenderás a definir roles, flujos de decisión, protocolos de coordinación, prioridades estratégicas y mecanismos de respuesta rápida. El módulo aborda la estructura del war room, el protocolo 30/60/90 para crisis, la administración del tiempo, el presupuesto electoral, la distribución de recursos entre frentes de campaña y el diseño de una estrategia de fundraising dentro de marcos legales y criterios de rendición de cuentas.
+      - generic [ref=f9e369]:
+        - button "MÓDULO 6 Operaciones psicológicas, campañas negras y defensa ante la desinformación Operaciones psicológicas, desinformación y estrategia narrativa +" [ref=f9e370] [cursor=pointer]:
+          - generic [ref=f9e371]:
+            - generic [ref=f9e372]: MÓDULO 6
+            - generic [ref=f9e373]: Operaciones psicológicas, campañas negras y defensa ante la desinformación
+            - generic [ref=f9e374]: Operaciones psicológicas, desinformación y estrategia narrativa
+          - generic [ref=f9e375]: +
+        - paragraph [ref=f9e377]: Analizarás cómo se disputa la percepción pública en campañas de alta competencia. El módulo estudia operaciones psicológicas, campaña negativa, guerra cognitiva, rumores, desinformación, deepfakes, narrativas de demolición, inoculación comunicacional y contranarrativa. El enfoque es estratégico, ético y aplicado a la simulación electoral. Comprenderás cómo operan, cómo se detectan, cómo se neutralizan y cómo se construyen respuestas eficaces sin destruir la credibilidad del candidato.
+      - generic [ref=f9e378]:
+        - button "MÓDULO 7 Lawfare y análisis político Lawfare, escenarios jurídicos y estrategia electoral +" [ref=f9e379] [cursor=pointer]:
+          - generic [ref=f9e380]:
+            - generic [ref=f9e381]: MÓDULO 7
+            - generic [ref=f9e382]: Lawfare y análisis político
+            - generic [ref=f9e383]: Lawfare, escenarios jurídicos y estrategia electoral
+          - generic [ref=f9e384]: +
+        - paragraph [ref=f9e386]: Aprenderás a analizar el uso estratégico del derecho en la competencia política. El módulo estudia el lawfare, la judicialización de la política, la politización de la justicia, los riesgos normativos de campaña, las denuncias electorales, los procesos de inhabilitación, la exposición legal del candidato y los efectos mediáticos de una controversia jurídica. Construirás un mapa de riesgos político-jurídicos de la campaña y un protocolo de respuesta integrado al war room.
+      - generic [ref=f9e387]:
+        - button "MÓDULO 8 Activismo político Organización ciudadana, redes y construcción territorial +" [ref=f9e388] [cursor=pointer]:
+          - generic [ref=f9e389]:
+            - generic [ref=f9e390]: MÓDULO 8
+            - generic [ref=f9e391]: Activismo político
+            - generic [ref=f9e392]: Organización ciudadana, redes y construcción territorial
+          - generic [ref=f9e393]: +
+        - paragraph [ref=f9e395]: "Pondrás a la ciudadanía en movimiento. Aprenderás a diseñar estrategias de activismo político, construir comunidades digitales, organizar voluntarios, activar causas, generar identificación simbólica y convertir simpatizantes en movilizadores reales. El módulo trabaja el frente indirecto de la campaña: aquel que amplifica el mensaje más allá de la estructura formal del candidato. Se analizarán tribus digitales, ciberactivismo, conversión de simpatizantes, movilización territorial, acciones comunitarias y límites frente al astroturfing o activismo artificial."
+      - generic [ref=f9e396]:
+        - button "MÓDULO 9 Liderazgo político heroico y estoico Carácter, comunicación y conducción bajo presión +" [ref=f9e397] [cursor=pointer]:
+          - generic [ref=f9e398]:
+            - generic [ref=f9e399]: MÓDULO 9
+            - generic [ref=f9e400]: Liderazgo político heroico y estoico
+            - generic [ref=f9e401]: Carácter, comunicación y conducción bajo presión
+          - generic [ref=f9e402]: +
+        - paragraph [ref=f9e404]: "Entrenarás al candidato para sostener su liderazgo frente a públicos, medios, rivales y crisis. El módulo trabaja dos dimensiones centrales: el liderazgo heroico, asociado a visión, carisma, propósito y capacidad de inspirar; y el liderazgo estoico, vinculado al temple, autocontrol, carácter y respuesta bajo presión. Practicarás técnicas de oratoria, storytelling, comunicación no verbal, manejo de voz, presencia escénica, debate, vocería y respuesta ante interrupciones hostiles."
+      - generic [ref=f9e405]:
+        - 'button "MÓDULO 10 Capstone: Proyecto Integral de Campaña Electoral Diseño y ejecución de una estrategia electoral +" [ref=f9e406] [cursor=pointer]':
+          - generic [ref=f9e407]:
+            - generic [ref=f9e408]: MÓDULO 10
+            - generic [ref=f9e409]: "Capstone: Proyecto Integral de Campaña Electoral"
+            - generic [ref=f9e410]: Diseño y ejecución de una estrategia electoral
+          - generic [ref=f9e411]: +
+        - paragraph [ref=f9e413]: "Integrarás todo lo construido en una sola Máquina Electoral: estrategia, territorio, inteligencia, war room, comunicación, activismo, defensa narrativa, liderazgo, análisis jurídico-político y dirección de campaña. Cada comando presentará su campaña completa ante un jurado internacional de consultores políticos en ejercicio. La sustentación incluirá defensa estratégica, revisión de productos, análisis de decisiones, evaluación del desempeño del comando y respuesta ante un escenario crítico final en vivo."
+  - generic [ref=f9e416]:
+    - generic [ref=f9e417]:
+      - generic [ref=f9e418]:
+        - paragraph [ref=f9e419]: // LA EXPERIENCIA
+        - heading "Vivirás una experiencia inmersiva..." [level=2] [ref=f9e420]
+        - paragraph [ref=f9e421]:
+          - text: Donde cada participante
+          - strong [ref=f9e422]: aprende a actuar como un consultor político profesional
+          - text: y no solo a estudiar teoría política.
+      - list [ref=f9e423]:
+        - listitem [ref=f9e424]:
+          - generic [ref=f9e426]:
+            - strong [ref=f9e427]: 100%
+            - text: Práctico
+        - listitem [ref=f9e428]:
+          - generic [ref=f9e430]:
+            - strong [ref=f9e431]: Decisiones
+            - text: En tiempo real
+        - listitem [ref=f9e432]:
+          - generic [ref=f9e434]:
+            - strong [ref=f9e435]: Estrategia
+            - text: Aplicada
+      - figure [ref=f9e436]:
+        - img "War Room — centro de operaciones de campaña de GOBERNA" [ref=f9e437]
+        - generic [ref=f9e444]:
+          - strong [ref=f9e445]: En vivo · War Room
+          - generic [ref=f9e446]: Participa, decide y lidera
+    - generic [ref=f9e447]:
+      - heading "Desarrollarás" [level=3] [ref=f9e452]
+      - list [ref=f9e453]:
+        - listitem [ref=f9e454]:
+          - generic [ref=f9e456]: Diagnóstico político
+        - listitem [ref=f9e458]:
+          - generic [ref=f9e460]: Cartografía electoral
+        - listitem [ref=f9e462]:
+          - generic [ref=f9e464]: Estrategia territorial
+        - listitem [ref=f9e466]:
+          - generic [ref=f9e468]: Dossier de inteligencia
+        - listitem [ref=f9e470]:
+          - generic [ref=f9e472]: War Room
+        - listitem [ref=f9e474]:
+          - generic [ref=f9e476]: Plan digital
+        - listitem [ref=f9e478]:
+          - generic [ref=f9e480]: Narrativa del candidato
+        - listitem [ref=f9e482]:
+          - generic [ref=f9e484]: Gestión de crisis
+        - listitem [ref=f9e486]:
+          - generic [ref=f9e488]: Plan estratégico de campaña
+      - paragraph [ref=f9e490]:
+        - generic [ref=f9e492]:
+          - text: Desarrollarás, paso a paso, un
+          - strong [ref=f9e493]: Plan Estratégico de Campaña
+          - text: ": desde el diagnóstico hasta la gestión de crisis."
+  - generic [ref=f9e495]:
+    - generic [ref=f9e496]:
+      - heading "TODO LO QUE NECESITAS SABER, EN MINUTOS" [level=2] [ref=f9e497]: TODO LO QUE NECESITAS SABER,EN MINUTOS
+      - paragraph [ref=f9e498]: Comprende la visión, el método y el valor estratégico de una formación diseñada para quienes aspiran a dirigir campañas, interpretar escenarios políticos, anticipar riesgos, construir mensajes de alto impacto y tomar decisiones con ventaja en contextos de poder.
+      - link "Conoce más" [ref=f9e499] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f9e501]:
+      - img "Liderazgo y comunicación política" [ref=f9e502]
+      - img "Estrategia política" [ref=f9e503]
+      - img "Inteligencia y panorama global" [ref=f9e504]
+  - generic [ref=f9e506]:
+    - generic [ref=f9e507]: //CERTIFICACIÓN INTERNACIONAL
+    - generic [ref=f9e508]:
+      - generic [ref=f9e509]:
+        - generic [ref=f9e510]:
+          - img "Diploma — folder cerrado" [ref=f9e511]
+          - img "Diploma — folder abierto" [ref=f9e512]
+          - img "Diploma Internacional del Consultor Político" [ref=f9e513]
+        - button "Abrir el diploma" [ref=f9e514] [cursor=pointer]
+        - generic [aria-hidden]: Pasa el cursor para abrir
+        - button "Ver el diploma en tamaño completo": Ampliar
+        - button "Volver al folder cerrado"
+      - generic [ref=f9e515]:
+        - heading [level=2] [ref=f9e516]:
+          - text: UNA CERTIFICACIÓN QUE RESPALDA TU
+          - strong [ref=f9e517]: PERFIL PROFESIONAL
+        - paragraph [ref=f9e518]: Diploma con verificación digital y respaldo institucional, diseñado para acreditar tus competencias en consultoría política, estrategia y dirección de campañas en entornos nacionales e internacionales.
+        - generic [ref=f9e519]:
+          - generic [ref=f9e522]:
+            - paragraph [ref=f9e523]: CERTIFICACIÓN INTERNACIONAL
+            - paragraph [ref=f9e524]: Diploma emitido por Grupo Goberna con respaldo académico e institucional.
+          - generic [ref=f9e527]:
+            - paragraph [ref=f9e528]: VERIFICACIÓN DIGITAL
+            - paragraph [ref=f9e529]: Credencial con código QR y registro blockchain para garantizar su autenticidad y trazabilidad.
+  - generic [ref=f9e531]:
+    - heading "Da el siguiente paso en tu formación estratégica" [level=2] [ref=f9e532]: Da el siguiente paso entu formación estratégica
+    - paragraph [ref=f9e533]: Accede a un programa diseñado para quienes buscan comprender, diseñar y dirigir estrategias políticas en escenarios reales de gobierno y campañas electorales.
+    - generic [ref=f9e534]:
+      - generic [ref=f9e535]:
+        - generic [ref=f9e536]: //INVERSIÓN
+        - paragraph [ref=f9e537]:
+          - generic [ref=f9e538]: USD
+          - generic [ref=f9e539]: $199
+        - list [ref=f9e540]:
+          - listitem [ref=f9e541]: "Inicio: 31 de agosto"
+          - listitem [ref=f9e542]: "Modalidad: Virtual"
+          - listitem [ref=f9e543]: "Duración: 4 semanas"
+          - listitem [ref=f9e544]: "Cupos: Limitados"
+      - generic [ref=f9e545]:
+        - heading "Diploma Internacional del Consultor Político" [level=3] [ref=f9e546]
+        - paragraph [ref=f9e547]:
+          - text: "Inicio:"
+          - strong [ref=f9e548]: 31 de Agosto
+        - paragraph [ref=f9e549]: COSTO USD $199
+        - paragraph [ref=f9e550]: INICIAMOS EN
+        - generic [ref=f9e551]:
+          - generic [ref=f9e552]:
+            - generic [ref=f9e553]: "00"
+            - generic [ref=f9e554]: DÍAS
+          - generic [ref=f9e555]:
+            - generic [ref=f9e556]: "00"
+            - generic [ref=f9e557]: HRS
+          - generic [ref=f9e558]:
+            - generic [ref=f9e559]: "00"
+            - generic [ref=f9e560]: MIN
+          - generic [ref=f9e561]:
+            - generic [ref=f9e562]: "00"
+            - generic [ref=f9e563]: SEG
+        - link "PAGAR AHORA" [ref=f9e564] [cursor=pointer]:
+          - /url: https://grupogoberna.com/checkout/?add-to-cart=298
+        - paragraph [ref=f9e565]:
+          - text: Cupos
+          - strong [ref=f9e566]: limitados
+  - generic [ref=f9e570]:
+    - heading "Preguntas Frecuentes" [level=2] [ref=f9e571]
+    - generic [ref=f9e572]:
+      - generic [ref=f9e573]:
+        - button "¿Cómo se realizan las clases? +" [ref=f9e574] [cursor=pointer]:
+          - text: ¿Cómo se realizan las clases?
+          - generic [ref=f9e575]: +
+        - paragraph [ref=f9e576]: Las clases son 100% virtuales y en vivo a través de Zoom, de 19:00 a 21:00 hrs (UTC-5:00). Cada sesión combina teoría y práctica con análisis de casos reales.
+      - generic [ref=f9e577]:
+        - button "¿Qué pasa si pierdo una clase? +" [ref=f9e578] [cursor=pointer]:
+          - text: ¿Qué pasa si pierdo una clase?
+          - generic [ref=f9e579]: +
+        - paragraph [ref=f9e580]: Todas las sesiones quedan grabadas y disponibles en el campus virtual, para que puedas revisarlas cuando lo necesites sin perder contenido.
+      - generic [ref=f9e581]:
+        - button "¿Cuándo accedo al campus virtual? +" [ref=f9e582] [cursor=pointer]:
+          - text: ¿Cuándo accedo al campus virtual?
+          - generic [ref=f9e583]: +
+        - paragraph [ref=f9e584]: Recibirás tus accesos apenas se confirme tu inscripción, junto con el material y el cronograma del programa.
+      - generic [ref=f9e585]:
+        - button "¿Qué incluye el diploma? +" [ref=f9e586] [cursor=pointer]:
+          - text: ¿Qué incluye el diploma?
+          - generic [ref=f9e587]: +
+        - paragraph [ref=f9e588]: Acceso al programa, materiales especializados, acompañamiento académico, campus virtual y la certificación internacional al completar los requisitos.
+      - generic [ref=f9e589]:
+        - button "¿Qué validez tiene el certificado? +" [ref=f9e590] [cursor=pointer]:
+          - text: ¿Qué validez tiene el certificado?
+          - generic [ref=f9e591]: +
+        - paragraph [ref=f9e592]: El diploma es emitido por Grupo Goberna con respaldo institucional, e incluye verificación digital con código QR y registro blockchain.
+      - generic [ref=f9e593]:
+        - button "¿Necesito experiencia previa? +" [ref=f9e594] [cursor=pointer]:
+          - text: ¿Necesito experiencia previa?
+          - generic [ref=f9e595]: +
+        - paragraph [ref=f9e596]: No es indispensable. El programa avanza desde los fundamentos hasta la aplicación práctica, acompañándote en cada etapa.
+      - generic [ref=f9e597]:
+        - button "¿Cuáles son los medios de pago disponibles? +" [ref=f9e598] [cursor=pointer]:
+          - text: ¿Cuáles son los medios de pago disponibles?
+          - generic [ref=f9e599]: +
+        - paragraph [ref=f9e600]: Aceptamos tarjetas de crédito y débito, transferencias y pagos internacionales. Escríbenos para coordinar la mejor opción según tu país.
+  - contentinfo [ref=f9e601]:
+    - generic [ref=f9e602]:
+      - generic [ref=f9e603]:
+        - link "GOBERNA GOBERNA" [ref=f9e604] [cursor=pointer]:
+          - /url: "#hero"
+          - img "GOBERNA" [ref=f9e605]
+          - generic [ref=f9e606]: GOBERNA
+        - paragraph [ref=f9e607]: Grupo Goberna · Diploma Internacional del Consultor Político
+      - generic [ref=f9e608]:
+        - paragraph [ref=f9e609]: Enlaces rápidos
+        - link "INICIO" [ref=f9e610] [cursor=pointer]:
+          - /url: "#hero"
+        - link "PROGRAMA" [ref=f9e611] [cursor=pointer]:
+          - /url: "#programa"
+        - link "DOCENTES" [ref=f9e612] [cursor=pointer]:
+          - /url: "#docentes"
+        - link "CERTIFICACIÓN" [ref=f9e613] [cursor=pointer]:
+          - /url: "#certificacion"
+      - generic [ref=f9e614]:
+        - paragraph [ref=f9e615]: Contacto
+        - link "Escríbenos por WhatsApp" [ref=f9e616] [cursor=pointer]:
+          - /url: https://wa.me/51944531711?text=Hola%20Goberna%2C%20quiero%20m%C3%A1s%20informaci%C3%B3n%20del%20Diploma%20Internacional%20del%20Consultor%20Pol%C3%ADtico
+    - paragraph [ref=f9e619]: © 2026 Goberna Analytics S.A.C. Todos los derechos reservados.
