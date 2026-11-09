@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1080" height="659" viewBox="0 0 1080 659" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Enmascarar grupo 107" clip-path="url(#clip0_0_4)">
+<path id="Vector" d="M540 659C838.234 659 1080 511.478 1080 329.5C1080 147.522 838.234 0 540 0C241.766 0 0 147.522 0 329.5C0 511.478 241.766 659 540 659Z" fill="url(#paint0_radial_0_4)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_0_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(540 329.5) scale(540 329.5)">
+<stop stop-color="#FEB100"/>
+<stop offset="1" stop-color="#FEB100" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_0_4">
+<rect width="1080" height="659" fill="white"/>
+</clipPath>
+</defs>
+</svg>
