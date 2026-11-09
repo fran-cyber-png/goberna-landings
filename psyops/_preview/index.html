@@ -1,0 +1,141 @@
+<title>Landing PSYOPS</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Barra de revisión arriba; la landing, escalada a su tamaño real de pantalla, debajo */
+:root{
+  --bg:#E8ECE8; --chrome:#0E160F; --chrome-fg:#EEF4EE; --muted:#7F8C7F; --accent:#359742; --accent-fg:#FFFFFF; --line:rgba(255,255,255,.14);
+  --panel:#FFFFFF; --panel-fg:#0F140F; --panel-muted:#5E6A5E;
+  --ui:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0B120B;--panel:#162016;--panel-fg:#E9F0E9;--panel-muted:#9AA79A;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0B120B;--panel:#162016;--panel-fg:#E9F0E9;--panel-muted:#9AA79A;color-scheme:dark}
+html,body{height:100%}
+body{margin:0;background:var(--bg);font:14px/1.4 var(--ui);color:var(--panel-fg);display:flex;flex-direction:column}
+.bar{background:var(--chrome);color:var(--chrome-fg);display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;
+  padding-block:10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.name{font-weight:600;letter-spacing:.02em;white-space:nowrap}
+.name small{display:block;font-weight:400;color:var(--muted);font-size:12px;letter-spacing:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{all:unset;cursor:pointer;padding:7px 12px;font-size:13px;color:var(--chrome-fg);white-space:nowrap}
+.seg button small{color:var(--muted);margin-left:6px;font-variant-numeric:tabular-nums}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-fg)}
+.seg button[aria-pressed="true"] small{color:var(--accent-fg)}
+.seg button:focus-visible,.chk:focus-within,.pend:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chk{display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:13px;white-space:nowrap}
+.chk input{accent-color:var(--accent);width:16px;height:16px;margin:0}
+.pends{display:flex;gap:8px;margin-left:auto;flex-wrap:wrap}
+.pend{all:unset;cursor:pointer;font-size:13px;padding:7px 12px;border-radius:8px;border:1px solid var(--accent);color:var(--accent);white-space:nowrap}
+.pend[aria-expanded="true"]{background:var(--accent);color:var(--accent-fg)}
+.stage{flex:1;min-height:0;position:relative;overflow:hidden}
+.frame{position:absolute;top:16px;left:50%;transform-origin:top center;box-shadow:0 10px 40px rgba(0,0,0,.25);background:#fff}
+.frame iframe{display:block;border:0;width:100%;height:100%}
+.list{position:absolute;right:max(16px,env(safe-area-inset-right,0px));top:12px;width:min(440px,calc(100% - 32px));max-height:calc(100% - 24px);overflow:auto;
+  background:var(--panel);color:var(--panel-fg);border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,.3);padding:18px 20px;z-index:5;box-sizing:border-box}
+.list h2{margin:0 0 4px;font-size:15px}
+.list p{margin:0 0 12px;color:var(--panel-muted);font-size:12.5px}
+.list ol{margin:0;padding-left:18px;display:grid;gap:9px;font-size:13px}
+.list b{font-weight:600}
+.list li small{display:block;color:var(--panel-muted);font-size:12px;margin-top:2px}
+.list code{font-size:12px;overflow-wrap:anywhere}
+@media (max-width:640px){.pends{margin-left:0}}
+</style>
+
+<div class="bar">
+  <div class="name">PSYOPS<small>Vista previa de la plantilla de Elementor</small></div>
+  <div class="seg" role="group" aria-label="Dispositivo">
+    <button type="button" data-w="1920" data-h="1080" aria-pressed="true">Desktop<small>1920</small></button>
+    <button type="button" data-w="1366" data-h="768" aria-pressed="false">Laptop<small>1366</small></button>
+    <button type="button" data-w="1024" data-h="900" aria-pressed="false">Tablet<small>1024</small></button>
+    <button type="button" data-w="375" data-h="812" aria-pressed="false">Mobile<small>375</small></button>
+  </div>
+  <label class="chk"><input type="checkbox" id="widgets"> Ver widgets</label>
+  <div class="pends">
+    <button type="button" class="pend" id="chgBtn" aria-expanded="true">Qué se hizo</button>
+    <button type="button" class="pend" id="pendBtn" aria-expanded="false">Pendientes (5)</button>
+  </div>
+</div>
+
+<div class="stage" id="stage">
+  <div class="frame" id="frame"><iframe id="ifr" src="landing.html" title="Landing PSYOPS"></iframe></div>
+  <div class="list" id="chg">
+    <h2>Qué se hizo</h2>
+    <p>Base: el JSON final de OSINT &amp; SOCMINT (misma estructura, clases <code>ak-…</code>, CSS y módulos con scroll fijo). Diseño: Figma «PSYOPS – v1» (13:17). Textos: PDF «CONTENIDO LANDINGS (10)».</p>
+    <ol>
+      <li><b>Paleta del Figma PSYOPS:</b> verde #359742 y oscuro #0E160F en toda la página; los botones verdes llevan el texto en blanco, como en el diseño.</li>
+      <li><b>Imágenes del Figma:</b> fondo y título del hero (PSYOPS), fondo de Metodología de aprendizaje (desktop y un recorte para mobile), banner de próxima edición, fondos de Docentes, Presencia e Inversión, y el certificado de PSYOPS.</li>
+      <li><b>Hero:</b> el título nuevo es más alto (749×340 frente a 749×149); el relleno superior e inferior se ajustó para que el hero mida lo mismo (879 px) y el título quede en su sitio.</li>
+      <li><b>Íconos en verde PSYOPS:</b> barra de datos, las 3 cajas del plan (con el glifo en blanco, como en el Figma) y la medalla de Certificación.</li>
+      <li><b>Barra de datos e Inversión:</b> 08 de diciembre · 19:00 h (GMT-5) · 8 módulos · US$ 199.</li>
+      <li><b>Plan de estudios con 8 módulos y 120 horas</b>, con los títulos y textos literales del PDF. El scroll fijo se mantiene.</li>
+      <li><b>Docentes:</b> 7 tarjetas en el orden del PDF: Bazán, Peñaranda, Galván, De la Torre, Velandia, Cocho y Quiroga, con el cargo del PDF y «Ver trayectoria» a su CV. Bazán lleva el logo de Goberna en lugar de bandera y país, como en las otras landings.<small>La foto de Peñaranda es la tarjeta nueva del Figma; las demás son las que ya están en la Biblioteca (comparadas con la foto de perfil de cada uno). La tarjeta de Quiroga es una copia de la de Cocho con los textos de Quiroga: su foto y su enlace los pones a mano.</small></li>
+      <li><b>Textos:</b> lo que se ve en el Figma manda; lo que no se ve (pestañas 2 y 3, módulos, respuestas, docentes 4 a 6) va literal del PDF.</li>
+      <li><b>Brochure:</b> los dos botones de descarga abren <code>cms.goberna.club/d/brochure_psyops.pdf</code> en una pestaña nueva. «Inscríbete ahora» del header lleva a Inversión (el ancla de la base no existía).</li>
+      <li><b>WhatsApp:</b> los 3 botones «Hablar con un asesor» llevan al +51 983 469 091 con el mensaje del Diploma Internacional en PSYOPS.</li>
+      <li><b>Revisado</b> a 1920, 1366, 1024 y 375.</li>
+    </ol>
+  </div>
+  <div class="list" id="list" hidden>
+    <h2>Pendientes</h2>
+    <p>Lo que falta antes de publicar.</p>
+    <ol>
+      <li><b>Tarjeta de Mauricio Quiroga:</b> cambiar la foto (hoy es la de Cocho) y el enlace de «Ver trayectoria» (hoy «#»).</li>
+      <li><b>«Pagar ahora»:</b> queda en «#»; lo configuras a mano en WordPress.</li>
+      <li><b>Video de Metodología:</b> va la portada del Figma como imagen. Si hay spot de PSYOPS en cms.goberna.club, lo pongo.</li>
+      <li><b>Imágenes para subir a la Biblioteca (2026/11):</b> hero-fondo-, titulo-, metodologia-video-, war-room-fondo-, war-room-fondo-movil-, banner-proxima-edicion-, fondo-docentes-, fondo-presencia-, inversion-fondo-, certificado- y card-andres-penaranda-psyops.webp (todas &lt; 500 KB).</li>
+      <li><b>SVG para subir (2026/11):</b> barra-modalidad-, barra-inicio-, barra-horario-, barra-duracion-, plan-modulos-, plan-semanas-, plan-metodologia- y certificacion-medalla-psyops.svg. Cuando los subas, pongo sus ids en el JSON.</li>
+    </ol>
+  </div>
+</div>
+
+<script>
+(function(){
+  var stage=document.getElementById('stage'), frame=document.getElementById('frame'), ifr=document.getElementById('ifr');
+  var btns=[].slice.call(document.querySelectorAll('.seg button')), dev={w:1920,h:1080};
+  function fit(){
+    var aw=stage.clientWidth-32, ah=stage.clientHeight-32;
+    var s=Math.min(1, aw/dev.w, ah/dev.h);
+    frame.style.width=dev.w+'px'; frame.style.height=dev.h+'px';
+    frame.style.transform='translateX(-50%) scale('+s+')';
+  }
+  btns.forEach(function(b){ b.addEventListener('click',function(){
+    btns.forEach(function(x){ x.setAttribute('aria-pressed', x===b?'true':'false'); });
+    dev={w:+b.dataset.w,h:+b.dataset.h}; fit();
+    try{ localStorage.setItem('psy-dev', b.dataset.w); }catch(e){}
+  }); });
+  window.addEventListener('resize',fit);
+  try{ var saved=localStorage.getItem('psy-dev'); var sb=btns.filter(function(b){return b.dataset.w===saved;})[0]; if(sb) sb.click(); }catch(e){}
+  fit();
+
+  // Ver widgets: contorno y etiqueta con el widget de Elementor y sus clases ak-
+  var CSS='.dsw-on .elementor-widget{outline:1px dashed rgba(53,151,66,.9);outline-offset:-1px;position:relative}'+
+    '.dsw-on .e-con.e-parent{outline:2px solid rgba(0,140,255,.55);outline-offset:-2px}'+
+    '.dsw-tag{display:none}.dsw-on .dsw-tag{display:block;position:absolute;left:0;top:0;z-index:9999;font:500 10px/1.3 Inter,Arial,sans-serif;'+
+    'background:#0E160F;color:#7CDB89;padding:1px 5px;pointer-events:none;white-space:nowrap;letter-spacing:0;text-transform:none;-webkit-text-fill-color:#7CDB89}'+
+    '.dsw-on .e-con.e-parent>.dsw-tag{background:#0A6BD6;color:#fff;-webkit-text-fill-color:#fff}';
+  function tag(doc){
+    if(doc.getElementById('dsw-style')) return;
+    var st=doc.createElement('style'); st.id='dsw-style'; st.textContent=CSS; doc.head.appendChild(st);
+    var NAMES={'heading':'Encabezado','text-editor':'Editor de texto','image':'Imagen','button':'Botón','icon':'Ícono','html':'HTML',
+      'nested-tabs':'Pestañas anidadas','nested-accordion':'Acordeón anidado','n-carousel':'Carrusel anidado','form':'Formulario',
+      'divider':'Divisor','nav-menu':'Menú','image-box':'Caja de imagen','icon-list':'Lista de íconos','social-icons':'Íconos sociales'};
+    [].forEach.call(doc.querySelectorAll('[data-widget_type], .e-con.e-parent'),function(el){
+      var t=(el.getAttribute('data-widget_type')||'').split('.')[0];
+      var cls=[].filter.call(el.classList,function(c){return /^ak-/.test(c);}).join(' ');
+      var lab=doc.createElement('span'); lab.className='dsw-tag';
+      lab.textContent=(t?(NAMES[t]||t):'Contenedor')+(cls?' · '+cls:'');
+      el.insertBefore(lab, el.firstChild);
+    });
+  }
+  var chk=document.getElementById('widgets');
+  function apply(){ try{ var d=ifr.contentDocument; if(!d||!d.body) return; tag(d); d.documentElement.classList.toggle('dsw-on',chk.checked); }catch(e){} }
+  chk.addEventListener('change',apply); ifr.addEventListener('load',apply);
+
+  var panels=[[document.getElementById('chgBtn'),document.getElementById('chg')],[document.getElementById('pendBtn'),document.getElementById('list')]];
+  panels.forEach(function(pr){ pr[0].addEventListener('click',function(){
+    var show=pr[1].hidden;
+    panels.forEach(function(o){ o[1].hidden=true; o[0].setAttribute('aria-expanded','false'); });
+    if(show){ pr[1].hidden=false; pr[0].setAttribute('aria-expanded','true'); }
+  }); });
+})();
+</script>
